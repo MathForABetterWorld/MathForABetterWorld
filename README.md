@@ -25,6 +25,8 @@ yarn run dev
 ```
 
 
-## Best Pratices:
-feature branches should be named: 
-    NAME_feature_DESCRIPTION
+## Best Pratices to make a feature branch:
+```
+git checkout -b NAME_feature_DESCRIPTION        
+git push -u origin NAME_feature_DESCRIPTION     
+```
