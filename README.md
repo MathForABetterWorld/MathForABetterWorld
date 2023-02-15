@@ -27,6 +27,6 @@ yarn run dev
 
 ## Best Pratices to make a feature branch:
 ```
-git checkout -b NAME_feature_DESCRIPTION        
-git push -u origin NAME_feature_DESCRIPTION     
+git checkout -b NAME_FEATURE_DESCRIPTION        
+git push -u origin NAME_FEATURE_DESCRIPTION     
 ```
