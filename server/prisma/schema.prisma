@@ -23,3 +23,10 @@ model Distributor {
   name String
   user User[] @relation("isPointOfContact")
 }
+
+
+model Rack {
+  id Int @id @default(autoincrement())
+  rack_letter String
+  rack_number String
+}
