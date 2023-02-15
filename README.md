@@ -8,7 +8,6 @@
 
 
 ## Getting Started:
-
 ```
 git clone https://github.com/ChrisWilhelm/MathForABetterWorld
 cd MathForABetterWorld
