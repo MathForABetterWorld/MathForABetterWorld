@@ -23,3 +23,8 @@ yarn install
 ```
 yarn run dev
 ```
+
+
+## Best Pratices:
+feature branches should be named: 
+    NAME_feature_DESCRIPTION
