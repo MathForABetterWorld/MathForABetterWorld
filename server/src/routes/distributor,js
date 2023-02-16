@@ -8,4 +8,8 @@ const endpoint = "/distributor";
 
 // Guide: https://www.prisma.io/docs/concepts/components/prisma-client/crud
 
-router.post("/");
+router.post("/", validator.isUniqueName, controller.createDistributor);
+
+router.get("/", controller.getDistributors);
+
+router.delete("/:id", validator.isDistributorId, controller.deleteDistributor);
