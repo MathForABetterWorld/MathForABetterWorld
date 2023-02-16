@@ -1,0 +1,11 @@
+import express from "express";
+import { checkToken } from "../util/middleware.js";
+import * as validator from "../util/distributorMiddleware.js";
+import * as controller from "../controller/distributorController.js";
+
+const router = express.Router();
+const endpoint = "/distributor";
+
+// Guide: https://www.prisma.io/docs/concepts/components/prisma-client/crud
+
+router.post("/");

@@ -15,3 +15,8 @@ model User {
   email String  @unique
   name  String?
 }
+
+model Distributor {
+  id    Int        @id @default(autoincrement())
+  name  String     @unique
+}
