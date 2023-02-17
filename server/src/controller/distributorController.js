@@ -16,15 +16,37 @@ export const createDistributor = async (req, res) => {
 };
 
 export const getDistributors = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
   const distributors = await prisma.distributor.findMany();
   return res.status(StatusCodes.ACCEPTED).json({ distributors });
 };
 
 export const deleteDistributor = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
   const id = parseInt(req.params.id, 10);
   const distributor = await prisma.distributor.delete({
     where: {
       id,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ distributor });
+};
+
+export const updateDistributor = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const { id, name } = req.body;
+  const distributor = await prisma.distributor.update({
+    where: {
+      id,
+    },
+    data: {
+      name,
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ distributor });
