@@ -27,6 +27,7 @@ model Distributor {
 
 model Rack {
   id Int @id @default(autoincrement())
-  rack_letter String
-  rack_number String
+  location_number_and_letter String   // 1A, 2B, etc
+  weight String
+  description String
 }
