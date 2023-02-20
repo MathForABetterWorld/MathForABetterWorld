@@ -12,10 +12,10 @@ export const createFoodEntry = async (req, res) => {
       return res;
     }
     const { entryUserId, inputDate, expirationDate, weight, companyId, onRack, inWarehouse, description } = req.body;
-    const { id } = req.user;
+    // const { id } = req.user;
     const foodEntry = await prisma.foodEntry.create({
       data: {
-        name: entryUserId,
+        entryUserId,
         inputDate,
         expirationDate,
         weight,
