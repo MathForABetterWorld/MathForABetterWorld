@@ -11,18 +11,11 @@ datasource db {
 }
 
 model User {
-  id    Int     @id @default(autoincrement())
-  email String  @unique
-  name  String?
-   checkedPallot    FoodEntry[]
+  id               Int           @id @default(autoincrement())
+  email            String        @unique
+  name             String?
+  checkedPallot    FoodEntry[]
 }
-
-model Distributor {
-  id    Int        @id @default(autoincrement())
-  name  String     @unique
-  distributedEntry FoodEntry[]
-}
-
 
 model FoodEntry {
   id             Int         @id @default(autoincrement())
@@ -39,6 +32,13 @@ model FoodEntry {
   pallet Pallet @relation(fields: [palletId], references: [id])
   palletId Int
 }
+
+model Distributor {
+  id    Int        @id @default(autoincrement())
+  name  String     @unique
+  distributedEntry FoodEntry[]
+}
+
 
 model Pallet {
   id Int @id @default(autoincrement())
