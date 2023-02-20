@@ -27,13 +27,13 @@ model Distributor {
 }
 
 model Food_Entry {
-  entererName User[] @relation("checkedInPallot") // this shouldn't be User[], just User but what are the fields?
-  inputDate DateTime @default(now())
-  expirationDate DateTime?
-  weight Int
-  foodId  Int   @id @default(autoincrement())
-  companyId Distributor[] @relation("isDistributor") // same with this relation
-  onRack Boolean   @default(false) // change to relation with rack for where it is?
-  inWarehouse Boolean   @default(false)
-  description String?
+  entererName     User[] @relation("checkedInPallot") // this shouldn't be User[], just User but what are the fields?
+  inputDate       DateTime @default(now())
+  expirationDate  DateTime?
+  weight          Int
+  id              Int   @id @default(autoincrement())
+  companyId       Distributor[] @relation("isDistributor") // same with this relation
+  onRack          Boolean   @default(false) // change to relation with rack for where it is?
+  inWarehouse     Boolean   @default(false)
+  description     String?
 }
