@@ -14,24 +14,30 @@ model User {
   id    Int     @id @default(autoincrement())
   email String  @unique
   name  String?
-  isPointOfContact Distributor[] @relation("isPointOfContact")
-
+   checkedPallot    FoodEntry[]
 }
 
 model Distributor {
-  id Int @id @default(autoincrement())
-  name String
-  user User[] @relation("isPointOfContact")
+  id    Int        @id @default(autoincrement())
+  name  String     @unique
+  distributedEntry FoodEntry[]
 }
 
 
-model foodItem {
-  id Int @id @default(autoincrement())
-  name String
+model FoodEntry {
+  id             Int         @id @default(autoincrement())
+  entryUser      User        @relation(fields: [entryUserId], references: [id])
+  entryUserId    Int
+  inputDate      DateTime    @default(now())
+  expirationDate DateTime?   @db.Date
+  weight         Float       @default(0)
+  company        Distributor @relation(fields: [companyId], references: [id])
+  companyId      Int
+  onRack         Boolean     @default(false) // change to relation with rack for where it is?
+  inWarehouse    Boolean     @default(false)
+  description    String?
   pallet Pallet @relation(fields: [palletId], references: [id])
   palletId Int
-  weight String
-  description String
 }
 
 model Pallet {
@@ -39,7 +45,7 @@ model Pallet {
   rackId Int
   distributor_name String
   rack Rack @relation(fields: [rackId], references: [id])
-  foodItems foodItem[]
+  foodItems FoodEntry[]
   weight String
   description String
 }
@@ -49,4 +55,10 @@ model Rack {
   location_number_and_letter String   // 1A, 2B, etc
   pallets Pallet[]
   description String
+}
+
+model Category {
+  id Int @id @default(autoincrement())
+  name String
+  description String  
 }
