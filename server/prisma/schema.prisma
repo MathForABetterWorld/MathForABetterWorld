@@ -25,21 +25,21 @@ model Distributor {
 }
 
 
-model Food_Item {
+model foodItem {
   id Int @id @default(autoincrement())
-  pallet_id String
-  common_name String
-  pallet Pallet @relation(fields: [id], references: [id])
+  name String
+  pallet Pallet @relation(fields: [palletId], references: [id])
+  palletId Int
   weight String
   description String
 }
 
 model Pallet {
   id Int @id @default(autoincrement())
-  rack_id String
+  rackId Int
   distributor_name String
-  rack Rack @relation(fields: [id], references: [id])
-  food_items Food_Item[]
+  rack Rack @relation(fields: [rackId], references: [id])
+  foodItems foodItem[]
   weight String
   description String
 }
