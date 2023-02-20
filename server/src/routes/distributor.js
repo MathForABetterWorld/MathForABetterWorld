@@ -36,3 +36,5 @@ router.post(
   validator.isDistributorId,
   controller.updateDistributor
 );
+
+export default router;
