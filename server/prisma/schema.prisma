@@ -27,10 +27,12 @@ model FoodEntry {
   company        Distributor @relation(fields: [companyId], references: [id])
   companyId      Int
   onRack         Boolean     @default(false) // change to relation with rack for where it is?
+  rack           Rack        @relation(fields: [rackId], references: [id])
+  rackId         Int
   inWarehouse    Boolean     @default(false)
   description    String?
-  pallet Pallet @relation(fields: [palletId], references: [id])
-  palletId Int
+  category       Category    @relation(fields: [categoryId], references: [id])
+  categoryId     Int
 }
 
 model Distributor {
@@ -40,25 +42,17 @@ model Distributor {
 }
 
 
-model Pallet {
-  id Int @id @default(autoincrement())
-  rackId Int
-  rack Rack @relation(fields: [rackId], references: [id])
-  foodItems FoodEntry[]
-  weight String
-  description String
-}
-
 model Rack {
   id Int @id @default(autoincrement())
   location String   // 1A, 2B, etc
-  pallets Pallet[]
   description String
   weightLimit Float?
+  foodEntry   FoodEntry[]
 }
 
 model Category {
   id Int @id @default(autoincrement())
   name String
   description String  
+  foodEntry   FoodEntry[]
 }
