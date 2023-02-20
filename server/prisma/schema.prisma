@@ -15,7 +15,7 @@ model User {
   email String  @unique
   name  String?
   isPointOfContact Distributor[] @relation("isPointOfContact")
-  checkedInPallot Food_Entry[] @relation("checkedInPallot")
+  // checkedPallot Food_Entry[]
 
 }
 
@@ -23,16 +23,17 @@ model Distributor {
   id Int @id @default(autoincrement())
   name String
   user User[] @relation("isPointOfContact")
-  isDistributor Food_Entry[] @relation("isDistributor")
+  // distributedEntry Food_Entry[]
 }
 
 model Food_Entry {
-  entererName     User[] @relation("checkedInPallot") // this shouldn't be User[], just User but what are the fields?
-  inputDate       DateTime @default(now())
-  expirationDate  DateTime?
-  weight          Int
   id              Int   @id @default(autoincrement())
-  companyId       Distributor[] @relation("isDistributor") // same with this relation
+  userId          Int
+  // entererName     User @relation(fields: [userId], references: [id])
+  inputDate       DateTime @default(now())
+  expirationDate  DateTime? @db.Date
+  weight          Float  @default(0)
+  // companyId       Distributor @relation(fields: [userId], references: [id])
   onRack          Boolean   @default(false) // change to relation with rack for where it is?
   inWarehouse     Boolean   @default(false)
   description     String?
