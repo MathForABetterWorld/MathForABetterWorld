@@ -3,7 +3,7 @@ import prisma from "../../prisma/client.js";
 import { StatusCodes } from "http-status-codes";
 
 /**
- * Creates a food entry
+ * Creates a rack
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
@@ -26,7 +26,7 @@ export const createRack = async (req, res) => {
 };
 
 /**
- * Gets list of food entrys
+ * Gets list of racks
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
