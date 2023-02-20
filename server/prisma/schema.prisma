@@ -22,16 +22,17 @@ model Distributor {
 }
 
 model Rack {  
-  id Int @id @default(autoincrement())
-  rack_number String
-  rack_letter String  // would it be more efficient to combine rack_letter and rack_number into one Location_ID
+  id Int @id @default(autoincrement())   // 
+  rackNumber String
+  rackLetter String  // would it be more efficient to combine rack_letter and rack_number into one Location_ID
   description String  // Add brief description of type of items in this location 
   // @relation to Food_Entry column "on_shelf_ID"
+  weightLimit Float? 
 }
 
 model Category {
   id Int @id @default(autoincrement())
   name String
-  description String
+  description String  
 }
 
