@@ -45,8 +45,48 @@ export const isExpired = (req, res, next) => {
   }
 };
 
-// check if distributor id exists
+/**
+ * checks if the distributor being entered exists
+ * @param {object} req - request
+ * @param {object} res - response
+ * @param {object} next - call back function
+ */
+export const isDistributorId = async (req, res, next) => {
+    const { companyId } = req.body;
+    const query = await prisma.distributor.findUnique({
+      where: {
+        id: companyId,
+      },
+    });
+    if (query === NULL || query === undefined) {
+      return res
+        .status(StatusCodes.CONFLICT)
+        .json({ msg: "ERROR: food id does not exist" });
+    } else {
+      next();
+    }
+  };
 
 // check if rack exists
 
-// check if entry user id exists
+/**
+ * checks if the entry user  exists
+ * @param {object} req - request
+ * @param {object} res - response
+ * @param {object} next - call back function
+ */
+ export const isUserId = async (req, res, next) => {
+    const { entryUserId } = req.body;
+    const query = await prisma.distributor.findUnique({
+      where: {
+        id: entryUserId,
+      },
+    });
+    if (query === NULL || query === undefined) {
+      return res
+        .status(StatusCodes.CONFLICT)
+        .json({ msg: "ERROR: food id does not exist" });
+    } else {
+      next();
+    }
+  };
