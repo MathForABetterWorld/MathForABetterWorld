@@ -15,6 +15,16 @@ model User {
   email            String        @unique
   name             String?
   checkedPallot    FoodEntry[]
+  shiftsWorked     Shift[]
+}
+
+model Shift {
+  id        Int                  @id @default(autoincrement())
+  user      User                 @relation(fields: [userId], references: [id])
+  userId    Int
+  start     DateTime            
+  end       DateTime
+  foodTaken String
 }
 
 model FoodEntry {
