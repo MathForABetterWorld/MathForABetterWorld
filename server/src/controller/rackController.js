@@ -31,8 +31,8 @@ export const createRack = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const getRack = async (req, res) => {
-  const foodEntry = await prisma.foodEntry.findMany();
-  return res.status(StatusCodes.ACCEPTED).json({ foodEntry });
+  const rack = await prisma.rack.findMany();
+  return res.status(StatusCodes.ACCEPTED).json({ rack });
 };
 
 /**
