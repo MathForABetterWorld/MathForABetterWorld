@@ -3,7 +3,7 @@ import prisma from "../../prisma/client.js";
 import { StatusCodes } from "http-status-codes";
 
 /**
- * Creates a rack
+ * CREATE a rack
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
@@ -26,7 +26,7 @@ export const createRack = async (req, res) => {
 };
 
 /**
- * Gets list of racks
+ * READ a list of racks
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
@@ -36,16 +36,38 @@ export const getRack = async (req, res) => {
 };
 
 /**
- * Deletes a rack
+ * UPDATE a rack
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+export const updateRack = async (req, res) => {
+    if (validate(req, res)) { return res; }
+
+    const { id, location, description, weightLimit, foodEntry } = req.body;
+    const rack = await prisma.rack.update({
+      where: {
+        id,
+      },
+      data: {
+        id, location, description, weightLimit, foodEntry 
+      },
+    });
+    return res.status(StatusCodes.ACCEPTED).json({ rack });
+};
+
+
+/**
+ * DELETE a rack
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
 export const deleteRack = async (req, res) => {
-  const id = parseInt(req.params.id, 10);
-  const rack = await prisma.rack.delete({
-    where: {
-      id,
-    },
-  });
-  return res.status(StatusCodes.ACCEPTED).json({ rack });
-};
+    const id = parseInt(req.params.id, 10);
+    const rack = await prisma.rack.delete({
+      where: {
+        id,
+      },
+    });
+    return res.status(StatusCodes.ACCEPTED).json({ rack });
+  };
+  
