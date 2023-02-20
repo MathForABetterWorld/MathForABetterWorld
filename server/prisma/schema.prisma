@@ -11,30 +11,30 @@ datasource db {
 }
 
 model User {
-  id    Int     @id @default(autoincrement())
-  email String  @unique
-  name  String?
+  id               Int           @id @default(autoincrement())
+  email            String        @unique
+  name             String?
   isPointOfContact Distributor[] @relation("isPointOfContact")
-  // checkedPallot Food_Entry[]
-
+  checkedPallot    FoodEntry[]
 }
 
 model Distributor {
-  id Int @id @default(autoincrement())
-  name String
-  user User[] @relation("isPointOfContact")
-  // distributedEntry Food_Entry[]
+  id               Int         @id @default(autoincrement())
+  name             String
+  user             User[]      @relation("isPointOfContact")
+  distributedEntry FoodEntry[]
 }
 
-model Food_Entry {
-  id              Int   @id @default(autoincrement())
-  userId          Int
-  // entererName     User @relation(fields: [userId], references: [id])
-  inputDate       DateTime @default(now())
-  expirationDate  DateTime? @db.Date
-  weight          Float  @default(0)
-  // companyId       Distributor @relation(fields: [userId], references: [id])
-  onRack          Boolean   @default(false) // change to relation with rack for where it is?
-  inWarehouse     Boolean   @default(false)
-  description     String?
+model FoodEntry {
+  id             Int         @id @default(autoincrement())
+  entryUser      User        @relation(fields: [entryUserId], references: [id])
+  entryUserId    Int
+  inputDate      DateTime    @default(now())
+  expirationDate DateTime?   @db.Date
+  weight         Float       @default(0)
+  company        Distributor @relation(fields: [companyId], references: [id])
+  companyId      Int
+  onRack         Boolean     @default(false) // change to relation with rack for where it is?
+  inWarehouse    Boolean     @default(false)
+  description    String?
 }
