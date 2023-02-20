@@ -14,14 +14,11 @@ model User {
   id    Int     @id @default(autoincrement())
   email String  @unique
   name  String?
-  isPointOfContact Distributor[] @relation("isPointOfContact")
-
 }
 
 model Distributor {
-  id Int @id @default(autoincrement())
-  name String
-  user User[] @relation("isPointOfContact")
+  id    Int        @id @default(autoincrement())
+  name  String     @unique
 }
 
 model Rack {  
