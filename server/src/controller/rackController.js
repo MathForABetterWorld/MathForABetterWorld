@@ -55,7 +55,6 @@ export const updateRack = async (req, res) => {
     return res.status(StatusCodes.ACCEPTED).json({ rack });
 };
 
-
 /**
  * DELETE a rack
  * @param {object} req - request for the course
