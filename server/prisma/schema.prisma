@@ -11,20 +11,20 @@ datasource db {
 }
 
 model User {
-  id               Int           @id @default(autoincrement())
-  email            String        @unique
-  name             String?
-  checkedPallot    FoodEntry[]
-  shiftsWorked     Shift[]
+  id            Int         @id @default(autoincrement())
+  email         String      @unique
+  name          String?
+  checkedPallot FoodEntry[]
+  shiftsWorked  Shift[]
 }
 
 model Shift {
-  id        Int                  @id @default(autoincrement())
-  user      User                 @relation(fields: [userId], references: [id])
+  id        Int      @id @default(autoincrement())
+  user      User     @relation(fields: [userId], references: [id])
   userId    Int
-  start     DateTime            
+  start     DateTime @default(now())
   end       DateTime
-  foodTaken String
+  foodTaken Float    @default(0)
 }
 
 model FoodEntry {
@@ -46,23 +46,22 @@ model FoodEntry {
 }
 
 model Distributor {
-  id    Int        @id @default(autoincrement())
-  name  String     @unique
+  id               Int         @id @default(autoincrement())
+  name             String      @unique
   distributedEntry FoodEntry[]
 }
 
-
 model Rack {
-  id Int @id @default(autoincrement())
-  location String   // 1A, 2B, etc
+  id          Int         @id @default(autoincrement())
+  location    String // 1A, 2B, etc
   description String
   weightLimit Float?
   foodEntry   FoodEntry[]
 }
 
 model Category {
-  id Int @id @default(autoincrement())
-  name String
-  description String  
+  id          Int         @id @default(autoincrement())
+  name        String
+  description String
   foodEntry   FoodEntry[]
 }
