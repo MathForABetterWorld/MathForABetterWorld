@@ -29,12 +29,12 @@ export const isFoodEntryId = async (req, res, next) => {
  * @param {object} res - response
  * @param {object} next - call back function
  */
-module.exports.isEndAfter = (req, res, next) => {
+module.exports.isExpired = (req, res, next) => {
     const { expirationDate, inputDate } = req.body;
-    // HH:MM:SS
     const exp = new Date(expirationDate);
     const input = new Date(inputDate);
-    if (exp.getDate() < input.getDate() + 4) {
+    input.setDate(input.getDate() + 4)
+    if (exp.getTime() < input.getTime()) {
       res
         .status(StatusCodes.BAD_REQUEST)
         .json({ msg: 'ERROR: expiration date has passed or is less than 4 days away' });
