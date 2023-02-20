@@ -11,14 +11,30 @@ datasource db {
 }
 
 model User {
-  id    Int     @id @default(autoincrement())
-  email String  @unique
-  name  String?
+  id               Int           @id @default(autoincrement())
+  email            String        @unique
+  name             String?
+  checkedPallot    FoodEntry[]
+}
+
+model FoodEntry {
+  id             Int         @id @default(autoincrement())
+  entryUser      User        @relation(fields: [entryUserId], references: [id])
+  entryUserId    Int
+  inputDate      DateTime    @default(now())
+  expirationDate DateTime?   @db.Date
+  weight         Float       @default(0)
+  company        Distributor @relation(fields: [companyId], references: [id])
+  companyId      Int
+  onRack         Boolean     @default(false) // change to relation with rack for where it is?
+  inWarehouse    Boolean     @default(false)
+  description    String?
 }
 
 model Distributor {
   id    Int        @id @default(autoincrement())
   name  String     @unique
+  distributedEntry FoodEntry[]
 }
 
 model Rack {  
@@ -35,4 +51,3 @@ model Category {
   name String
   description String  
 }
-

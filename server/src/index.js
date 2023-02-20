@@ -4,6 +4,7 @@ import cors from "cors";
 import helmet from "helmet";
 import users from "./routes/users.js";
 import distributor from "./routes/distributor.js";
+import foodEntry from "./routes/foodEntry.js";
 import { globalErrorHandler } from "./util/middleware.js";
 
 const app = express();
@@ -20,6 +21,7 @@ app.get("/", (req, res) => {
 // Routing (API endpoints)
 app.use("/api", users);
 app.use("/api/distributor", distributor);
+app.use("/api/food", foodEntry);
 
 app.use(globalErrorHandler);
 
