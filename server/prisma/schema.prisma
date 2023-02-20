@@ -43,7 +43,6 @@ model Distributor {
 model Pallet {
   id Int @id @default(autoincrement())
   rackId Int
-  distributor_name String
   rack Rack @relation(fields: [rackId], references: [id])
   foodItems FoodEntry[]
   weight String
@@ -52,9 +51,10 @@ model Pallet {
 
 model Rack {
   id Int @id @default(autoincrement())
-  location_number_and_letter String   // 1A, 2B, etc
+  location String   // 1A, 2B, etc
   pallets Pallet[]
   description String
+  weightLimit Float?
 }
 
 model Category {
