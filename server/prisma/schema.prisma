@@ -14,15 +14,7 @@ model User {
   id               Int           @id @default(autoincrement())
   email            String        @unique
   name             String?
-  isPointOfContact Distributor[] @relation("isPointOfContact")
   checkedPallot    FoodEntry[]
-}
-
-model Distributor {
-  id               Int         @id @default(autoincrement())
-  name             String
-  user             User[]      @relation("isPointOfContact")
-  distributedEntry FoodEntry[]
 }
 
 model FoodEntry {
@@ -37,4 +29,11 @@ model FoodEntry {
   onRack         Boolean     @default(false) // change to relation with rack for where it is?
   inWarehouse    Boolean     @default(false)
   description    String?
+}
+
+model Distributor {
+  id    Int        @id @default(autoincrement())
+  name  String     @unique
+  distributedEntry FoodEntry[]
+
 }
