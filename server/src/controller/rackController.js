@@ -36,16 +36,16 @@ export const getRack = async (req, res) => {
 };
 
 /**
- * Deletes a food entry
+ * Deletes a rack
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
 export const deleteRack = async (req, res) => {
   const id = parseInt(req.params.id, 10);
-  const foodEntry = await prisma.foodEntry.delete({
+  const rack = await prisma.rack.delete({
     where: {
       id,
     },
   });
-  return res.status(StatusCodes.ACCEPTED).json({ foodEntry });
+  return res.status(StatusCodes.ACCEPTED).json({ rack });
 };
