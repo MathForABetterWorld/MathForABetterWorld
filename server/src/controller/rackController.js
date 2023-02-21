@@ -11,15 +11,13 @@ export const createRack = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { id, location, description, weightLimit, foodEntry } = req.body;
+  const { location, description, weightLimit } = req.body;
   // const { id } = req.user;
   const rack = await prisma.rack.create({
     data: {
-      id,
       location,
       description,
       weightLimit,
-      foodEntry,
     },
   });
   return res.status(StatusCodes.CREATED).json({ rack });
@@ -41,18 +39,22 @@ export const getRack = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const updateRack = async (req, res) => {
-    if (validate(req, res)) { return res; }
+  if (validate(req, res)) {
+    return res;
+  }
 
-    const { id, location, description, weightLimit, foodEntry } = req.body;
-    const rack = await prisma.rack.update({
-      where: {
-        id,
-      },
-      data: {
-        id, location, description, weightLimit, foodEntry 
-      },
-    });
-    return res.status(StatusCodes.ACCEPTED).json({ rack });
+  const { id, location, description, weightLimit } = req.body;
+  const rack = await prisma.rack.update({
+    where: {
+      id,
+    },
+    data: {
+      location,
+      description,
+      weightLimit,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ rack });
 };
 
 /**
@@ -61,12 +63,11 @@ export const updateRack = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const deleteRack = async (req, res) => {
-    const id = parseInt(req.params.id, 10);
-    const rack = await prisma.rack.delete({
-      where: {
-        id,
-      },
-    });
-    return res.status(StatusCodes.ACCEPTED).json({ rack });
-  };
-  
+  const id = parseInt(req.params.id, 10);
+  const rack = await prisma.rack.delete({
+    where: {
+      id,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ rack });
+};
