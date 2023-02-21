@@ -37,8 +37,8 @@ model FoodEntry {
   company        Distributor @relation(fields: [companyId], references: [id])
   companyId      Int
   onRack         Boolean     @default(false)
-  rack           Rack?        @relation(fields: [rackId], references: [id])
-  rackId         Int?
+  rack           Rack        @relation(fields: [rackId], references: [id])
+  rackId         Int
   inWarehouse    Boolean     @default(false)
   description    String?
   category       Category    @relation(fields: [categoryId], references: [id])
