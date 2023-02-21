@@ -1,3 +1,10 @@
+import express from "express";
+import * as express_validator from "express-validator";
+
+const body = express_validator.body;
+const param = express_validator.param;
+
+const router = express.Router();
 // Here the routes will be listed with correspodning middleware
 
 // Example routes from another app:
@@ -19,3 +26,7 @@ router.post(
   controller.login
 );
  */
+
+// Guide: https://www.prisma.io/docs/concepts/components/prisma-client/crud
+
+export default router;

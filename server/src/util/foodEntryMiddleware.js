@@ -14,7 +14,7 @@ export const isFoodEntryId = async (req, res, next) => {
       id,
     },
   });
-  if (query === NULL || query === undefined) {
+  if (query === null || query === undefined) {
     return res
       .status(StatusCodes.CONFLICT)
       .json({ msg: "ERROR: food id does not exist" });
@@ -58,7 +58,7 @@ export const isDistributorId = async (req, res, next) => {
         id: companyId,
       },
     });
-    if (query === NULL || query === undefined) {
+    if (query === null || query === undefined) {
       return res
         .status(StatusCodes.CONFLICT)
         .json({ msg: "ERROR: food id does not exist" });

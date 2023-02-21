@@ -24,16 +24,16 @@ router.get("/", controller.getDistributors);
 router.delete(
   "/:id",
   param("id", "Must include id in the url params").notEmpty().isInt(),
-  validator.isDistributorId,
+  validator.isDistributorIdParams,
   controller.deleteDistributor
 );
 
 router.post(
   "/update",
   body("name", "Must include name in the request").notEmpty(),
-  param("id", "Must include id in the body").notEmpty().isInt(),
+  body("id", "Must include id in the body").notEmpty().isInt(),
   validator.isUniqueName,
-  validator.isDistributorId,
+  validator.isDistributorIdBody,
   controller.updateDistributor
 );
 
