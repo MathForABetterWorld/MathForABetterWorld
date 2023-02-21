@@ -11,9 +11,18 @@ const router = express.Router();
 // Guide: https://www.prisma.io/docs/concepts/components/prisma-client/crud
 
 router.post(
-  "/",
-  //validator.isUniqueName,
-  controller.createFoodEntry
+  '/',
+  validator.isFoodEntryId,
+  validator.isExpired,
+  validator.isDistributorId,
+  validator.isUserId,
+  validator.isRack,
+  validator.isCategory,
+  validator.isPositiveWeight,
+  validator.isOnRackFalse,
+  validator.isOnRackTrue,
+  validator.isWarehouseTrue,
+  controller.createFoodEntry,
 );
 
 router.get("/", controller.getFoodEntrys);
