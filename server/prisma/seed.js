@@ -1,6 +1,6 @@
 import { faker } from "@faker-js/faker";
 import prisma from "./client.js";
-import { categoryList, usersList, entries } from "./data.js";
+import { categoryList, usersList, entries, distributorList } from "./data.js";
 
 const generateFakeUsers = async (numFakeUsers) => {
   for (let index = 0; index < numFakeUsers; index++) {
@@ -35,19 +35,22 @@ const generateFakeData = async () => {
   await prisma.Category.createMany({ data: createCats });
   const categories = await prisma.Category.findMany();
   categories.forEach((category) => categoryMap.set(category.name, category));
-  const distributor = await prisma.distributor.create({
-    data: {
-      name: "2022 Distributor",
-    },
-  });
+  const createDistributors = [];
+  const distributorMap = new Map();
+  distributorList.forEach((distributor) =>
+    createDistributors.push({ name: distributor })
+  );
+  await prisma.distributor.createMany({ data: createDistributors });
+  const distributors = await prisma.distributor.findMany();
+  distributors.forEach((dis) => distributorMap.set(dis.name, dis));
   const createEntryList = [];
   entries.forEach((entry) =>
     createEntryList.push({
       entryUserId: userMap.get(entry.name).id,
       inputDate: new Date(entry.date),
       weight: entry.weight,
-      companyId: distributor.id,
       categoryId: categoryMap.get(entry.category).id,
+      companyId: distributorMap.get(entry.distributor).id,
     })
   );
   const foodData = await prisma.foodEntry.createMany({ data: createEntryList });
