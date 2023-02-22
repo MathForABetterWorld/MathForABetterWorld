@@ -37,4 +37,6 @@ router.post(
   controller.updateDistributor
 );
 
+router.get("/counts", controller.getWeightsPerDistributor);
+
 export default router;
