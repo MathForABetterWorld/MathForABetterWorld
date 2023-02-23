@@ -16,3 +16,19 @@ export const isUniqueEmail = async (req, res, next) => {
     next();
   }
 };
+
+export const isUserId = async (req, res, next) => {
+  const { id } = req.body;
+  const query = await prisma.user.findUnique({
+    where: {
+      id,
+    },
+  });
+  if (query === null || query === undefined) {
+    return res
+      .status(StatusCodes.CONFLICT)
+      .json({ msg: "ERROR: user does not exist" });
+  } else {
+    next();
+  }
+};

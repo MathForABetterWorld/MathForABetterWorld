@@ -17,17 +17,14 @@ router.post(
   validator.isUniqueEmail,
   controller.create
 );
-/**
- * 
+
+router.get("/", controller.getUsers);
 
 router.post(
-  "/login",
-  body("email", "Email is required").isEmail(),
-  validator.emailExists,
-  controller.login
+  "/update",
+  body("email", "Email is required").notEmpty().isEmail(),
+  validator.isUniqueEmail,
+  controller.update
 );
- */
-
-// Guide: https://www.prisma.io/docs/concepts/components/prisma-client/crud
 
 export default router;
