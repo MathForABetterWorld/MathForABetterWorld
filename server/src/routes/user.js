@@ -23,6 +23,7 @@ router.get("/", controller.getUsers);
 router.post(
   "/update",
   body("email", "Email is required").notEmpty().isEmail(),
+  body("id", "Id is required").notEmpty().isInt(),
   validator.isUniqueEmail,
   controller.update
 );
