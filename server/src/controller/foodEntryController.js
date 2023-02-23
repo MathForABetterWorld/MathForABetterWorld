@@ -17,9 +17,10 @@ export const createFoodEntry = async (req, res) => {
     expirationDate,
     weight,
     companyId,
-    onRack,
+    rackId,
     inWarehouse,
     description,
+    categoryId,
   } = req.body;
   // const { id } = req.user;
   const foodEntry = await prisma.foodEntry.create({
@@ -29,9 +30,10 @@ export const createFoodEntry = async (req, res) => {
       expirationDate: new Date(expirationDate),
       weight,
       companyId,
-      onRack,
+      rackId,
       inWarehouse,
       description,
+      categoryId,
     },
   });
   return res.status(StatusCodes.CREATED).json({ foodEntry });

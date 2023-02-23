@@ -12,21 +12,18 @@ const router = express.Router();
 
 router.post(
   '/',
-  validator.isFoodEntryId,
   validator.isExpired,
   validator.isDistributorId,
   validator.isUserId,
   validator.isRack,
   validator.isCategory,
   validator.isPositiveWeight,
-  validator.isOnRackFalse,
-  validator.isOnRackTrue,
   validator.isWarehouseTrue,
   controller.createFoodEntry,
 );
 
 router.get("/", controller.getFoodEntrys);
 
-router.delete("/:id", validator.isFoodEntryId, controller.deleteFoodEntry);
+router.delete("/:id", validator.isFoodEntryId, validator.isWarehouseTrue, controller.deleteFoodEntry);
 
 export default router;

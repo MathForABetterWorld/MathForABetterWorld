@@ -53,7 +53,7 @@ export const isExpired = (req, res, next) => {
  */
 export const isDistributorId = async (req, res, next) => {
     const { companyId } = req.body;
-    const query = await prisma.foodEntry.findUnique({
+    const query = await prisma.company.findUnique({
       where: {
         id: companyId,
       },
@@ -75,12 +75,12 @@ export const isDistributorId = async (req, res, next) => {
  */
 export const isUserId = async (req, res, next) => {
     const { entryUserId } = req.body;
-    const query = await prisma.foodEntry.findUnique({
+    const query = await prisma.entryUser.findUnique({
       where: {
         id: entryUserId,
       },
     });
-    if (query === NULL || query === undefined) {
+    if (query === null || query === undefined) {
       return res
         .status(StatusCodes.CONFLICT)
         .json({ msg: "ERROR: user does not exist" });
@@ -97,12 +97,15 @@ export const isUserId = async (req, res, next) => {
  */
  export const isRack = async (req, res, next) => {
   const { rackId } = req.body;
-  const query = await prisma.foodEntry.findUnique({
+  if(rackId === null || rackId === undefined) {
+    next();
+  }
+  const query = await prisma.rack.findUnique({
     where: {
       id: rackId,
     },
   });
-  if (query === NULL || query === undefined) {
+  if (query === null || query === undefined) {
     return res
       .status(StatusCodes.CONFLICT)
       .json({ msg: "ERROR: rack does not exist" });
@@ -119,12 +122,12 @@ export const isUserId = async (req, res, next) => {
  */
  export const isCategory = async (req, res, next) => {
   const { categoryId } = req.body;
-  const query = await prisma.foodEntry.findUnique({
+  const query = await prisma.category.findUnique({
     where: {
       id: categoryId,
     },
   });
-  if (query === NULL || query === undefined) {
+  if (query === null || query === undefined) {
     return res
       .status(StatusCodes.CONFLICT)
       .json({ msg: "ERROR: category does not exist" });
@@ -141,61 +144,11 @@ export const isUserId = async (req, res, next) => {
  */
  export const isPositiveWeight = (req, res, next) => {
   const { weight } = req.body;
-  if (weight < 0) {
+  if (weight <= 0) {
     res
       .status(StatusCodes.BAD_REQUEST)
       .json({
         msg: "ERROR: weight is less than 0",
-      });
-  } else {
-    next();
-  }
-};
-
-/**
- * checks if rackId exists if onRack is false
- * @param {object} req - request
- * @param {object} res - response
- * @param {object} next - call back function
- */
- export const isOnRackFalse = (req, res, next) => {
-  const { onRack, rackId } = req.body;
-  const query = await prisma.foodEntry.findUnique({
-    where: {
-      onRack,
-      id: rackId,
-    },
-  });
-  if (!onRack && !(query === NULL || query === undefined)) {
-    res
-      .status(StatusCodes.CONFLICT)
-      .json({
-        msg: "ERROR: rack given but on rack is false",
-      });
-  } else {
-    next();
-  }
-};
-
-/**
- * checks if rackId exists if onRack is true
- * @param {object} req - request
- * @param {object} res - response
- * @param {object} next - call back function
- */
- export const isOnRackTrue = (req, res, next) => {
-  const { onRack, rackId } = req.body;
-  const query = await prisma.foodEntry.findUnique({
-    where: {
-      onRack,
-      id: rackId,
-    },
-  });
-  if (onRack && !(query === NULL || query === undefined)) {
-    res
-      .status(StatusCodes.CONFLICT)
-      .json({
-        msg: "ERROR: rack location is not given",
       });
   } else {
     next();
@@ -209,18 +162,21 @@ export const isUserId = async (req, res, next) => {
  * @param {object} next - call back function
  */
  export const isWarehouseTrue = (req, res, next) => {
-  const { inWarehouse, onRack } = req.body;
-  const query = await prisma.foodEntry.findUnique({
-    where: {
-      inWarehouse,
-      onRack,
-    },
-  });
-  if (!inWarehouse && onRack) {
+  const { inWarehouse, rackId } = req.body;
+  if (((rackId === null || rackId === undefined) && !inWarehouse) || ((rackId !== null || rackId !== undefined) && inWarehouse)) {
+    next();
+  }
+  if (!inWarehouse) {
     res
       .status(StatusCodes.CONFLICT)
       .json({
         msg: "ERROR: cannot be on a rack but not in the warehouse",
+      });
+  } else if (inWarehouse) {
+    res
+      .status(StatusCodes.CONFLICT)
+      .json({
+        msg: "ERROR: cannot be in the warehouse without a rack",
       });
   } else {
     next();
