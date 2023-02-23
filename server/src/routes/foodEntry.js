@@ -24,6 +24,6 @@ router.post(
 
 router.get("/", controller.getFoodEntrys);
 
-router.delete("/:id", validator.isFoodEntryId, validator.isWarehouseTrue, controller.deleteFoodEntry);
+router.delete("/:id", validator.isFoodEntryId, controller.deleteFoodEntry);
 
 export default router;
