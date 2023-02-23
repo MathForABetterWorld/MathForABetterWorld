@@ -53,7 +53,7 @@ export const isExpired = (req, res, next) => {
  */
 export const isDistributorId = async (req, res, next) => {
     const { companyId } = req.body;
-    const query = await prisma.company.findUnique({
+    const query = await prisma.distributor.findUnique({
       where: {
         id: companyId,
       },
