@@ -44,7 +44,7 @@ export const createFoodEntry = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const getFoodEntrys = async (req, res) => {
-  const foodEntry = await prisma.foodEntry.update();
+  const foodEntry = await prisma.foodEntry.findMany();
   return res.status(StatusCodes.ACCEPTED).json({ foodEntry });
 };
 
