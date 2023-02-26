@@ -11,7 +11,7 @@ const router = express.Router();
 
 router.post(
   "/",
-  validator.isShiftId,
+  // validator.isShiftId, // You won't have a shiftId yet
   controller.createShift
 );
 

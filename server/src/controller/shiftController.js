@@ -15,8 +15,6 @@ export const createShift = async (req, res) => {
   // const { id } = req.user;
   const shift = await prisma.shift.create({
     data: {
-      id,
-      user,
       userId,
       start,
       end,
@@ -49,10 +47,9 @@ export const updateShift = async (req, res) => {
   const { id, user, userId, start, end, foodTaken} = req.body;
   const shift = await prisma.shift.update({
     where: {
-      id,
+      userId,
     },
     data: {
-        user,
         userId,
         start,
         end,
