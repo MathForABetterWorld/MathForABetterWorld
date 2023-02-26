@@ -1,11 +1,9 @@
 # Database Team!
 
-
-
-### https://github.com/ChrisWilhelm/MathForABetterWorld
-
-
-
+## Links
+- https://github.com/ChrisWilhelm/MathForABetterWorld/issues
+- https://mathforabetterworld.slack.com/
+- https://www.prisma.io/docs/concepts/components/prisma-schema/data-model
 
 ## Getting Started:
 ```
@@ -27,6 +25,6 @@ yarn run dev
 
 ## Best practices, for making a feature branch:
 ```
-git checkout -b NAME_FEATURE_DESCRIPTION        
-git push -u origin NAME_FEATURE_DESCRIPTION     
+git checkout -b name_feature_description       
+git push -u origin name_feature_description  
 ```
