@@ -11,8 +11,8 @@ const router = express.Router();
 
 router.post(
   "/",
-  // validator.isShiftId, // You won't have a shiftId yet
   validator.isUserId, // make sure user exists
+  validator.isValidTimeShift,
   controller.createShift
 );
 
@@ -27,8 +27,8 @@ router.delete(
 router.post(
   "/update",
   validator.isUserId, // make sure user exists
-  
-  validator.isShiftId,
+  validator.isValidTimeShift,
+  validator.isShiftId, // make sure shift exists
   controller.updateShift
 );
 
