@@ -16,7 +16,7 @@ export const isUniqueName = async (req, res, next) => {
       name,
     },
   });
-  if (query !== NULL) {
+  if (query !== null) {
     return res
       .status(StatusCodes.CONFLICT)
       .json({ msg: "ERROR: Category with this name already exists" });
@@ -39,7 +39,7 @@ export const isCategoryId = async (req, res, next) => {
         id,
       },
     });
-    if (query === NULL || query === undefined) {
+    if (query === null || query === undefined) {
       return res
         .status(StatusCodes.CONFLICT)
         .json({ msg: "ERROR: Category does not exist" });
