@@ -47,7 +47,7 @@ export const updateShift = async (req, res) => {
   const { id, user, userId, start, end, foodTaken} = req.body;
   const shift = await prisma.shift.update({
     where: {
-      userId,
+      id,
     },
     data: {
         userId,
