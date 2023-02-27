@@ -12,7 +12,6 @@ const router = express.Router();
 router.post(
   "/",
   validator.isUniqueLocation,
-  validator.isRackId,
   controller.createRack
 );
 
@@ -20,7 +19,6 @@ router.get("/", controller.getDistributors);
 
 router.delete(
   "/:id",
-  validator.isUniqueLocation,
   validator.isRackId,
   controller.deleteRack
 );
