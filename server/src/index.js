@@ -2,7 +2,7 @@ import express from "express";
 import morgan from "morgan";
 import cors from "cors";
 import helmet from "helmet";
-import account from "./routes/account.js";
+import user from "./routes/user.js";
 import distributor from "./routes/distributor.js";
 import foodEntry from "./routes/foodEntry.js";
 import { globalErrorHandler } from "./util/middleware.js";
@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
 });
 
 // Routing (API endpoints)
-app.use("/api", account);
+app.use("/api", user);
 app.use("/api/distributor", distributor);
 app.use("/api/food", foodEntry);
 

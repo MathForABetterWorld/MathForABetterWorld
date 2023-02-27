@@ -1,5 +1,7 @@
 import express from "express";
 import * as express_validator from "express-validator";
+import * as validator from "../util/userMiddleware.js";
+import * as controller from "../controller/userController.js";
 
 const body = express_validator.body;
 const param = express_validator.param;
@@ -8,25 +10,22 @@ const router = express.Router();
 // Here the routes will be listed with correspodning middleware
 
 // Example routes from another app:
-/**
- * router.post(
+router.post(
   "/signup",
-  body("email", "Email is required").isEmail(),
+  body("email", "Email is required").notEmpty().isEmail(),
   body("name", "Name is required").notEmpty(),
-  body("phoneNumber").optional().isMobilePhone(),
   validator.isUniqueEmail,
-  validator.isUniquePhone,
   controller.create
 );
 
-router.post(
-  "/login",
-  body("email", "Email is required").isEmail(),
-  validator.emailExists,
-  controller.login
-);
- */
+router.get("/", controller.getUsers);
 
-// Guide: https://www.prisma.io/docs/concepts/components/prisma-client/crud
+router.post(
+  "/update",
+  body("email", "Email is required").notEmpty().isEmail(),
+  body("id", "Id is required").notEmpty().isInt(),
+  validator.isUniqueEmail,
+  controller.update
+);
 
 export default router;
