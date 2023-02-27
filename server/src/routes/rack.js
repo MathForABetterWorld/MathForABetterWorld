@@ -25,6 +25,10 @@ router.delete(
 
 router.post(
   "/update",
+  body('id', 'Please include an integer for entryUserId').notEmpty().isInt(),
+  body('location', 'Please include a date for inputDate').notEmpty().isString(),
+  body('description', "Expiration Date must be a date").notEmpty().isString(),
+  body('weightLimit', 'Please include a float for entryUserId').optional().isFloat(),
   validator.isUniqueLocation,
   validator.isRackId,
   controller.updateRack
