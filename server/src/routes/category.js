@@ -28,8 +28,7 @@ router.delete(
   );
 
 router.post(
-    "/:id",
-    "/update",
+    "/:id/update",
     body("name", "Must include name in the request").notEmpty(),
     param("id", "Must include id in the body").notEmpty().isInt(),
     validator.isUniqueName,
