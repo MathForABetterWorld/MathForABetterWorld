@@ -21,7 +21,9 @@ yarn install
 
 ## Development and Testing:
 ```
+go to server folder
 yarn run dev
+test all the routes to make sure they work!!
 ```
 
 
