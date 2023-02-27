@@ -18,7 +18,7 @@ router.post(
   controller.create
 );
 
-router.get("/", controller.getUsers);
+router.get("/", controller.get);
 
 router.post(
   "/update",

@@ -5,6 +5,7 @@ import helmet from "helmet";
 import user from "./routes/user.js";
 import distributor from "./routes/distributor.js";
 import foodEntry from "./routes/foodEntry.js";
+import barcode from "./routes/barcode.js";
 import { globalErrorHandler } from "./util/middleware.js";
 
 const app = express();
@@ -22,6 +23,7 @@ app.get("/", (req, res) => {
 app.use("/api", user);
 app.use("/api/distributor", distributor);
 app.use("/api/food", foodEntry);
+app.use("/api/barcode", barcode);
 
 app.use(globalErrorHandler);
 
