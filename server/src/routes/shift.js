@@ -26,6 +26,11 @@ router.delete(
 
 router.post(
   "/update",
+  body('id', 'id must be an int').notEmpty().isInt(),
+  body('userId', 'userId must be an int').notEmpty().isInt(),
+  body('start', "start shift must be a date").notEmpty().isDate(),
+  body('end', "start shift must be a date").notEmpty().isDate(),
+  body('foodTaken', 'foodTaken should be a float').notEmpty().isFloat(),
   validator.isUserId, // make sure user exists
   validator.isValidTimeShift,
   validator.isShiftId, // make sure shift exists
