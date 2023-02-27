@@ -19,18 +19,19 @@ router.get("/", controller.getDistributors);
 
 router.delete(
   "/:id",
-  validator.isRackId,
+  param('id', 'Please include an integer for rackId').notEmpty().isInt(),
+  validator.isRackId, // this validator assumes your rackId is in the params, so either add it there or create a new middleware for checking it from the body
   controller.deleteRack
 );
 
 router.post(
-  "/update",
-  body('id', 'Please include an integer for entryUserId').notEmpty().isInt(),
+  "/update/:id",
+  param('id', 'Please include an integer for rackId').notEmpty().isInt(),
   body('location', 'Please include a date for inputDate').notEmpty().isString(),
   body('description', "Expiration Date must be a date").notEmpty().isString(),
   body('weightLimit', 'Please include a float for entryUserId').optional().isFloat(),
   validator.isUniqueLocation,
-  validator.isRackId,
+  validator.isRackId, // this validator assumes your rackId is in the params, so either add it there or create a new middleware for checking it from the body
   controller.updateRack
 );
 
