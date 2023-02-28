@@ -13,7 +13,7 @@ datasource db {
 model User {
   id            Int         @id @default(autoincrement())
   email         String      @unique
-  name          String?
+  name          String
   checkedPallot FoodEntry[]
   shiftsWorked  Shift[]
 }
@@ -36,7 +36,6 @@ model FoodEntry {
   weight         Float       @default(0)
   company        Distributor @relation(fields: [companyId], references: [id])
   companyId      Int
-  onRack         Boolean     @default(false) // change to relation with rack for where it is?
   rack           Rack?        @relation(fields: [rackId], references: [id])
   rackId         Int?
   inWarehouse    Boolean     @default(false)

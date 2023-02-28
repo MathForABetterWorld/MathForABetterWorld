@@ -17,11 +17,11 @@ export const createFoodEntry = async (req, res) => {
     expirationDate,
     weight,
     companyId,
-    onRack,
+    rackId,
     inWarehouse,
     description,
+    categoryId,
   } = req.body;
-  // const { id } = req.user;
   const foodEntry = await prisma.foodEntry.create({
     data: {
       entryUserId,
@@ -29,9 +29,10 @@ export const createFoodEntry = async (req, res) => {
       expirationDate: new Date(expirationDate),
       weight,
       companyId,
-      onRack,
+      rackId,
       inWarehouse,
       description,
+      categoryId,
     },
   });
   return res.status(StatusCodes.CREATED).json({ foodEntry });
@@ -57,6 +58,46 @@ export const deleteFoodEntry = async (req, res) => {
   const foodEntry = await prisma.foodEntry.delete({
     where: {
       id,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ foodEntry });
+};
+
+/**
+ * Edits a food entry
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+ export const edit = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const {
+    entryUserId,
+    inputDate,
+    expirationDate,
+    weight,
+    companyId,
+    rackId,
+    inWarehouse,
+    description,
+    categoryId,
+  } = req.body;
+  const id = parseInt(req.params.id, 10);
+  const foodEntry = await prisma.foodEntry.update({
+    where: {
+      id,
+    },
+    data: {
+      entryUserId,
+      inputDate,
+      expirationDate,
+      weight,
+      companyId,
+      rackId,
+      inWarehouse,
+      description,
+      categoryId,
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ foodEntry });

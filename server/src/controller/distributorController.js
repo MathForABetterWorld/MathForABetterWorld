@@ -51,3 +51,20 @@ export const updateDistributor = async (req, res) => {
   });
   return res.status(StatusCodes.ACCEPTED).json({ distributor });
 };
+
+export const getWeightsPerDistributor = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const distributors = await prisma.distributor.findMany({
+    include: {
+      distributedEntry: true,
+    },
+  });
+  distributors.forEach((distributor) => {
+    let sum = 0;
+    distributor.distributedEntry.forEach((entry) => (sum += entry.weight));
+    distributor["foodTotal"] = sum;
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ distributors });
+};
