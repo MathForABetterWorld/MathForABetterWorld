@@ -36,7 +36,7 @@ export const isUserId = async (req, res, next) => {
 
 export const isValidTimeShift= async (req, res, next) => {
   const { start, end } = req.body;
-  const query = await prisma.shift.findUnique({
+  const query = await prisma.shift.findFirst({
     where: {
       start,
       end,
