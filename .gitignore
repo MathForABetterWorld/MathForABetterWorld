@@ -3,7 +3,7 @@ __MACOSX/*
 **/.vscode/*
 **/.idea/*
 **/node_modules/*
-**/package-lock.json/
+**/package-lock.json
 **/dist
 **/*.local
 **/logs
