@@ -3,6 +3,11 @@ import streamlit as st
 import datetime
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+import http.client
+
+connection = http.client.HTTPConnection('www.python.org', 80, timeout=10)
+print(connection)
+
 st.set_page_config(layout="centered", page_icon="🍏", page_title="Bmore Food")
 st.title("🍏 Bmore Food")
 
