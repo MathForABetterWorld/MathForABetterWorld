@@ -21,6 +21,7 @@ yarn install
 # start docker daemon
 yarn run dev
 # test all the routes to make sure they work!!
+yarn prisma studio
 ```
 
 
