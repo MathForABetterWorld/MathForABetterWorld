@@ -11,13 +11,13 @@ export const createShift = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { id, user, userId, start, end, foodTaken} = req.body;
+  const { userId, start, end, foodTaken } = req.body;
   // const { id } = req.user;
   const shift = await prisma.shift.create({
     data: {
       userId,
-      start,
-      end,
+      start: new Date(start),
+      end: new Date(end),
       foodTaken,
     },
   });
@@ -44,16 +44,16 @@ export const updateShift = async (req, res) => {
     return res;
   }
 
-  const { id, user, userId, start, end, foodTaken} = req.body;
+  const { id, user, userId, start, end, foodTaken } = req.body;
   const shift = await prisma.shift.update({
     where: {
       id,
     },
     data: {
-        userId,
-        start,
-        end,
-        foodTaken,
+      userId,
+      start,
+      end,
+      foodTaken,
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ shift });

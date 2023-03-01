@@ -32,3 +32,33 @@ export const isUniqueLocation = async (req, res, next) => {
     next();
   }
 };
+
+export const isUniqueLocationNotId = async (req, res, next) => {
+  const { location } = req.body;
+  const id = parseInt(req.params.id, 10);
+  const query = await prisma.rack.findFirst({
+    where: {
+      location,
+    },
+  });
+  if (query !== null && query.id !== id) {
+    return res
+      .status(StatusCodes.CONFLICT)
+      .json({ msg: "ERROR: rack with this location already exists" });
+  } else {
+    next();
+  }
+};
+
+export const weightIsPositive = async (req, res, next) => {
+  const { weightLimit } = req.body;
+  if (weightLimit === null || weightLimit === undefined) {
+    next();
+  } else if (weightLimit <= 0) {
+    return res
+      .status(StatusCodes.BAD_REQUEST)
+      .json({ msg: "Weight Limit must be positive" });
+  } else {
+    next();
+  }
+};

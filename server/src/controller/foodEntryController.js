@@ -68,7 +68,7 @@ export const deleteFoodEntry = async (req, res) => {
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
- export const edit = async (req, res) => {
+export const edit = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
@@ -90,8 +90,8 @@ export const deleteFoodEntry = async (req, res) => {
     },
     data: {
       entryUserId,
-      inputDate,
-      expirationDate,
+      inputDate: new Date(inputDate),
+      expirationDate: new Date(expirationDate),
       weight,
       companyId,
       rackId,
