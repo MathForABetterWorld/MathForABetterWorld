@@ -53,7 +53,7 @@ const generateFakeData = async () => {
       companyId: distributorMap.get(entry.distributor).id,
     })
   );
-  const foodData = await prisma.foodEntry.createMany({ data: createEntryList });
+  const foodData = await prisma.pallot.createMany({ data: createEntryList });
 };
 
 try {

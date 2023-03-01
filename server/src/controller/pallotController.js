@@ -3,11 +3,11 @@ import prisma from "../../prisma/client.js";
 import { StatusCodes } from "http-status-codes";
 
 /**
- * Creates a food entry
+ * Creates a pallot
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const createFoodEntry = async (req, res) => {
+export const createPallot = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
@@ -22,7 +22,7 @@ export const createFoodEntry = async (req, res) => {
     description,
     categoryId,
   } = req.body;
-  const foodEntry = await prisma.foodEntry.create({
+  const Pallot = await prisma.Pallot.create({
     data: {
       entryUserId,
       inputDate: new Date(inputDate),
@@ -35,40 +35,40 @@ export const createFoodEntry = async (req, res) => {
       categoryId,
     },
   });
-  return res.status(StatusCodes.CREATED).json({ foodEntry });
+  return res.status(StatusCodes.CREATED).json({ Pallot });
 };
 
 /**
- * Gets list of food entrys
+ * Gets list of pallots
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const getFoodEntrys = async (req, res) => {
-  const foodEntry = await prisma.foodEntry.findMany();
-  return res.status(StatusCodes.ACCEPTED).json({ foodEntry });
+export const getPallots = async (req, res) => {
+  const Pallot = await prisma.Pallot.findMany();
+  return res.status(StatusCodes.ACCEPTED).json({ Pallot });
 };
 
 /**
- * Deletes a food entry
+ * Deletes a pallot
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const deleteFoodEntry = async (req, res) => {
+export const deletePallot = async (req, res) => {
   const id = parseInt(req.params.id, 10);
-  const foodEntry = await prisma.foodEntry.delete({
+  const Pallot = await prisma.Pallot.delete({
     where: {
       id,
     },
   });
-  return res.status(StatusCodes.ACCEPTED).json({ foodEntry });
+  return res.status(StatusCodes.ACCEPTED).json({ Pallot });
 };
 
 /**
- * Edits a food entry
+ * Edits a pallot
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const edit = async (req, res) => {
+ export const edit = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
@@ -84,14 +84,14 @@ export const edit = async (req, res) => {
     categoryId,
   } = req.body;
   const id = parseInt(req.params.id, 10);
-  const foodEntry = await prisma.foodEntry.update({
+  const Pallot = await prisma.Pallot.update({
     where: {
       id,
     },
     data: {
       entryUserId,
-      inputDate: new Date(inputDate),
-      expirationDate: new Date(expirationDate),
+      inputDate,
+      expirationDate,
       weight,
       companyId,
       rackId,
@@ -100,5 +100,5 @@ export const edit = async (req, res) => {
       categoryId,
     },
   });
-  return res.status(StatusCodes.ACCEPTED).json({ foodEntry });
+  return res.status(StatusCodes.ACCEPTED).json({ Pallot });
 };

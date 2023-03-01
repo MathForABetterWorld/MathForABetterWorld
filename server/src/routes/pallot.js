@@ -1,7 +1,7 @@
 import express from "express";
 import { checkToken } from "../util/middleware.js";
-import * as validator from "../util/foodEntryMiddleware.js";
-import * as controller from "../controller/foodEntryController.js";
+import * as validator from "../util/pallotMiddleware.js";
+import * as controller from "../controller/pallotController.js";
 import * as express_validator from "express-validator";
 
 const body = express_validator.body;
@@ -28,12 +28,12 @@ router.post(
   validator.isCategory,
   validator.isPositiveWeight,
   validator.isWarehouseTrue,
-  controller.createFoodEntry,
+  controller.createPallot,
 );
 
 router.post(
   "/edit/:id",
-  param('id', 'Please include an integer for foodEntryId').notEmpty().isInt(),
+  param('id', 'Please include an integer for pallotId').notEmpty().isInt(),
   body('entryUserId', 'Please include an integer for entryUserId').notEmpty().isInt(),
   body('inputDate', 'Please include a date for inputDate').notEmpty().isDate(),
   body('expirationDate', "Expiration Date must be a date").optional().isDate(),
@@ -53,13 +53,13 @@ router.post(
   controller.edit,
 );
 
-router.get("/", controller.getFoodEntrys);
+router.get("/", controller.getPallots);
 
 router.delete(
   "/:id", 
-  param('id', 'Please include an integer for foodEntryId').notEmpty().isInt(),
-  validator.isFoodEntryId, 
-  controller.deleteFoodEntry
+  param('id', 'Please include an integer for pallotId').notEmpty().isInt(),
+  validator.isPallotId, 
+  controller.deletePallot
 );
 
 export default router;
