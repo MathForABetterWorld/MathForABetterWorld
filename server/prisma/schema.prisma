@@ -41,7 +41,6 @@ model Pallot {
   inWarehouse    Boolean     @default(false)
   description    String?
   category       Category[]
-  categoryId     Int
 }
 
 model Distributor {
