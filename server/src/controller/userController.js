@@ -1,5 +1,6 @@
 // Here the functions relating to account db operations will occur
 import validate from "../util/checkValidation.js";
+import prisma from "../../prisma/client.js";
 import { StatusCodes } from "http-status-codes";
 
 export const create = async (req, res) => {

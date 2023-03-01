@@ -43,7 +43,8 @@ export const updateRack = async (req, res) => {
     return res;
   }
 
-  const { id, location, description, weightLimit } = req.body;
+  const id = parseInt(req.params.id, 10);
+  const { location, description, weightLimit } = req.body;
   const rack = await prisma.rack.update({
     where: {
       id,

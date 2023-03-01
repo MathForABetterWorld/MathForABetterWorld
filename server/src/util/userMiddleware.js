@@ -8,7 +8,7 @@ export const isUniqueEmail = async (req, res, next) => {
       email,
     },
   });
-  if (query !== null || query !== undefined) {
+  if (query !== null && query !== undefined) {
     return res
       .status(StatusCodes.CONFLICT)
       .json({ msg: "ERROR: email already exists with a user" });

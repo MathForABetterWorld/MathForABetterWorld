@@ -11,29 +11,32 @@ const router = express.Router();
 
 router.post(
   "/",
+  body("location", "Include location identifier").notEmpty().isString(),
+  body("description", "Include a location description").notEmpty().isString(),
+  body("weightLimit", "Weight limit must be a float").optional().isFloat(),
   validator.isUniqueLocation,
+  validator.weightIsPositive,
   controller.createRack
 );
 
-router.get("/", controller.getDistributors);
+router.get("/", controller.getRack);
 
 router.delete(
   "/:id",
-  param('id', 'Please include an integer for id').notEmpty().isInt(),
+  param("id", "Please include an integer for id").notEmpty().isInt(),
   validator.isRackId, // this validator assumes your rackId is in the params, so either add it there or create a new middleware for checking it from the body
   controller.deleteRack
 );
 
 router.post(
   "/update/:id",
-  param('id', 'Please include an integer for id').notEmpty().isInt(),
-  body('location', 'location must be a string').notEmpty().isString(),
-  body('description', "description must be a string").notEmpty().isString(),
-  body('weightLimit', 'weightLimit must be a float').optional().isFloat(),
-  validator.isUniqueLocation,
+  param("id", "Please include an integer for id").notEmpty().isInt(),
+  body("location", "location must be a string").notEmpty().isString(),
+  body("description", "description must be a string").notEmpty().isString(),
+  body("weightLimit", "weightLimit must be a float").optional().isFloat(),
+  validator.isUniqueLocationNotId,
   validator.isRackId, // this validator assumes your rackId is in the params, so either add it there or create a new middleware for checking it from the body
   controller.updateRack
 );
-
 
 export default router;
