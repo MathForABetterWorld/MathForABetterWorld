@@ -11,8 +11,8 @@ datasource db {
 }
 
 model User {
-  id            Int         @id @default(autoincrement())
-  email         String      @unique
+  id            Int      @id @default(autoincrement())
+  email         String   @unique
   name          String
   checkedPallot Pallot[]
   shiftsWorked  Shift[]
@@ -36,7 +36,7 @@ model Pallot {
   weight         Float       @default(0)
   company        Distributor @relation(fields: [companyId], references: [id])
   companyId      Int
-  rack           Rack?        @relation(fields: [rackId], references: [id])
+  rack           Rack?       @relation(fields: [rackId], references: [id])
   rackId         Int?
   inWarehouse    Boolean     @default(false)
   description    String?
@@ -44,22 +44,22 @@ model Pallot {
 }
 
 model Distributor {
-  id               Int         @id @default(autoincrement())
-  name             String      @unique
+  id               Int      @id @default(autoincrement())
+  name             String   @unique
   distributedEntry Pallot[]
 }
 
 model Rack {
-  id          Int         @id @default(autoincrement())
+  id          Int      @id @default(autoincrement())
   location    String // 1A, 2B, etc
   description String
   weightLimit Float?
-  pallot   Pallot[]
+  pallot      Pallot[]
 }
 
 model Category {
-  id          Int         @id @default(autoincrement())
+  id          Int      @id @default(autoincrement())
   name        String
   description String
-  pallot   Pallot[]
+  pallot      Pallot[]
 }
