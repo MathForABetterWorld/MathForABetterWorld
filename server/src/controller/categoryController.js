@@ -71,33 +71,37 @@ export const deleteCategory = async (req, res) => {
   return res.status(StatusCodes.ACCEPTED).json({ category });
 };
 
-
-
 /**
  * Is virtually the same as categoryController.js getCategory()
  * Task: query: list of categories in the warehouse #38
+ *
+ * This is effectively the same query you had before.
+ * It just returns all categories, since a pallot will never be removed
+ * from the DB as we need to track the total weight and history.
+ * To check if something is in the warehouse, you need to check the field
+ * inWarehouse and if it is true or false. This should be included in the
+ * findMany query for pallots. Additionally, there is no need to query for
+ * all the categories initially.
+ * Instead, create a set of categoryIds (like you are currently doing),
+ * and then query like so:
+ * categories = await prisma.findMany({where : {id: { in: categoryIds}, }, });
  */
 export const getCategoriesInWarehouse = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-
-  const [pallots, categories] = await Promise.all([prisma.pallot.findMany(), prisma.category.findMany()]);
-
-  let categoryIds_set = new Set(); // no duplicates
-  for (const pallot of pallots) {
-    for (const categoryIds of pallot.categoryIds) {
-      for (const categoryId of categoryIds) {
-        categoryIds_set.add(categoryId);
-      }
-    }
-  }
-  let categoriesInWarehouse = new Set(); // no duplicates 
-  for (const category of categories) {
-    if (categoryIds.has(category.id)) { // only add the categories that are in the warehouse
-      categoriesInWarehouse.add(category);
-    }
-  }
-  categoriesInWarehouse = Array.from(categoriesInWarehouse); // finally, convert set back to array
+  const pallots = await prisma.pallot.findMany({ 
+    where: {
+      inWarehouse: true, // only care about the categoryIds that are in the warehouse
+    },
+  });
+  const categoryIds_set = new Set(pallots.flatMap(pallot => pallot.categoryIds)); // set, no duplicates, constant read access
+  const categoriesInWarehouse = await prisma.category.findMany({
+    where: {
+      id: {
+        in: categoryIds_set,
+      },
+    },
+  });
   return res.status(StatusCodes.ACCEPTED).json({ categoriesInWarehouse });
 };
