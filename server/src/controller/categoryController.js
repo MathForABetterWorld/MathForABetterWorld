@@ -72,19 +72,9 @@ export const deleteCategory = async (req, res) => {
 };
 
 /**
- * Is virtually the same as categoryController.js getCategory()
- * Task: query: list of categories in the warehouse #38
- *
- * This is effectively the same query you had before.
- * It just returns all categories, since a pallot will never be removed
- * from the DB as we need to track the total weight and history.
- * To check if something is in the warehouse, you need to check the field
- * inWarehouse and if it is true or false. This should be included in the
- * findMany query for pallots. Additionally, there is no need to query for
- * all the categories initially.
- * Instead, create a set of categoryIds (like you are currently doing),
- * and then query like so:
- * categories = await prisma.findMany({where : {id: { in: categoryIds}, }, });
+ * READ only the categories that are in the warehouse
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
  */
 export const getCategoriesInWarehouse = async (req, res) => {
   if (validate(req, res)) {
