@@ -3,13 +3,28 @@ import prisma from "../../prisma/client.js";
 import { StatusCodes } from "http-status-codes";
 
 /**
- * Is virtually the same as categoryController.js getCategory() 
+ * Is virtually the same as categoryController.js getCategory()
  * Task: query: list of categories in the warehouse #38
  */
-export const getCategories = async (req, res) => {
+export const getCategoriesInWarehouse = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const categories = await prisma.category.findMany();
-  return res.status(StatusCodes.ACCEPTED).json({ categories });
+  const pallots = await prisma.pallot.findMany();
+  let categoryIds = new Set(); // no duplicates
+  for (const pallot of pallots) {
+    for (const categoryIds of pallot.categoryIds) {
+      for (const categoryId of categoryIds) {
+        categoryIds.add(categoryId);
+      }
+    }
+  }
+  let categoriesInWarehouse = new Set(); // no duplicates
+  const categories = await prisma.category.findMany(); // now that you have all the categories, filter out only the categories that are in the warehouse
+  for (const category of categories) {
+    if (categoryIds.has(category.id)) {
+      categoriesInWarehouse.push(category);
+    }
+  }
+  return res.status(StatusCodes.ACCEPTED).json({ categoriesInWarehouse });
 };

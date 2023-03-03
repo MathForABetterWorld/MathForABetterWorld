@@ -8,6 +8,6 @@ const body = express_validator.body;
 const param = express_validator.param;
 const router = express.Router(); // Guide: https://www.prisma.io/docs/concepts/components/prisma-client/crud
 
-router.get("/", controller.getCategories);
+router.get("/", controller.getCategoriesInWarehouse);
 
 export default router;
