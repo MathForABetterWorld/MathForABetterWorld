@@ -102,3 +102,17 @@ export const deletePallot = async (req, res) => {
   });
   return res.status(StatusCodes.ACCEPTED).json({ Pallot });
 };
+
+
+/**
+ * Gets total count of pallots
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+export const getPallotsCount = async (req, res) => {
+  if (validate(req,res)){
+    return res;
+  }
+  const pallotsCount = await prisma.Pallot.count();
+  return res.status(StatusCodes.OK).json({ pallotsCount });
+};
