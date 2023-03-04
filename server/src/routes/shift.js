@@ -37,4 +37,8 @@ router.post(
   controller.updateShift
 );
 
+// get total number of hours worked accross all volunteers
+router.get("/totalVolunteerHours", controller.getTotalHoursWorked);
+
+
 export default router;
