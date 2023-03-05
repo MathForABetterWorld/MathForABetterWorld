@@ -135,6 +135,25 @@ export const deletePallot = async (req, res) => {
 
 
 /**
+ * returns data with weight per day
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+ export const returnWeightPerDay = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const groupWeight = await prisma.Pallot.groupBy({
+    by: ['inputDate'],
+    _sum: {
+      weight,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ groupWeight });
+ };
+
+
+/**
  * Gets total count of pallots
  * @param {object} req - request for the course
  * @param {object} res - response for the request
@@ -146,3 +165,4 @@ export const getPallotsCount = async (req, res) => {
   const pallotsCount = await prisma.Pallot.count();
   return res.status(StatusCodes.OK).json({ pallotsCount });
 };
+

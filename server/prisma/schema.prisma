@@ -31,7 +31,7 @@ model Pallot {
   id             Int         @id @default(autoincrement())
   entryUser      User        @relation(fields: [entryUserId], references: [id])
   entryUserId    Int
-  inputDate      DateTime    @default(now())
+  inputDate      DateTime    @default(now()) @db.Date
   expirationDate DateTime?   @db.Date
   weight         Float       @default(0)
   company        Distributor @relation(fields: [companyId], references: [id])
