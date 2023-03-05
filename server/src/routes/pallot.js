@@ -53,7 +53,10 @@ router.post(
   controller.edit,
 );
 
-router.get("/", controller.getPallots);
+// get total number of pallots function from pallotController.js 
+router.get("/totalNumberOfPallots", controller.getPallotsCount);
+
+router.get("/soonestExpiringPallot", controller.getSoonestExpiringPallot);
 
 router.delete(
   "/:id", 
@@ -62,8 +65,12 @@ router.delete(
   controller.deletePallot
 );
 
+
 router.get("/category/:categoryId", controller.getPallotsForCategory);
 
 router.get("/categories/:id", controller.getCategoriesForPallot);
+
+router.get("/weightperday", controller.returnWeightPerDay);
+
 
 export default router;
