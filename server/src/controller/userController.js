@@ -28,3 +28,29 @@ export const update = async (req, res) => {
   const user = await prisma.user.update({ where: { id }, data: { email } });
   return res.status(StatusCodes.ACCEPTED).json({ user });
 };
+
+/**
+ * Gets total volunteer hours worked for a specific "user"
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+export const getTotalUserHours = async (req, res) => {
+  if (validate(req,res)){
+    return res;
+  }
+  const userId = parseInt(req.params.userId); // request as input a user id
+  const userHours = await prisma.shift.aggregate({
+    where: {
+      userId: userId // filter the shift table based on the input user id
+    },
+    _sum: {
+      duration: {
+        _divide: [
+          { _subtract: ["end", "start"] }, // subtract outimes difference in milliseconds 
+          3600000 // convert milliseconds to hours
+        ]
+      }
+    }
+  });
+  return res.status(StatusCodes.OK).json({ userHours });
+};
