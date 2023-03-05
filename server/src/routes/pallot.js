@@ -55,6 +55,8 @@ router.post(
 
 router.get("/", controller.getPallots);
 
+router.get("/soonestExpiringPallot", controller.getSoonestExpiringPallot);
+
 router.delete(
   "/:id", 
   param('id', 'Please include an integer for pallotId').notEmpty().isInt(),
