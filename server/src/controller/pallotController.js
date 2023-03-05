@@ -58,6 +58,9 @@ export const getSoonestExpiringPallot = async (req, res) => {
   const Pallots = await prisma.pallot.findMany({ // only care about pallots that are in the warehouse
     where: {
       inWarehouse: true,
+    },
+    orderBy: {
+      expirationDate: "asc" // I assume this sorts in ascending order
     }
   });
   if (Pallots.length === 0) {
@@ -66,11 +69,11 @@ export const getSoonestExpiringPallot = async (req, res) => {
     });
   }
   let soonestExpiringPallot = Pallots[0] 
-  for (const Pallot of Pallots) {
-    if (Pallot.expirationDate < soonestExpiringPallot.expirationDate) {
-      soonestExpiringPallot = Pallot
-    }
-  }
+  // for (const Pallot of Pallots) {
+  //   if (Pallot.expirationDate < soonestExpiringPallot.expirationDate) {
+  //     soonestExpiringPallot = Pallot
+  //   }
+  // }
   return res.status(StatusCodes.ACCEPTED).json({ soonestExpiringPallot });
 };
 
