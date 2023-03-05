@@ -62,4 +62,6 @@ router.delete(
   controller.deletePallot
 );
 
+router.get("/weightperday", controller.returnWeightPerDay);
+
 export default router;
