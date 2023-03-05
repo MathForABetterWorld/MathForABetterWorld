@@ -53,7 +53,8 @@ router.post(
   controller.edit,
 );
 
-router.get("/", controller.getPallots);
+// get total number of pallots function from pallotController.js 
+router.get("/totalNumberOfPallots", controller.getPallotsCount);
 
 router.get("/soonestExpiringPallot", controller.getSoonestExpiringPallot);
 
