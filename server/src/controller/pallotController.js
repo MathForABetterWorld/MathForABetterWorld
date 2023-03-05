@@ -49,6 +49,36 @@ export const getPallots = async (req, res) => {
 };
 
 /**
+ * Gets the soonest expiring pallot
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+export const getSoonestExpiringPallot = async (req, res) => {
+  
+  const Pallots = await prisma.pallot.findMany({ // only care about pallots that are in the warehouse
+    where: {
+      inWarehouse: true,
+    },
+    orderBy: {
+      expirationDate: "asc" // I assume this sorts in ascending order
+    }
+  });
+  if (Pallots.length === 0) {
+    return res.status(StatusCodes.NOT_FOUND).json({
+      message: "No pallots in warehouse found",
+    });
+  }
+  let soonestExpiringPallot = Pallots[0] 
+  // for (const Pallot of Pallots) {
+  //   if (Pallot.expirationDate < soonestExpiringPallot.expirationDate) {
+  //     soonestExpiringPallot = Pallot
+  //   }
+  // }
+  return res.status(StatusCodes.ACCEPTED).json({ soonestExpiringPallot });
+};
+
+
+/**
  * Deletes a pallot
  * @param {object} req - request for the course
  * @param {object} res - response for the request
@@ -103,6 +133,7 @@ export const deletePallot = async (req, res) => {
   return res.status(StatusCodes.ACCEPTED).json({ Pallot });
 };
 
+
 /**
  * returns data with weight per day
  * @param {object} req - request for the course
@@ -120,3 +151,18 @@ export const deletePallot = async (req, res) => {
   });
   return res.status(StatusCodes.ACCEPTED).json({ groupWeight });
  };
+
+
+/**
+ * Gets total count of pallots
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+export const getPallotsCount = async (req, res) => {
+  if (validate(req,res)){
+    return res;
+  }
+  const pallotsCount = await prisma.Pallot.count();
+  return res.status(StatusCodes.OK).json({ pallotsCount });
+};
+
