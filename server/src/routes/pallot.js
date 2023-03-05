@@ -65,6 +65,12 @@ router.delete(
   controller.deletePallot
 );
 
+
+router.get("/category/:categoryId", controller.getPallotsForCategory);
+
+router.get("/categories/:id", controller.getCategoriesForPallot);
+
 router.get("/weightperday", controller.returnWeightPerDay);
+
 
 export default router;

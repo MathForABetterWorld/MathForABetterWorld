@@ -133,6 +133,51 @@ export const deletePallot = async (req, res) => {
   return res.status(StatusCodes.ACCEPTED).json({ Pallot });
 };
 
+/**
+ * gets all pallots containing a specific category
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+export const getPallotsForCategory = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const categoryId = parseInt(req.params.categoryId, 10);
+  const Pallot = await prisma.Pallot.findMany({
+    where: {
+      categoryIds: {
+        has: categoryId
+      }
+    }
+  })
+  return res.status(StatusCodes.ACCEPTED).json({ Pallot });
+};
+
+/**
+ * gets every category in a pallot
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+export const getCategoriesForPallot = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const id = parseInt(req.params.id, 10);
+  const Pallot = await prisma.Pallot.findUnique({
+    where: {
+      id,
+    }
+  })
+  const categories = await prisma.category.findMany({
+    where: {
+      id: {
+        in: Pallot.categoryIds,
+      }
+    }
+  })
+  return res.status(StatusCodes.ACCEPTED).json({ categories });
+};
+
 
 /**
  * returns data with weight per day
