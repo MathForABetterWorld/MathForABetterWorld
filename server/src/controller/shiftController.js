@@ -80,18 +80,48 @@ export const deleteShift = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const getTotalHoursWorked = async (req, res) => {
-  if (validate(req,res)){
+  if (validate(req, res)) {
     return res;
   }
   const totalHours = await prisma.shift.aggregate({
     _sum: {
       duration: {
         _divide: [
-          { _subtract: ["end", "start"] }, // subtract outputs time in milliseconds 
-          3600000 // convert milliseconds to hours
-        ]
-      }
-    }
+          { _subtract: ["end", "start"] }, // subtract outputs time in milliseconds
+          3600000, // convert milliseconds to hours
+        ],
+      },
+    },
   });
   return res.status(StatusCodes.OK).json({ totalHours }); // changed to OK status code?
+};
+
+export const signout = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const { id, foodTaken } = req.body;
+  const end = new Date();
+  const shift = await prisma.shift.update({
+    where: {
+      id,
+    },
+    data: {
+      end,
+      foodTaken,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ shift });
+};
+
+export const getActiveShifts = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const activateShifts = await prisma.shift.findMany({
+    where: {
+      end: null,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ activateShifts });
 };
