@@ -23,8 +23,9 @@ model Shift {
   user      User     @relation(fields: [userId], references: [id])
   userId    Int
   start     DateTime @default(now())
-  end       DateTime
+  end       DateTime?
   foodTaken Float    @default(0)
+  duration  Float?   
 }
 
 model Pallot {

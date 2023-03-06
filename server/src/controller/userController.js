@@ -59,22 +59,26 @@ export const update = async (req, res) => {
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const getTotalUserHours = async (req, res) => {
+export const getTotalUserHours = async (req, res, userId) => {
   if (validate(req,res)){
     return res;
   }
   const userId = parseInt(req.params.userId); // request as input a user id
   const userHours = await prisma.shift.aggregate({
     where: {
-      userId: userId // filter the shift table based on the input user id
+      userId: userId, // filter the shift table based on the input user id
+      not: [{
+        end: null
+      }]
     },
     _sum: {
-      duration: {
-        _divide: [
-          { _subtract: ["end", "start"] }, // subtract outimes difference in milliseconds 
-          3600000 // convert milliseconds to hours
-        ]
-      }
+      duration
+      // : {
+      //   _divide: [
+      //     { _subtract: ["end", "start"] }, // subtract outimes difference in milliseconds 
+      //     3600000 // convert milliseconds to hours
+      //   ]
+      // }
     }
   });
   return res.status(StatusCodes.OK).json({ userHours });
