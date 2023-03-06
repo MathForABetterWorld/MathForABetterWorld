@@ -15,7 +15,7 @@ model User {
   email         String   @unique
   name          String
   checkedPallot Pallot[]
-  exportedItems Exports[]
+  exportedItems ExportItem[]
   shiftsWorked  Shift[]
 }
 
@@ -45,7 +45,7 @@ model Pallot {
   barcodes       Int[]
 }
 
-model Exports {
+model ExportItem {
   id         Int      @id @default(autoincrement())
   weight     Float    @default(0)
   exportDate DateTime @default(now()) @db.Date
@@ -74,5 +74,5 @@ model Category {
   id          Int       @id @default(autoincrement())
   name        String
   description String
-  exports     Exports[]
+  exports     ExportItem[]
 }

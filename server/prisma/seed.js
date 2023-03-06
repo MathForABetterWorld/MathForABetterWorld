@@ -78,7 +78,9 @@ const generateFakeData = async () => {
       donatedTo: exportItem.donatedTo,
     })
   );
-  const exports = await prisma.exports.createMany({ data: createExportsList });
+  const exports = await prisma.exportItem.createMany({
+    data: createExportsList,
+  });
 };
 
 try {
