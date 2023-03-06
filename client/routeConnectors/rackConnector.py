@@ -1,6 +1,7 @@
 import urllib3
+import rootName
 
-root = "http://???"
+root = rootName.root
 curPath = "/api/rack"
 
 http = urllib3.PoolManager()

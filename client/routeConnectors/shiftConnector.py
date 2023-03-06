@@ -1,6 +1,7 @@
 import urllib3
+import rootName
 
-root = "http://???"
+root = rootName.root
 curPath = "/api/shift"
 
 http = urllib3.PoolManager()
