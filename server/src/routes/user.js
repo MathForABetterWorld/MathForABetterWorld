@@ -20,6 +20,8 @@ router.post(
 
 router.get("/", controller.get);
 
+router.get("/userWhoWorkedTheMostHours", controller.getUserWhoWorkedTheMostHours)
+
 router.post(
   "/update",
   body("email", "Email is required").notEmpty().isEmail(),

@@ -20,6 +20,31 @@ export const get = async (req, res) => {
   return res.status(StatusCodes.ACCEPTED).json({ users });
 };
 
+export const getUserWhoWorkedTheMostHours = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const users = await prisma.user.findMany({
+    include: {
+      shiftsWorked: true
+    }
+  });
+
+  const hashmap = new Map(); // my decision to use Map() instead of POJO {} was arbitrary
+  let maxHoursSeen = 0;
+  for (const User of users) {
+    let totalHours = 0;
+    for (const shift of User.shiftsWorked) {
+      totalHours += (shift.end - shift.start);
+    }
+    hashmap.set(totalHours, User);
+    maxHoursSeen = Math.max(maxHoursSeen, totalHours);
+  }
+  let userWhoWorkedTheMostHours = hashmap.get(maxHoursSeen); 
+
+  return res.status(StatusCodes.ACCEPTED).json({ userWhoWorkedTheMostHours });
+};
+
 export const update = async (req, res) => {
   if (validate(req, res)) {
     return res;
