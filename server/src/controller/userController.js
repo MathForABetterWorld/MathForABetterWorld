@@ -25,10 +25,8 @@ export const getUserWhoWorkedTheMostHours = async (req, res) => {
     return res;
   }
   const users = await prisma.user.findMany({
-    where: {
-      shiftsWorked: {
-        isEmpty: false, // we only want users who have worked at least one shift 
-      }
+    include: {
+      shiftsWorked: true
     }
   });
 
