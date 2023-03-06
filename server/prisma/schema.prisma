@@ -15,6 +15,7 @@ model User {
   email         String   @unique
   name          String
   checkedPallot Pallot[]
+  exportedItems Exports[]
   shiftsWorked  Shift[]
 }
 
@@ -44,6 +45,17 @@ model Pallot {
   barcodes       Int[]
 }
 
+model Exports {
+  id         Int      @id @default(autoincrement())
+  weight     Float    @default(0)
+  exportDate DateTime @default(now()) @db.Date
+  category   Category @relation(fields: [categoryId], references: [id])
+  categoryId Int
+  donatedTo  String
+  user       User     @relation(fields: [userId], references: [id])
+  userId     Int
+}
+
 model Distributor {
   id               Int      @id @default(autoincrement())
   name             String   @unique
@@ -59,7 +71,8 @@ model Rack {
 }
 
 model Category {
-  id          Int      @id @default(autoincrement())
+  id          Int       @id @default(autoincrement())
   name        String
   description String
+  exports     Exports[]
 }

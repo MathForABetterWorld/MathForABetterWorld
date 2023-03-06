@@ -54,21 +54,21 @@ export const getPallots = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const getSoonestExpiringPallot = async (req, res) => {
-  
-  const Pallots = await prisma.pallot.findMany({ // only care about pallots that are in the warehouse
+  const Pallots = await prisma.pallot.findMany({
+    // only care about pallots that are in the warehouse
     where: {
       inWarehouse: true,
     },
     orderBy: {
-      expirationDate: "asc" // I assume this sorts in ascending order
-    }
+      expirationDate: "asc", // I assume this sorts in ascending order
+    },
   });
   if (Pallots.length === 0) {
     return res.status(StatusCodes.NOT_FOUND).json({
       message: "No pallots in warehouse found",
     });
   }
-  let soonestExpiringPallot = Pallots[0] 
+  let soonestExpiringPallot = Pallots[0];
   // for (const Pallot of Pallots) {
   //   if (Pallot.expirationDate < soonestExpiringPallot.expirationDate) {
   //     soonestExpiringPallot = Pallot
@@ -76,7 +76,6 @@ export const getSoonestExpiringPallot = async (req, res) => {
   // }
   return res.status(StatusCodes.ACCEPTED).json({ soonestExpiringPallot });
 };
-
 
 /**
  * Deletes a pallot
@@ -98,7 +97,7 @@ export const deletePallot = async (req, res) => {
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
- export const edit = async (req, res) => {
+export const edit = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
@@ -146,10 +145,10 @@ export const getPallotsForCategory = async (req, res) => {
   const Pallot = await prisma.Pallot.findMany({
     where: {
       categoryIds: {
-        has: categoryId
-      }
-    }
-  })
+        has: categoryId,
+      },
+    },
+  });
   return res.status(StatusCodes.ACCEPTED).json({ Pallot });
 };
 
@@ -166,37 +165,35 @@ export const getCategoriesForPallot = async (req, res) => {
   const Pallot = await prisma.Pallot.findUnique({
     where: {
       id,
-    }
-  })
+    },
+  });
   const categories = await prisma.category.findMany({
     where: {
       id: {
         in: Pallot.categoryIds,
-      }
-    }
-  })
+      },
+    },
+  });
   return res.status(StatusCodes.ACCEPTED).json({ categories });
 };
-
 
 /**
  * returns data with weight per day
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
- export const returnWeightPerDay = async (req, res) => {
+export const returnWeightPerDay = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
   const groupWeight = await prisma.Pallot.groupBy({
-    by: ['inputDate'],
+    by: ["inputDate"],
     _sum: {
       weight,
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ groupWeight });
- };
-
+};
 
 /**
  * Gets total count of pallots
@@ -204,10 +201,45 @@ export const getCategoriesForPallot = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const getPallotsCount = async (req, res) => {
-  if (validate(req,res)){
+  if (validate(req, res)) {
     return res;
   }
   const pallotsCount = await prisma.Pallot.count();
   return res.status(StatusCodes.OK).json({ pallotsCount });
 };
 
+// export const getExportsInDuration = async (req, res) => {
+//   const { duration } = req.params;
+//   const startDate = new Date();
+//   if (duration === "day") {
+//     startDate.setDate(startDate.getDate() - 1);
+//   } else if (duration == "week") {
+//     startDate.setDate(startDate.getDate() - 7);
+//   } else if (duration == "month") {
+//     startDate.setMonth(startDate.getMonth() - 1);
+//   } else {
+//     startDate.setFullYear(startDate.getFullYear() - 1);
+//   }
+//   startDate.setUTCHours(0);
+//   startDate.setUTCMinutes(0);
+//   startDate.setUTCSeconds(0);
+//   startDate.setUTCMilliseconds(0);
+//   const pallots = await prisma.pallot.findMany({
+//     where: {
+//       exportDate: {
+//         gte: startDate,
+//       },
+//     },
+//   });
+//   const totalWeight = await prisma.pallot.aggregate({
+//     _sum: {
+//       weight: true,
+//     },
+//     where: {
+//       exportDate: {
+//         gte: startDate,
+//       },
+//     },
+//   });
+//   return res.status(StatusCodes.OK).json({ pallots, totalWeight });
+//};
