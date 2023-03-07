@@ -26,7 +26,7 @@ router.post(
     .notEmpty()
     .isBoolean(),
   body("description", "Description is a string").optional().isString(),
-  body("categoryId", "Please include an integer for categoryId")
+  body("categoryIds", "Please include an integer for categoryId")
     .notEmpty()
     .isInt(),
   validator.isExpired,
@@ -56,7 +56,7 @@ router.post(
     .notEmpty()
     .isBoolean(),
   body("description", "Description is a string").optional().isString(),
-  body("categoryId", "Please include an integer for categoryId")
+  body("categoryIds", "Please include an integer for categoryId")
     .notEmpty()
     .isInt(),
   validator.isExpired,
@@ -87,12 +87,12 @@ router.get("/categories/:id", controller.getCategoriesForPallot);
 
 router.get("/weightperday", controller.returnWeightPerDay);
 
-// router.get(
-//   "/exports/:duration",
-//   param("duration", "Duration must be a param for this query")
-//     .notEmpty()
-//     .isIn(["day", "week", "month", "year"]),
-//   controller.getExportsInDuration
-// );
+router.post(
+  "/removePallot",
+  body("id", "Please include an integer for pallotId").notEmpty().isInt(),
+  validator.isPallotIdBody,
+  validator.notInWarehouse,
+  controller.removePallot
+);
 
 export default router;

@@ -53,3 +53,32 @@ export const editExport = async (req, res) => {
   });
   return res.status(StatusCodes.CREATED).json({ exportItem });
 };
+
+export const getExportsInDuration = async (req, res) => {
+  const { duration } = req.params;
+  const startDate = new Date();
+  if (duration === "day") {
+    startDate.setDate(startDate.getDate() - 1);
+  } else if (duration === "week") {
+    startDate.setDate(startDate.getDate() - 7);
+  } else if (duration === "month") {
+    startDate.setMonth(startDate.getMonth() - 1);
+  } else {
+    startDate.setFullYear(startDate.getFullYear() - 1);
+  }
+  startDate.setUTCHours(0);
+  startDate.setUTCMinutes(0);
+  startDate.setUTCSeconds(0);
+  startDate.setUTCMilliseconds(0);
+  const exportTotalInDuration = await prisma.exportItem.aggregate({
+    _sum: {
+      weight: true,
+    },
+    where: {
+      exportDate: {
+        gte: startDate,
+      },
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ exportTotalInDuration });
+};

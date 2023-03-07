@@ -62,3 +62,11 @@ router.post(
   validator.isCategoryId,
   controller.createExport
 );
+
+router.get(
+  "/inPast/:duration",
+  param("duration", "Please include a duration filter")
+    .notEmpty()
+    .isIn(["day", "week", "month", "year"]),
+  controller.getExportsInDuration
+);

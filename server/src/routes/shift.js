@@ -50,4 +50,12 @@ router.get("/totalVolunteerHours", controller.getTotalHoursWorked);
 
 router.get("/activeshifts", controller.getActiveShifts);
 
+router.get("/totalFoodToVolunteers", controller.getTotalFoodGivenToVolunteers);
+
+router.get(
+  "/startDate/:startDate/endDate/:endDate",
+  validator.startIsBeforEnd,
+  controller.getShiftsInRange
+);
+
 export default router;

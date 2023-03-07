@@ -110,7 +110,7 @@ export const edit = async (req, res) => {
     rackId,
     inWarehouse,
     description,
-    categoryId,
+    categoryIds,
   } = req.body;
   const id = parseInt(req.params.id, 10);
   const Pallot = await prisma.Pallot.update({
@@ -126,7 +126,7 @@ export const edit = async (req, res) => {
       rackId,
       inWarehouse,
       description,
-      categoryId,
+      categoryIds,
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ Pallot });
@@ -208,38 +208,19 @@ export const getPallotsCount = async (req, res) => {
   return res.status(StatusCodes.OK).json({ pallotsCount });
 };
 
-// export const getExportsInDuration = async (req, res) => {
-//   const { duration } = req.params;
-//   const startDate = new Date();
-//   if (duration === "day") {
-//     startDate.setDate(startDate.getDate() - 1);
-//   } else if (duration == "week") {
-//     startDate.setDate(startDate.getDate() - 7);
-//   } else if (duration == "month") {
-//     startDate.setMonth(startDate.getMonth() - 1);
-//   } else {
-//     startDate.setFullYear(startDate.getFullYear() - 1);
-//   }
-//   startDate.setUTCHours(0);
-//   startDate.setUTCMinutes(0);
-//   startDate.setUTCSeconds(0);
-//   startDate.setUTCMilliseconds(0);
-//   const pallots = await prisma.pallot.findMany({
-//     where: {
-//       exportDate: {
-//         gte: startDate,
-//       },
-//     },
-//   });
-//   const totalWeight = await prisma.pallot.aggregate({
-//     _sum: {
-//       weight: true,
-//     },
-//     where: {
-//       exportDate: {
-//         gte: startDate,
-//       },
-//     },
-//   });
-//   return res.status(StatusCodes.OK).json({ pallots, totalWeight });
-//};
+export const removePallot = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const { id } = req.body;
+  const pallot = await prisma.Pallot.update({
+    where: {
+      id,
+    },
+    data: {
+      inWarehouse: false,
+      rackId: null,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ pallot });
+};

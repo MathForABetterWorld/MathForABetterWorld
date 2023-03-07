@@ -69,3 +69,16 @@ export const isValidTimeShift = async (req, res, next) => {
     next();
   }
 };
+
+export const startIsBeforEnd = async (req, res, next) => {
+  const { startDate, endDate } = req.params;
+  const start = new Date(startDate);
+  const end = new Date(endDate);
+  if (start >= end) {
+    return res
+      .status(StatusCodes.BAD_REQUEST)
+      .json({ msg: "ERROR: start must be before end" });
+  } else {
+    next();
+  }
+};
