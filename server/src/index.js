@@ -9,6 +9,7 @@ import category from "./routes/category.js";
 import rack from "./routes/rack.js";
 import shift from "./routes/shift.js";
 import exportsRoutes from "./routes/exports.js";
+import auth from "./routes/auth.js";
 
 import { globalErrorHandler } from "./util/middleware.js";
 
@@ -24,6 +25,7 @@ app.get("/", (req, res) => {
 });
 
 // Routing (API endpoints)
+app.use("/", auth);
 app.use("/api", user);
 app.use("/api/distributor", distributor);
 app.use("/api/pallot", pallot);

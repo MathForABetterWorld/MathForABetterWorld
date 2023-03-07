@@ -26,8 +26,8 @@ export const getUserWhoWorkedTheMostHours = async (req, res) => {
   }
   const users = await prisma.user.findMany({
     include: {
-      shiftsWorked: true
-    }
+      shiftsWorked: true,
+    },
   });
 
   const hashmap = new Map(); // my decision to use Map() instead of POJO {} was arbitrary
@@ -35,12 +35,12 @@ export const getUserWhoWorkedTheMostHours = async (req, res) => {
   for (const User of users) {
     let totalHours = 0;
     for (const shift of User.shiftsWorked) {
-      totalHours += (shift.end - shift.start);
+      totalHours += shift.end - shift.start;
     }
     hashmap.set(totalHours, User);
     maxHoursSeen = Math.max(maxHoursSeen, totalHours);
   }
-  let userWhoWorkedTheMostHours = hashmap.get(maxHoursSeen); 
+  let userWhoWorkedTheMostHours = hashmap.get(maxHoursSeen);
 
   return res.status(StatusCodes.ACCEPTED).json({ userWhoWorkedTheMostHours });
 };
@@ -60,26 +60,28 @@ export const update = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const getTotalUserHours = async (req, res, userId) => {
-  if (validate(req,res)){
+  if (validate(req, res)) {
     return res;
   }
-  const userId = parseInt(req.params.userId); // request as input a user id
+  const id = parseInt(req.params.userId); // request as input a user id
   const userHours = await prisma.shift.aggregate({
     where: {
-      userId: userId, // filter the shift table based on the input user id
-      not: [{
-        end: null
-      }]
+      userId: id, // filter the shift table based on the input user id
+      not: [
+        {
+          end: null,
+        },
+      ],
     },
     _sum: {
-      duration
+      duration,
       // : {
       //   _divide: [
-      //     { _subtract: ["end", "start"] }, // subtract outimes difference in milliseconds 
+      //     { _subtract: ["end", "start"] }, // subtract outimes difference in milliseconds
       //     3600000 // convert milliseconds to hours
       //   ]
       // }
-    }
+    },
   });
   return res.status(StatusCodes.OK).json({ userHours });
 };
