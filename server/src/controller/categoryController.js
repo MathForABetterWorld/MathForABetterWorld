@@ -70,3 +70,28 @@ export const deleteCategory = async (req, res) => {
   });
   return res.status(StatusCodes.ACCEPTED).json({ category });
 };
+
+/**
+ * READ only the categories that are in the warehouse
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+export const getCategoriesInWarehouse = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const pallots = await prisma.pallot.findMany({ 
+    where: {
+      inWarehouse: true, // only care about the categoryIds that are in the warehouse
+    },
+  });
+  const categoryIds_set = new Set(pallots.flatMap(pallot => pallot.categoryIds)); // set, no duplicates, constant read access
+  const categoriesInWarehouse = await prisma.category.findMany({
+    where: {
+      id: {
+        in: categoryIds_set,
+      },
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ categoriesInWarehouse });
+};

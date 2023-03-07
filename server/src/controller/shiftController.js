@@ -73,3 +73,63 @@ export const deleteShift = async (req, res) => {
   });
   return res.status(StatusCodes.ACCEPTED).json({ shift });
 };
+
+/**
+ * Gets total volunteer hours worked accross all shifts
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+export const getTotalHoursWorked = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const totalHours = await prisma.shift.aggregate({
+    _sum: {
+      duration: {
+        _divide: [
+          { _subtract: ["end", "start"] }, // subtract outputs time in milliseconds
+          3600000, // convert milliseconds to hours
+        ],
+      },
+    },
+  });
+  return res.status(StatusCodes.OK).json({ totalHours }); // changed to OK status code?
+};
+
+export const getTotalFoodGivenToVolunteers = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const totalFoodToVolunteers = await prisma.shift.aggregate({
+    _sum: {
+      foodTaken: true,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ totalFoodToVolunteers });
+};
+
+export const getShiftsInRange = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const { startDate, endDate } = req.params;
+  const startObj = new Date(startDate);
+  const endObj = new Date(endDate);
+  const shifts = await prisma.shift.findMany({
+    where: {
+      AND: [
+        {
+          start: {
+            lte: endObj,
+          },
+        },
+        {
+          start: {
+            gte: startObj,
+          },
+        },
+      ],
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ shifts });
+};

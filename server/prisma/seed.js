@@ -1,6 +1,12 @@
 import { faker } from "@faker-js/faker";
 import prisma from "./client.js";
-import { categoryList, usersList, entries, distributorList } from "./data.js";
+import {
+  categoryList,
+  usersList,
+  entries,
+  distributorList,
+  exportsList,
+} from "./data.js";
 
 const generateFakeUsers = async (numFakeUsers) => {
   for (let index = 0; index < numFakeUsers; index++) {
@@ -20,17 +26,25 @@ const generateFakeData = async () => {
   // await prisma.user.deleteMany();
   // await generateFakeUsers(3);
   const userMap = new Map();
+  const userSet = new Set();
   const createUsers = [];
   usersList.forEach((user) => {
-    createUsers.push({ name: user, email: user + "@gmail.com" });
+    if (!userSet.has(user)) {
+      createUsers.push({ name: user, email: user + "@gmail.com" });
+      userSet.add(user);
+    }
   });
   await prisma.user.createMany({ data: createUsers });
   const users = await prisma.user.findMany();
   users.forEach((user) => userMap.set(user.name, user));
   const createCats = [];
   const categoryMap = new Map();
+  const categorySet = new Set();
   categoryList.forEach((category) => {
-    createCats.push({ name: category, description: category });
+    if (!categorySet.has(category)) {
+      createCats.push({ name: category, description: category });
+      categorySet.add(category);
+    }
   });
   await prisma.Category.createMany({ data: createCats });
   const categories = await prisma.Category.findMany();
@@ -49,11 +63,24 @@ const generateFakeData = async () => {
       entryUserId: userMap.get(entry.name).id,
       inputDate: new Date(entry.date),
       weight: entry.weight,
-      categoryId: categoryMap.get(entry.category).id,
+      categoryIds: [categoryMap.get(entry.category).id],
       companyId: distributorMap.get(entry.distributor).id,
     })
   );
-  const foodData = await prisma.foodEntry.createMany({ data: createEntryList });
+  const foodData = await prisma.pallot.createMany({ data: createEntryList });
+  const createExportsList = [];
+  exportsList.forEach((exportItem) =>
+    createExportsList.push({
+      userId: userMap.get(exportItem.name).id,
+      exportDate: new Date(exportItem.date),
+      weight: exportItem.weight,
+      categoryId: categoryMap.get(exportItem.category).id,
+      donatedTo: exportItem.donatedTo,
+    })
+  );
+  const exports = await prisma.exportItem.createMany({
+    data: createExportsList,
+  });
 };
 
 try {

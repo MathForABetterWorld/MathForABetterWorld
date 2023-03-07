@@ -20,6 +20,8 @@ router.post(
 
 router.get("/", controller.get);
 
+router.get("/userWhoWorkedTheMostHours", controller.getUserWhoWorkedTheMostHours)
+
 router.post(
   "/update",
   body("email", "Email is required").notEmpty().isEmail(),
@@ -28,4 +30,6 @@ router.post(
   controller.update
 );
 
+// get total number of hours worked accross all volunteers
+router.get("/totalUserHours", controller.getTotalUserHours);
 export default router;

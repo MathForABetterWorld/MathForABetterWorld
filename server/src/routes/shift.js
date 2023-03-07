@@ -37,4 +37,15 @@ router.post(
   controller.updateShift
 );
 
+// get total number of hours worked accross all volunteers
+router.get("/totalVolunteerHours", controller.getTotalHoursWorked);
+
+router.get("/totalFoodToVolunteers", controller.getTotalFoodGivenToVolunteers);
+
+router.get(
+  "/startDate/:startDate/endDate/:endDate",
+  validator.startIsBeforEnd,
+  controller.getShiftsInRange
+);
+
 export default router;

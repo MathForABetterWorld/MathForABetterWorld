@@ -2,14 +2,14 @@ import prisma from "../../prisma/client.js";
 import { StatusCodes } from "http-status-codes";
 
 /**
- * checks if the food being entered exists
+ * checks if the pallot being entered exists
  * @param {object} req - request
  * @param {object} res - response
  * @param {object} next - call back function
  */
-export const isFoodEntryId = async (req, res, next) => {
+export const isPallotId = async (req, res, next) => {
   const id = parseInt(req.params.id, 10);
-  const query = await prisma.foodEntry.findUnique({
+  const query = await prisma.pallot.findUnique({
     where: {
       id,
     },
@@ -17,7 +17,22 @@ export const isFoodEntryId = async (req, res, next) => {
   if (query === null || query === undefined) {
     return res
       .status(StatusCodes.CONFLICT)
-      .json({ msg: "ERROR: food id does not exist" });
+      .json({ msg: "ERROR: pallot id does not exist" });
+  } else {
+    next();
+  }
+};
+export const isPallotIdBody = async (req, res, next) => {
+  const { id } = req.body;
+  const query = await prisma.pallot.findUnique({
+    where: {
+      id,
+    },
+  });
+  if (query === null || query === undefined) {
+    return res
+      .status(StatusCodes.CONFLICT)
+      .json({ msg: "ERROR: pallot id does not exist" });
   } else {
     next();
   }
@@ -33,10 +48,10 @@ export const isExpired = (req, res, next) => {
   const { expirationDate, inputDate } = req.body;
   const exp = new Date(expirationDate);
   const input = new Date(inputDate);
-  input.setDate(input.getDate());
+  input.setDate(input.getDate() + 4);
   if (exp.getTime() < input.getTime()) {
     res.status(StatusCodes.BAD_REQUEST).json({
-      msg: "ERROR: expiration date has passed",
+      msg: "ERROR: expiration date has passed or is less than 4 days away",
     });
   } else {
     next();
@@ -97,19 +112,18 @@ export const isRack = async (req, res, next) => {
   const { rackId } = req.body;
   if (rackId === null || rackId === undefined) {
     next();
+  }
+  const query = await prisma.rack.findUnique({
+    where: {
+      id: rackId,
+    },
+  });
+  if (query === null || query === undefined) {
+    return res
+      .status(StatusCodes.CONFLICT)
+      .json({ msg: "ERROR: rack does not exist" });
   } else {
-    const query = await prisma.rack.findUnique({
-      where: {
-        id: rackId,
-      },
-    });
-    if (query === null || query === undefined) {
-      return res
-        .status(StatusCodes.CONFLICT)
-        .json({ msg: "ERROR: rack does not exist" });
-    } else {
-      next();
-    }
+    next();
   }
 };
 
@@ -120,10 +134,12 @@ export const isRack = async (req, res, next) => {
  * @param {object} next - call back function
  */
 export const isCategory = async (req, res, next) => {
-  const { categoryId } = req.body;
-  const query = await prisma.category.findUnique({
+  const { categoryIds } = req.body;
+  const query = await prisma.category.findMany({
     where: {
-      id: categoryId,
+      id: {
+        in: categoryIds,
+      },
     },
   });
   if (query === null || query === undefined) {
@@ -162,20 +178,30 @@ export const isWarehouseTrue = (req, res, next) => {
   const { inWarehouse, rackId } = req.body;
   if (
     ((rackId === null || rackId === undefined) && !inWarehouse) ||
-    ((rackId !== null || rackId !== undefined) && inWarehouse)
+    (rackId !== null && rackId !== undefined && inWarehouse)
   ) {
     next();
+  } else if (!inWarehouse) {
+    res.status(StatusCodes.CONFLICT).json({
+      msg: "ERROR: cannot be on a rack but not in the warehouse",
+    });
+  } else if (inWarehouse) {
+    res.status(StatusCodes.CONFLICT).json({
+      msg: "ERROR: cannot be in the warehouse without a rack",
+    });
   } else {
-    if (!inWarehouse) {
-      res.status(StatusCodes.CONFLICT).json({
-        msg: "ERROR: cannot be on a rack but not in the warehouse",
-      });
-    } else if (inWarehouse) {
-      res.status(StatusCodes.CONFLICT).json({
-        msg: "ERROR: cannot be in the warehouse without a rack",
-      });
-    } else {
-      next();
-    }
+    next();
+  }
+};
+
+export const notInWarehouse = async (req, res, next) => {
+  const { id } = req.body;
+  const pallot = await prisma.pallot.findUnique({ where: { id } });
+  if (!pallot.inWarehouse) {
+    return res.status(StatusCodes.BAD_REQUEST).json({
+      msg: "ERROR: cannot remove a pallot that is already been removed!",
+    });
+  } else {
+    next();
   }
 };
