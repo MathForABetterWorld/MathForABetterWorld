@@ -22,6 +22,9 @@ router.post(`${endpoint}`, async (req, res, next) => {
     debug(`Looking up ${username} in the database...`);
     const user = await prisma.employee.findUnique({
       where: { userName: username },
+      include: {
+        user: true,
+      },
     });
 
     if (!user) {

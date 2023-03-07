@@ -25,7 +25,7 @@ export const checkToken = (req, res, next) => {
           .status(StatusCodes.FORBIDDEN)
           .json({ msg: "Token is not valid" });
       }
-      req.id = decoded.employee.id;
+      req.id = decoded.user.id;
       next();
     });
   } catch (err) {

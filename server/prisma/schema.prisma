@@ -28,7 +28,7 @@ model Employee {
   userName       String @unique
   hashedPassword String
   token          String?
-  role           Role
+  role           Role   @default(Employee)
 }
 
 model Shift {

@@ -1,4 +1,10 @@
 import { isPrismaError, prismaErrorToHttpError } from "./helpers.js";
+import { factory } from "./debug.js";
+import { createToken, decodeToken } from "./token.js";
+import ApiError from "../model/ApiError.js";
+import prisma from "../../prisma/client.js";
+
+const debug = factory(import.meta.url);
 
 // export const checkToken = (req, res, next) => {
 //   const bearerHeader = req.headers["authorization"];
@@ -48,7 +54,7 @@ export const checkToken = async (req, res, next) => {
       `Attaching user and token (and its decoded expirtation date) to the req object`
     );
     req.user = userInfo;
-    req.id = userInfo.id;
+    req.id = userInfo.user.id;
     req.token = {
       value: token,
       expiresIn: exp,
