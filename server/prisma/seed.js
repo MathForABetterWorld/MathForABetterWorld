@@ -1,5 +1,7 @@
 import { faker } from "@faker-js/faker";
 import prisma from "./client.js";
+import { Role } from "@prisma/client";
+import { hashPassword } from "../src/util/password.js";
 import {
   categoryList,
   usersList,
@@ -80,6 +82,59 @@ const generateFakeData = async () => {
   );
   const exports = await prisma.exportItem.createMany({
     data: createExportsList,
+  });
+  const chris = await prisma.user.create({
+    data: {
+      email: "chris@gmail.com",
+      name: "Chris Wilhelm",
+    },
+  });
+  const jamie = await prisma.user.create({
+    data: {
+      email: "jamie@gmail.com",
+      name: "Jamie Stelnik",
+    },
+  });
+  const krutal = await prisma.user.create({
+    data: {
+      email: "krutal@gmail.com",
+      name: "Krutal Patel",
+    },
+  });
+  const tim = await prisma.user.create({
+    data: {
+      email: "tim@gmail.com",
+      name: "Tim",
+    },
+  });
+
+  const employee = await prisma.employee.createMany({
+    data: [
+      {
+        userId: chris.id,
+        userName: "chris",
+        hashedPassword: hashPassword("chris"),
+        role: Role.Admin,
+      },
+      {
+        userId: jamie.id,
+        userName: "jamie",
+        hashedPassword: hashPassword("jamie"),
+        role: Role.Admin,
+      },
+      {
+        userId: krutal.id,
+        userName: "krutal",
+        hashedPassword: hashPassword("krutal"),
+        role: Role.Admin,
+      },
+      {
+        userId: tim.id,
+        userName: "tim",
+        hashedPassword: hashPassword("tim"),
+        role: Role.Admin,
+      },
+    ],
   });
 };
 
