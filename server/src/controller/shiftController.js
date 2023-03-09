@@ -96,6 +96,36 @@ export const getTotalHoursWorked = async (req, res) => {
   return res.status(StatusCodes.OK).json({ totalHours }); // changed to OK status code?
 };
 
+export const signout = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const { id, foodTaken } = req.body;
+  const end = new Date();
+  const shift = await prisma.shift.update({
+    where: {
+      id,
+    },
+    data: {
+      end,
+      foodTaken,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ shift });
+};
+
+export const getActiveShifts = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const activateShifts = await prisma.shift.findMany({
+    where: {
+      end: null,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ activateShifts });
+};
+
 export const getTotalFoodGivenToVolunteers = async (req, res) => {
   if (validate(req, res)) {
     return res;

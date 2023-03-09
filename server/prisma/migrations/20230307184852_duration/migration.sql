@@ -1,3 +1,0 @@
--- AlterTable
-ALTER TABLE "Shift" ADD COLUMN     "duration" DOUBLE PRECISION,
-ALTER COLUMN "end" DROP NOT NULL;

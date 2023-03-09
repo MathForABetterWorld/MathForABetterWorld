@@ -1,14 +1,77 @@
 import { isPrismaError, prismaErrorToHttpError } from "./helpers.js";
+import { factory } from "./debug.js";
+import { createToken, decodeToken } from "./token.js";
+import ApiError from "../model/ApiError.js";
+import prisma from "../../prisma/client.js";
 
-export const checkToken = (req, res, next) => {
-  const bearerHeader = req.headers["authorization"];
-  if (bearerHeader) {
+const debug = factory(import.meta.url);
+
+// export const checkToken = (req, res, next) => {
+//   const bearerHeader = req.headers["authorization"];
+//   if (bearerHeader) {
+//     const bearer = bearerHeader.split(" ");
+//     const token = bearer[1];
+//     // check the token or attach it to the request object!
+//     req.token = token;
+//   }
+//   next();
+// };
+
+export const checkToken = async (req, res, next) => {
+  debug(`checkToken is called!`);
+  try {
+    const bearerHeader = req.headers["authorization"];
+    debug(`Read the authorization header...`);
+    if (!bearerHeader) {
+      throw new ApiError(401, "No authorization token was provided!");
+    }
+    debug(`Extract the token from auth header...`);
     const bearer = bearerHeader.split(" ");
     const token = bearer[1];
-    // check the token or attach it to the request object!
-    req.token = token;
+
+    debug(`Decoding the token ...`);
+    const { iat, exp, ...userInfo } = decodeToken(token);
+    const account = await prisma.employee.findUnique({
+      where: {
+        id: userInfo.id,
+      },
+      include: {
+        user: true,
+      },
+    });
+    if (account == null || account == undefined) {
+      throw new ApiError(404, "Authorization token not found!");
+    } else if (
+      account.userName != userInfo.userName ||
+      account.user.name != userInfo.user.name ||
+      account.user.email != userInfo.user.email
+    ) {
+      throw new ApiError(401, "Invalid Authorization token was provided!");
+    }
+    debug(`Token belongs to ${userInfo.username}`);
+
+    debug(
+      `Attaching user and token (and its decoded expirtation date) to the req object`
+    );
+    req.user = userInfo;
+    req.id = userInfo.user.id;
+    req.token = {
+      value: token,
+      expiresIn: exp,
+      issuedAt: iat,
+    };
+    debug(`checkToken is done!`);
+    next();
+  } catch (err) {
+    debug(`Error in checkToken: ${JSON.stringify(err, null, 2)}`);
+    if (err && err.name === "TokenExpiredError") {
+      next(new ApiError(401, "Authorization token expired!"));
+    } else if (err && err.name === "JsonWebTokenError") {
+      next(new ApiError(401, `Authorization error ${err.message}`));
+    } else {
+      next(err);
+    }
   }
-  next();
 };
 
 export const globalErrorHandler = (err, req, res, next) => {
