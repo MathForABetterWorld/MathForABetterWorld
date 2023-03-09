@@ -8,9 +8,9 @@ import json
 st.set_page_config(page_title="Filter By", page_icon="📈")
 
 # Opening JSON file
-catFile = open('assets/fakeCategories.json')
-sortFile = open('assets/sortBy.json')
-distFile = open('assets/distributors.json')
+catFile = open('../assets/fakeCategories.json')
+sortFile = open('../assets/sortBy.json')
+distFile = open('../assets/distributors.json')
   
 # load categories and sortBy map 
 categories = json.load(catFile)["categories"]
