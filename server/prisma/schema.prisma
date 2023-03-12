@@ -14,7 +14,7 @@ model User {
   id            Int          @id @default(autoincrement())
   email         String       @unique
   name          String
-  checkedPallot Pallot[]
+  checkedPallet Pallet[]
   exportedItems ExportItem[]
   shiftsWorked  Shift[]
   employee      Employee?
@@ -41,7 +41,7 @@ model Shift {
   duration  Float?
 }
 
-model Pallot {
+model Pallet {
   id             Int         @id @default(autoincrement())
   entryUser      User        @relation(fields: [entryUserId], references: [id])
   entryUserId    Int
@@ -72,7 +72,7 @@ model ExportItem {
 model Distributor {
   id               Int      @id @default(autoincrement())
   name             String   @unique
-  distributedEntry Pallot[]
+  distributedEntry Pallet[]
 }
 
 model Rack {
@@ -80,7 +80,7 @@ model Rack {
   location    String // 1A, 2B, etc
   description String
   weightLimit Float?
-  pallot      Pallot[]
+  pallet      Pallet[]
 }
 
 model Category {
