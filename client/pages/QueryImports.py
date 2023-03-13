@@ -3,14 +3,16 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import json
+import os
 
+path = os.path.dirname(__file__)
 # This has to be the first streamlit command called
 st.set_page_config(page_title="Filter By", page_icon="📈")
 
 # Opening JSON file
-catFile = open('../assets/fakeCategories.json')
-sortFile = open('../assets/sortBy.json')
-distFile = open('../assets/distributors.json')
+catFile = open(path + '/../assets/fakeCategories.json')
+sortFile = open(path + '/../assets/sortBy.json')
+distFile = open(path + '/../assets/distributors.json')
   
 # load categories and sortBy map 
 categories = json.load(catFile)["categories"]
