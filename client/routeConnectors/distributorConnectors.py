@@ -1,8 +1,8 @@
 import urllib3
-import rootName
+from .rootName import root
 import json
 
-root = rootName.root
+#root = rootName.root
 curPath = "/api/distributor"
 
 http = urllib3.PoolManager()
