@@ -9,13 +9,15 @@ from data import imports, exports
 import numpy as np
 import seaborn as sb
 import json
+from routeConnectors import pallet
 
 st.markdown("# Baltimore Community Foods")
 st.sidebar.markdown("# Baltimore Community Foods")
 
+pallets = json.loads(pallet.getFood())
 Exports = pd.read_csv('Exports.csv')
-Imports = pd.read_csv('Imports.csv')
-
+#Imports = pd.read_json(pallets["Pallet"])#pd.read_csv('Imports.csv')
+Imports = pd.DataFrame(pallets["Pallet"])
 pallet_weights = Exports["Weight of pallet"].dropna().values.tolist()
 cum_weights = []
 for num_str in pallet_weights:
@@ -29,14 +31,14 @@ for num_str in pallet_weights:
 
 #st.line_chart(cum_weights)
 
-food_provider = Imports["Where is the food coming from? "].dropna().tolist()
+food_provider = Imports["companyId"].dropna().tolist()
 food_provider = set(food_provider)
 
 food_provider = defaultdict(float)
 food_receiver = defaultdict(float)
 
-for i in imports:
-    food_provider[i['distributor']] += i['weight']
+for index, row in Imports.iterrows():
+    food_provider[row['company']["name"]] += row['weight']
 
 for i in exports:
     food_receiver[i['category']] += np.absolute(i['weight'])
@@ -114,7 +116,7 @@ tab1, tab2, tab3 = st.tabs(["Export totals", "Provider Imports", "Export Destina
 with tab1:
     st.line_chart(cum_weights)
 with tab2:
-    st.pyplot(fig1, theme="streamlit")
+    st.pyplot(fig1)
     #if st.button("See Full Distributor Import List")
     #    st.table(Imports_df)
     st.bar_chart(data=Imports_df, x="Provider", y="Provider Imports", use_container_width=True)

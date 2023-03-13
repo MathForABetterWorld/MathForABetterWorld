@@ -3,7 +3,7 @@ import streamlit as st
 import datetime
 from PIL import Image
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-from routeConnectors import foodEntry
+from routeConnectors import pallet
 import os
 
 path = os.path.dirname(__file__)
@@ -44,7 +44,7 @@ if submit:
     st.write(expiration_date)
 
     ### TODO:: update userID when sign in functionality is implemented
-    foodEntry.postFood(
+    pallet.postFood(
         "userID",
         todaysDate, 
         expiration_date, 

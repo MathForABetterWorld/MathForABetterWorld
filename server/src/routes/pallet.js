@@ -69,6 +69,8 @@ router.post(
   controller.edit
 );
 
+router.get("/", controller.getPallets);
+
 // get total number of pallets function from palletController.js
 router.get("/totalNumberOfPallets", controller.getPalletsCount);
 

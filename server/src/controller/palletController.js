@@ -44,7 +44,11 @@ export const createPallet = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const getPallets = async (req, res) => {
-  const Pallet = await prisma.Pallet.findMany();
+  const Pallet = await prisma.Pallet.findMany({
+    include: {
+      company: true,
+    },
+  });
   return res.status(StatusCodes.ACCEPTED).json({ Pallet });
 };
 

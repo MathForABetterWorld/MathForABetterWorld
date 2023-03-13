@@ -3,7 +3,7 @@ from .rootName import root
 import json
 
 #root = rootName.root
-curPath = "/api/food"
+curPath = "/api/pallet"
 
 http = urllib3.PoolManager()
 
