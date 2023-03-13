@@ -511,7 +511,6 @@ imports = [
 {"date": "2022-03-05 16:47:03.041000", "name": "JC", "weight": 533, "category": "Drinks ", "distributor": "Amazon"},
 {"date": "2022-03-05 16:47:22.785000", "name": "JC", "weight": 540, "category": "Assorted option", "distributor": "Amazon"},
 {"date": "2022-03-05 16:48:07.542000", "name": "JC", "weight": 246, "category": "Assorted option", "distributor": "Amazon"},
-{"date": "2022-03-05 16:50:30.242000", "name": "JC", "weight": JC, "category": "Dry goods", "distributor": "Amazon"},
 {"date": "2022-03-05 16:50:53.285000", "name": "JC", "weight": 628, "category": "Assorted option", "distributor": "Amazon"},
 {"date": "2022-03-06 12:59:40.021000", "name": "Ausar ", "weight": 54, "category": "Assorted option", "distributor": "Ausar’s Food donations"},
 {"date": "2022-03-06 16:25:28.841000", "name": "Dorja ", "weight": 185, "category": "Frozen", "distributor": "Amazon"},
