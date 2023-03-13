@@ -1,32 +1,32 @@
 import urllib3
-import rootName
+import json
 
-root = rootName.root
+root = "http://localhost:5000"
 curPath = "/api/category"
 
 http = urllib3.PoolManager()
 
 def getCategories():
-  r = http.request("GET", root + curPath + "/")
+  r = http.request("GET", root + curPath + "/", headers={'Content-Type': 'application/json'})
   return r.data
 
 def postCategory(name, desc):
-  f = {
+  f = json.dumps( {
     "name": name,
     "description": desc
-  }
-  r = http.request("POST", root + curPath + "/", fields=f)
-  return r.data
+  })
+  r = http.request("POST", root + curPath + "/", body=f, headers={'Content-Type': 'application/json'})
+  return r.data.decode('utf-8')
 
 def deleteCategory(idField):
-  r = http.request("DELETE", root + curPath + "/" + idField)
+  r = http.request("DELETE", root + curPath + "/" + idField, headers={'Content-Type': 'application/json'})
   return r.data
 
 def updateCategory(idField, name, desc):
-  f = {
+  f = json.dumps({
     "name": name,
     # "id": idField,
     "description": desc
-  }
-  r = http.request("POST", root + curPath + "/" + idField + "/" + "update", fields=f)
+  })
+  r = http.request("POST", root + curPath + "/" + idField + "/" + "update", body=f, headers={'Content-Type': 'application/json'})
   return r.data
