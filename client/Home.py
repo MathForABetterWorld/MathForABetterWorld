@@ -12,7 +12,7 @@ BASEURL = "http://????/api"
 path = os.path.dirname(__file__)
 st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo.png", page_title="Bmore Food")
 
-image = Image.open('./assets/bmore_food_logo.png')
+image = Image.open(path + '/assets/bmore_food_logo.png')
 col1, col2, col3 = st.columns(3)
 
 with col1:
