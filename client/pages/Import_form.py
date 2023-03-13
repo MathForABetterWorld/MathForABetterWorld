@@ -1,7 +1,7 @@
 # import pdfkit
 import streamlit as st
 import datetime
-
+from PIL import Image
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import urllib3
@@ -14,6 +14,15 @@ st.title("🍏 Bmore Food")
 st.write(
     "Food import form!"
 )
+
+image = Image.open('./assets/bmore_food_logo.png')
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.image(image)
+with col2:
+    st.markdown("<h1>Food import form</h1>", unsafe_allow_html=True)
+
 
 
 env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())

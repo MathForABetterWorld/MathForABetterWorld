@@ -2,23 +2,31 @@
 import streamlit as st
 import datetime
 import numpy as np
-
+from PIL import Image
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import urllib3
 http = urllib3.PoolManager() # define http 
 BASEURL = "http://????/api"
 
-st.set_page_config(layout="centered", page_icon="🍏", page_title="Bmore Food")
-# st.title("🍏 Bmore Food")
+st.set_page_config(layout="centered", page_icon="./assets/bmore_food_logo.png", page_title="Bmore Food")
 
-st.write(
-    "Bmore Food Home!"
-)
+image = Image.open('./assets/bmore_food_logo.png')
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.write(' ')
+
+with col2:
+    st.image(image)
+
+with col3:
+    st.write(' ')
+
+
 
 def importLineGraph():
     last_rows = np.random.randn(1, 1)
-    # chart = st.line_chart(last_rows)
 
     for i in range(1, 101):
         new_rows = last_rows[-1, :] + np.random.randn(5, 1).cumsum(axis=0)
