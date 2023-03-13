@@ -40,3 +40,9 @@ st.table(df)
 # this button is not connected to any other logic, it just causes a plain
 # rerun.
 st.button("Re-run")
+
+### TODO: Add totals / summary to bottom of table to see how much 
+# food one person / place has taken
+# Filter by time -- how much we've exported in the past month vs year
+# 
+###
