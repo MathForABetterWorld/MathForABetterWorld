@@ -1,7 +1,8 @@
 import urllib3
+import rootName
 import json
 
-root = "http://localhost:5000"
+root = rootName.root
 curPath = "/api/category"
 
 http = urllib3.PoolManager()

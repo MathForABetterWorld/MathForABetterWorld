@@ -1,5 +1,6 @@
 import urllib3
 import rootName
+import json
 
 root = rootName.root
 curPath = "/api/food"
@@ -7,11 +8,11 @@ curPath = "/api/food"
 http = urllib3.PoolManager()
 
 def getFood():
-  r = http.request("GET", root + curPath + "/")
+  r = http.request("GET", root + curPath + "/", headers={'Content-Type': 'application/json'})
   return r.data
 
 def postFood(entryUserId, inputDate, expirationDate, weight, companyId, rackId, inWarehouse, description, categoryId):
-  f = {
+  f = json.dumps({
     "entryUserId": entryUserId,
     "inputDate": inputDate,
     "expirationDate": expirationDate,
@@ -21,16 +22,16 @@ def postFood(entryUserId, inputDate, expirationDate, weight, companyId, rackId, 
     "inWarehouse": inWarehouse,
     "description": description,
     "categoryId": categoryId
-  }
-  r = http.request("POST", root + curPath + "/", fields=f)
-  return r.data
+  })
+  r = http.request("POST", root + curPath + "/", body=f, headers={'Content-Type': 'application/json'})
+  return r.data.decode('utf-8')
 
 def deleteFood(idField):
-  r = http.request("DELETE", root + curPath + "/" + idField)
+  r = http.request("DELETE", root + curPath + "/" + idField, headers={'Content-Type': 'application/json'})
   return r.data
 
 def updateFood(idField, entryUserId, inputDate, expirationDate, weight, companyId, rackId, inWarehouse, description, categoryId):
-  f = {
+  f = json.dumps({
     "entryUserId": entryUserId,
     "inputDate": inputDate,
     "expirationDate": expirationDate,
@@ -40,6 +41,6 @@ def updateFood(idField, entryUserId, inputDate, expirationDate, weight, companyI
     "inWarehouse": inWarehouse,
     "description": description,
     "categoryId": categoryId
-  }
-  r = http.request("POST", root + curPath + "/edit/" + idField, fields=f)
-  return r.data
+  })
+  r = http.request("POST", root + curPath + "/edit/" + idField, body=f, headers={'Content-Type': 'application/json'})
+  return r.data.decode('utf-8')
