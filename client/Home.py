@@ -4,12 +4,13 @@ import datetime
 import numpy as np
 from PIL import Image
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-
+import os
 import urllib3
 http = urllib3.PoolManager() # define http 
 BASEURL = "http://????/api"
 
-st.set_page_config(layout="centered", page_icon="./assets/bmore_food_logo.png", page_title="Bmore Food")
+path = os.path.dirname(__file__)
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo.png", page_title="Bmore Food")
 
 image = Image.open('./assets/bmore_food_logo.png')
 col1, col2, col3 = st.columns(3)
