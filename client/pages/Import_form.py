@@ -4,6 +4,9 @@ import datetime
 from PIL import Image
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from routeConnectors import foodEntry
+import os
+
+path = os.path.dirname(__file__)
 
 st.set_page_config(layout="centered", page_icon="🍏", page_title="Bmore Food")
 st.title("🍏 Bmore Food")
@@ -12,7 +15,7 @@ st.write(
     "Food import form!"
 )
 
-image = Image.open('./assets/bmore_food_logo.png')
+image = Image.open(path + '/../assets/bmore_food_logo.png')
 col1, col2, col3 = st.columns(3)
 
 with col1:
