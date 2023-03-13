@@ -2,14 +2,14 @@ import prisma from "../../prisma/client.js";
 import { StatusCodes } from "http-status-codes";
 
 /**
- * checks if the pallot being entered exists
+ * checks if the pallet being entered exists
  * @param {object} req - request
  * @param {object} res - response
  * @param {object} next - call back function
  */
-export const isPallotId = async (req, res, next) => {
+export const isPalletId = async (req, res, next) => {
   const id = parseInt(req.params.id, 10);
-  const query = await prisma.pallot.findUnique({
+  const query = await prisma.pallet.findUnique({
     where: {
       id,
     },
@@ -17,14 +17,14 @@ export const isPallotId = async (req, res, next) => {
   if (query === null || query === undefined) {
     return res
       .status(StatusCodes.CONFLICT)
-      .json({ msg: "ERROR: pallot id does not exist" });
+      .json({ msg: "ERROR: pallet id does not exist" });
   } else {
     next();
   }
 };
-export const isPallotIdBody = async (req, res, next) => {
+export const isPalletIdBody = async (req, res, next) => {
   const { id } = req.body;
-  const query = await prisma.pallot.findUnique({
+  const query = await prisma.pallet.findUnique({
     where: {
       id,
     },
@@ -32,7 +32,7 @@ export const isPallotIdBody = async (req, res, next) => {
   if (query === null || query === undefined) {
     return res
       .status(StatusCodes.CONFLICT)
-      .json({ msg: "ERROR: pallot id does not exist" });
+      .json({ msg: "ERROR: pallet id does not exist" });
   } else {
     next();
   }
@@ -196,10 +196,10 @@ export const isWarehouseTrue = (req, res, next) => {
 
 export const notInWarehouse = async (req, res, next) => {
   const { id } = req.body;
-  const pallot = await prisma.pallot.findUnique({ where: { id } });
-  if (!pallot.inWarehouse) {
+  const pallet = await prisma.pallet.findUnique({ where: { id } });
+  if (!pallet.inWarehouse) {
     return res.status(StatusCodes.BAD_REQUEST).json({
-      msg: "ERROR: cannot remove a pallot that is already been removed!",
+      msg: "ERROR: cannot remove a pallet that is already been removed!",
     });
   } else {
     next();

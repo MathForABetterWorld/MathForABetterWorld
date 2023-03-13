@@ -3,11 +3,11 @@ import prisma from "../../prisma/client.js";
 import { StatusCodes } from "http-status-codes";
 
 /**
- * Creates a pallot
+ * Creates a pallet
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const createPallot = async (req, res) => {
+export const createPallet = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
@@ -22,7 +22,7 @@ export const createPallot = async (req, res) => {
     description,
     categoryId,
   } = req.body;
-  const Pallot = await prisma.Pallot.create({
+  const Pallet = await prisma.Pallet.create({
     data: {
       entryUserId,
       inputDate: new Date(inputDate),
@@ -35,27 +35,27 @@ export const createPallot = async (req, res) => {
       categoryId,
     },
   });
-  return res.status(StatusCodes.CREATED).json({ Pallot });
+  return res.status(StatusCodes.CREATED).json({ Pallet });
 };
 
 /**
- * Gets list of pallots
+ * Gets list of pallets
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const getPallots = async (req, res) => {
-  const Pallot = await prisma.Pallot.findMany();
-  return res.status(StatusCodes.ACCEPTED).json({ Pallot });
+export const getPallets = async (req, res) => {
+  const Pallet = await prisma.Pallet.findMany();
+  return res.status(StatusCodes.ACCEPTED).json({ Pallet });
 };
 
 /**
- * Gets the soonest expiring pallot
+ * Gets the soonest expiring pallet
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const getSoonestExpiringPallot = async (req, res) => {
-  const Pallots = await prisma.pallot.findMany({
-    // only care about pallots that are in the warehouse
+export const getSoonestExpiringPallet = async (req, res) => {
+  const Pallets = await prisma.pallet.findMany({
+    // only care about pallets that are in the warehouse
     where: {
       inWarehouse: true,
     },
@@ -63,37 +63,37 @@ export const getSoonestExpiringPallot = async (req, res) => {
       expirationDate: "asc", // I assume this sorts in ascending order
     },
   });
-  if (Pallots.length === 0) {
+  if (Pallets.length === 0) {
     return res.status(StatusCodes.NOT_FOUND).json({
-      message: "No pallots in warehouse found",
+      message: "No pallets in warehouse found",
     });
   }
-  let soonestExpiringPallot = Pallots[0];
-  // for (const Pallot of Pallots) {
-  //   if (Pallot.expirationDate < soonestExpiringPallot.expirationDate) {
-  //     soonestExpiringPallot = Pallot
+  let soonestExpiringPallet = Pallets[0];
+  // for (const Pallet of Pallets) {
+  //   if (Pallet.expirationDate < soonestExpiringPallet.expirationDate) {
+  //     soonestExpiringPallet = Pallet
   //   }
   // }
-  return res.status(StatusCodes.ACCEPTED).json({ soonestExpiringPallot });
+  return res.status(StatusCodes.ACCEPTED).json({ soonestExpiringPallet });
 };
 
 /**
- * Deletes a pallot
+ * Deletes a pallet
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const deletePallot = async (req, res) => {
+export const deletePallet = async (req, res) => {
   const id = parseInt(req.params.id, 10);
-  const Pallot = await prisma.Pallot.delete({
+  const Pallet = await prisma.Pallet.delete({
     where: {
       id,
     },
   });
-  return res.status(StatusCodes.ACCEPTED).json({ Pallot });
+  return res.status(StatusCodes.ACCEPTED).json({ Pallet });
 };
 
 /**
- * Edits a pallot
+ * Edits a pallet
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
@@ -113,7 +113,7 @@ export const edit = async (req, res) => {
     categoryIds,
   } = req.body;
   const id = parseInt(req.params.id, 10);
-  const Pallot = await prisma.Pallot.update({
+  const Pallet = await prisma.Pallet.update({
     where: {
       id,
     },
@@ -129,40 +129,40 @@ export const edit = async (req, res) => {
       categoryIds,
     },
   });
-  return res.status(StatusCodes.ACCEPTED).json({ Pallot });
+  return res.status(StatusCodes.ACCEPTED).json({ Pallet });
 };
 
 /**
- * gets all pallots containing a specific category
+ * gets all pallets containing a specific category
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const getPallotsForCategory = async (req, res) => {
+export const getPalletsForCategory = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
   const categoryId = parseInt(req.params.categoryId, 10);
-  const Pallot = await prisma.Pallot.findMany({
+  const Pallet = await prisma.Pallet.findMany({
     where: {
       categoryIds: {
         has: categoryId,
       },
     },
   });
-  return res.status(StatusCodes.ACCEPTED).json({ Pallot });
+  return res.status(StatusCodes.ACCEPTED).json({ Pallet });
 };
 
 /**
- * gets every category in a pallot
+ * gets every category in a pallet
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const getCategoriesForPallot = async (req, res) => {
+export const getCategoriesForPallet = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
   const id = parseInt(req.params.id, 10);
-  const Pallot = await prisma.Pallot.findUnique({
+  const Pallet = await prisma.Pallet.findUnique({
     where: {
       id,
     },
@@ -170,7 +170,7 @@ export const getCategoriesForPallot = async (req, res) => {
   const categories = await prisma.category.findMany({
     where: {
       id: {
-        in: Pallot.categoryIds,
+        in: Pallet.categoryIds,
       },
     },
   });
@@ -186,7 +186,7 @@ export const returnWeightPerDay = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const groupWeight = await prisma.Pallot.groupBy({
+  const groupWeight = await prisma.Pallet.groupBy({
     by: ["inputDate"],
     _sum: {
       weight,
@@ -196,24 +196,24 @@ export const returnWeightPerDay = async (req, res) => {
 };
 
 /**
- * Gets total count of pallots
+ * Gets total count of pallets
  * @param {object} req - request for the course
  * @param {object} res - response for the request
  */
-export const getPallotsCount = async (req, res) => {
+export const getPalletsCount = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const pallotsCount = await prisma.Pallot.count();
-  return res.status(StatusCodes.OK).json({ pallotsCount });
+  const palletsCount = await prisma.Pallet.count();
+  return res.status(StatusCodes.OK).json({ palletsCount });
 };
 
-export const removePallot = async (req, res) => {
+export const removePallet = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
   const { id } = req.body;
-  const pallot = await prisma.Pallot.update({
+  const pallet = await prisma.Pallet.update({
     where: {
       id,
     },
@@ -222,5 +222,5 @@ export const removePallot = async (req, res) => {
       rackId: null,
     },
   });
-  return res.status(StatusCodes.ACCEPTED).json({ pallot });
+  return res.status(StatusCodes.ACCEPTED).json({ pallet });
 };

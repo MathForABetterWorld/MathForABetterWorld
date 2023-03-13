@@ -80,12 +80,14 @@ export const getCategoriesInWarehouse = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const pallots = await prisma.pallot.findMany({ 
+  const pallets = await prisma.pallet.findMany({
     where: {
       inWarehouse: true, // only care about the categoryIds that are in the warehouse
     },
   });
-  const categoryIds_set = new Set(pallots.flatMap(pallot => pallot.categoryIds)); // set, no duplicates, constant read access
+  const categoryIds_set = new Set(
+    pallets.flatMap((pallet) => pallet.categoryIds)
+  ); // set, no duplicates, constant read access
   const categoriesInWarehouse = await prisma.category.findMany({
     where: {
       id: {
