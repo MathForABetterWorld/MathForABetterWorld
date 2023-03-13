@@ -3,10 +3,7 @@ import streamlit as st
 import datetime
 from PIL import Image
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-
-import urllib3
-http = urllib3.PoolManager() # define http 
-BASEURL = "http://????/api"
+from routeConnectors import foodEntry
 
 st.set_page_config(layout="centered", page_icon="🍏", page_title="Bmore Food")
 st.title("🍏 Bmore Food")
@@ -32,7 +29,7 @@ todaysDate = datetime.date.today()
 with st.form("template_form"):
     left, right = st.columns(2)
     expiration_date = left.date_input("Expiration date", value=datetime.date(2023, 1, 1))
-    distributer_name = left.selectbox("Distributor name", ["Dole", "Amazon", ""])
+    distributor_name = left.selectbox("Distributor name", ["Dole", "Amazon", ""])
     rack = right.text_input("Rack", value="12") # get more info on how racks are stored in the google form 
     pallet_weight = left.text_input("Weight", value="1000")
     category = right.selectbox("Category", ["Dairy", "Produce"])
@@ -40,27 +37,20 @@ with st.form("template_form"):
     submit = st.form_submit_button()
 
 if submit:
-    data = {
-        "entryUserId": "userid",
-        "inputDate": todaysDate, 
-        "expirationDate": expiration_date,
-        "weight": pallet_weight,
-        "companyId": distributer_name,
-        "rackId": rack, 
-        "inWarehouse": True,
-        "description": description,
-        "categoryId": category
-    }
     st.balloons()
     st.write(expiration_date)
-    
-    r = http.request(
-        'POST',
-        'http://{BASEURL}/food',
-        fields=data
-    )
 
-    r.status
+    ### TODO:: update userID when sign in functionality is implemented
+    foodEntry.postFood(
+        "userID",
+        todaysDate, 
+        expiration_date, 
+        pallet_weight, 
+        distributor_name,
+        rack,
+        True,
+        description,
+        category)
 
     
     st.success("🎉 Your import was generated!")
