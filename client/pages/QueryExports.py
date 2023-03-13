@@ -17,7 +17,14 @@ categories = json.load(catFile)["categories"]
 sortByMap = json.load(sortFile)["sortBy"]
 recList = json.load(recFile)["recipients"]
 
-st.markdown("# Query exports")
+title_container = st.container()
+col1, col2 = st.columns([1, 50])
+with title_container:
+    with col1:
+        st.image('./assets/bmore_food_logo.png', width=60)
+    with col2:
+        st.markdown("<h1 style='text-align: center; '>Query exports</h1>", unsafe_allow_html=True)
+
 
 categorySelect = st.selectbox("Show all food of type", categories)
 recSelect = st.selectbox("Show all food going to", recList)
