@@ -4,6 +4,9 @@ import datetime
 from PIL import Image
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from routeConnectors import pallet
+from routeConnectors import distributorConnectors
+from routeConnectors import rackConnector
+from routeConnectors import categoryConnectors
 import os
 
 path = os.path.dirname(__file__)
@@ -11,6 +14,25 @@ path = os.path.dirname(__file__)
 st.set_page_config(layout="centered", page_icon="./assets/bmore_food_logo.png", page_title="Import Form")
 image = Image.open('./assets/bmore_food_logo.png')
 
+# Get rack, distributor and category info 
+print("getting racks....")
+allRacks = [1, 2, 3, 4, 5, 6]
+rackRes = rackConnector.getRacks()
+if rackRes: 
+    allRacks = allRacks + rackRes["rack"]
+
+print("getting distributors....")
+allDistributors = [{"id": -1, "name": ""}]
+distRes = distributorConnectors.getDistributors()
+if distRes: 
+    allDistributors = allDistributors + distRes["distributors"]
+
+print("getting categories....")
+allCategories = [{"id": -1, "name": "", "description":""}] 
+catRes = categoryConnectors.getCategories()
+if catRes: 
+    allCategories = allCategories + catRes["category"]
+# print("all cats", allCategories)
 
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
@@ -28,16 +50,16 @@ todaysDate = datetime.date.today()
 with st.form("template_form"):
     left, right = st.columns(2)
     expiration_date = left.date_input("Expiration date", value=datetime.date(2023, 1, 1))
-    distributor_name = left.selectbox("Distributor name", ["Dole", "Amazon", ""])
-    rack = right.text_input("Rack", value="12") # get more info on how racks are stored in the google form 
+    distributor_name = left.selectbox("Distributor name", allDistributors, format_func=lambda dist: f'{dist["name"]}')
+    rack = right.selectbox("Rack", allRacks) # get more info on how racks are stored in the google form 
     pallet_weight = left.text_input("Weight", value="1000")
-    category = right.selectbox("Category", ["Dairy", "Produce"])
+    category = right.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
     description = st.text_input("Description", value="")
     submit = st.form_submit_button()
 
 if submit:
     st.balloons()
-    st.write(expiration_date)
+    st.write(type(expiration_date))
 
     ### TODO:: update userID when sign in functionality is implemented
     pallet.postFood(
@@ -48,8 +70,7 @@ if submit:
         distributor_name,
         rack,
         True,
-        description,
+        (description if description != "" else category["description"]),
         category)
 
-    
     st.success("🎉 Your import was generated!")

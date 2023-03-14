@@ -22,6 +22,7 @@ export const createPallet = async (req, res) => {
     description,
     categoryId,
   } = req.body;
+  console.log("createpallet called: ", req.body)
   const Pallet = await prisma.Pallet.create({
     data: {
       entryUserId,

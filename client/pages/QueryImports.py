@@ -4,10 +4,34 @@ import numpy as np
 import pandas as pd
 import json
 import os
+from routeConnectors import pallet
+from routeConnectors import distributorConnectors
+from routeConnectors import rackConnector
+from routeConnectors import categoryConnectors
 
 path = os.path.dirname(__file__)
 # This has to be the first streamlit command called
 st.set_page_config(layout="centered", page_icon="./assets/bmore_food_logo.png", page_title="Query imports")
+
+# Get rack, distributor and category info 
+print("getting racks....")
+allRacks = [1, 2, 3, 4, 5, 6]
+rackRes = rackConnector.getRacks()
+if rackRes: 
+    allRacks = allRacks + rackRes["rack"]
+
+print("getting distributors....")
+allDistributors = [{"id": -1, "name": ""}]
+distRes = distributorConnectors.getDistributors()
+if distRes: 
+    allDistributors = allDistributors + distRes["distributors"]
+
+print("getting categories....")
+allCategories = [{"id": -1, "name": "", "description":""}] 
+catRes = categoryConnectors.getCategories()
+if catRes: 
+    allCategories = allCategories + catRes["category"]
+# print("all cats", allCategories)
 
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
@@ -18,23 +42,22 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Query imports</h1>", unsafe_allow_html=True)
 
 # Opening JSON file
-catFile = open(path + '/../assets/fakeCategories.json')
 sortFile = open(path + '/../assets/sortBy.json')
-distFile = open(path + '/../assets/distributors.json')
   
-# load categories and sortBy map 
-categories = json.load(catFile)["categories"]
+# load sortBy map 
 sortByMap = json.load(sortFile)["sortBy"]
-distList = json.load(distFile)["distributors"]
 
 
-categorySelect = st.selectbox("Show all food of type", categories)
-distributorSelect = st.selectbox("Show all food coming from", distList)
+categorySelect = st.selectbox("Show all food of type", allCategories, format_func=lambda cat: f'{cat["name"]}')
+categorySelect = st.selectbox("Show all food currently on rack", allRacks)
+distributorSelect = st.selectbox("Show all food coming from", allDistributors, format_func=lambda dist: f'{dist["name"]}')
 sortBySelect = st.selectbox("Sort food imports by", sortByMap)
 
-df = pd.DataFrame(
-   np.random.randn(10, 5),
-   columns=('col %d' % i for i in range(5)))
+
+allPallets = pallet.getFood()["Pallet"]
+print("allPallets: ", allPallets[:10])
+df = pd.DataFrame.from_dict(allPallets)
+
 
 # # Uncomment this when connected to backend 
 # df = df.sort_values(by=[sortByMap[sortBySelect]])

@@ -1,6 +1,7 @@
 import urllib3
 from .rootName import root
 import json
+import ast
 
 #root = rootName.root
 curPath = "/api/category"
@@ -9,7 +10,7 @@ http = urllib3.PoolManager()
 
 def getCategories():
   r = http.request("GET", root + curPath + "/", headers={'Content-Type': 'application/json'})
-  return r.data
+  return ast.literal_eval(r.data.decode('utf-8'))
 
 def postCategory(name, desc):
   f = json.dumps( {
