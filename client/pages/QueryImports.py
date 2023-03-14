@@ -7,7 +7,15 @@ import os
 
 path = os.path.dirname(__file__)
 # This has to be the first streamlit command called
-st.set_page_config(page_title="Filter By", page_icon="📈")
+st.set_page_config(layout="centered", page_icon="./assets/bmore_food_logo.png", page_title="Query imports")
+
+title_container = st.container()
+col1, col2 = st.columns([1, 50])
+with title_container:
+    with col1:
+        st.image('./assets/bmore_food_logo.png', width=60)
+    with col2:
+        st.markdown("<h1 style='text-align: center; '>Query imports</h1>", unsafe_allow_html=True)
 
 # Opening JSON file
 catFile = open(path + '/../assets/fakeCategories.json')
@@ -19,7 +27,6 @@ categories = json.load(catFile)["categories"]
 sortByMap = json.load(sortFile)["sortBy"]
 distList = json.load(distFile)["distributors"]
 
-st.markdown("# Query imports")
 
 categorySelect = st.selectbox("Show all food of type", categories)
 distributorSelect = st.selectbox("Show all food coming from", distList)
