@@ -9,7 +9,15 @@ path = os.path.dirname(__file__)
 
 
 # This has to be the first streamlit command called
-st.set_page_config(page_title="Filter By", page_icon="📈")
+st.set_page_config(layout="centered", page_icon="./assets/bmore_food_logo.png", page_title="Query exports")
+
+title_container = st.container()
+col1, col2 = st.columns([1, 50])
+with title_container:
+    with col1:
+        st.image('./assets/bmore_food_logo.png', width=60)
+    with col2:
+        st.markdown("<h1 style='text-align: center; '>Query exports</h1>", unsafe_allow_html=True)
 
 # Opening JSON file
 catFile = open(path + '/../assets/fakeCategories.json')
@@ -20,8 +28,6 @@ recFile = open(path + '/../assets/recipients.json')
 categories = json.load(catFile)["categories"]
 sortByMap = json.load(sortFile)["sortBy"]
 recList = json.load(recFile)["recipients"]
-
-st.markdown("# Query exports")
 
 categorySelect = st.selectbox("Show all food of type", categories)
 recSelect = st.selectbox("Show all food going to", recList)
