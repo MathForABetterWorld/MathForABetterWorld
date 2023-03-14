@@ -13,3 +13,4 @@ __MACOSX/*
 .env*
 **/coverage/*
 **/__pycache__/
+client/__pycache__/*
