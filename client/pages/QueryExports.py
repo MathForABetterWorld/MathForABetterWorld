@@ -3,21 +3,31 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import json
+import os 
+
+path = os.path.dirname(__file__)
+
 
 # This has to be the first streamlit command called
-st.set_page_config(page_title="Filter By", page_icon="📈")
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo.png", page_title="Query exports")
+
+title_container = st.container()
+col1, col2 = st.columns([1, 50])
+with title_container:
+    with col1:
+        st.image(path + '/../assets/bmore_food_logo.png', width=60)
+    with col2:
+        st.markdown("<h1 style='text-align: center; '>Query exports</h1>", unsafe_allow_html=True)
 
 # Opening JSON file
-catFile = open('assets/fakeCategories.json')
-sortFile = open('assets/sortBy.json')
-recFile = open('assets/recipients.json')
+catFile = open(path + '/../assets/fakeCategories.json')
+sortFile = open(path + '/../assets/sortBy.json')
+recFile = open(path + '/../assets/recipients.json')
   
 # load categories and sortBy map 
 categories = json.load(catFile)["categories"]
 sortByMap = json.load(sortFile)["sortBy"]
 recList = json.load(recFile)["recipients"]
-
-st.markdown("# Query exports")
 
 categorySelect = st.selectbox("Show all food of type", categories)
 recSelect = st.selectbox("Show all food going to", recList)
@@ -40,3 +50,9 @@ st.table(df)
 # this button is not connected to any other logic, it just causes a plain
 # rerun.
 st.button("Re-run")
+
+### TODO: Add totals / summary to bottom of table to see how much 
+# food one person / place has taken
+# Filter by time -- how much we've exported in the past month vs year
+# 
+###

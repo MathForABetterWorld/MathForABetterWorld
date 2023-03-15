@@ -22,7 +22,9 @@ export const getExports = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const exports = await prisma.exportItem.findMany();
+  const exports = await prisma.exportItem.findMany({
+    include: { category: true },
+  });
   return res.status(StatusCodes.ACCEPTED).json({ exports });
 };
 

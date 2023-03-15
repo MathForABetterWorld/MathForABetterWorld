@@ -1,29 +1,64 @@
 # import pdfkit
 import streamlit as st
 import datetime
+import numpy as np
+from PIL import Image
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+import os
+import urllib3
+http = urllib3.PoolManager() # define http 
+BASEURL = "http://????/api"
 
-st.set_page_config(layout="centered", page_icon="🍏", page_title="Bmore Food")
-st.title("🍏 Bmore Food")
+path = os.path.dirname(__file__)
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo.png", page_title="Bmore Food")
 
-st.write(
-    "Food import form!"
-)
+image = Image.open(path + '/assets/bmore_food_logo.png')
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.write(' ')
+
+with col2:
+    st.image(image)
+
+with col3:
+    st.write(' ')
 
 
-env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
-# template = env.get_template("invoice_template.html")
 
-with st.form("template_form"):
-    left, right = st.columns(2)
-    expiration_date = left.date_input("Expiration date", value=datetime.date(2023, 1, 1))
-    distributer_name = left.selectbox("Distributor name", ["Dole", "Amazon", ""])
-    rack = right.text_input("Rack", value="12") # get more info on how racks are stored in the google form 
-    pallet_weight = left.text_input("Weight", value="1000")
-    category = right.selectbox("Category", ["Dairy", "Produce"])
-    description = st.text_input("Description", value="")
-    submit = st.form_submit_button()
+def importLineGraph():
+    last_rows = np.random.randn(1, 1)
 
-if submit:
-    st.balloons()
-    st.success("🎉 Your invoice was generated!")
+    for i in range(1, 101):
+        new_rows = last_rows[-1, :] + np.random.randn(5, 1).cumsum(axis=0)
+        last_rows = new_rows
+
+    return st.line_chart(last_rows)
+
+def distributorsBarGraph(key):
+    last_rows = np.random.randn(1, 1)
+    # chart = st.line_chart(last_rows)
+
+    for i in range(1, 101):
+        new_rows = last_rows[-1, :] + np.random.randn(5, 1).cumsum(axis=0)
+        last_rows = new_rows
+
+    return st.bar_chart(last_rows)
+
+
+last_rows = np.random.randn(1, 1)
+# chart = st.line_chart(last_rows)
+
+for i in range(1, 101):
+    new_rows = last_rows[-1, :] + np.random.randn(5, 1).cumsum(axis=0)
+    last_rows = new_rows
+
+col1, col2 = st.columns(2)
+
+col1.line_chart(last_rows)
+col2.line_chart(last_rows)
+col1.line_chart(last_rows)
+col2.line_chart(last_rows)
+
+# TODO: month by month progress / month this year vs same month last yr 
+
