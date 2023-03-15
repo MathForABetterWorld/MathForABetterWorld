@@ -49,22 +49,33 @@ sortByMap = json.load(sortFile)["sortBy"]
 
 
 categorySelect = st.selectbox("Show all food of type", allCategories, format_func=lambda cat: f'{cat["name"]}')
-categorySelect = st.selectbox("Show all food currently on rack", allRacks)
+#categorySelect = st.selectbox("Show all food currently on rack", allRacks)
 distributorSelect = st.selectbox("Show all food coming from", allDistributors, format_func=lambda dist: f'{dist["name"]}')
 sortBySelect = st.selectbox("Sort food imports by", sortByMap)
 
 
 allPallets = pallet.getFood()["Pallet"]
-print("allPallets: ", allPallets[:10])
+#print("allPallets: ", allPallets[:10])
 df = pd.DataFrame.from_dict(allPallets)
 
-
 # # Uncomment this when connected to backend 
-# df = df.sort_values(by=[sortByMap[sortBySelect]])
-# # Filter by distributor 
-# df = df[df['distributor'] == distributorSelect] #this maybe should sort by distributor ID 
-# # Filter by selected category
-# df = df[df['category'] == categorySelect] 
+# # # Filter by distributor 
+if distributorSelect["name"] != "":
+    indices = []
+    for index, row in df.iterrows():
+        if distributorSelect["name"] == row["company"]["name"]:
+            indices.append(index)
+    df = df.iloc[indices] #this maybe should sort by distributor ID 
+# # # Filter by selected category
+if categorySelect['id'] != -1:
+    indices = []
+    for index, row in df.iterrows():
+        if categorySelect['id'] in row["categoryIds"]:
+            indices.append(index)
+    df = df.iloc[indices]
+
+if sortByMap[sortBySelect] != 'none':
+    df = df.sort_values([sortByMap[sortBySelect]])
 
 st.table(df)
 
