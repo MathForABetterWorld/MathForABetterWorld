@@ -171,16 +171,25 @@ col1, col2 = st.columns(2)
 
 col1.markdown("##")
 col2.markdown("##")
+
 col1.write("Imports/Exports")
 col2.write("Volunteers")
 tempImportVis(col1)
 tempVolunteerVis(col2)
+
+col1.button("See More", key="import")
+col2.button("See More", key="volunteer")
+
 col1.markdown("##")
 col2.markdown("##")
+
 col1.write("Clients")
 col2.write("Distributors")
 col2.line_chart(last_rows)
 col1.line_chart(last_rows)
+
+col1.button("See More", key="client")
+col2.button("See More", key="distributor")
 
 
 
