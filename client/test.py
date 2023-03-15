@@ -17,7 +17,7 @@ st.sidebar.markdown("# Baltimore Community Foods")
 pallets = json.loads(pallet.getFood())
 exportItems = json.loads(exportConnectors.getExports())
 Exports = pd.DataFrame(exportItems["exports"])
-#Imports = pd.read_json(pallets["Pallet"])#pd.read_csv('Imports.csv')
+#Imports = pd.read_json(pallets["Pallet"]) pd.read_csv('Imports.csv')
 Imports = pd.DataFrame(pallets["Pallet"])
 pallet_weights = Exports["weight"].dropna().values.tolist()
 cum_weights = []
