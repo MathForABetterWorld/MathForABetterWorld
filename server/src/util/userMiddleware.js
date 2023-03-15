@@ -32,3 +32,19 @@ export const isUserId = async (req, res, next) => {
     next();
   }
 };
+
+export const isUniquePhoneNumber = async (req, res, next) => {
+  const { phoneNumber } = req.body;
+  const query = await prisma.user.findUnique({
+    where: {
+      phoneNumber,
+    },
+  });
+  if (query !== null && query !== undefined) {
+    return res
+      .status(StatusCodes.CONFLICT)
+      .json({ msg: "ERROR: phone number already exists with a user" });
+  } else {
+    next();
+  }
+};

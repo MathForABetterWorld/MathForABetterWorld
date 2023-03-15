@@ -14,19 +14,28 @@ router.post(
   "/signup",
   body("email", "Email is required").notEmpty().isEmail(),
   body("name", "Name is required").notEmpty(),
+  body("phoneNumber", "Phone number must be a string").optional().isString(),
+  body("address", "Address must be a string").optional().isString(),
   validator.isUniqueEmail,
+  validator.isUniquePhoneNumber,
   controller.create
 );
 
 router.get("/", controller.get);
 
-router.get("/userWhoWorkedTheMostHours", controller.getUserWhoWorkedTheMostHours)
+router.get(
+  "/userWhoWorkedTheMostHours",
+  controller.getUserWhoWorkedTheMostHours
+);
 
 router.post(
   "/update",
   body("email", "Email is required").notEmpty().isEmail(),
   body("id", "Id is required").notEmpty().isInt(),
+  body("phoneNumber", "Phone number must be a string").optional().isString(),
+  body("address", "Address must be a string").optional().isString(),
   validator.isUniqueEmail,
+  validator.isUniquePhoneNumber,
   controller.update
 );
 
