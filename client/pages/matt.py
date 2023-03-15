@@ -55,6 +55,9 @@ sorted_provider_sizes = []
 receiver_labels = []
 receiver_sizes = []
 
+sorted_receiver_labels = []
+sorted_receiver_sizes = []
+
 for x,y in food_provider.items():
     provider_labels.append(x)
     provider_sizes.append(y)
@@ -65,12 +68,23 @@ for x,y in food_receiver.items():
 
 
 sorted_food_provider = sorted(food_provider.items(), key=lambda x:x[1])
+sorted_food_receiver = sorted(food_receiver.items(), key=lambda x:x[1])
+
+
 for x,y in dict(sorted_food_provider[-5:]).items():
     sorted_provider_labels.append(x)
     sorted_provider_sizes.append(y)
 
+for x,y in dict(sorted_food_receiver[-5:]).items():
+    sorted_receiver_labels.append(x)
+    sorted_receiver_sizes.append(y)
+
+
 sorted_other_labels = []
 sorted_other_providers = []
+
+sorted_other_rec_labels = []
+sorted_other_receivers = []
 
 for x,y in dict(sorted_food_provider[:-5]).items():
     sorted_other_labels.append(x)
@@ -82,17 +96,27 @@ other_total = sum(sorted_other_providers)
 sorted_provider_sizes.append(other_total)
 sorted_provider_labels.append("other")
 
+for x,y in dict(sorted_food_receiver[:-5]).items():
+    sorted_other_rec_labels.append(x)
+    sorted_other_receivers.append(y)
+
+other_rec_total = sum(sorted_other_receivers)
+
+sorted_receiver_sizes.append(other_rec_total)
+sorted_receiver_labels.append("other")
+
 ImpTot= sum(sorted_provider_sizes)
 percTot = []
 for size in sorted_provider_sizes:
     perc = size/ImpTot*100
     percTot.append(perc)
+
 print(percTot)
 print(sorted_provider_sizes)
 print(sorted_provider_labels)
 
 for i in range(len(sorted_provider_labels)):
-    sorted_provider_labels[i] = f'{sorted_provider_labels[i]}: + {(float(percTot[i])):.1f}'
+    sorted_provider_labels[i] = f'{sorted_provider_labels[i]}: {(float(percTot[i])):.1f}'
 
 print(sorted_provider_labels)
 #print(sorted_provider_sizes)
@@ -104,7 +128,7 @@ Imports_df = pd.DataFrame(list(zip(sorted_provider_sizes, sorted_provider_labels
                columns =['Provider Imports', 'Provider'])
 
 
-Exports_df = pd.DataFrame(list(zip(receiver_sizes, receiver_labels)),
+Exports_df = pd.DataFrame(list(zip(sorted_receiver_sizes, sorted_receiver_labels)),
                columns =['Receiver Amt', 'Receiver'])
 print(Exports_df)
 
