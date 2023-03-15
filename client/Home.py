@@ -156,20 +156,8 @@ def tempImportVis(col):
 
 
 
-### pass the col into a function and plot the graph with it
-### can pass in a matplotlib fig to streamlit and it will display it
-## combine ^^^ to finish
-
-
-
-
-
-
 ### display dashboard visualizations
 # top left = imports/exports ; top right = clients ; bottom left = distributors ; bottom right = volunteers
-
-
-
 
 
 last_rows = np.random.randn(1, 1)
