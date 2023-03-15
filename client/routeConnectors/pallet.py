@@ -11,10 +11,10 @@ http = urllib3.PoolManager()
 def getFood():
   r = http.request("GET", root + curPath + "/", headers={'Content-Type': 'application/json'})
   # print("r.data: ", ast.parse(r.data.decode('utf-8'), mode='eval'))
-  print("r.data type: ", type(r.data))
-  print("datastring", str(r.data, 'UTF-8')[:100])
+  #print("r.data type: ", type(r.data))
+  #print("datastring", str(r.data, 'UTF-8')[:100])
   res_dict = json.loads(r.data.decode('utf-8'))
-  print("res_dict: ", (res_dict)["Pallet"])
+  #print("res_dict: ", (res_dict)["Pallet"])
   return res_dict
 
 def postFood(entryUserId, inputDate, expirationDate, weight, companyId, rackId, inWarehouse, description, categoryId):

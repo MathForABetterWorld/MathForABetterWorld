@@ -10,14 +10,11 @@ from routeConnectors import shiftConnector
 # get list of users as json file?
 
 active_shifts = shiftConnector.activeShifts()
-
 # TODO figure out what json format is and how to get user ids to have as options in name dropdown
 active_shifts2 = json.loads(active_shifts)
-st.write(active_shifts2)
-shifts = pd.json_normalize(active_shifts)
-
-active_users = shifts["userId"]
-
+#st.write(active_shifts2)
+shifts = pd.json_normalize(active_shifts2["activateShifts"])
+active_users = shifts["user"]
 #user_names = users["Name"]
 user_input = st.selectbox(label="Please enter your name", options = active_users)
 food_input = st.text_input("Enter lbs of food")
