@@ -12,3 +12,5 @@ __MACOSX/*
 **/yarn-error.log*
 .env*
 **/coverage/*
+**/__pycache__/
+client/__pycache__/*

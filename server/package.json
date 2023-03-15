@@ -10,10 +10,12 @@
     "prisma:seed": "yarn prisma db seed",
     "prisma:studio": "yarn prisma studio",
     "prisma:dev": "yarn docker:up && dotenv -e .env yarn prisma migrate dev",
+    "prisma:prod": "dotenv -e .env yarn prisma migrate deploy && prisma db seed",
     "prisma:reset": "yarn docker:up && dotenv -e .env yarn prisma migrate reset",
     "prisma:test": "yarn docker:up && dotenv -e .env.test yarn prisma migrate dev",
     "start": "node .",
     "dev": "yarn prisma:dev && nodemon .",
+    "prod": "yarn prisma:prod && node .",
     "prettier": "prettier --write '{prisma,src,tests}/**/*.js' --config '.prettierrc.json'",
     "test": "yarn prisma:test && NODE_OPTIONS=--experimental-vm-modules jest --runInBand"
   },
@@ -28,7 +30,8 @@
     "http-status-codes": "^2.2.0",
     "jsonwebtoken": "^9.0.0",
     "morgan": "^1.10.0",
-    "nodemailer": "^6.9.1"
+    "nodemailer": "^6.9.1",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@faker-js/faker": "^7.6.0",

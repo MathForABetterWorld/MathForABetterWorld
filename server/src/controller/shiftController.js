@@ -122,6 +122,9 @@ export const getActiveShifts = async (req, res) => {
     where: {
       end: null,
     },
+    include: {
+      user: true,
+    },
   });
   return res.status(StatusCodes.ACCEPTED).json({ activateShifts });
 };
