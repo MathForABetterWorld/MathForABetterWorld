@@ -11,8 +11,8 @@ import os
 
 path = os.path.dirname(__file__)
 
-st.set_page_config(layout="centered", page_icon="./assets/bmore_food_logo.png", page_title="Import Form")
-image = Image.open('./assets/bmore_food_logo.png')
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo.png", page_title="Import Form")
+image = Image.open(path + '/../assets/bmore_food_logo.png')
 
 # Get rack, distributor and category info 
 print("getting racks....")
@@ -38,7 +38,7 @@ title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
     with col1:
-        st.image('./assets/bmore_food_logo.png', width=60)
+        st.image(path + '/../assets/bmore_food_logo.png', width=60)
     with col2:
         st.markdown("<h1 style='text-align: center; '>Food import form</h1>", unsafe_allow_html=True)
 
