@@ -60,22 +60,26 @@ df = pd.DataFrame.from_dict(allPallets)
 
 # # Uncomment this when connected to backend 
 # # # Filter by distributor 
-if distributorSelect["name"] != "":
-    indices = []
-    for index, row in df.iterrows():
-        if distributorSelect["name"] == row["company"]["name"]:
-            indices.append(index)
-    df = df.iloc[indices] #this maybe should sort by distributor ID 
 # # # Filter by selected category
 if categorySelect['id'] != -1:
-    indices = []
+    categoryIndices = []
     for index, row in df.iterrows():
         if categorySelect['id'] in row["categoryIds"]:
-            indices.append(index)
-    df = df.iloc[indices]
+            categoryIndices.append(index)
+    df = df.iloc[categoryIndices]
+    df = df.reset_index()
+
+if distributorSelect["name"] != "":
+    distributorIndices = []
+    for index, row in df.iterrows():
+        if distributorSelect["name"] == row["company"]["name"]:
+            distributorIndices.append(index)
+    df = df.iloc[distributorIndices] #this maybe should sort by distributor ID 
+    df = df.reset_index()
 
 if sortByMap[sortBySelect] != 'none':
     df = df.sort_values([sortByMap[sortBySelect]])
+    df = df.reset_index()
 
 st.table(df)
 
