@@ -12,8 +12,9 @@ from routeConnectors import shiftConnector
 active_shifts = shiftConnector.activeShifts()
 
 # TODO figure out what json format is and how to get user ids to have as options in name dropdown
-
-shifts = pd.read_json(active_shifts, orient='index')
+active_shifts2 = json.loads(active_shifts)
+st.write(active_shifts2)
+shifts = pd.json_normalize(active_shifts)
 
 active_users = shifts["userId"]
 
