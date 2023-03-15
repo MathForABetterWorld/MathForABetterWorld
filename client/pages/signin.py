@@ -18,6 +18,6 @@ if check_in_button:
 
     startTime = datetime.now()
     id = users_df[users_df["name"] == user_input]["id"]
-    shiftConnector.postShift(str(id.iloc[0]), startTime.isoformat())
+    shiftConnector.postShift(int(id.iloc[0]), startTime.isoformat())
 
     st.write("Check in successful!")
