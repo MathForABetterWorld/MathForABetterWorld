@@ -157,7 +157,7 @@ def tempImportVis(col):
 
 
 ### display dashboard visualizations
-# top left = imports/exports ; top right = clients ; bottom left = distributors ; bottom right = volunteers
+# top left = imports/exports ; top right = volunteers ; bottom left = clients ; bottom right = distributors
 
 
 last_rows = np.random.randn(1, 1)
@@ -169,12 +169,18 @@ for i in range(1, 101):
 
 col1, col2 = st.columns(2)
 
+col1.markdown("##")
+col2.markdown("##")
+col1.write("Imports/Exports")
+col2.write("Volunteers")
 tempImportVis(col1)
 tempVolunteerVis(col2)
-#col1.line_chart(last_rows)
+col1.markdown("##")
+col2.markdown("##")
+col1.write("Clients")
+col2.write("Distributors")
 col2.line_chart(last_rows)
 col1.line_chart(last_rows)
-#col2.line_chart(last_rows)
 
 
 
