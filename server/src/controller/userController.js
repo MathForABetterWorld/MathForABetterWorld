@@ -18,7 +18,16 @@ export const get = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const users = await prisma.user.findMany({});
+  const users = await prisma.user.findMany({
+    select: {
+      id: true,
+      name: true,
+      checkedPallet: true,
+      exportedItems: true,
+      shiftsWorked: true,
+    },
+  });
+
   return res.status(StatusCodes.ACCEPTED).json({ users });
 };
 

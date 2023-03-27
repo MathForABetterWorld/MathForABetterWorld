@@ -10,6 +10,8 @@ const router = express.Router();
 // Here the routes will be listed with correspodning middleware
 router.use(checkToken);
 
+router.get("/users", validator.isAdmin, controller.getUsers);
+
 router.post(
   "/promoteUser",
   body("userId", "User id to promote is required").notEmpty().isInt(),

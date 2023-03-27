@@ -69,3 +69,11 @@ export const updateLogin = async (req, res, next) => {
   delete employee["hashedPassword"];
   return res.status(StatusCodes.ACCEPTED).json({ employee });
 };
+
+export const getUsers = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const users = await prisma.user.findMany({});
+  return res.status(StatusCodes.ACCEPTED).json({ users });
+};
