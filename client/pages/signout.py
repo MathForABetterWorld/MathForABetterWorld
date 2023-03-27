@@ -5,6 +5,14 @@ import time
 from datetime import datetime
 from routeConnectors import shiftConnector
 from nav import nav_page
+from PIL import Image
+import os
+
+path = os.path.dirname(__file__)
+
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo.png", page_title="Bmore Food Volunteer Portal")
+image = Image.open(path + '/../assets/bmore_food_logo.png')
+st.image(image, caption="Bmore Food Logo")
 
 # get list of users as json file?
 

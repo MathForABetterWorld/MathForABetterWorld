@@ -2,10 +2,14 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 from nav import nav_page
+from PIL import Image
+import os
 
-from streamlit.components.v1 import html
+path = os.path.dirname(__file__)
 
-st.set_page_config(layout="centered", page_icon="🍏", page_title="Bmore Food Volunteer Portal")
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo.png", page_title="Bmore Food Volunteer Portal")
+image = Image.open(path + '/../assets/bmore_food_logo.png')
+st.image(image, caption="Bmore Food Logo")
 
 st.markdown("<h1 style='text-align: center; color: cyan;'>Bmore Food Volunteer Portal</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: white;'>Welcome!</h2>", unsafe_allow_html=True)
