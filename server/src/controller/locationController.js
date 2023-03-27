@@ -72,3 +72,21 @@ export const updateLocation = async (req, res) => {
     });
     return res.status(StatusCodes.ACCEPTED).json({ location });
 };
+
+/**
+ * GET total visits to every location
+ * @param {object} req - request for the course
+ * @param {object} res - response for the request
+ */
+ export const getVisitsToLocation = async (req, res) => {
+    if (validate(req, res)) {
+      return res;
+    }
+    const countOfVisits = await prisma.user.groupBy({
+        by: ['locationId'],
+        _count: {
+          exportDate: true,
+        },
+      })
+    return res.status(StatusCodes.OK).json({ countOfVisits });
+  };
