@@ -7,8 +7,10 @@ export const create = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { name, email } = req.body;
-  const user = await prisma.user.create({ data: { name, email } });
+  const { name, email, phoneNumber, address } = req.body;
+  const user = await prisma.user.create({
+    data: { name, email, phoneNumber, address },
+  });
   return res.status(StatusCodes.ACCEPTED).json({ user });
 };
 
@@ -16,7 +18,16 @@ export const get = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const users = await prisma.user.findMany({});
+  const users = await prisma.user.findMany({
+    select: {
+      id: true,
+      name: true,
+      checkedPallet: true,
+      exportedItems: true,
+      shiftsWorked: true,
+    },
+  });
+
   return res.status(StatusCodes.ACCEPTED).json({ users });
 };
 
@@ -49,8 +60,11 @@ export const update = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { email, id } = req.body;
-  const user = await prisma.user.update({ where: { id }, data: { email } });
+  const { email, id, phoneNumber, address } = req.body;
+  const user = await prisma.user.update({
+    where: { id },
+    data: { email, phoneNumber, address },
+  });
   return res.status(StatusCodes.ACCEPTED).json({ user });
 };
 

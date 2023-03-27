@@ -102,6 +102,8 @@ export const signout = async (req, res) => {
   }
   const { id, foodTaken } = req.body;
   const end = new Date();
+  const startShift = await prisma.shift.findUnique({ where: { id } });
+  const duration = Math.round((end - startShift.start) / 60000);
   const shift = await prisma.shift.update({
     where: {
       id,
@@ -109,6 +111,7 @@ export const signout = async (req, res) => {
     data: {
       end,
       foodTaken,
+      duration,
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ shift });
