@@ -101,3 +101,28 @@ export const getVisitsToLocation = async (req, res) => {
   });
   return res.status(StatusCodes.OK).json({ countByLocation });
 };
+
+export const getWeightByLocation = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const countOfVisits = await prisma.exportItem.groupBy({
+    by: ["locationId"],
+    _sum: {
+      weight: true,
+    },
+  });
+  const locations = await prisma.location.findMany({});
+  const countMap = new Map();
+  countMap.set(null, null);
+  locations.forEach((loc) => countMap.set(loc.id, loc));
+  const countByLocation = [];
+  countOfVisits.forEach((countVisit) => {
+    countByLocation.push({
+      sum: countVisit._sum.weight,
+      locationId: countVisit.locationId,
+      location: countMap.get(countVisit.locationId),
+    });
+  });
+  return res.status(StatusCodes.OK).json({ countByLocation });
+};

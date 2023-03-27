@@ -45,6 +45,8 @@ router.post(
   controller.updateLocation
 );
 
-router.get("/counts", controller.getVisitsToLocation);
+router.get("/visitsPerLocation", controller.getVisitsToLocation);
+
+router.get("/weightPerLocation", controller.getWeightByLocation);
 
 export default router;
