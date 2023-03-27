@@ -11,38 +11,40 @@ const router = express.Router();
 // Guide: https://www.prisma.io/docs/concepts/components/prisma-client/crud
 
 router.post(
-    "/",
-    body("name", "Must include unique name for location").notEmpty(),
-    body("longitude", "Longitude must be a string").notEmpty().isString(),
-    body("latitude", "latitude must be a string").notEmpty().isString(),
-    validator.isValidLatitude,
-    validator.isValidLongitude,
-    validator.isUniqueName,
-    controller.createLocation
+  "/",
+  body("name", "Must include unique name for location").notEmpty(),
+  body("longitude", "Longitude must be a string").notEmpty().isString(),
+  body("latitude", "latitude must be a string").notEmpty().isString(),
+  validator.isValidLatitude,
+  validator.isValidLongitude,
+  validator.isUniqueName,
+  controller.createLocation
 );
 
 router.get("/", controller.getLocation);
 
 router.delete(
-    "/:id",
-    param("id", "Must include id in the url params").notEmpty().isInt(),
-    validator.isLocationId,
-    controller.deleteLocation
+  "/:id",
+  param("id", "Must include id in the url params").notEmpty().isInt(),
+  validator.isLocationId,
+  controller.deleteLocation
 );
 
 router.post(
-    "/:id/update",
-    body("name", "Must include name in the request").notEmpty(),
-    param("id", "Must include id in the body").notEmpty().isInt(),
-    body("longitude", "Must include a string longitude in the body")
-      .notEmpty()
-      .isString(),
-    body("latitude", "Must include a string latitude in the body")
-      .notEmpty()
-      .isString(),
-    validator.isLocationId,
-    validator.isUniqueNameNotId,
-    controller.updateLocation
+  "/:id/update",
+  body("name", "Must include name in the request").notEmpty(),
+  param("id", "Must include id in the body").notEmpty().isInt(),
+  body("longitude", "Must include a string longitude in the body")
+    .notEmpty()
+    .isString(),
+  body("latitude", "Must include a string latitude in the body")
+    .notEmpty()
+    .isString(),
+  validator.isLocationId,
+  validator.isUniqueNameNotId,
+  controller.updateLocation
 );
-  
+
+router.get("/counts", controller.getVisitsToLocation);
+
 export default router;
