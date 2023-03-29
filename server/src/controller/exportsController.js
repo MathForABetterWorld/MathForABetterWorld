@@ -6,13 +6,14 @@ export const createExport = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { weight, categoryId, donatedTo, userId } = req.body;
+  const { weight, categoryId, donatedTo, userId, locationId } = req.body;
   const exportItem = await prisma.exportItem.create({
     data: {
       weight,
       userId,
       donatedTo,
       categoryId,
+      locationId,
     },
   });
   return res.status(StatusCodes.CREATED).json({ exportItem });
@@ -41,7 +42,7 @@ export const editExport = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { weight, categoryId, donatedTo, userId, id } = req.body;
+  const { weight, categoryId, donatedTo, userId, id, locationId } = req.body;
   const exportItem = await prisma.exportItem.update({
     where: {
       id,
@@ -51,6 +52,7 @@ export const editExport = async (req, res) => {
       userId,
       donatedTo,
       categoryId,
+      locationId,
     },
   });
   return res.status(StatusCodes.CREATED).json({ exportItem });

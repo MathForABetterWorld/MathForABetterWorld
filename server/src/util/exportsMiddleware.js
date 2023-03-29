@@ -50,3 +50,21 @@ export const isExportId = async (req, res, next) => {
     next();
   }
 };
+
+export const isLocationIdOptional = async (req, res, next) => {
+  const { locationId } = req.body;
+  if (locationId !== null && locationId !== undefined) {
+    const location = await prisma.location.findUnique({
+      where: { id: locationId },
+    });
+    if (location === null || location === undefined) {
+      return res
+        .status(StatusCodes.BAD_REQUEST)
+        .json({ msg: "ERROR: location id is invalid" });
+    } else {
+      next();
+    }
+  } else {
+    next();
+  }
+};
