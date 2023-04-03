@@ -49,8 +49,10 @@ def mainDashboardVis():
 
 
 def importVis():
-    ## TODO
-    st.write("hi")
+    col1, col2 = st.columns(2)
+    
+    col1.markdown("##")
+    col2.markdown("##")
 
 def volunteerVis():
     ## TODO
