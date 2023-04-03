@@ -20,8 +20,97 @@ def test(col):
     for i in range(1, 101):
         new_rows = last_rows[-1, :] + np.random.randn(5, 1).cumsum(axis=0)
         last_rows = new_rows
+    
+    col.line_chart(last_rows)
 
-    return col.bar_chart(last_rows)
+
+
+def importGraph1(col):
+    # TODO
+    test(col)
+    pass
+
+def importGraph2(col):
+    # TODO
+    test(col)
+    pass
+
+def importGraph3(col):
+    # TODO
+    test(col)
+    pass
+
+def importGraph4(col):
+    # TODO
+    test(col)
+    pass
+
+
+
+def volunteerGraph1(col):
+    # TODO
+    test(col)
+    pass
+
+def volunteerGraph2(col):
+    # TODO
+    test(col)
+    pass
+
+def volunteerGraph3(col):
+    # TODO
+    test(col)
+    pass
+
+def volunteerGraph4(col):
+    # TODO
+    test(col)
+    pass
+
+
+
+def clientGraph1(col):
+    # TODO
+    test(col)
+    pass
+
+def clientGraph2(col):
+    # TODO
+    test(col)
+    pass
+
+def clientGraph3(col):
+    # TODO
+    test(col)
+    pass
+
+def clientGraph4(col):
+    # TODO
+    test(col)
+    pass
+
+
+
+def distributorGraph1(col):
+    # TODO
+    test(col)
+    pass
+
+def distributorGraph2(col):
+    # TODO
+    test(col)
+    pass
+
+def distributorGraph3(col):
+    # TODO
+    test(col)
+    pass
+
+def distributorGraph4(col):
+    # TODO
+    test(col)
+    pass
+
 
 
 def importLineGraph():
