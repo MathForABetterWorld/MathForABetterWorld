@@ -21,7 +21,7 @@ image = Image.open(path + '/assets/bmore_food_logo.png')
 
 
 ## function definitions for visualizations are in visualizations.py
-## function definitions for different dashboard views are in dashViews.py
+## function definitions for different dashboard views are in dashboardViews.py
 
 # streamlit runs from top to bottom on every iteraction
 # use pageID variable to track current page
