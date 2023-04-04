@@ -22,14 +22,14 @@ if 'token' in st.session_state:
     selectedIndex = st.selectbox('Select row:', usersDF.name)
 
     promoteUser = st.button("Make User an Employee")
-
+    user_input = st.text_input("Temporary Username")
+    password_input = st.text_input("Temporary Password", type="password")
+    
     promoteToAdmin = st.button("Make User an Admin")
 
-    if promoteUser:
-        user_input = st.text_input("Temporary Username")
-        password_input = st.text_input("Temporary Password", type="password")
-        idx = usersDF.loc[usersDF["name"]== selectedIndex].id
-        employeeConnectors.promoteUser(idx[0], user_input, password_input)
+    if promoteUser:        
+        idx = int(usersDF.loc[usersDF["name"]== selectedIndex].iloc[0].id)
+        employeeConnectors.promoteUser(idx, user_input, password_input)
     if promoteToAdmin:
         idx = int(usersDF.loc[usersDF["name"] == selectedIndex].iloc[0].id)
         r = employeeConnectors.promoteToAdmin(idx)
