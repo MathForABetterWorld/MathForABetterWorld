@@ -10,7 +10,7 @@ http = urllib3.PoolManager()
 
 def getUsers():
   r = http.request("GET", root + curPath + "/users", headers={'Content-Type': 'application/json', 'Authorization': f'Bearer {st.session_state.token}'})
-  return r.data
+  return r.data.decode('utf-8')
 
 def promoteUser(userId, userName, password):
   f = json.dumps({
