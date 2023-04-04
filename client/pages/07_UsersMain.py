@@ -43,7 +43,7 @@ with col2:
             </style>""", unsafe_allow_html=True)
     sign_in_button = st.button("Volunteer Sign In", key="signInButton")
     if sign_in_button:
-        nav_page("signin")
+        nav_page("Volunteer_Signin")
 
     m = st.markdown("""
         <style>
@@ -67,7 +67,7 @@ with col2:
             </style>""", unsafe_allow_html=True)
     sign_out_button = st.button("Volunteer Sign Out", key="signOutButton")
     if sign_out_button:
-        nav_page("signout")
+        nav_page("Volunteer_Signout")
 
     m = st.markdown("""
         <style>
@@ -91,7 +91,7 @@ with col2:
             </style>""", unsafe_allow_html=True)
     employee_button = st.button("Employee Access", key="employeeButton")
     if employee_button:
-        nav_page("employee")
+        nav_page("Employee_SignIn")
 
 with col3:
     placeholder2 = st.empty()

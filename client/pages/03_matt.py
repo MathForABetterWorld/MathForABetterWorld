@@ -12,9 +12,9 @@ import json
 from routeConnectors import pallet, exportConnectors
 
 st.markdown("# Baltimore Community Foods")
-st.sidebar.markdown("# Baltimore Community Foods")
+#st.sidebar.markdown("# Baltimore Community Foods")
 
-pallets = (pallet.getFood())
+pallets = json.loads(pallet.getFood())
 exportItems = json.loads(exportConnectors.getExports())
 Exports = pd.DataFrame(exportItems["exports"])
 #Imports = pd.read_json(pallets["Pallet"])#pd.read_csv('Imports.csv')
