@@ -47,3 +47,7 @@ def signout(foodTaken, id):
 def activeShifts():
   r = http.request("GET", root + curPath + "/activeshifts", headers={'Content-Type': 'application/json'})
   return r.data
+
+def getShiftsInDateRange(startDate, endDate):
+  r = http.request("GET", root + curPath + f'/startDate/{startDate}/endDate/{endDate}', headers={'Content-Type': 'application/json'})
+  return r.data.decode('utf-8')
