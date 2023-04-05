@@ -9,7 +9,7 @@ import os
 import pandas as pd
 import random as random
 from matplotlib import pyplot as plt, dates as mdates
-
+from routeConnectors import pallet
 
 
 # example:
@@ -27,7 +27,35 @@ def test(col):
 
 def importGraph1(col):
     # TODO
-    test(col)
+    allPallets = pallet.getFood()["Pallet"]
+    df = pd.DataFrame.from_dict(allPallets)
+    df = df.groupby('inputDate').agg(np.sum)
+
+    df = df[['weight']]
+    fig = plt.figure()
+    fig.patch.set_facecolor('black')
+    fig.patch.set_alpha(0.7)
+    ax = plt.gca()
+    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=1))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%b'))
+
+    ax.set_title("Total imports over time")
+    # df = df[['col2', 'col6']]
+
+    ax.plot(df.index, df[["weight"]], label="Cumulative Imports")
+    ax.patch.set_facecolor('black')
+
+    ax.legend()
+    ax.xaxis.label.set_color('white')
+    ax.yaxis.label.set_color('white')
+    ax.tick_params(axis='y', colors='white')
+    ax.tick_params(axis='x', colors='white')
+
+    ax.set_xlabel("Date")
+    ax.set_ylabel("Total Cumulative Imports (lbs)")
+    col.pyplot(fig)
+
+    # test(col)
     pass
 
 def importGraph2(col):
