@@ -71,11 +71,11 @@ sorted_food_provider = sorted(food_provider.items(), key=lambda x:x[1])
 sorted_food_receiver = sorted(food_receiver.items(), key=lambda x:x[1])
 
 
-for x,y in dict(sorted_food_provider[-5:]).items():
+for x,y in dict(sorted_food_provider[-10:]).items():
     sorted_provider_labels.append(x)
     sorted_provider_sizes.append(y)
 
-for x,y in dict(sorted_food_receiver[-5:]).items():
+for x,y in dict(sorted_food_receiver[-10:]).items():
     sorted_receiver_labels.append(x)
     sorted_receiver_sizes.append(y)
 
@@ -86,7 +86,7 @@ sorted_other_providers = []
 sorted_other_rec_labels = []
 sorted_other_receivers = []
 
-for x,y in dict(sorted_food_provider[:-5]).items():
+for x,y in dict(sorted_food_provider[:-10]).items():
     sorted_other_labels.append(x)
     sorted_other_providers.append(y)
 
@@ -96,7 +96,7 @@ other_total = sum(sorted_other_providers)
 sorted_provider_sizes.append(other_total)
 sorted_provider_labels.append("other")
 
-for x,y in dict(sorted_food_receiver[:-5]).items():
+for x,y in dict(sorted_food_receiver[:-10]).items():
     sorted_other_rec_labels.append(x)
     sorted_other_receivers.append(y)
 
@@ -111,12 +111,22 @@ for size in sorted_provider_sizes:
     perc = size/ImpTot*100
     percTot.append(perc)
 
+ItemExpTot= sum(sorted_receiver_sizes)
+receiverPercTot = []
+for size in sorted_receiver_sizes:
+    receiverPerc = size/ItemExpTot*100
+    receiverPercTot.append(receiverPerc)
+
+
 print(percTot)
 print(sorted_provider_sizes)
 print(sorted_provider_labels)
 
 for i in range(len(sorted_provider_labels)):
-    sorted_provider_labels[i] = f'{sorted_provider_labels[i]}: {(float(percTot[i])):.1f}'
+    sorted_provider_labels[i] = f'{sorted_provider_labels[i]}: {(float(percTot[i])):.1f}%'
+
+for i in range(len(sorted_receiver_labels)):
+    sorted_receiver_labels[i] = f'{sorted_receiver_labels[i]}: {(float(receiverPercTot[i])):.1f}%'
 
 print(sorted_provider_labels)
 #print(sorted_provider_sizes)
@@ -129,7 +139,7 @@ Imports_df = pd.DataFrame(list(zip(sorted_provider_sizes, sorted_provider_labels
 
 
 Exports_df = pd.DataFrame(list(zip(sorted_receiver_sizes, sorted_receiver_labels)),
-               columns =['Receiver Amt', 'Receiver'])
+               columns =['Quantity (lbs)', 'Item'])
 print(Exports_df)
 
 
@@ -141,14 +151,14 @@ tab1, tab2, tab3 = st.tabs(["Export totals", "Provider Imports", "Export Destina
 with tab1:
     st.line_chart(cum_weights)
 with tab2:
-    st.pyplot(fig1)
+    #st.pyplot(fig1)
     #if st.button("See Full Distributor Import List")
     #    st.table(Imports_df)
     st.bar_chart(data=Imports_df, x="Provider", y="Provider Imports", use_container_width=True)
 
 with tab3:
-    st.pyplot(fig2)
-    st.bar_chart(data=Exports_df, x="Receiver", y="Receiver Amt", use_container_width=True)
+    #st.pyplot(fig2)
+    st.bar_chart(data=Exports_df, x="Item", y="Quantity (lbs)", use_container_width=True)
 
 
 #numdays = 20
