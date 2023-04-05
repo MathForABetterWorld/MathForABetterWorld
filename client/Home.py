@@ -56,9 +56,3 @@ elif pg == 3:
     clientVis()
 elif pg == 4:
     distributorVis()
-
-
-
-
-# TODO: month by month progress / month this year vs same month last yr 
-

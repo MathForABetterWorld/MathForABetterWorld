@@ -61,7 +61,7 @@ def importVis():
     importGraph3(col1)
     importGraph4(col2)
 
-    back = col1.button("Back", key="bck", on_click=changeState, args=(0, ))
+    col1.button("Back", key="bck", on_click=changeState, args=(0, ))
 
 def volunteerVis():
     col1, col2 = st.columns(2)
