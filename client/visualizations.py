@@ -82,7 +82,14 @@ def volunteerGraph1(col):
     # actual graph::
     ax = plt.gca()
     fig, ax = plt.subplots()
-    fig.suptitle("Trend of Volunteers in the last Seven Days")
+    fig.patch.set_facecolor('black')
+    fig.patch.set_alpha(0.7)
+    ax.patch.set_facecolor('black')
+    ax.xaxis.label.set_color('white')
+    ax.yaxis.label.set_color('white')
+    ax.tick_params(axis='y', colors='white')
+    ax.tick_params(axis='x', colors='white')
+    fig.suptitle("Trend of Volunteers in the last Seven Days", color="white")
     ax.plot(x, y)
     ax.set_xlabel("Last Seven Days")
     ax.set_ylabel("Total Volunteer Hours per Day")
@@ -137,10 +144,17 @@ def volunteerGraph2(col):
     
     # actual graph::
     fig2, ax2 = plt.subplots()
+    fig2.patch.set_facecolor('black')
+    fig2.patch.set_alpha(0.7)
+    ax2.patch.set_facecolor('black')
+    ax2.xaxis.label.set_color('white')
+    ax2.yaxis.label.set_color('white')
+    ax2.tick_params(axis='y', colors='white')
+    ax2.tick_params(axis='x', colors='white')
     ax2.plot(months, volunteer)
     ax2.set_xlabel("Months")
     ax2.set_ylabel("Total Volunteer Hours")
-    fig2.suptitle("Trend of Total Volunteers in the last 12 months")
+    fig2.suptitle("Trend of Total Volunteers in the last 12 months", color="white")
     col.write(fig2)
 
 def volunteerGraph3(col):
