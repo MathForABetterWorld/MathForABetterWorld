@@ -10,6 +10,7 @@ import pandas as pd
 import random as random
 from matplotlib import pyplot as plt, dates as mdates
 from routeConnectors import pallet
+import json
 
 
 # example:
@@ -27,7 +28,10 @@ def test(col):
 
 def importGraph1(col):
     # TODO
-    allPallets = pallet.getFood()["Pallet"]
+    
+    # allPallets = pallet.getFood()["Pallet"]
+    allPallets = json.loads(pallet.getFood())["Pallet"]
+
     df = pd.DataFrame.from_dict(allPallets)
     df = df.groupby('inputDate').agg(np.sum)
 
