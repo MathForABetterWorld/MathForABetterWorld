@@ -3,7 +3,7 @@ import json
 import pandas as pd
 import time
 from datetime import datetime
-from routeConnectors import shiftConnector
+from routeConnectors import shiftConnector, authConnectors, employeeConnectors
 from nav import nav_page
 from PIL import Image
 import os
@@ -37,16 +37,24 @@ if submit_button:
     if (foodAmt >= 0):
         if foodAmt > 20:
             st.write("Please get admin approval.")
-            user_input = st.text_input("Admin Name")
-            password_input = st.text_input("Password")
-            # TODO search in employees to get employee with name Name, if password matches
-                #"[foodAmt] is approved. Sign out successful!")
+            admin_input = st.text_input("Admin Name")
+            password_input = st.text_input("Password", type="password")
+            admin_login_button = st.button("Login admin")
+
+            # this is currently causing errors we think?
+            while not admin_login_button:
+                time.sleep(1)
             
+            res = json.loads(authConnectors.signinEmployee(admin_input, password_input))
         
+            st.write(res)
+            if res["status"]!=200:
+                st.write("Invalid admin login, user not signed out")
+                time.sleep(2)
+                nav_page("UsersMain")
             
         current_user_id = user_input
         shift_id = row["id"]
-        # TODO get shift id from corresponding user's last shift from active_shifts
         shiftConnector.signout(foodAmt, int(shift_id))
         st.write("Sign out successful!")
         # wait 2 seconds
