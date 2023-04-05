@@ -7,8 +7,8 @@ import json
 
 path = os.path.dirname(__file__)
 
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo.png", page_title="Employee Login")
-image = Image.open(path + '/../assets/bmore_food_logo.png')
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Employee Login")
+image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 
 ### Header ###
 col1, col2, col3 = st.columns(3)

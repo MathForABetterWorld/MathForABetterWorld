@@ -15,9 +15,9 @@ BASEURL = "http://????/api"
 
 
 path = os.path.dirname(__file__)
-st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo.png", page_title="Bmore Food")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food")
 
-image = Image.open(path + '/assets/bmore_food_logo.png')
+image = Image.open(path + '/assets/bmore_food_logo_dark_theme.png')
 
 
 ## function definitions for visualizations are in visualizations.py

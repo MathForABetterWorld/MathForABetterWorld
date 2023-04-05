@@ -6,13 +6,13 @@ import os
 from routeConnectors import categoryConnectors, locationConnectors, userConnector
 
 path = os.path.dirname(__file__)
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo.png", page_title="Export Form")
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Export Form")
 
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
     with col1:
-        st.image(path + '/../assets/bmore_food_logo.png', width=60)
+        st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
     with col2:
         st.markdown("<h1 style='text-align: center; '>Food export form</h1>", unsafe_allow_html=True)
 users = userConnector.getUsers()
