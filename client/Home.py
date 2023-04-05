@@ -37,7 +37,7 @@ if 'pageID' not in st.session_state:
 ### Header ###
 col1, col2, col3 = st.columns(3)
 with col1:
-    st.write(st.session_state.pageID)
+    st.write(' ')
 with col2:
     st.image(image)
 with col3:
