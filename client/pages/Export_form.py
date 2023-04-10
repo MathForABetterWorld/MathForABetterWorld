@@ -19,8 +19,12 @@ with title_container:
 
 
 env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
+category_names = [""] 
 categories = categoryConnectors.getCategories()['category']
-category_names = [category['name'] for category in categories]
+
+category_names = category_names + [category['name'] for category in categories]
+category_names.sort()
+
 with st.form("template_form"):
     left, right = st.columns(2)
     donatedTo = left.text_input("Who is the food going to?", value="")
@@ -33,7 +37,9 @@ with st.form("template_form"):
 if submit:
     st.balloons()
     categoryIndex = category_names.index(category)
+    print(categoryIndex)
     categoryId = categories[categoryIndex]['id']
+    print(categoryId)
     exportConnectors.postExport("userId", categoryId, donatedTo, weight)
       
     st.success("🎉 Export recorded!")
