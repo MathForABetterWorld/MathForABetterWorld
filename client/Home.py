@@ -15,9 +15,9 @@ BASEURL = "http://????/api"
 
 
 path = os.path.dirname(__file__)
-st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo.png", page_title="Bmore Food")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food")
 
-image = Image.open(path + '/assets/bmore_food_logo.png')
+image = Image.open(path + '/assets/bmore_food_logo_dark_theme.png')
 
 
 ## function definitions for visualizations are in visualizations.py
@@ -37,7 +37,7 @@ if 'pageID' not in st.session_state:
 ### Header ###
 col1, col2, col3 = st.columns(3)
 with col1:
-    st.write(st.session_state.pageID)
+    st.write(' ')
 with col2:
     st.image(image)
 with col3:
@@ -56,9 +56,3 @@ elif pg == 3:
     clientVis()
 elif pg == 4:
     distributorVis()
-
-
-
-
-# TODO: month by month progress / month this year vs same month last yr 
-

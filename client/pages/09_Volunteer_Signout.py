@@ -10,9 +10,17 @@ import os
 
 path = os.path.dirname(__file__)
 
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo.png", page_title="Bmore Food Volunteer Portal")
-image = Image.open(path + '/../assets/bmore_food_logo.png')
-st.image(image, caption="Bmore Food Logo")
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food Volunteer Portal")
+image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
+
+### Header ###
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
 
 # get list of users as json file?
 
@@ -29,38 +37,48 @@ else:
 user_input = st.selectbox(label="Please enter your name", options = active_users)
 food_input = st.text_input("Enter lbs of food")
 submit_button = st.button("Submit")
+#st.session_state['button'] = False
+if st.session_state.get('button') != True:
+    st.session_state['button'] = submit_button
 
-if submit_button:
+if st.session_state['button'] == True:
     row = shifts[shifts["user.name"] == user_input].iloc[0]
     # TODO deal with if user doesn't input anything for number
-    foodAmt = float(food_input) if food_input.isnumeric() else st.write("Please input a number")
+
+    foodAmt = float(food_input) if (food_input.isnumeric()) else st.write("Please input a number")
+    # if food_input isn't a number, foodAmt = None so the next bit has issues
     if (foodAmt >= 0):
         if foodAmt > 20:
             st.write("Please get admin approval.")
             admin_input = st.text_input("Admin Name")
             password_input = st.text_input("Password", type="password")
-            admin_login_button = st.button("Login admin")
-
-            # this is currently causing errors we think?
-            while not admin_login_button:
-                time.sleep(1)
-            
-            res = json.loads(authConnectors.signinEmployee(admin_input, password_input))
-        
-            st.write(res)
-            if res["status"]!=200:
-                st.write("Invalid admin login, user not signed out")
-                time.sleep(2)
-                nav_page("UsersMain")
-            
-        current_user_id = user_input
-        shift_id = row["id"]
-        shiftConnector.signout(foodAmt, int(shift_id))
-        st.write("Sign out successful!")
-        # wait 2 seconds
-        time.sleep(2)
-        # redirect to UsersMain
-        nav_page("UsersMain")
+            if st.button("Login admin"):            
+                res = json.loads(authConnectors.signinEmployee(admin_input, password_input))
+                if res["status"]!=200:
+                    st.write("Invalid admin login, volunteer not signed out")
+                    time.sleep(2)
+                    st.session_state['button'] = False
+                    nav_page("UsersMain")
+                else:
+                    current_user_id = user_input
+                    shift_id = row["id"]
+                    shiftConnector.signout(foodAmt, int(shift_id))
+                    st.write("Sign out successful!")
+                    # wait 2 seconds
+                    time.sleep(2)
+                    st.session_state['button'] = False
+                    # redirect to UsersMain
+                    nav_page("UsersMain")
+        else: 
+            current_user_id = user_input
+            shift_id = row["id"]
+            shiftConnector.signout(foodAmt, int(shift_id))
+            st.write("Sign out successful!")
+            # wait 2 seconds
+            time.sleep(2)
+            st.session_state['button'] = False
+            # redirect to UsersMain
+            nav_page("UsersMain")
     else:
         st.write("Enter a value greater than or equal to 0.")
     

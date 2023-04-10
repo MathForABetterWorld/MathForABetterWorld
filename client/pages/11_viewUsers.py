@@ -7,9 +7,18 @@ import json
 
 path = os.path.dirname(__file__)
 
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo.png", page_title="Bmore Food Volunteer Portal")
-image = Image.open(path + '/../assets/bmore_food_logo.png')
-st.image(image, caption="Bmore Food Logo")
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food Volunteer Portal")
+image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
+
+### Header ###
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
+
 # on button click submit, check if valid user
 
 if 'token' in st.session_state:

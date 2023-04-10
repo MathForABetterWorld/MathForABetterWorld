@@ -29,7 +29,7 @@ export const createLocation = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const getLocation = async (req, res) => {
-  const location = await prisma.location.findMany();
+  const location = await prisma.location.findMany({});
   return res.status(StatusCodes.ACCEPTED).json({ location });
 };
 
