@@ -66,7 +66,7 @@ const generateFakeData = async () => {
   usersList.forEach((user) => {
     if (!userSet.has(user)) {
       createUsers.push({ name: user, email: user + "@gmail.com" });
-      userSet.add(user + "@gmail.com");
+      userSet.add(user);
     }
   });
   await prisma.user.createMany({ data: createUsers });
