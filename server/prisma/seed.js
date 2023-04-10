@@ -28,28 +28,28 @@ const generateFakeData = async () => {
   // await prisma.user.deleteMany();
   // await generateFakeUsers(3);
   const locationMap = new Map();
-  const sandtown = await prisma.location.create({
+  const sandtown = await prisma.donationLocation.create({
     data: {
       name: "Sandtown",
       latitude: "39.304150",
       longitude: "-76.643036",
     },
   });
-  const bcfCurbside = await prisma.location.create({
+  const bcfCurbside = await prisma.donationLocation.create({
     data: {
       name: "BCF Curbside",
       latitude: "39.316390",
       longitude: "-76.620630",
     },
   });
-  const greenmountWest = await prisma.location.create({
+  const greenmountWest = await prisma.donationLocation.create({
     data: {
       name: "Greenmount West",
       latitude: "39.311310",
       longitude: "-76.612430",
     },
   });
-  const morganState = await prisma.location.create({
+  const morganState = await prisma.donationLocation.create({
     data: {
       name: "Morgan State University",
       latitude: "39.340460",

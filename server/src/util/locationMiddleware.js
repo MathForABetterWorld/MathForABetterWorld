@@ -10,7 +10,7 @@ import { StatusCodes } from "http-status-codes";
 
 export const isUniqueName = async (req, res, next) => {
   const { name } = req.body;
-  const query = await prisma.location.findFirst({
+  const query = await prisma.donationLocation.findFirst({
     where: {
       name,
     },
@@ -28,7 +28,7 @@ export const isUniqueName = async (req, res, next) => {
 export const isUniqueNameNotId = async (req, res, next) => {
     const id = parseInt(req.params.id, 10);
     const { name } = req.body;
-    const query = await prisma.location.findFirst({
+    const query = await prisma.donationLocation.findFirst({
       where: {
         name,
       },
@@ -50,7 +50,7 @@ export const isUniqueNameNotId = async (req, res, next) => {
  */
  export const isLocationId = async (req, res, next) => {
     const id = parseInt(req.params.id, 10);
-    const query = await prisma.location.findUnique({
+    const query = await prisma.donationLocation.findUnique({
       where: {
         id,
       },

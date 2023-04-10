@@ -69,7 +69,7 @@ model ExportItem {
   donatedTo  String
   user       User     @relation(fields: [userId], references: [id])
   userId     Int
-  location  Location?  @relation(fields: [locationId], references: [id])
+  location  DonationLocation?  @relation(fields: [locationId], references: [id])
   locationId  Int?
 }
 
@@ -99,7 +99,7 @@ enum Role {
   Employee
 }
 
-model Location {
+model DonationLocation {
   id          Int          @id @default(autoincrement())
   name  String
   longitude String
