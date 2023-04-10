@@ -180,6 +180,58 @@ const generateFakeData = async () => {
       },
     ],
   });
+  const chrisEmployee = await prisma.employee.findFirst({
+    where: {
+      userId: chris.id,
+    },
+  });
+  await prisma.user.update({
+    where: {
+      id: chris.id,
+    },
+    data: {
+      employeeId: chrisEmployee.id,
+    },
+  });
+  const jamieEmployee = await prisma.employee.findFirst({
+    where: {
+      userId: jamie.id,
+    },
+  });
+  await prisma.user.update({
+    where: {
+      id: jamie.id,
+    },
+    data: {
+      employeeId: jamieEmployee.id,
+    },
+  });
+  const timEmployee = await prisma.employee.findFirst({
+    where: {
+      userId: tim.id,
+    },
+  });
+  await prisma.user.update({
+    where: {
+      id: tim.id,
+    },
+    data: {
+      employeeId: timEmployee.id,
+    },
+  });
+  const krutalEmployee = await prisma.employee.findFirst({
+    where: {
+      userId: krutal.id,
+    },
+  });
+  await prisma.user.update({
+    where: {
+      id: krutal.id,
+    },
+    data: {
+      employeeId: krutalEmployee.id,
+    },
+  });
 };
 
 try {

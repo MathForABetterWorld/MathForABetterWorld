@@ -19,6 +19,14 @@ export const promoteUser = async (req, res) => {
       role: Role.Employee,
     },
   });
+  await prisma.user.update({
+    where: {
+      id: userId,
+    },
+    data: {
+      employeeId: employee.id,
+    },
+  });
   delete employee["hashedPassword"];
 
   return res.status(StatusCodes.CREATED).json({ employee });
