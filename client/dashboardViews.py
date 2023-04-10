@@ -205,64 +205,40 @@ def importVis():
     # col1.button("Back", key="bck", on_click=changeState, args=(0, ))
 
 def volunteerVis():
+    tab1, tab2, tab3 = st.tabs(["Last 7 Days", "Last 12 Months", "G3"])
+    with tab1:
+        volunteerGraph1(tab1)
+    with tab2:
+        volunteerGraph2(tab2)
+    with tab3:
+        volunteerGraph3(tab3)
+
     col1, col2 = st.columns(2)
-
-    col1.markdown("##")
-    col2.markdown("##")
-
-    col1.write("Graph 1")
-    col2.write("Graph 2")
-    volunteerGraph1(col1)
-    volunteerGraph2(col2)
-
-    col1.markdown("##")
-    col2.markdown("##")
-
-    col1.write("Graph 3")
-    col2.write("Graph 4")
-    volunteerGraph3(col1)
-    volunteerGraph4(col2)
 
     back = col1.button("Back", key="bck", on_click=changeState, args=(0, ))
 
 def clientVis():
+    tab1, tab2, tab3 = st.tabs(["G1", "G2", "G3"])
+    with tab1:
+        clientGraph1(tab1)
+    with tab2:
+        clientGraph2(tab2)
+    with tab3:
+        clientGraph3(tab3)
+
     col1, col2 = st.columns(2)
-
-    col1.markdown("##")
-    col2.markdown("##")
-
-    col1.write("Graph 1")
-    col2.write("Graph 2")
-    clientGraph1(col1)
-    clientGraph2(col2)
-
-    col1.markdown("##")
-    col2.markdown("##")
-
-    col1.write("Graph 3")
-    col2.write("Graph 4")
-    clientGraph3(col1)
-    clientGraph4(col2)
 
     back = col1.button("Back", key="bck", on_click=changeState, args=(0, ))
 
 def distributorVis():
+    tab1, tab2, tab3 = st.tabs(["G1", "G2", "G3"])
+    with tab1:
+        distributorGraph1(tab1)
+    with tab2:
+        distributorGraph2(tab2)
+    with tab3:
+        distributorGraph3(tab3)
+
     col1, col2 = st.columns(2)
-
-    col1.markdown("##")
-    col2.markdown("##")
-
-    col1.write("Graph 1")
-    col2.write("Graph 2")
-    distributorGraph1(col1)
-    distributorGraph2(col2)
-
-    col1.markdown("##")
-    col2.markdown("##")
-
-    col1.write("Graph 3")
-    col2.write("Graph 4")
-    distributorGraph3(col1)
-    distributorGraph4(col2)
 
     back = col1.button("Back", key="bck", on_click=changeState, args=(0, ))
