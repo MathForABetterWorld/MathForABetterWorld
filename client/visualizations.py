@@ -27,9 +27,6 @@ def test(col):
 
 
 def importGraph1(col):
-    # TODO
-    
-    # allPallets = pallet.getFood()["Pallet"]
     allPallets = json.loads(pallet.getFood())["Pallet"]
 
     df = pd.DataFrame.from_dict(allPallets)
@@ -44,7 +41,6 @@ def importGraph1(col):
     ax.xaxis.set_major_formatter(mdates.DateFormatter('%b'))
 
     ax.set_title("Total imports over time")
-    # df = df[['col2', 'col6']]
 
     ax.plot(df.index, df[["weight"]], label="Cumulative Imports")
     ax.patch.set_facecolor('black')
@@ -58,9 +54,6 @@ def importGraph1(col):
     ax.set_xlabel("Date")
     ax.set_ylabel("Total Cumulative Imports (lbs)")
     col.pyplot(fig)
-
-    # test(col)
-    pass
 
 def importGraph2(col):
     # TODO
