@@ -23,14 +23,17 @@ with col3:
 
 # dropdown or text input for employee name
 # text input for password
-user_input = st.text_input("Username")
-password_input = st.text_input("Password", type="password")
-log_in_button = st.button("Log in")
-logout_button = st.button("Logout")
-if log_in_button:
-    # check user_input and password_input match
-    # go to employee page
-    res = json.loads(authConnectors.signinEmployee(user_input, password_input))
-    st.session_state.token = res["token"]
-if logout_button: 
-    del st.session_state.token
+if "token" in st.session_state:
+    logout_button = st.button("Logout")
+
+    if logout_button: 
+        del st.session_state.token
+else:
+    user_input = st.text_input("Username")
+    password_input = st.text_input("Password", type="password")
+    log_in_button = st.button("Log in")
+    if log_in_button:
+        # check user_input and password_input match
+        # go to employee page
+        res = json.loads(authConnectors.signinEmployee(user_input, password_input))
+        st.session_state.token = res["token"]
