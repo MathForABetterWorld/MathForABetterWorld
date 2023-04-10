@@ -269,7 +269,6 @@ export const categoryList = [
   "Deodorant ",
   "Salad bags",
   "Chips",
-  "Toilet Paper",
   "STEAM toys",
   "Baby Supplies",
   "Personal Care",
@@ -287,7 +286,6 @@ export const categoryList = [
   "Drinks",
   "Health & Beauty products ",
   "Hygiene & produce ",
-  "Mixed items for lunches ",
   "Soda",
   "Personal care",
   "Pampers ",
@@ -306,9 +304,6 @@ export const categoryList = [
   "Cereal",
   "kleenex",
   "personal care",
-  "Dairy/produce",
-  "Produce/dairy",
-  "Assorted / expired",
   "Aoda",
   "Mixed drinks",
   "Panpers",
@@ -322,8 +317,6 @@ export const categoryList = [
   "Spices",
   "Tissue paper dish soap",
   "Personal Care ",
-  "Produce& personal care",
-  "Produce and diary",
   "Sugar",
   "Candy",
   "Spaghetti Sauce",
@@ -341,7 +334,6 @@ export const categoryList = [
   "Meats",
   "Snacks BCF return",
   "Drinks BCF return",
-  "export- was in volunteer export", // todo
   "Kitchen supplies",
   "Drinks soda",
   "Toilet paper",
@@ -9163,7 +9155,7 @@ export const entries = [
     date: "2022-09-04 14:39:20.058000",
     name: "JC",
     weight: 921,
-    category: "Toilet Paper",
+    category: "Household",
     distributor: "Amazon",
   },
   {
@@ -10262,7 +10254,7 @@ export const entries = [
     date: "2022-10-12 14:52:02.659000",
     name: "JC",
     weight: 1327,
-    category: "Toilet Paper",
+    category: "Household",
     distributor: "Whitebox",
   },
   {
@@ -13400,7 +13392,7 @@ export const exportsList = [
     date: "2022-01-27 13:15:55.844000",
     name: "Jilleien Franquelli",
     weight: 240,
-    category: "Mixed items for lunches ",
+    category: "Other",
     donatedTo: "Love and lunches ",
   },
   {
@@ -16095,7 +16087,7 @@ export const exportsList = [
     date: "2022-03-03 14:47:47.121000",
     name: "Jean",
     weight: 569,
-    category: "Dairy/produce",
+    category: "Dairy",
     donatedTo: "Latrobe",
   },
   {
@@ -16417,7 +16409,7 @@ export const exportsList = [
     date: "2022-03-06 16:02:37.106000",
     name: "Ausar",
     weight: 767,
-    category: "Produce/dairy",
+    category: "Produce",
     donatedTo: "Janet Arce",
   },
   {
@@ -16445,7 +16437,7 @@ export const exportsList = [
     date: "2022-03-06 16:36:51.228000",
     name: "Ausar",
     weight: 24,
-    category: "Assorted / expired",
+    category: "Other",
     donatedTo: "Ausar",
   },
   {
@@ -18258,7 +18250,7 @@ export const exportsList = [
     date: "2022-04-10 14:00:51.283000",
     name: "Torey W.",
     weight: 139,
-    category: "Produce& personal care",
+    category: "Produce",
     donatedTo: "Janet Arce",
   },
   {
@@ -18300,7 +18292,7 @@ export const exportsList = [
     date: "2022-04-13 16:04:58.918000",
     name: "Monah",
     weight: 788,
-    category: "Produce and diary",
+    category: "Produce",
     donatedTo: "Coach Dunkin",
   },
   {
@@ -19945,7 +19937,7 @@ export const exportsList = [
     date: "2022-05-10 13:14:46.575000",
     name: "Juanita Chandler",
     weight: 748,
-    category: "export- was in volunteer export",
+    category: "Other",
     donatedTo: "Other",
   },
   {
