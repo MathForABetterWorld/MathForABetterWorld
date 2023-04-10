@@ -250,6 +250,7 @@ export const categoryList = [
   "Drinks [Dry]", // final
   "Other", //final
   "Paper Supplies", // final
+  "Baby Supplies", // final
   "Drinks",
   "Drinks ",
   "Soda",
@@ -259,12 +260,10 @@ export const categoryList = [
   "Pepsi",
   "Soda ",
   " Drinks",
-  "Baby diapers",
   "Personal care (deodorant) ",
   "Bananas",
   "Personal care",
   "Drinks/assort",
-  "Pampers ",
   "Bread/frozen",
   "Deodorant ",
   "Salad bags",
@@ -288,7 +287,6 @@ export const categoryList = [
   "Hygiene & produce ",
   "Soda",
   "Personal care",
-  "Pampers ",
   "Soda ",
   "Pampers",
   "Baby items ",
@@ -2932,7 +2930,7 @@ export const entries = [
     date: "2022-02-13 12:39:23.091000",
     name: "Jean",
     weight: 79,
-    category: "Baby diapers",
+    category: "Baby Supplies",
     distributor: "Ausar’s Food donations",
   },
   {
@@ -6936,7 +6934,7 @@ export const entries = [
     date: "2022-06-05 12:52:45.827000",
     name: "Vincent Faulk",
     weight: 20,
-    category: "Pampers ",
+    category: "Baby Supplies",
     distributor: "Asar",
   },
   {
@@ -13735,14 +13733,14 @@ export const exportsList = [
     date: "2022-01-30 14:55:12.176000",
     name: "Ausar ",
     weight: 190,
-    category: "Pampers ",
+    category: "Baby Supplies",
     donatedTo: "Janet Arce",
   },
   {
     date: "2022-01-30 14:55:42.637000",
     name: "Ausar ",
     weight: 340,
-    category: "Pampers ",
+    category: "Baby Supplies",
     donatedTo: "Young",
   },
   {
@@ -15947,7 +15945,7 @@ export const exportsList = [
     date: "2022-02-27 14:06:52.990000",
     name: "Ausar ",
     weight: 545,
-    category: "Pampers ",
+    category: "Baby Supplies",
     donatedTo: "Gilmore Homes",
   },
   {
