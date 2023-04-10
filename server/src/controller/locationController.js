@@ -13,7 +13,7 @@ export const createLocation = async (req, res) => {
     return res;
   }
   const { name, longitude, latitude } = req.body;
-  const category = await prisma.donationLocation.create({
+  const category = await prisma.DonationLocation.create({
     data: {
       name,
       longitude,
@@ -29,7 +29,7 @@ export const createLocation = async (req, res) => {
  * @param {object} res - response for the request
  */
 export const getLocation = async (req, res) => {
-  const location = await prisma.donationLocation.findMany({});
+  const location = await prisma.DonationLocation.findMany();
   return res.status(StatusCodes.ACCEPTED).json({ location });
 };
 
@@ -44,7 +44,7 @@ export const updateLocation = async (req, res) => {
   }
   const id = parseInt(req.params.id, 10);
   const { name, longitude, latitude } = req.body;
-  const location = await prisma.donationLocation.update({
+  const location = await prisma.DonationLocation.update({
     where: {
       id,
     },
@@ -64,7 +64,7 @@ export const updateLocation = async (req, res) => {
  */
 export const deleteLocation = async (req, res) => {
   const id = parseInt(req.params.id, 10);
-  const location = await prisma.donationLocation.delete({
+  const location = await prisma.DonationLocation.delete({
     where: {
       id,
     },
@@ -87,7 +87,7 @@ export const getVisitsToLocation = async (req, res) => {
       exportDate: true,
     },
   });
-  const locations = await prisma.donationLocation.findMany({});
+  const locations = await prisma.DonationLocation.findMany({});
   const countMap = new Map();
   countMap.set(null, null);
   locations.forEach((loc) => countMap.set(loc.id, loc));
@@ -112,7 +112,7 @@ export const getWeightByLocation = async (req, res) => {
       weight: true,
     },
   });
-  const locations = await prisma.donationLocation.findMany({});
+  const locations = await prisma.DonationLocation.findMany({});
   const countMap = new Map();
   countMap.set(null, null);
   locations.forEach((loc) => countMap.set(loc.id, loc));
