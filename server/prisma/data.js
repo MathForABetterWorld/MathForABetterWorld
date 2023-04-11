@@ -290,7 +290,7 @@ export const entries = [
     date: "2022-01-04 18:16:00.693000",
     name: "JC",
     weight: 667,
-    category: "Pet Fiod",
+    category: "Pet Supplies",
     distributor: "Amazon",
   },
   {
@@ -2334,7 +2334,7 @@ export const entries = [
     date: "2022-02-09 19:12:40.865000",
     name: "Adeola Sulaiman",
     weight: 764,
-    category: "assorted dry",
+    category: "Assorted Dry",
     distributor: "Amazon",
   },
   {
@@ -2355,7 +2355,7 @@ export const entries = [
     date: "2022-02-09 19:13:27.778000",
     name: "Adeola Sulaiman",
     weight: 733,
-    category: "assorted dry",
+    category: "Assorted Dry",
     distributor: "Amazon",
   },
   {
@@ -12135,6 +12135,8 @@ export const distributorList = [
   "Sysco Purchase",
   "Dannon",
   "Food Donation  David Greenway",
+  "First Fruits Farm",
+  "Alto Dale Farm"
 ];
 
 export const exportsList = [
@@ -15159,7 +15161,7 @@ export const exportsList = [
     date: "2022-02-19 15:10:20.804000",
     name: "Marci Yankelov",
     weight: 843,
-    category: "pet supplies",
+    category: "Spices",
     donatedTo: "BCF Curbside",
   },
   {
@@ -19191,7 +19193,7 @@ export const exportsList = [
     date: "2022-04-30 18:16:12.028000",
     name: "Ausar ",
     weight: 411,
-    category: "Spice’s ",
+    category: "Spices",
     donatedTo: "BCF Curbside",
   },
   {

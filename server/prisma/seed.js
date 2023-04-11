@@ -93,15 +93,15 @@ const generateFakeData = async () => {
   const distributors = await prisma.distributor.findMany();
   distributors.forEach((dis) => distributorMap.set(dis.name, dis));
   const createEntryList = [];
-  entries.forEach((entry) =>
+  entries.forEach((entry) => {
     createEntryList.push({
       entryUserId: userMap.get(entry.name).id,
       inputDate: new Date(entry.date),
       weight: entry.weight,
       categoryIds: [categoryMap.get(entry.category).id],
       companyId: distributorMap.get(entry.distributor).id,
-    })
-  );
+    });
+  });
   const foodData = await prisma.pallet.createMany({ data: createEntryList });
   const createExportsList = [];
   exportsList.forEach((exportItem) => {
