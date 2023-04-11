@@ -19,6 +19,9 @@ export const get = async (req, res) => {
     return res;
   }
   const users = await prisma.user.findMany({
+    where: {
+      employeeId: null,
+    },
     select: {
       id: true,
       name: true,
@@ -36,6 +39,9 @@ export const getUserWhoWorkedTheMostHours = async (req, res) => {
     return res;
   }
   const users = await prisma.user.findMany({
+    where: {
+      employeeId: null,
+    },
     include: {
       shiftsWorked: true,
     },
@@ -81,6 +87,7 @@ export const getTotalUserHours = async (req, res, userId) => {
   const userHours = await prisma.shift.aggregate({
     where: {
       userId: id, // filter the shift table based on the input user id
+      employeeId: null,
       not: [
         {
           end: null,
