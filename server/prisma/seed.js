@@ -28,28 +28,28 @@ const generateFakeData = async () => {
   // await prisma.user.deleteMany();
   // await generateFakeUsers(3);
   const locationMap = new Map();
-  const sandtown = await prisma.location.create({
+  const sandtown = await prisma.DonationLocation.create({
     data: {
       name: "Sandtown",
       latitude: "39.304150",
       longitude: "-76.643036",
     },
   });
-  const bcfCurbside = await prisma.location.create({
+  const bcfCurbside = await prisma.DonationLocation.create({
     data: {
       name: "BCF Curbside",
       latitude: "39.316390",
       longitude: "-76.620630",
     },
   });
-  const greenmountWest = await prisma.location.create({
+  const greenmountWest = await prisma.DonationLocation.create({
     data: {
       name: "Greenmount West",
       latitude: "39.311310",
       longitude: "-76.612430",
     },
   });
-  const morganState = await prisma.location.create({
+  const morganState = await prisma.DonationLocation.create({
     data: {
       name: "Morgan State University",
       latitude: "39.340460",
@@ -179,6 +179,58 @@ const generateFakeData = async () => {
         role: Role.Admin,
       },
     ],
+  });
+  const chrisEmployee = await prisma.employee.findFirst({
+    where: {
+      userId: chris.id,
+    },
+  });
+  await prisma.user.update({
+    where: {
+      id: chris.id,
+    },
+    data: {
+      employeeId: chrisEmployee.id,
+    },
+  });
+  const jamieEmployee = await prisma.employee.findFirst({
+    where: {
+      userId: jamie.id,
+    },
+  });
+  await prisma.user.update({
+    where: {
+      id: jamie.id,
+    },
+    data: {
+      employeeId: jamieEmployee.id,
+    },
+  });
+  const timEmployee = await prisma.employee.findFirst({
+    where: {
+      userId: tim.id,
+    },
+  });
+  await prisma.user.update({
+    where: {
+      id: tim.id,
+    },
+    data: {
+      employeeId: timEmployee.id,
+    },
+  });
+  const krutalEmployee = await prisma.employee.findFirst({
+    where: {
+      userId: krutal.id,
+    },
+  });
+  await prisma.user.update({
+    where: {
+      id: krutal.id,
+    },
+    data: {
+      employeeId: krutalEmployee.id,
+    },
   });
 };
 
