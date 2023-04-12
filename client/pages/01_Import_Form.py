@@ -7,6 +7,8 @@ from routeConnectors import pallet
 from routeConnectors import distributorConnectors
 from routeConnectors import rackConnector
 from routeConnectors import categoryConnectors
+from routeConnectors import userConnector
+import json
 import os
 
 path = os.path.dirname(__file__)
@@ -32,6 +34,12 @@ allCategories = [{"id": -1, "name": "", "description":""}]
 catRes = categoryConnectors.getCategories()
 if catRes: 
     allCategories = allCategories + catRes["category"]
+
+
+allUsers = [{"id": -1, "name": ""}]
+dbUsers = json.loads(userConnector.getUsers().decode("utf-8"))
+if dbUsers:
+    allUsers = allUsers + dbUsers["users"]
 # print("all cats", allCategories)
 
 title_container = st.container()
@@ -54,6 +62,7 @@ with st.form("template_form"):
     rack = right.selectbox("Rack", allRacks) # get more info on how racks are stored in the google form 
     pallet_weight = left.text_input("Weight", value="1000")
     category = right.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
+    inputUser = right.selectbox("User", allUsers, format_func=lambda user: f'{user["name"]}' )
     description = st.text_input("Description", value="")
     submit = st.form_submit_button()
 
