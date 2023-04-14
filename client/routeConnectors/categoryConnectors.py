@@ -21,7 +21,7 @@ def postCategory(name, desc):
   return r.data.decode('utf-8')
 
 def deleteCategory(idField):
-  r = http.request("DELETE", root + curPath + "/" + idField, headers={'Content-Type': 'application/json'})
+  r = http.request("DELETE", root + curPath + "/" + str(idField), headers={'Content-Type': 'application/json'})
   return r.data
 
 def updateCategory(idField, name, desc):
@@ -30,5 +30,5 @@ def updateCategory(idField, name, desc):
     # "id": idField,
     "description": desc
   })
-  r = http.request("POST", root + curPath + "/" + idField + "/" + "update", body=f, headers={'Content-Type': 'application/json'})
+  r = http.request("POST", root + curPath + "/" + str(idField) + "/" + "update", body=f, headers={'Content-Type': 'application/json'})
   return r.data

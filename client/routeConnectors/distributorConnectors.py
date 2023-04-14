@@ -20,7 +20,7 @@ def postDistributor(name):
   return r.data.decode('utf-8')
 
 def deleteDistributor(idField):
-  r = http.request("DELETE", root + curPath + "/" + idField, headers={'Content-Type': 'application/json'})
+  r = http.request("DELETE", root + curPath + "/" + str(idField), headers={'Content-Type': 'application/json'})
   return r.data
 
 def updateDistributor(idField, name):
