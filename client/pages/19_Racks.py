@@ -21,46 +21,47 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>View Racks</h1>", unsafe_allow_html=True)
 
 st.dataframe(rackDF)
-editType = st.selectbox("Modification Type", ["", "New Rack", "Update Rack", "Delete Rack"])
-if editType == "New Rack":
-    with st.form("template_form"):
-        left, right = st.columns(2)
-        location = left.text_input("Location", "")
-        desc = right.text_input("Description", "")
-        weightLimit = left.number_input("Weight Limit", min_value=0, format="%.2f")
-        newSubmit = st.form_submit_button()
-    if newSubmit:
-        if location == "" or weightLimit == 0 or desc == "":
-            st.error("Please fill in form elements!")
-        else:
-            rackConnector.postRack(location, desc, weightLimit)
-            st.experimental_rerun()
-elif editType == "Update Rack":
-    with st.form("template_form"):
-        left, right = st.columns(2)
-        location = left.text_input("Location", "")
-        desc = right.text_input("Description", "")
-        weightLimit = left.number_input("Weight Limit", min_value=0, format="%.2f")
-        idx = right.number_input("Id", min_value=1)
-        editSubmit = st.form_submit_button()
-    if editSubmit:
-        if location == "" or weightLimit == 0 or desc == "":
-            st.error("Please fill in both form elements!")
-        elif idx in rackDF.id.unique():
-            editedCat = rackConnector.updateRack(idx, location, desc, weightLimit)
-            st.experimental_rerun()
-        else:
-            st.error("Please input an id that is in the table!")
-elif editType == "Delete Rack":
-    with st.form("template_form"):
-        idx = st.number_input("Id", min_value=1)
-        deleteSubmit = st.form_submit_button()
-    if deleteSubmit:
-        if idx in rackDF.id.unique():
-            deletedCat = rackConnector.deleteRack(idx)
-            st.experimental_rerun()
-        else:
-            st.error("Please input an id that is in the table!")
+if 'token' in st.session_state:
+    editType = st.selectbox("Modification Type", ["", "New Rack", "Update Rack", "Delete Rack"])
+    if editType == "New Rack":
+        with st.form("template_form"):
+            left, right = st.columns(2)
+            location = left.text_input("Location", "")
+            desc = right.text_input("Description", "")
+            weightLimit = left.number_input("Weight Limit", min_value=0, format="%.2f")
+            newSubmit = st.form_submit_button()
+        if newSubmit:
+            if location == "" or weightLimit == 0 or desc == "":
+                st.error("Please fill in form elements!")
+            else:
+                rackConnector.postRack(location, desc, weightLimit)
+                st.experimental_rerun()
+    elif editType == "Update Rack":
+        with st.form("template_form"):
+            left, right = st.columns(2)
+            location = left.text_input("Location", "")
+            desc = right.text_input("Description", "")
+            weightLimit = left.number_input("Weight Limit", min_value=0, format="%.2f")
+            idx = right.number_input("Id", min_value=1)
+            editSubmit = st.form_submit_button()
+        if editSubmit:
+            if location == "" or weightLimit == 0 or desc == "":
+                st.error("Please fill in both form elements!")
+            elif idx in rackDF.id.unique():
+                editedCat = rackConnector.updateRack(idx, location, desc, weightLimit)
+                st.experimental_rerun()
+            else:
+                st.error("Please input an id that is in the table!")
+    elif editType == "Delete Rack":
+        with st.form("template_form"):
+            idx = st.number_input("Id", min_value=1)
+            deleteSubmit = st.form_submit_button()
+        if deleteSubmit:
+            if idx in rackDF.id.unique():
+                deletedCat = rackConnector.deleteRack(idx)
+                st.experimental_rerun()
+            else:
+                st.error("Please input an id that is in the table!")
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
