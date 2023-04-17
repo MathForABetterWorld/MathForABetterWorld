@@ -5,12 +5,6 @@
 - https://mathforabetterworldbackend.onrender.com/
 
 
-## Links
-- https://github.com/ChrisWilhelm/MathForABetterWorld/issues
-- https://mathforabetterworld.slack.com/
-- https://www.prisma.io/docs/concepts/components/prisma-schema/data-model
-
-
 ## Getting Started:
 ```
 git clone https://github.com/ChrisWilhelm/MathForABetterWorld
@@ -20,6 +14,9 @@ echo "DATABASE_URL='postgresql://prisma:prisma@127.0.0.1:5432/math-for-better-wo
 ```
 
 ## Development and Testing:
+- https://github.com/ChrisWilhelm/MathForABetterWorld/issues
+- https://mathforabetterworld.slack.com/
+- https://www.prisma.io/docs/concepts/components/prisma-schema/data-model
 ```
 cd server
 yarn install
