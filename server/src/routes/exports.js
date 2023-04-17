@@ -27,8 +27,10 @@ router.post(
   body("userId", "Please include the user id that distributed this!")
     .notEmpty()
     .isInt(),
+  body("locationId", "LocationId must be an integer").optional().isInt(),
   validator.isUserId,
   validator.isCategoryId,
+  validator.isLocationIdOptional,
   controller.createExport
 );
 
@@ -57,9 +59,11 @@ router.post(
   body("userId", "Please include the user id that distributed this!")
     .notEmpty()
     .isInt(),
+  body("locationId", "LocationId must be an integer").optional().isInt(),
   validator.isExportId,
   validator.isUserId,
   validator.isCategoryId,
+  validator.isLocationIdOptional,
   controller.createExport
 );
 

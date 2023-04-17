@@ -6,13 +6,25 @@ import { Role } from "@prisma/client";
 import { createToken } from "../util/token.js";
 
 export const promoteUser = async (req, res) => {
-  const { userId, username, password } = req.body;
+  const { userId, userName, password } = req.body;
   const employee = await prisma.employee.create({
     data: {
-      userId,
-      userName: username,
+      user: {
+        connect: {
+          id: userId,
+        },
+      },
+      userName,
       hashedPassword: hashPassword(password),
       role: Role.Employee,
+    },
+  });
+  await prisma.user.update({
+    where: {
+      id: userId,
+    },
+    data: {
+      employeeId: employee.id,
     },
   });
   delete employee["hashedPassword"];
