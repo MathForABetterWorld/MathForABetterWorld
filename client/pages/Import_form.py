@@ -16,7 +16,7 @@ image = Image.open(path + '/../assets/bmore_food_logo.png')
 
 # Get rack, distributor and category info 
 print("getting racks....")
-allRacks = [1, 2, 3, 4, 5, 6]
+allRacks = ["", 1, 2, 3, 4, 5, 6]
 rackRes = rackConnector.getRacks()
 if rackRes: 
     allRacks = allRacks + rackRes["rack"]
