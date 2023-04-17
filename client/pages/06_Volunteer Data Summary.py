@@ -5,10 +5,15 @@ import pandas as pd
 import random as random
 from matplotlib import pyplot as plt, dates as mdates
 import streamlit as st
-
-
 import datetime
+from PIL import Image
+import os
 
+path = os.path.dirname(__file__)
+
+
+image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
+st.image(image)
 a = datetime.datetime.today()
 numdays = 100
 dateList = []

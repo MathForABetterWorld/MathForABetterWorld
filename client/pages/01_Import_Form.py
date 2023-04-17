@@ -7,13 +7,15 @@ from routeConnectors import pallet
 from routeConnectors import distributorConnectors
 from routeConnectors import rackConnector
 from routeConnectors import categoryConnectors
+from routeConnectors import userConnector
+import json
 import os
 
 path = os.path.dirname(__file__)
-
+print(path + "/../assets/bmore_food_logo_dark_theme.png" )
 st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Import Form")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
-
+st.image(image)
 # Get rack, distributor and category info 
 print("getting racks....")
 allRacks = [1, 2, 3, 4, 5, 6]
@@ -32,13 +34,19 @@ allCategories = [{"id": -1, "name": "", "description":""}]
 catRes = categoryConnectors.getCategories()
 if catRes: 
     allCategories = allCategories + catRes["category"]
+
+
+allUsers = [{"id": -1, "name": ""}]
+dbUsers = json.loads(userConnector.getUsers().decode("utf-8"))
+if dbUsers:
+    allUsers = allUsers + dbUsers["users"]
 # print("all cats", allCategories)
 
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
-    with col1:
-        st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
+    # with col1:
+    #     st.image(image, width=200)
     with col2:
         st.markdown("<h1 style='text-align: center; '>Food import form</h1>", unsafe_allow_html=True)
 
@@ -54,6 +62,7 @@ with st.form("template_form"):
     rack = right.selectbox("Rack", allRacks) # get more info on how racks are stored in the google form 
     pallet_weight = left.text_input("Weight", value="1000")
     category = right.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
+    inputUser = right.selectbox("User", allUsers, format_func=lambda user: f'{user["name"]}' )
     description = st.text_input("Description", value="")
     submit = st.form_submit_button()
 

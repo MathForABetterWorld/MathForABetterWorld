@@ -37,3 +37,11 @@ def changePassword(newUsername, newPassword, userName, password):
   })
   r = http.request("POST", root + curPath + "/updateAccount", body=f, headers={'Content-Type': 'application/json', 'Authorization': f'Bearer {st.session_state.token}'})
   return r.data.decode('utf-8')
+
+def getEmployees():
+  r = http.request("GET", root + curPath + "/employees", headers={'Content-Type': 'application/json', 'Authorization': f'Bearer {st.session_state.token}'})
+  return r.data.decode('utf-8')
+
+def getMyActiveShift():
+  r = http.request("GET", root + curPath + "/activeShifts", headers={'Content-Type': 'application/json', 'Authorization': f'Bearer {st.session_state.token}'})
+  return r.data.decode('utf-8')

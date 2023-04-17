@@ -89,3 +89,28 @@ export const getUsers = async (req, res) => {
   const users = await prisma.user.findMany({});
   return res.status(StatusCodes.ACCEPTED).json({ users });
 };
+
+export const getEmployees = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const employees = await prisma.employee.findMany({
+    include: {
+      user: true,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ employees });
+};
+
+export const getMyActiveShifts = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const shift = await prisma.shift.findMany({
+    where: {
+      userId: req.id,
+      end: null,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ shift });
+};

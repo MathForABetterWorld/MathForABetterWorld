@@ -3,7 +3,7 @@ import json
 import pandas as pd
 import time
 from datetime import datetime
-from routeConnectors import shiftConnector
+from routeConnectors import shiftConnector, authConnectors, employeeConnectors
 from nav import nav_page
 from PIL import Image
 import os
@@ -37,30 +37,48 @@ else:
 user_input = st.selectbox(label="Please enter your name", options = active_users)
 food_input = st.text_input("Enter lbs of food")
 submit_button = st.button("Submit")
+#st.session_state['button'] = False
+if st.session_state.get('button') != True:
+    st.session_state['button'] = submit_button
 
-if submit_button:
+if st.session_state['button'] == True:
     row = shifts[shifts["user.name"] == user_input].iloc[0]
     # TODO deal with if user doesn't input anything for number
-    foodAmt = float(food_input) if food_input.isnumeric() else st.write("Please input a number")
+
+    foodAmt = float(food_input) if (food_input.isnumeric()) else st.write("Please input a number")
+    # if food_input isn't a number, foodAmt = None so the next bit has issues
     if (foodAmt >= 0):
         if foodAmt > 20:
             st.write("Please get admin approval.")
-            user_input = st.text_input("Admin Name")
-            password_input = st.text_input("Password")
-            # TODO search in employees to get employee with name Name, if password matches
-                #"[foodAmt] is approved. Sign out successful!")
-            
-        
-            
-        current_user_id = user_input
-        shift_id = row["id"]
-        # TODO get shift id from corresponding user's last shift from active_shifts
-        shiftConnector.signout(foodAmt, int(shift_id))
-        st.write("Sign out successful!")
-        # wait 2 seconds
-        time.sleep(2)
-        # redirect to UsersMain
-        nav_page("UsersMain")
+            admin_input = st.text_input("Admin Name")
+            password_input = st.text_input("Password", type="password")
+            if st.button("Login admin"):            
+                res = json.loads(authConnectors.signinEmployee(admin_input, password_input))
+                if res["status"]!=200:
+                    st.write("Invalid admin login, volunteer not signed out")
+                    time.sleep(2)
+                    st.session_state['button'] = False
+                    nav_page("UsersMain")
+                else:
+                    current_user_id = user_input
+                    shift_id = row["id"]
+                    shiftConnector.signout(foodAmt, int(shift_id))
+                    st.write("Sign out successful!")
+                    # wait 2 seconds
+                    time.sleep(2)
+                    st.session_state['button'] = False
+                    # redirect to UsersMain
+                    nav_page("UsersMain")
+        else: 
+            current_user_id = user_input
+            shift_id = row["id"]
+            shiftConnector.signout(foodAmt, int(shift_id))
+            st.write("Sign out successful!")
+            # wait 2 seconds
+            time.sleep(2)
+            st.session_state['button'] = False
+            # redirect to UsersMain
+            nav_page("UsersMain")
     else:
         st.write("Enter a value greater than or equal to 0.")
     

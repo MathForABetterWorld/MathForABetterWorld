@@ -10,7 +10,7 @@
     "prisma:seed": "yarn prisma db seed",
     "prisma:studio": "yarn prisma studio",
     "prisma:dev": "yarn docker:up && dotenv -e .env yarn prisma migrate dev",
-    "prisma:prod": "dotenv -e .env yarn prisma migrate deploy && prisma db seed",
+    "prisma:prod": "dotenv -e .env yarn prisma migrate deploy && yarn prisma generate && prisma db seed",
     "prisma:reset": "yarn docker:up && dotenv -e .env yarn prisma migrate reset",
     "prisma:test": "yarn docker:up && dotenv -e .env.test yarn prisma migrate dev",
     "start": "node .",
