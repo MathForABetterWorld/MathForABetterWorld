@@ -21,17 +21,21 @@ rackRes = rackConnector.getRacks()
 if rackRes: 
     allRacks = allRacks + rackRes["rack"]
 
-print("getting distributors....")
-allDistributors = [{"id": -1, "name": ""}]
-distRes = distributorConnectors.getDistributors()
-if distRes: 
-    allDistributors = allDistributors + distRes["distributors"]
 
-print("getting categories....")
-allCategories = [{"id": -1, "name": "", "description":""}] 
-catRes = categoryConnectors.getCategories()
-if catRes: 
-    allCategories = allCategories + catRes["category"]
+
+allDistributors  = [""] 
+distributors = distributorConnectors.getDistributors()['distributors']
+allDistributors = allDistributors + [distributor['name'] for distributor in distributors]
+allDistributors.sort()
+
+
+
+
+allCategories  = [""] 
+categories = categoryConnectors.getCategories()['category']
+
+allCategories = allCategories + [category['name'] for category in categories]
+allCategories.sort()
 # print("all cats", allCategories)
 
 title_container = st.container()
@@ -50,10 +54,10 @@ todaysDate = datetime.date.today()
 with st.form("template_form"):
     left, right = st.columns(2)
     expiration_date = left.date_input("Expiration date", value=datetime.date(2023, 1, 1))
-    distributor_name = left.selectbox("Distributor name", allDistributors, format_func=lambda dist: f'{dist["name"]}')
+    distributor_name = left.selectbox("Distributor name", allDistributors)
     rack = right.selectbox("Rack", allRacks) # get more info on how racks are stored in the google form 
     pallet_weight = left.text_input("Weight", value="1000")
-    category = right.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
+    category = right.selectbox("Category", allCategories)
     description = st.text_input("Description", value="")
     submit = st.form_submit_button()
 
