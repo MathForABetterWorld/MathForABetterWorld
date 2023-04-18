@@ -8,10 +8,15 @@ from routeConnectors import pallet
 from routeConnectors import distributorConnectors
 from routeConnectors import rackConnector
 from routeConnectors import categoryConnectors
+from PIL import Image
 
 path = os.path.dirname(__file__)
 # This has to be the first streamlit command called
 st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Query imports")
+image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
+st.image(image)
+def getCompanyNames(company):
+    return company["name"]
 
 # Get rack, distributor and category info 
 print("getting racks....")
@@ -32,12 +37,12 @@ catRes = categoryConnectors.getCategories()
 if catRes: 
     allCategories = allCategories + catRes["category"]
 # print("all cats", allCategories)
-
+categoryDF = pd.DataFrame(allCategories)
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
-    with col1:
-        st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
+    # with col1:
+    #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
     with col2:
         st.markdown("<h1 style='text-align: center; '>Query imports</h1>", unsafe_allow_html=True)
 
@@ -54,10 +59,19 @@ distributorSelect = st.selectbox("Show all food coming from", allDistributors, f
 sortBySelect = st.selectbox("Sort food imports by", sortByMap)
 
 
-allPallets = pallet.getFood()["Pallet"]
+allPallets = json.loads(pallet.getFood())["Pallet"]
 #print("allPallets: ", allPallets[:10])
 df = pd.DataFrame.from_dict(allPallets)
+df.company = df.company.apply(getCompanyNames)
 
+def getCategories(category):
+    catNames = []
+    for cat in category:
+        catNames.append(categoryDF.loc[categoryDF.id == cat, "name"].values[0])
+
+    return pd.Series(catNames)
+
+df["Categories"] = df.categoryIds.apply(getCategories)
 # # Uncomment this when connected to backend 
 # # # Filter by distributor 
 # # # Filter by selected category
@@ -72,7 +86,7 @@ if categorySelect['id'] != -1:
 if distributorSelect["name"] != "":
     distributorIndices = []
     for index, row in df.iterrows():
-        if distributorSelect["name"] == row["company"]["name"]:
+        if distributorSelect["name"] == row["company"]:
             distributorIndices.append(index)
     df = df.iloc[distributorIndices] #this maybe should sort by distributor ID 
     df = df.reset_index()
@@ -81,8 +95,8 @@ if sortByMap[sortBySelect] != 'none':
     df = df.sort_values([sortByMap[sortBySelect]])
     df = df.reset_index()
 
-st.table(df)
-
+#st.dataframe(df)
+st.dataframe(df)
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
 # rerun.
