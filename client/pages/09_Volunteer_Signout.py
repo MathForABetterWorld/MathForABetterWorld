@@ -22,7 +22,6 @@ with col2:
 with col3:
     st.write(' ')
 
-# get list of users as json file?
 
 active_shifts = shiftConnector.activeShifts()
 active_shifts2 = json.loads(active_shifts)
@@ -58,7 +57,7 @@ if st.session_state['button'] == True:
                     st.write("Invalid admin login, volunteer not signed out")
                     time.sleep(2)
                     st.session_state['button'] = False
-                    nav_page("UsersMain")
+                    nav_page("Volunteer_Home")
                 else:
                     current_user_id = user_input
                     shift_id = row["id"]
@@ -67,8 +66,7 @@ if st.session_state['button'] == True:
                     # wait 2 seconds
                     time.sleep(2)
                     st.session_state['button'] = False
-                    # redirect to UsersMain
-                    nav_page("UsersMain")
+                    nav_page("Volunteer_Home")
         else: 
             current_user_id = user_input
             shift_id = row["id"]
@@ -77,11 +75,7 @@ if st.session_state['button'] == True:
             # wait 2 seconds
             time.sleep(2)
             st.session_state['button'] = False
-            # redirect to UsersMain
-            nav_page("UsersMain")
+            nav_page("Volunteer_Home")
     else:
         st.write("Enter a value greater than or equal to 0.")
     
-
-    # maybe just get all shifts that don't have end time then search for
-    # the one that has that person's name
