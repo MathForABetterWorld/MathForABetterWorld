@@ -62,11 +62,8 @@ with st.form("template_form"):
     submit = st.form_submit_button()
 
 if submit:
-    st.balloons()
-    print(category["id"])
-    st.write(type(expiration_date))
     ### TODO:: update userID when sign in functionality is implemented
-    r = pallet.postFood(
+    r = json.loads(pallet.postFood(
         inputUser["id"],
         todaysDate, 
         expiration_date, 
@@ -76,10 +73,11 @@ if submit:
         inWarehouse,
         (description if description != "" else category["description"]),
         category['id']
-       )
-    print(r)
+       ))
 
   
-
-    
-    st.success("🎉 Your import was generated!")
+    if "msg" not in r:
+        st.balloons()
+        st.success("🎉 Your import was generated!")
+    else:
+        st.error(r["msg"])
