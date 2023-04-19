@@ -62,6 +62,9 @@ def importVis():
         importGraph4(tab4)
     col1, col2 = st.columns(2)
 
+    col1, col2 = st.columns(2)
+    back = col1.button("Back", key="bck", on_click=changeState, args=(0, ))
+
 
     back = col1.button("Back", key="bck", on_click=changeState, args=(0,))
 
