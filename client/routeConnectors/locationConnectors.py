@@ -36,8 +36,8 @@ def updateLocation(idField, name, longitude, latitude):
 
 def getVisitsPerLocation():
   r = http.request("GET", root + curPath + "/visitsPerLocation/", headers={'Content-Type': 'application/json'})
-  return ast.literal_eval(r.data.decode('utf-8'))
+  return r.data.decode('utf-8')
   
 def getWeightsPerLocation():
   r = http.request("GET", root + curPath + "/weightPerLocation/", headers={'Content-Type': 'application/json'})
-  return ast.literal_eval(r.data.decode('utf-8'))
+  return r.data.decode('utf-8')

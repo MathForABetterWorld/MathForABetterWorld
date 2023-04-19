@@ -34,7 +34,7 @@ sortedCategories = sorted(categories, key=lambda cat: cat["name"])
 
 
 
-categoryDF = pd.DataFrame(allCategories)
+categoryDF = pd.DataFrame(categories)
 
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
@@ -55,7 +55,6 @@ categorySelect = st.selectbox("Show all food of type", sortedCategories, format_
 #categorySelect = st.selectbox("Show all food currently on rack", allRacks)
 distributorSelect = st.selectbox("Show all food coming from", allDistributors, format_func=lambda cat: f'{cat["name"]}')
 sortBySelect = st.selectbox("Sort food imports by", sortByMap)
-
 
 allPallets = json.loads(pallet.getFood())["Pallet"]
 #print("allPallets: ", allPallets[:10])
