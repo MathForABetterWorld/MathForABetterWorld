@@ -15,7 +15,7 @@
     "prisma:test": "yarn docker:up && dotenv -e .env.test yarn prisma migrate dev",
     "start": "node .",
     "dev": "yarn prisma:dev && nodemon .",
-    "prod": "yarn prisma:prod && node .",
+    "prod": "yarn prisma:prod && forever start nodemon --exitcrash index.js",
     "prettier": "prettier --write '{prisma,src,tests}/**/*.js' --config '.prettierrc.json'",
     "test": "yarn prisma:test && NODE_OPTIONS=--experimental-vm-modules jest --runInBand"
   },
