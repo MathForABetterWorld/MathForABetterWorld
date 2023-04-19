@@ -13,17 +13,19 @@ def getFood():
   return r.data.decode('utf-8')
 
 def postFood(entryUserId, inputDate, expirationDate, weight, companyId, rackId, inWarehouse, description, categoryId):
-  f = json.dumps({
+  jsonDict = {
     "entryUserId": entryUserId,
     "inputDate": inputDate.isoformat(),
     "expirationDate": expirationDate.isoformat(),
     "weight": weight,
     "companyId": companyId,
-    "rackId": rackId,
     "inWarehouse": inWarehouse,
     "description": description,
     "categoryId": categoryId
-  })
+  }
+  if rackId > 0:
+    jsonDict["rackId"] = rackId
+  f = json.dumps(jsonDict)
   r = http.request("POST", root + curPath + "/", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
 
