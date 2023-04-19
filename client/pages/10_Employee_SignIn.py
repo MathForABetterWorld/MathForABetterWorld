@@ -39,54 +39,66 @@ if log_in_button:
 
     
     # connect to the employee data table
-    employee = employeeConnectors.getUsers()
+    employee = employeeConnectors.getEmployees()
     # get the employee table as a pandas df via json file
     users2 = json.loads(employee)
-    users_df = pd.json_normalize(users2["users"])
+    users_df = pd.json_normalize(users2["employees"])
 
     # new column in the dataframe
-    users_df.insert(0,"Blank_Column", " ")
+    #users_df.insert(0,"Blank_Column", " ")
     # create column for the names of each user in the employee table
-    user_names = users_df["name"]
+    #user_names = users_df["userName"]
 
 
-
+    #print(users_df)
     # set the current time of shirt login
-    startTime = datetime.now()
-
-    id = users_df[users_df["name"] == user_input]["id"]  # get id of the input username
-    st.write(id)
-    shiftConnector.postShift(int(id.iloc[0]), startTime.isoformat())
+    idx = users_df[users_df["userName"] == user_input].iloc[0]["user.id"]  # get id of the input username
+    st.write(idx)
+    st.session_state["idx"] = idx
 
     st.write("Check in successful!")
     # wait 2 seconds
-    time.sleep(2)
-
+    #time.sleep(2)
+    st.experimental_rerun()
     # redirect to UsersMain
     # nav_page("UsersMain")
 
 if logout_button: 
     # record checkout time
-    endTime = datetime.now()
-    # 
-    food_input = st.text_input("Enter lbs of food")
-    # set variable foodamt with datatype object
-    foodAmt = float(food_input) if food_input.isnumeric() else st.write("Please input a number")
-    submit_button = st.button("Submit")
-
-    if submit_button:
-        st.write('Thank you')
-        time.sleep(2)
-        current_user_id = user_input
-        #shift_id = row["id"]
-        #shiftConnector.signout(foodAmt, int(shift_id))
-        st.write("Sign out successful!")
-        # wait 2 seconds
-        time.sleep(5)
-        # redirect to UsersMain
-        nav_page("UsersMain")
-
 
     # add shirt duration time AND amoutn taken into the respective tables
 
     del st.session_state.token
+
+if 'token' in st.session_state:
+    shift = json.loads(employeeConnectors.getMyActiveShift())["shift"]
+    if len(shift) == 0:
+        sign_in_for_shift = st.button("Start Shift")
+        if sign_in_for_shift:
+                startTime = datetime.now()
+                r = json.loads(shiftConnector.postShift(int(st.session_state.idx), startTime.isoformat()))["shift"]
+                st.session_state["shift_active"] = r["id"]
+                st.experimental_rerun()
+    else:
+        st.session_state["shift_active"] = shift[0]["id"]
+        food_input = st.text_input("Enter lbs of food")
+        foodAmt = float(food_input) if food_input.isnumeric() else st.write("Please input a number")
+        sign_out_for_shift = st.button("End Shift")
+        if sign_out_for_shift:
+            endTime = datetime.now()
+            st.write('Thank you')
+            time.sleep(2)
+            current_user_id = user_input
+            #shift_id = row["id"]
+            print('calling shift connector')
+            r = shiftConnector.signout(foodAmt, int(st.session_state.shift_active))
+            st.write("Sign out successful!")
+            # wait 2 seconds
+            del st.session_state.token
+            if "shift_active" in st.session_state:
+                del st.session_state.shift_active
+            if "idx" in st.session_state:
+                del st.session_state.idx
+            st.experimental_rerun()
+
+            

@@ -16,21 +16,21 @@ def getRacks():
 def postRack(location, desc, weightLimit):
   f = json.dumps({
     "location": location,
-    "desc": desc,
+    "description": desc,
     "weightLimit": weightLimit
   })
   r = http.request("POST", root + curPath + "/", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
 
 def deleteRack(idField):
-  r = http.request("DELETE", root + curPath + "/" + idField, headers={'Content-Type': 'application/json'})
+  r = http.request("DELETE", root + curPath + "/" + str(idField), headers={'Content-Type': 'application/json'})
   return r.data
 
 def updateRack(idField, location, desc, weightLimit):
   f = json.dumps({
     "location": location,
-    "desc": desc,
+    "description": desc,
     "weightLimit": weightLimit
   })
-  r = http.request("POST", root + curPath + "/update/" + idField, body=f, headers={'Content-Type': 'application/json'})
+  r = http.request("POST", root + curPath + "/update/" + str(idField), body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')

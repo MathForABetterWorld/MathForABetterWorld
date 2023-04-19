@@ -182,6 +182,8 @@ export const usersList = [
   "Nicolle Diaz ",
   "Nicolle ",
   "Juy Chandler ",
+  "Curbside",
+  "Opeyemi ",
 ];
 
 export const categoryList = [
@@ -203,7 +205,7 @@ export const categoryList = [
   "Other", //final
   "Paper Supplies", // final
   "Baby Supplies", // final
-  "Personal Care",  // final
+  "Personal Care", // final
   "Health & Beauty Products", // final
   "Spices", // final
   "Dole – Fruit cups", // final
@@ -12088,7 +12090,7 @@ export const distributorList = [
   "Dannon",
   "Food Donation  David Greenway",
   "First Fruits Farm",
-  "Alto Dale Farm"
+  "Alto Dale Farm",
 ];
 
 export const exportsList = [

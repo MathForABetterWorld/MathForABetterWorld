@@ -12,6 +12,8 @@ router.use(checkToken);
 
 router.get("/users", validator.isAdmin, controller.getUsers);
 
+router.get("/employees", controller.getEmployees);
+
 router.post(
   "/promoteUser",
   body("userId", "User id to promote is required").notEmpty().isInt(),
@@ -42,5 +44,7 @@ router.post(
   validator.loginMatches,
   controller.updateLogin
 );
+
+router.get("/activeShifts", controller.getMyActiveShifts);
 
 export default router;

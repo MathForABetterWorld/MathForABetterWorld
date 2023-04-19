@@ -197,6 +197,9 @@ def importVis():
         #st.pyplot(fig2)
         st.bar_chart(data=Exports_df, x="Item", y="Quantity (lbs)", use_container_width=True)
 
+    col1, col2 = st.columns(2)
+    back = col1.button("Back", key="bck", on_click=changeState, args=(0, ))
+
 
     #numdays = 20
     #base = datetime.datetime.today()
