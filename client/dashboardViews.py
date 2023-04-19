@@ -66,7 +66,7 @@ def importVis():
     back = col1.button("Back", key="bck", on_click=changeState, args=(0, ))
 
 
-    back = col1.button("Back", key="bck", on_click=changeState, args=(0,))
+    #back = col1.button("Back", key="bck", on_click=changeState, args=(0,))
 
     # col1.button("Back", key="bck", on_click=changeState, args=(0, ))
 
