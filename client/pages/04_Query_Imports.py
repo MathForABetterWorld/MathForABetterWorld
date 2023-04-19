@@ -20,24 +20,22 @@ def getCompanyNames(company):
 
 # Get rack, distributor and category info 
 print("getting racks....")
-allRacks = [1, 2, 3, 4, 5, 6]
+allRacks = ["", 1, 2, 3, 4, 5, 6]
 rackRes = rackConnector.getRacks()
 if rackRes: 
     allRacks = allRacks + rackRes["rack"]
 
-print("getting distributors....")
-allDistributors = [{"id": -1, "name": ""}]
-distRes = distributorConnectors.getDistributors()
-if distRes: 
-    allDistributors = allDistributors + distRes["distributors"]
 
-print("getting categories....")
-allCategories = [{"id": -1, "name": "", "description":""}] 
-catRes = categoryConnectors.getCategories()
-if catRes: 
-    allCategories = allCategories + catRes["category"]
-# print("all cats", allCategories)
+distributors = [{"id": -1, "name": "", "description": ""}]  + distributorConnectors.getDistributors()['distributors']
+allDistributors = sorted(distributors, key=lambda cat: cat["name"])
+
+categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
+sortedCategories = sorted(categories, key=lambda cat: cat["name"])
+
+
+
 categoryDF = pd.DataFrame(allCategories)
+
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
@@ -53,9 +51,9 @@ sortFile = open(path + '/../assets/sortBy.json')
 sortByMap = json.load(sortFile)["sortBy"]
 
 
-categorySelect = st.selectbox("Show all food of type", allCategories, format_func=lambda cat: f'{cat["name"]}')
+categorySelect = st.selectbox("Show all food of type", sortedCategories, format_func=lambda cat: f'{cat["name"]}')
 #categorySelect = st.selectbox("Show all food currently on rack", allRacks)
-distributorSelect = st.selectbox("Show all food coming from", allDistributors, format_func=lambda dist: f'{dist["name"]}')
+distributorSelect = st.selectbox("Show all food coming from", allDistributors, format_func=lambda cat: f'{cat["name"]}')
 sortBySelect = st.selectbox("Sort food imports by", sortByMap)
 
 
@@ -72,16 +70,21 @@ def getCategories(category):
     return pd.Series(catNames)
 
 df["Categories"] = df.categoryIds.apply(getCategories)
+
 # # Uncomment this when connected to backend 
 # # # Filter by distributor 
 # # # Filter by selected category
+
+
 if categorySelect['id'] != -1:
     categoryIndices = []
+    
     for index, row in df.iterrows():
         if categorySelect['id'] in row["categoryIds"]:
             categoryIndices.append(index)
     df = df.iloc[categoryIndices]
     df = df.reset_index()
+
 
 if distributorSelect["name"] != "":
     distributorIndices = []

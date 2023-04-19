@@ -4,8 +4,9 @@ import numpy as np
 import pandas as pd
 import json
 import os 
-from routeConnectors import categoryConnectors, exportConnectors, locationConnectors
+from routeConnectors import categoryConnectors, exportConnectors, locationConnectors, userConnector
 from PIL import Image
+
 
 path = os.path.dirname(__file__)
 
@@ -25,23 +26,24 @@ with title_container:
 # Opening JSON file
 catFile = open(path + '/../assets/fakeCategories.json')
 sortFile = open(path + '/../assets/sortBy.json')
-recFile = open(path + '/../assets/recipients.json')
+#recFile = open(path + '/../assets/recipients.json')
   
-# load categories and sortBy mapc
-print("getting categories....")
-allCategories = [{"id": -1, "name": "", "description":""}] 
-catRes = categoryConnectors.getCategories()
-if catRes: 
-    allCategories = allCategories + catRes["category"]
-sortByMap = json.load(sortFile)["sortBy"]
-recList = json.load(recFile)["recipients"]
-locationsList = [{"id": -1, "name": ""}]
-locationRes = locationConnectors.getLocations()
-if locationRes:
-    locationsList = locationsList + locationRes["location"]
 
-categorySelect = st.selectbox("Show all food of type", allCategories, format_func=lambda cat: f'{cat["name"]}')
-locSelect = st.selectbox("Show all food going to", locationsList, format_func=lambda loc: f'{loc["name"]}')
+# load categories and sortBy map 
+#categories = json.load(catFile)["categories"]
+sortByMap = json.load(sortFile)["sortBy"]
+#recList = json.load(recFile)["recipients"]
+
+locations = [{"id": -1, "name": "", "longitude":"", "latitude": ""}]  + locationConnectors.getLocations()['location']
+sortedLocations = sorted(locations, key=lambda location: location["name"])
+
+categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
+sortedCategories = sorted(categories, key=lambda cat: cat["name"])
+
+
+categorySelect = st.selectbox("Show all food of type", categories, format_func=lambda cat: f'{cat["name"]}')
+recSelect = st.selectbox("Show all food going to", sortedLocations, format_func=lambda loc: f'{loc["name"]}')
+
 sortBySelect = st.selectbox("Sort food imports by", sortByMap)
 
 df = pd.DataFrame(json.loads(exportConnectors.getExports().decode('utf-8'))["exports"])
