@@ -58,7 +58,6 @@ categorySelect = st.selectbox("Show all food of type", allCategories, format_fun
 distributorSelect = st.selectbox("Show all food coming from", allDistributors, format_func=lambda dist: f'{dist["name"]}')
 sortBySelect = st.selectbox("Sort food imports by", sortByMap)
 
-
 allPallets = json.loads(pallet.getFood())["Pallet"]
 #print("allPallets: ", allPallets[:10])
 df = pd.DataFrame.from_dict(allPallets)
