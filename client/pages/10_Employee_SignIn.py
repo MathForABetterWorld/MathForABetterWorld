@@ -81,8 +81,8 @@ if 'token' in st.session_state:
                 st.experimental_rerun()
     else:
         st.session_state["shift_active"] = shift[0]["id"]
-        food_input = st.text_input("Enter lbs of food")
-        foodAmt = float(food_input) if food_input.isnumeric() else st.write("Please input a number")
+        food_input = st.number_input("Enter lbs of food", 0)
+        foodAmt = food_input
         sign_out_for_shift = st.button("End Shift")
         if sign_out_for_shift:
             endTime = datetime.now()
