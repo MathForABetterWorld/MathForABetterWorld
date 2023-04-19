@@ -37,7 +37,7 @@ with st.form("template_form"):
 
     weight = right.text_input("Weight", value="")
     location = right.selectbox("Location", allLocations, format_func=lambda loc: f'{loc["name"]}')
-    exportedBy = left.selectbox("USer", users, format_func=lambda user: f'{user["name"]}')
+    exportedBy = left.selectbox("User", users, format_func=lambda user: f'{user["name"]}')
     submit = st.form_submit_button()
 
 ### TODO:: update userID when sign in functionality is implemented
