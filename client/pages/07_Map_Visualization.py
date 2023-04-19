@@ -8,6 +8,12 @@ import pandas as pd
 import plotly.express as px
 from routeConnectors import locationConnectors
 import json
+from PIL import Image
+import os
+
+path = os.path.dirname(__file__)
+image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
+st.image(image)
 
 st.title('Distrubution Maps')
 
