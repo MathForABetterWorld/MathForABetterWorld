@@ -42,7 +42,7 @@ def mainDashboardVis():
     col2.markdown("##")
 
     col1.write("Clients")
-    col2.write("Map by Weight of Total Exports")
+    col2.write("Distributors")
     clientGraph1(col1)
     distributorGraph1(col2)
 
@@ -99,12 +99,8 @@ def clientVis():
     back = col1.button("Back", key="bck", on_click=changeState, args=(0, ))
 
 def distributorVis():
-    st.title('Distrubution Maps')
-
-    tab1, tab2, tab3 = st.tabs(["Map by Weight of Food Distributed", 
-    "Map by Number of Visits to Location", "G3"])
+    tab1, tab2, tab3 = st.tabs(["G1", "G2", "G3"])
     with tab1:
-        tab1.subheader("Map by Weight of Food Distributed")
         distributorGraph1(tab1)
     with tab2:
         distributorGraph2(tab2)
