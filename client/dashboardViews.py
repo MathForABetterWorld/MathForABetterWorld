@@ -208,13 +208,15 @@ def importVis():
     # col1.button("Back", key="bck", on_click=changeState, args=(0, ))
 
 def volunteerVis():
-    tab1, tab2, tab3 = st.tabs(["Last 7 Days", "Last 12 Months", "G3"])
+    tab1, tab2, tab3, tab4 = st.tabs(["Last 7 Days", "Last 12 Months", "Day to Day Last 6 Months", "Day to Day Last 1 Month"])
     with tab1:
         volunteerGraph1(tab1)
     with tab2:
         volunteerGraph2(tab2)
     with tab3:
         volunteerGraph3(tab3)
+    with tab4:
+        volunteerGraph4(tab4)
 
     col1, col2 = st.columns(2)
 
