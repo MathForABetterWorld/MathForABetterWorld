@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 import json
 import os 
+from routeConnectors import locationConnectors, categoryConnectors, userConnector, exportConnectors
 
 path = os.path.dirname(__file__)
 
@@ -22,15 +23,22 @@ with title_container:
 # Opening JSON file
 catFile = open(path + '/../assets/fakeCategories.json')
 sortFile = open(path + '/../assets/sortBy.json')
-recFile = open(path + '/../assets/recipients.json')
+#recFile = open(path + '/../assets/recipients.json')
   
 # load categories and sortBy map 
-categories = json.load(catFile)["categories"]
+#categories = json.load(catFile)["categories"]
 sortByMap = json.load(sortFile)["sortBy"]
-recList = json.load(recFile)["recipients"]
+#recList = json.load(recFile)["recipients"]
 
-categorySelect = st.selectbox("Show all food of type", categories)
-recSelect = st.selectbox("Show all food going to", recList)
+locations = [{"id": -1, "name": "", "longitude":"", "latitude": ""}]  + locationConnectors.getLocations()['location']
+sortedLocations = sorted(locations, key=lambda location: location["name"])
+
+categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
+sortedCategories = sorted(categories, key=lambda cat: cat["name"])
+
+
+categorySelect = st.selectbox("Show all food of type", categories, format_func=lambda cat: f'{cat["name"]}')
+recSelect = st.selectbox("Show all food going to", sortedLocations, format_func=lambda loc: f'{loc["name"]}')
 sortBySelect = st.selectbox("Sort food imports by", sortByMap)
 
 df = pd.DataFrame(
