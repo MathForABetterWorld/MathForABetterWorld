@@ -18,29 +18,23 @@ image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 st.image(image)
 # Get rack, distributor and category info 
 print("getting racks....")
-allRacks = [1, 2, 3, 4, 5, 6]
+allRacks = [{"id": -1, "location": "", "description": "", "weightLimit": 0}]
 rackRes = rackConnector.getRacks()
 if rackRes: 
     allRacks = allRacks + rackRes["rack"]
 
-print("getting distributors....")
-allDistributors = [{"id": -1, "name": ""}]
-distRes = distributorConnectors.getDistributors()
-if distRes: 
-    allDistributors = allDistributors + distRes["distributors"]
+distributors = [{"id": -1, "name": "", "description": ""}]  + distributorConnectors.getDistributors()['distributors']
+allDistributors = sorted(distributors, key=lambda cat: cat["name"])
 
-print("getting categories....")
-allCategories = [{"id": -1, "name": "", "description":""}] 
-catRes = categoryConnectors.getCategories()
-if catRes: 
-    allCategories = allCategories + catRes["category"]
+categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
+allCategories = sorted(categories, key=lambda cat: cat["name"])
 
 
 allUsers = [{"id": -1, "name": ""}]
 dbUsers = json.loads(userConnector.getUsers().decode("utf-8"))
 if dbUsers:
     allUsers = allUsers + dbUsers["users"]
-# print("all cats", allCategories)
+
 
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
@@ -58,28 +52,32 @@ todaysDate = datetime.date.today()
 with st.form("template_form"):
     left, right = st.columns(2)
     expiration_date = left.date_input("Expiration date", value=datetime.date(2023, 1, 1))
-    distributor_name = left.selectbox("Distributor name", allDistributors, format_func=lambda dist: f'{dist["name"]}')
-    rack = right.selectbox("Rack", allRacks) # get more info on how racks are stored in the google form 
-    pallet_weight = left.text_input("Weight", value="1000")
     category = right.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
+    inWarehouse = left.radio("In Warehouse", (True, False))
+    rack = right.selectbox("Rack", allRacks, format_func=lambda rack: f'{rack["location"]}') # get more info on how racks are stored in the google form 
+    distributor= left.selectbox("Distributor name", allDistributors, format_func=lambda dis: f'{dis["name"]}')
+    pallet_weight = left.text_input("Weight", value="1000")
     inputUser = right.selectbox("User", allUsers, format_func=lambda user: f'{user["name"]}' )
     description = st.text_input("Description", value="")
     submit = st.form_submit_button()
 
 if submit:
-    st.balloons()
-    st.write(type(expiration_date))
-
     ### TODO:: update userID when sign in functionality is implemented
-    pallet.postFood(
-        "userID",
+    r = json.loads(pallet.postFood(
+        inputUser["id"],
         todaysDate, 
         expiration_date, 
         pallet_weight, 
-        distributor_name,
-        rack,
-        True,
+        distributor['id'],
+        rack["id"],
+        inWarehouse,
         (description if description != "" else category["description"]),
-        category)
+        category['id']
+       ))
 
-    st.success("🎉 Your import was generated!")
+  
+    if "msg" not in r:
+        st.balloons()
+        st.success("🎉 Your import was generated!")
+    else:
+        st.error(r["msg"])

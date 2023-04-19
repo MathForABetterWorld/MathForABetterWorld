@@ -1,4 +1,5 @@
 ### include functions that plot a graph in the given streamlit column
+from collections import defaultdict
 
 import streamlit as st
 import datetime
@@ -8,10 +9,17 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 import os
 import pandas as pd
 import random as random
+import json
+
+from streamlit.elements.image import UseColumnWith
+from routeConnectors import pallet, exportConnectors, locationConnectors
 from matplotlib import pyplot as plt, dates as mdates
 from routeConnectors import pallet
+import plotly.express as px
+
 import json
 import calendar
+
 
 
 # example:
@@ -43,7 +51,7 @@ def importGraph1(col):
 
     ax.set_title("Total imports over time")
 
-    ax.plot(df.index, df[["weight"]], label="Cumulative Imports")
+    ax.plot(df.index, df[["weight"]], label="Daily Imports")
     ax.patch.set_facecolor('black')
 
     ax.legend()
@@ -53,22 +61,156 @@ def importGraph1(col):
     ax.tick_params(axis='x', colors='white')
 
     ax.set_xlabel("Date")
-    ax.set_ylabel("Total Cumulative Imports (lbs)")
+    ax.set_ylabel("Daily Imports (lbs)")
     col.pyplot(fig)
-
-def importGraph2(col):
-    # TODO
-    test(col)
-    pass
 
 def importGraph3(col):
     # TODO
-    test(col)
+
+    pallets = json.loads(pallet.getFood())
+    Imports = pd.DataFrame(pallets["Pallet"])
+    food_provider = Imports["companyId"].dropna().tolist()
+    food_provider = set(food_provider)
+    food_provider = defaultdict(float)
+    for index, row in Imports.iterrows():
+        food_provider[row['company']["name"]] += row['weight']
+
+    provider_labels = []
+    provider_sizes = []
+
+    sorted_provider_labels = []
+    sorted_provider_sizes = []
+
+    for x, y in food_provider.items():
+        provider_labels.append(x)
+        provider_sizes.append(y)
+
+    sorted_food_provider = sorted(food_provider.items(), key=lambda x: x[1])
+
+    for x, y in dict(sorted_food_provider[-10:]).items():
+        sorted_provider_labels.append(x)
+        sorted_provider_sizes.append(y)
+
+    sorted_other_labels = []
+    sorted_other_providers = []
+
+    for x, y in dict(sorted_food_provider[:-10]).items():
+        sorted_other_labels.append(x)
+        sorted_other_providers.append(y)
+
+    other_total = sum(sorted_other_providers)
+
+    sorted_provider_sizes.append(other_total)
+    sorted_provider_labels.append("other")
+
+    ImpTot = sum(sorted_provider_sizes)
+
+    percTot = []
+    for size in sorted_provider_sizes:
+        perc = size / ImpTot * 100
+        percTot.append(perc)
+
+    for i in range(len(sorted_provider_labels)):
+        sorted_provider_labels[i] = f'{sorted_provider_labels[i]}: {(float(percTot[i])):.1f}%'
+
+    fig1, ax = plt.subplots()
+    ax.pie(sorted_provider_sizes, labels=sorted_provider_labels)
+    # plt.legend(provider_labels[-5:], bbox_to_anchor=(0,-2.7), loc="lower right")
+    Imports_df = pd.DataFrame(list(zip(sorted_provider_sizes, sorted_provider_labels)),
+                              columns=['Provider Imports', 'Provider'])
+
+    col.bar_chart(data=Imports_df, x="Provider", y="Provider Imports", use_container_width=True)
     pass
 
 def importGraph4(col):
     # TODO
-    test(col)
+    pallets = (pallet.getFood())
+    exportItems = json.loads(exportConnectors.getExports())
+    Exports = pd.DataFrame(exportItems["exports"])
+
+
+    pallet_weights = Exports["weight"].dropna().values.tolist()
+
+    food_receiver = defaultdict(float)
+
+    for index, row in Exports.iterrows():
+        food_receiver[row['category']["name"]] += np.absolute(row['weight'])
+
+    receiver_labels = []
+    receiver_sizes = []
+
+    sorted_receiver_labels = []
+    sorted_receiver_sizes = []
+
+    for x, y in food_receiver.items():
+        receiver_labels.append(x)
+        receiver_sizes.append(y)
+
+    sorted_food_receiver = sorted(food_receiver.items(), key=lambda x: x[1])
+
+
+    for x, y in dict(sorted_food_receiver[-10:]).items():
+        sorted_receiver_labels.append(x)
+        sorted_receiver_sizes.append(y)
+
+    sorted_other_rec_labels = []
+    sorted_other_receivers = []
+
+    for x, y in dict(sorted_food_receiver[:-10]).items():
+        sorted_other_rec_labels.append(x)
+        sorted_other_receivers.append(y)
+
+    other_rec_total = sum(sorted_other_receivers)
+
+    sorted_receiver_sizes.append(other_rec_total)
+    sorted_receiver_labels.append("other")
+
+    ItemExpTot = sum(sorted_receiver_sizes)
+    receiverPercTot = []
+    for size in sorted_receiver_sizes:
+        receiverPerc = size / ItemExpTot * 100
+        receiverPercTot.append(receiverPerc)
+
+    for i in range(len(sorted_receiver_labels)):
+        sorted_receiver_labels[i] = f'{sorted_receiver_labels[i]}: {(float(receiverPercTot[i])):.1f}%'
+    Exports_df = pd.DataFrame(list(zip(sorted_receiver_sizes, sorted_receiver_labels)),
+                              columns=['Quantity (lbs)', 'Item'])
+
+    col.bar_chart(data=Exports_df, x="Item", y="Quantity (lbs)", use_container_width=True)
+
+    pass
+
+def importGraph2(col):
+    allPallets = json.loads(pallet.getFood())["Pallet"]
+
+    df = pd.DataFrame.from_dict(allPallets)
+    df = df.groupby('inputDate').agg(np.sum)
+
+    df = df[['weight']]
+    totImports = np.cumsum(df)
+
+    fig = plt.figure()
+    fig.patch.set_facecolor('black')
+    fig.patch.set_alpha(0.7)
+    ax = plt.gca()
+    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=1))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%b'))
+
+    ax.set_title("Total imports over time")
+
+    ax.plot(df.index, totImports, label="Cumulative Imports")
+    ax.patch.set_facecolor('black')
+
+    ax.legend()
+    ax.xaxis.label.set_color('white')
+    ax.yaxis.label.set_color('white')
+    ax.tick_params(axis='y', colors='white')
+    ax.tick_params(axis='x', colors='white')
+
+    ax.set_xlabel("Date")
+    ax.set_ylabel("Cumulative Imports (lbs)")
+    col.pyplot(fig)
+
     pass
 
 
@@ -466,12 +608,41 @@ def clientGraph4(col):
 
 def distributorGraph1(col):
     # TODO
-    test(col)
-    pass
+    df2 = pd.DataFrame(json.loads(locationConnectors.getWeightsPerLocation())["countByLocation"])
+    df2 = df2.iloc[1:]
+
+    df2['lat'] = df2.apply(lambda x: x.location["latitude"], axis=1)
+    df2['lat'] = pd.to_numeric(df2['lat'], errors='coerce').astype(float)
+    df2['lon'] = df2.apply(lambda x: x.location["longitude"], axis=1)
+    df2['lon'] = pd.to_numeric(df2['lon'], errors='coerce').astype(float)
+    df2['name'] = df2.apply(lambda x: x.location["name"], axis=1)
+    weight_map = px.scatter_mapbox(df2, lat="lat", lon="lon", zoom=12, color = 'sum', size = 'sum', color_continuous_scale='Jet', hover_data = {"name": True, "sum": True})
+    
+    # Update the mapbox style
+    weight_map.update_layout(mapbox_style="open-street-map")
+    # Show the plot
+    col.plotly_chart(weight_map, use_container_width=True)
+
 
 def distributorGraph2(col):
     # TODO
-    test(col)
+    df = pd.DataFrame(json.loads(locationConnectors.getVisitsPerLocation())["countByLocation"])
+    df = df.iloc[1:]
+
+    df['lat'] = df.apply(lambda x: x.location["latitude"], axis=1)
+    df['lat'] = pd.to_numeric(df['lat'], errors='coerce').astype(float)
+    df['lon'] = df.apply(lambda x: x.location["longitude"], axis=1)
+    df['lon'] = pd.to_numeric(df['lon'], errors='coerce').astype(float)
+    df['name'] = df.apply(lambda x: x.location["name"], axis=1)
+    count_map = px.scatter_mapbox(df, lat="lat", lon="lon", zoom=12, color = 'count', size = "count", color_continuous_scale='Jet', hover_data = {"name": True, "count": True})
+
+    # Update the mapbox style
+    count_map.update_layout(mapbox_style="open-street-map",
+                      autosize=True)
+    
+    col.subheader("Map by Number of Visits")
+    col.plotly_chart(count_map, use_container_width=True)
+
     pass
 
 def distributorGraph3(col):

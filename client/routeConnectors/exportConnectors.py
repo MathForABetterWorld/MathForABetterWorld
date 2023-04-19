@@ -11,13 +11,16 @@ def getExports():
   r = http.request("GET", root + curPath + "/", headers={'Content-Type': 'application/json'})
   return r.data
 
-def postExport(userId, categoryId, donatedTo, weight):
-  f = json.dumps({
+def postExport(userId, categoryId, donatedTo, weight, location):
+  jsonDict = {
     "userId": userId,
     "categoryId": categoryId,
     "donatedTo": donatedTo,
     "weight": weight,
-  })
+  }
+  if location > 0:
+    jsonDict["locationId"] = location
+  f = json.dumps(jsonDict)
   r = http.request("POST", root + curPath + "/", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
 
