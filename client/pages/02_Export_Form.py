@@ -5,7 +5,7 @@ import datetime
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import os 
 from routeConnectors import categoryConnectors, locationConnectors, userConnector, exportConnectors
-
+import json
 
 path = os.path.dirname(__file__)
 st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Export Form")
@@ -25,7 +25,7 @@ allLocations = sorted(locations, key=lambda location: location["name"])
 
 categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
 allCategories = sorted(categories, key=lambda cat: cat["name"])
-
+users = json.loads(userConnector.getUsers())["users"]
 
 env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 
@@ -37,15 +37,16 @@ with st.form("template_form"):
 
     weight = right.text_input("Weight", value="")
     location = right.selectbox("Location", allLocations, format_func=lambda loc: f'{loc["name"]}')
+    exportedBy = left.selectbox("USer", users, format_func=lambda user: f'{user["name"]}')
     submit = st.form_submit_button()
 
 ### TODO:: update userID when sign in functionality is implemented
 if submit:
     st.balloons()
-    categoryIndex = category_names.index(category)
-    if (categoryIndex != 0):
-        categoryId = categories[categoryIndex - 1]['id']
+    categoryIndex = category["id"]
+    # if (categoryIndex != 0):
+    #     categoryId = categories[categoryIndex - 1]['id']
     
-    exportConnectors.postExport("userId", categoryId, donatedTo, weight)
+    exportConnectors.postExport(exportedBy["id"], categoryIndex, donatedTo, int(weight), location["id"])
       
     st.success("🎉 Export recorded!")

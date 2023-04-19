@@ -47,7 +47,7 @@ recSelect = st.selectbox("Show all food going to", sortedLocations, format_func=
 sortBySelect = st.selectbox("Sort food imports by", sortByMap)
 
 df = pd.DataFrame(json.loads(exportConnectors.getExports().decode('utf-8'))["exports"])
-categoryDF = pd.DataFrame(allCategories)
+categoryDF = pd.DataFrame(categories)
 def getCategories(category):
     return categoryDF.loc[categoryDF.id == category["id"], "name"].values[0]
 
@@ -73,10 +73,10 @@ if categorySelect['id'] != -1:
     df = df.iloc[categoryIndices]
     df = df.reset_index()
 
-if locSelect['id'] != -1:
+if recSelect['id'] != -1:
     locIndices = []
     for index, row in df.iterrows():
-        if locSelect['name'] == row["location"]:
+        if recSelect['name'] == row["location"]:
             locIndices.append(index)
     df = df.iloc[locIndices]
     df = df.reset_index()

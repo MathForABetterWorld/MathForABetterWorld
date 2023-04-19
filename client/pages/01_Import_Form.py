@@ -52,16 +52,18 @@ todaysDate = datetime.date.today()
 with st.form("template_form"):
     left, right = st.columns(2)
     expiration_date = left.date_input("Expiration date", value=datetime.date(2023, 1, 1))
-    distributor= left.selectbox("Distributor name", allDistributors, format_func=lambda dis: f'{dis["name"]}')
-    rack = right.selectbox("Rack", allRacks, format_func=lambda rack: f'{rack["location"]}') # get more info on how racks are stored in the google form 
-    pallet_weight = left.text_input("Weight", value="1000")
     category = right.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
+    inWarehouse = left.radio("In Warehouse", (True, False))
+    rack = right.selectbox("Rack", allRacks, format_func=lambda rack: f'{rack["location"]}') # get more info on how racks are stored in the google form 
+    distributor= left.selectbox("Distributor name", allDistributors, format_func=lambda dis: f'{dis["name"]}')
+    pallet_weight = left.text_input("Weight", value="1000")
     inputUser = right.selectbox("User", allUsers, format_func=lambda user: f'{user["name"]}' )
     description = st.text_input("Description", value="")
     submit = st.form_submit_button()
 
 if submit:
     st.balloons()
+    print(category["id"])
     st.write(type(expiration_date))
     ### TODO:: update userID when sign in functionality is implemented
     r = pallet.postFood(
@@ -71,7 +73,7 @@ if submit:
         pallet_weight, 
         distributor['id'],
         rack["id"],
-        True,
+        inWarehouse,
         (description if description != "" else category["description"]),
         category['id']
        )

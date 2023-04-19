@@ -17,11 +17,11 @@ def postFood(entryUserId, inputDate, expirationDate, weight, companyId, rackId, 
     "entryUserId": entryUserId,
     "inputDate": inputDate.isoformat(),
     "expirationDate": expirationDate.isoformat(),
-    "weight": weight,
+    "weight": int(weight),
     "companyId": companyId,
     "inWarehouse": inWarehouse,
     "description": description,
-    "categoryId": categoryId
+    "categoryIds": [categoryId]
   }
   if rackId > 0:
     jsonDict["rackId"] = rackId
