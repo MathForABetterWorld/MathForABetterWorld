@@ -17,7 +17,6 @@ import json
 import calendar
 
 
-
 # example:
 def test(col):
     last_rows = np.random.randn(1, 1)
@@ -35,6 +34,7 @@ def importGraph1(col):
     allPallets = json.loads(pallet.getFood())["Pallet"]
 
     df = pd.DataFrame.from_dict(allPallets)
+    print(df)
     df = df.groupby('inputDate').agg(np.sum)
 
     df = df[['weight']]
@@ -730,3 +730,5 @@ def tempImportVis(col):
     ax.set_xlabel("Date")
     ax.set_ylabel("Total Cumulative Imports (lbs)")
     col.pyplot(fig)
+
+### include functions that plot a graph in the given streamlit column

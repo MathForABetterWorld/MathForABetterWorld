@@ -39,8 +39,6 @@ categoryDF = pd.DataFrame(categories)
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
-    # with col1:
-    #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
     with col2:
         st.markdown("<h1 style='text-align: center; '>Query imports</h1>", unsafe_allow_html=True)
 
@@ -70,11 +68,6 @@ def getCategories(category):
 
 df["Categories"] = df.categoryIds.apply(getCategories)
 
-# # Uncomment this when connected to backend 
-# # # Filter by distributor 
-# # # Filter by selected category
-
-
 if categorySelect['id'] != -1:
     categoryIndices = []
     
@@ -97,8 +90,14 @@ if sortByMap[sortBySelect] != 'none':
     df = df.sort_values([sortByMap[sortBySelect]])
     df = df.reset_index()
 
-#st.dataframe(df)
 st.dataframe(df)
+
+sum = df["weight"].sum()
+
+s = pd.Series([sum], name='Total import weight')
+
+st.dataframe(s, use_container_width=True)
+
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
 # rerun.
