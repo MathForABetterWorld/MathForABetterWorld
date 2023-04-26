@@ -17,7 +17,6 @@ st.image(image)
 
 st.title('Distrubution Maps')
 
-print(locationConnectors.getVisitsPerLocation())
 df = pd.DataFrame(json.loads(locationConnectors.getVisitsPerLocation())["countByLocation"])
 df = df.iloc[1:]
 
