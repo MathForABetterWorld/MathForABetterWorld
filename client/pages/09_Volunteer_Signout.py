@@ -8,6 +8,15 @@ from nav import nav_page
 from PIL import Image
 import os
 
+def is_non_neg_float(string):
+    try:
+        flt = float(string)
+        if flt < 0:
+            return False
+        return True
+    except ValueError:
+        return False
+
 path = os.path.dirname(__file__)
 
 st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food Volunteer Portal")
@@ -42,11 +51,12 @@ if st.session_state.get('button') != True:
 
 if st.session_state['button'] == True:
     row = shifts[shifts["user.name"] == user_input].iloc[0]
-    # TODO deal with if user doesn't input anything for number
 
-    foodAmt = float(food_input) if (food_input.isnumeric()) else st.write("Please input a number")
-    # if food_input isn't a number, foodAmt = None so the next bit has issues
-    if (foodAmt >= 0):
+    # food_input must be a non-negative float
+    if is_non_neg_float(food_input):
+        foodAmt = float(food_input)
+        
+        # food amount more than 20lbs requires admin approval
         if foodAmt > 20:
             st.write("Please get admin approval.")
             admin_input = st.text_input("Admin Name")
@@ -77,5 +87,6 @@ if st.session_state['button'] == True:
             st.session_state['button'] = False
             nav_page("Volunteer_Home")
     else:
-        st.write("Enter a value greater than or equal to 0.")
+        st.write("Please enter a number at least greater than or equal to 0.")
+        st.session_state['button'] = False
     
