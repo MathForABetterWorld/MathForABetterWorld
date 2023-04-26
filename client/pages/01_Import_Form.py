@@ -58,7 +58,7 @@ with st.form("template_form"):
     distributor= left.selectbox("Distributor name", allDistributors, format_func=lambda dis: f'{dis["name"]}')
     pallet_weight = left.text_input("Weight", value="1000")
     inputUser = right.selectbox("User", allUsers, format_func=lambda user: f'{user["name"]}' )
-    description = st.text_input("Description", value="")
+    description = st.text_input("Description (OPTIONAL)", value="")
     submit = st.form_submit_button()
 
 if submit:
