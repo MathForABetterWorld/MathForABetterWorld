@@ -30,7 +30,7 @@ if 'token' in st.session_state:
     if editType == "New Category":
         with st.form("template_form"):
             left, right = st.columns(2)
-            name = left.text_input("Value", "")
+            name = left.text_input("Item", "")
             desc = right.text_input("Description", "")
             newSubmit = st.form_submit_button()
         if newSubmit:
@@ -43,7 +43,7 @@ if 'token' in st.session_state:
         with st.form("template_form"):
             left, right = st.columns(2)
             idx = left.number_input("Id", min_value=1)
-            name = left.text_input("Value", "")
+            name = left.text_input("Item", "")
             desc = right.text_input("Description", "")
             editSubmit = st.form_submit_button()
         if editSubmit:
