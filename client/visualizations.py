@@ -17,7 +17,6 @@ import json
 import calendar
 
 
-
 # example:
 def test(col):
     last_rows = np.random.randn(1, 1)
@@ -730,3 +729,65 @@ def tempImportVis(col):
     ax.set_xlabel("Date")
     ax.set_ylabel("Total Cumulative Imports (lbs)")
     col.pyplot(fig)
+
+### include functions that plot a graph in the given streamlit column
+
+
+
+# example:
+def test(col):
+    last_rows = np.random.randn(1, 1)
+    # chart = st.line_chart(last_rows)
+
+    for i in range(1, 101):
+        new_rows = last_rows[-1, :] + np.random.randn(5, 1).cumsum(axis=0)
+        last_rows = new_rows
+    
+    col.line_chart(last_rows)
+
+
+
+def importGraph1(col):
+    allPallets = json.loads(pallet.getFood())["Pallet"]
+
+    df = pd.DataFrame.from_dict(allPallets)
+    df = df.groupby('inputDate').agg(np.sum)
+
+    df = df[['weight']]
+    fig = plt.figure()
+    fig.patch.set_facecolor('black')
+    fig.patch.set_alpha(0.7)
+    ax = plt.gca()
+    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=1))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%b'))
+
+    ax.set_title("Total imports over time")
+
+    ax.plot(df.index, df[["weight"]], label="Cumulative Imports")
+    ax.patch.set_facecolor('black')
+
+    ax.legend()
+    ax.xaxis.label.set_color('white')
+    ax.yaxis.label.set_color('white')
+    ax.tick_params(axis='y', colors='white')
+    ax.tick_params(axis='x', colors='white')
+
+    ax.set_xlabel("Date")
+    ax.set_ylabel("Total Cumulative Imports (lbs)")
+    col.pyplot(fig)
+
+def importGraph2(col):
+    # TODO
+    test(col)
+    pass
+
+def importGraph3(col):
+    # TODO
+    test(col)
+    pass
+
+def importGraph4(col):
+    # TODO
+    test(col)
+    pass
+
