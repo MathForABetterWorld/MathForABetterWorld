@@ -28,7 +28,7 @@ df['name'] = df.apply(lambda x: x.location["name"], axis=1)
 count_map = px.scatter_mapbox(df, lat="lat", lon="lon", zoom=12, color = 'count', size = "count", color_continuous_scale='Jet', hover_data = {"name": True, "count": True, "lat":False, "lon": False})
 # Update the mapbox style
 count_map.update_layout(mapbox_style="open-street-map")
-st.subheader("Map by Number of Visits")
+st.subheader("Map by Number of Deliverys")
 st.plotly_chart(count_map)
 
 
