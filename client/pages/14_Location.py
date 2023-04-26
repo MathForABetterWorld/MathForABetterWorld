@@ -16,6 +16,7 @@ def getCoordinates(address):
     lon = (jsonObj['results'][0]['geometry']['location']['lng'])
     return lat, lon
 
+st.subheader("Every Time There is a New Delivery Location Input that Here")
 with st.form("Location Form"):
     location_name = st.text_input(label = 'Location name (Where it is being donated: could be the name of a person, a neighborhood, etc)')
     address = st.text_input(label = 'Actual address')
