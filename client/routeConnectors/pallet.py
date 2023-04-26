@@ -16,13 +16,16 @@ def postFood(entryUserId, inputDate, expirationDate, weight, companyId, rackId, 
   jsonDict = {
     "entryUserId": entryUserId,
     "inputDate": inputDate.isoformat(),
-    "expirationDate": expirationDate.isoformat(),
+#    "expirationDate": expirationDate.isoformat(),
     "weight": int(weight),
     "companyId": companyId,
     "inWarehouse": inWarehouse,
     "description": description,
     "categoryIds": [categoryId]
   }
+  
+  if expirationDate.year != 1970:
+    jsonDict["expirationDate"] = expirationDate.isoformat()
   if rackId > 0:
     jsonDict["rackId"] = rackId
   f = json.dumps(jsonDict)

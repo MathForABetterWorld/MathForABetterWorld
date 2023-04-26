@@ -51,7 +51,7 @@ env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 todaysDate = datetime.date.today()
 with st.form("template_form"):
     left, right = st.columns(2)
-    expiration_date = left.date_input("Expiration date", value=datetime.date(2023, 1, 1))
+    expiration_date = left.date_input("Expiration date", value=datetime.date(1970, 1, 1))
     category = right.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
     inWarehouse = left.radio("In Warehouse", (True, False))
     rack = right.selectbox("Rack", allRacks, format_func=lambda rack: f'{rack["location"]}') # get more info on how racks are stored in the google form 
