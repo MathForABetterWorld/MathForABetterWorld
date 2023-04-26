@@ -18,14 +18,18 @@ with title_container:
     #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
     with col2:
         st.markdown("<h1 style='text-align: center; '>Food export form</h1>", unsafe_allow_html=True)
-users = userConnector.getUsers()
+
 
 locations = [{"id": -1, "name": "", "longitude":"", "latitude": ""}]  + locationConnectors.getLocations()['location']
 allLocations = sorted(locations, key=lambda location: location["name"])
 
 categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
 allCategories = sorted(categories, key=lambda cat: cat["name"])
-users = json.loads(userConnector.getUsers())["users"]
+
+users = [{"id": -1, "name": ""}]
+dbUsers = json.loads(userConnector.getUsers().decode("utf-8"))
+if dbUsers:
+    users = sorted(users + dbUsers["users"], key = lambda user: user["name"])
 
 env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 
