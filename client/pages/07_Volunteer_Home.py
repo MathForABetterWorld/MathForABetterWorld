@@ -38,29 +38,34 @@ m = st.markdown("""
             }
             </style>""", unsafe_allow_html=True)
 
-col1,col2=st.columns([1,1])
-with col1:
+col1a,col2a=st.columns([1,1])
+with col1a:
     sign_in_button = st.button("Volunteer Sign In", key="signInButton")
     if sign_in_button:
         nav_page("Volunteer_Signin")
+
+with col2a:
+    sign_out_button = st.button("Volunteer Sign Out", key="signOutButton")
+    if sign_out_button:
+        nav_page("Volunteer_Signout")
+
+col1b,col2b=st.columns([1,1])
+with col1b:
     import_button = st.button("Food Import")
     if import_button:
         nav_page("Import_Form")
 
-with col2:
-    sign_out_button = st.button("Volunteer Sign Out", key="signOutButton")
-    if sign_out_button:
-        nav_page("Volunteer_Signout")
+with col2b:
     export_button = st.button("Food Export")
     if export_button:
         nav_page("Export_Form")
 
-col1a, col2a, col3a = st.columns([0.5,1,0.5])
-with col1a:
+col1c, col2c, col3c = st.columns([0.5,1,0.5])
+with col1c:
     st.empty()
-with col2a:
+with col2c:
     employee_button = st.button("Employee Access", key="employeeButton")
     if employee_button:
         nav_page("Employee_SignIn")
-with col3a:
+with col3c:
     st.empty()
