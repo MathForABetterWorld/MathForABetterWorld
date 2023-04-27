@@ -45,3 +45,8 @@ streamlit run Home.py
 git checkout -b name_feature_description
 git push -u origin name_feature_description
 ```
+
+## If on EC2
+```
+./node_modules/.bin/forever index.js
+```
