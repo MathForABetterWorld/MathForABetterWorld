@@ -34,9 +34,11 @@ JWT_SECRET="MathForABetterWorld!"
 ```
 
 ## Frontend Deployment
+```
 cd client
 python -m pip install -r requirements.txt
 streamlit run Home.py
+```
 
 ## Best practices, for making a feature branch:
 ```
