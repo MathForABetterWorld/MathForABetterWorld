@@ -2,7 +2,7 @@
 
 ## Live Deployments:
 - https://mathforabetterworld-mathforabetterworld-clienthome-m8lzil.streamlit.app
-- https://mathforabetterworldbackend.onrender.com/
+- ec2-18-190-156-90.us-east-2.compute.amazonaws.com:5001
 
 
 ## Getting Started:
@@ -32,6 +32,11 @@ Create a .env file in the server folder and add the following content to it:
 DATABASE_URL="postgresql://prisma:prisma@127.0.0.1:5432/math-for-better-world-local"
 JWT_SECRET="MathForABetterWorld!"
 ```
+
+## Frontend Deployment
+cd client
+python -m pip install -r requirements.txt
+streamlit run Home.py
 
 ## Best practices, for making a feature branch:
 ```
