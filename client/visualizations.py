@@ -36,10 +36,8 @@ def importGraph1(col):
     allPallets = json.loads(pallet.getFood())["Pallet"]
 
     df = pd.DataFrame.from_dict(allPallets)
-    print(df)
-    df = df.groupby('inputDate').agg(np.sum)
+    df = df.groupby('inputDate').weight.sum()
 
-    df = df[['weight']]
     fig = plt.figure()
     fig.patch.set_facecolor('black')
     fig.patch.set_alpha(0.7)
@@ -49,7 +47,7 @@ def importGraph1(col):
 
     ax.set_title("Total imports over time")
 
-    ax.plot(df.index, df[["weight"]], label="Daily Imports")
+    ax.plot(df.index, df, label="Daily Imports")
     ax.patch.set_facecolor('black')
 
     ax.legend()
@@ -182,9 +180,9 @@ def importGraph2(col):
     allPallets = json.loads(pallet.getFood())["Pallet"]
 
     df = pd.DataFrame.from_dict(allPallets)
-    df = df.groupby('inputDate').agg(np.sum)
+    print(df)
+    df = df.groupby('inputDate').weight.sum()
 
-    df = df[['weight']]
     totImports = np.cumsum(df)
 
     fig = plt.figure()
@@ -390,7 +388,7 @@ def volunteerGraph3(col):
         volunteers_dates.append([dates[i], week_days[i], random.randint(1, 20)])
     
     df = pd.DataFrame(volunteers_dates, columns=['Date', 'DayOfWeek','Volunteers'])
-    print(df)
+    #print(df)
 
 
     #Data for Last Week
