@@ -49,5 +49,5 @@ git push -u origin name_feature_description
 ## If on EC2
 ```
 ./node_modules/.bin/forever index.js
-https://gist.github.com/jctosta/af918e1618682638aa82
 ```
+https://gist.github.com/jctosta/af918e1618682638aa82
