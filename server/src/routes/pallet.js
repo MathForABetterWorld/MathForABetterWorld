@@ -17,7 +17,7 @@ router.post(
     .isInt(),
   body("inputDate", "Please include a date for inputDate").notEmpty().isDate(),
   body("expirationDate", "Expiration Date must be a date").optional().isDate(),
-  body("weight", "Please include a float for entryUserId").notEmpty().isFloat(),
+  body("weight", "Please include an integer for entryUserId").notEmpty().isInt(),
   body("companyId", "Please include an integer for companyId")
     .notEmpty()
     .isInt(),
