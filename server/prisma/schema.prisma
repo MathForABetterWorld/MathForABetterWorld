@@ -40,7 +40,6 @@ model Shift {
   userId    Int
   start     DateTime  @default(now())
   end       DateTime?
-  foodTaken Float     @default(0)
   duration  Float?
 }
 

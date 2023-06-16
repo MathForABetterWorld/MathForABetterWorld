@@ -13,8 +13,6 @@ router.post(
   "/",
   body("userId", "Please include a user id for the shift").notEmpty().isInt(),
   body("start", "Please include a start time").notEmpty().isISO8601(),
-  //body("end", "Please include an end time").notEmpty().isISO8601(),
-  //body("foodTaken", "Include a food weight taken").optional().isFloat(),
   validator.isUserId, // make sure user exists
   //validator.isValidTimeShift,
   controller.createShift
@@ -22,7 +20,6 @@ router.post(
 
 router.post(
   "/signout",
-  body("foodTaken", "Include a food weight taken").optional().isFloat(),
   body("id", "id must be an int").notEmpty().isInt(),
   validator.isShiftIdBody,
   controller.signout
@@ -38,7 +35,6 @@ router.post(
   body("userId", "userId must be an int").notEmpty().isInt(),
   body("start", "Please include a start time").notEmpty().isISO8601(),
   body("end", "Please include an end time").notEmpty().isISO8601(),
-  body("foodTaken", "foodTaken should be a float").optional().isFloat(),
   validator.isUserId, // make sure user exists
   //validator.isValidTimeShift,
   validator.isShiftIdBody, // make sure shift exists
@@ -49,8 +45,6 @@ router.post(
 router.get("/totalVolunteerHours", controller.getTotalHoursWorked);
 
 router.get("/activeshifts", controller.getActiveShifts);
-
-router.get("/totalFoodToVolunteers", controller.getTotalFoodGivenToVolunteers);
 
 router.get(
   "/startDate/:startDate/endDate/:endDate",
