@@ -8,6 +8,7 @@ import {
   entries,
   distributorList,
   exportsList,
+  volunteerList,
 } from "./data.js";
 
 const generateFakeUsers = async (numFakeUsers) => {
@@ -232,6 +233,19 @@ const generateFakeData = async () => {
       employeeId: krutalEmployee.id,
     },
   });
+  const createShiftList = [];
+  volunteerList.forEach((entry) => {
+    if (userMap.get(entry.Name)) {
+      createShiftList.push({
+        userId: userMap.get(entry.Name).id,
+        start: new Date(entry.Timestamp),
+        end: new Date(entry.EndTime)
+      });
+    } else {
+      console.log(entry.Name)
+    }
+  });
+  await prisma.shift.createMany({data: createShiftList});
 };
 
 try {
