@@ -1,7 +1,9 @@
 # Database Team!
 
 ## Live Deployments:
-- https://mathforabetterworld-mathforabetterworld-clienthome-m8lzil.streamlit.app
+- https://mathforabetterworld-employee.streamlit.app/
+- https://mathforabetterworld-volunteer.streamlit.app/
+- https://mathforabetterworld-metrics.streamlit.app/
 - ec2-18-190-156-90.us-east-2.compute.amazonaws.com:5001
 
 

@@ -22,6 +22,7 @@ model User {
   employee      Employee?
   employeeId    Int?         @unique
   trash         TrashItem[]
+  isActive      Boolean      @default(true)
 }
 
 model Employee {
@@ -98,6 +99,11 @@ model Category {
 enum Role {
   Admin
   Employee
+}
+
+model Location {
+  id        Int          @id @default(autoincrement())
+  name      String
 }
 
 model DonationLocation {

@@ -66,10 +66,10 @@ export const update = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { email, id, phoneNumber, address } = req.body;
+  const { email, id, phoneNumber, address, isActive } = req.body;
   const user = await prisma.user.update({
     where: { id },
-    data: { email, phoneNumber, address },
+    data: { email, phoneNumber, address, isActive },
   });
   return res.status(StatusCodes.ACCEPTED).json({ user });
 };
