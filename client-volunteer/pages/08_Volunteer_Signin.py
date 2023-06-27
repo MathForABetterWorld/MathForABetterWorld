@@ -42,7 +42,5 @@ if check_in_button:
     shiftConnector.postShift(int(id.iloc[0]), startTime.isoformat())
 
     st.write("Check in successful!")
-    # wait 2 seconds
     time.sleep(2)
-    # redirect to UsersMain
-    nav_page("UsersMain")
+    nav_page("Volunteer_Home")
