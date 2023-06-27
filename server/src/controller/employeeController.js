@@ -19,6 +19,14 @@ export const promoteUser = async (req, res) => {
       role: Role.Employee,
     },
   });
+  await prisma.user.update({
+    where: {
+      id: userId,
+    },
+    data: {
+      employeeId: employee.id,
+    },
+  });
   delete employee["hashedPassword"];
 
   return res.status(StatusCodes.CREATED).json({ employee });
@@ -80,4 +88,29 @@ export const getUsers = async (req, res) => {
   }
   const users = await prisma.user.findMany({});
   return res.status(StatusCodes.ACCEPTED).json({ users });
+};
+
+export const getEmployees = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const employees = await prisma.employee.findMany({
+    include: {
+      user: true,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ employees });
+};
+
+export const getMyActiveShifts = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const shift = await prisma.shift.findMany({
+    where: {
+      userId: req.id,
+      end: null,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ shift });
 };

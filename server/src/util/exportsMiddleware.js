@@ -54,7 +54,7 @@ export const isExportId = async (req, res, next) => {
 export const isLocationIdOptional = async (req, res, next) => {
   const { locationId } = req.body;
   if (locationId !== null && locationId !== undefined) {
-    const location = await prisma.location.findUnique({
+    const location = await prisma.donationLocation.findUnique({
       where: { id: locationId },
     });
     if (location === null || location === undefined) {

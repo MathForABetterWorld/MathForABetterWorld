@@ -124,6 +124,9 @@ export const getActiveShifts = async (req, res) => {
   const activateShifts = await prisma.shift.findMany({
     where: {
       end: null,
+      user: {
+        employeeId: null,
+      },
     },
     include: {
       user: true,
