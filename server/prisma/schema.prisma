@@ -21,16 +21,17 @@ model User {
   shiftsWorked  Shift[]
   employee      Employee?
   employeeId    Int?         @unique
+  isActive      Boolean      @default(true)
 }
 
 model Employee {
-  id             Int    @id @default(autoincrement())
-  user           User   @relation(fields: [userId], references: [id])
-  userId         Int    @unique
-  userName       String @unique
+  id             Int     @id @default(autoincrement())
+  user           User    @relation(fields: [userId], references: [id])
+  userId         Int     @unique
+  userName       String  @unique
   hashedPassword String
   token          String?
-  role           Role   @default(Employee)
+  role           Role    @default(Employee)
 }
 
 model Shift {
@@ -61,16 +62,16 @@ model Pallet {
 }
 
 model ExportItem {
-  id         Int      @id @default(autoincrement())
-  weight     Float    @default(0)
-  exportDate DateTime @default(now()) @db.Date
-  category   Category @relation(fields: [categoryId], references: [id])
+  id         Int       @id @default(autoincrement())
+  weight     Float     @default(0)
+  exportDate DateTime  @default(now()) @db.Date
+  category   Category  @relation(fields: [categoryId], references: [id])
   categoryId Int
   donatedTo  String
-  user       User     @relation(fields: [userId], references: [id])
+  user       User      @relation(fields: [userId], references: [id])
   userId     Int
-  location  Location?  @relation(fields: [locationId], references: [id])
-  locationId  Int?
+  location   Location? @relation(fields: [locationId], references: [id])
+  locationId Int?
 }
 
 model Distributor {
@@ -100,9 +101,9 @@ enum Role {
 }
 
 model Location {
-  id          Int          @id @default(autoincrement())
-  name  String
+  id        Int          @id @default(autoincrement())
+  name      String
   longitude String
   latitude  String
-  exports ExportItem[]
+  exports   ExportItem[]
 }
