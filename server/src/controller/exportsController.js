@@ -24,7 +24,7 @@ export const getExports = async (req, res) => {
     return res;
   }
   const exports = await prisma.exportItem.findMany({
-    include: { category: true },
+    include: { category: true, location: true },
   });
   return res.status(StatusCodes.ACCEPTED).json({ exports });
 };
