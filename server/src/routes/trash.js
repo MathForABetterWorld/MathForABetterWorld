@@ -43,22 +43,27 @@ router.post( //for this one I copied the body part the same as the create...whic
     body("userId", "Please include an integer user ID")
         .notEmpty()
         .isInt(),
-    //should they be able to edit the date? Like I'd think so but now sure exactly how the date stuff works 
+    body("trashDate", "Please include a date").notEmpty().isDate(),
     validator.isCategoryId, 
     validator.isUserId,
     controller.createTrash
 );
 
 router.delete(
-    "/:id", //double check this 
+    "/:id", 
     param("id", "Please include an id of the trash to delete")
         .notEmpty()
         .isInt(),
-    validator.isTrashId, //in the export.js folder they have this called isTrashIdParam not sure why but I kept this one like this
+    validator.isTrashIdParam,
     controller.deleteTrash
 );
 
-
-
+router.get(
+    "/inPast/:duration",
+    param("duration", "Please include a duration filter")
+      .notEmpty()
+      .isIn(["day", "week", "month", "year"]),
+    controller.getExportsInDuration
+  );
 
 export default router;

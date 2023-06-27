@@ -35,8 +35,8 @@ export const isUserId = async (req, res, next) => {
     }
 };
 
-export const isTrashId = async (req, res, next) => { //IDk abt this one
-    const { id } = req.body;
+export const isTrashIdParam = async (req, res, next) => { //IDk abt this one
+    const id = parseInt(req.params.id, 10);
     const query = await prisma.trashItem.findUnique({ //its .trashItem right?
         where: {
             id

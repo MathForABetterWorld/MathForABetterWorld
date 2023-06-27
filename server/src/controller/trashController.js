@@ -18,11 +18,11 @@ export const createTrash = async (req, res) => {
   };
 
   export const getTrash = async(req, res) => { 
-    if (validate(req, res)) { //what does this do?
+    if (validate(req, res)) {
         return res;
     }
     const trash = await prisma.trashItem.findMany({
-        include: {  weight: true, category: true}, //need to talk about what we want to include
+        include: {  category: true, user: true},
     });
     return res.status(StatusCodes.ACCEPTED).json({ trash });
   };
@@ -31,6 +31,7 @@ export const createTrash = async (req, res) => {
     if (validate(req, res)) {
         return res;
     }
+    const id = req.id;
     const {weight, trashDate, categoryId, userId} = req.body;
     const trashItem = await prisma.trashItem.update({
         where: {
@@ -54,5 +55,32 @@ export const createTrash = async (req, res) => {
     const deletedTrash = await prisma.trashItem.delete({ where: { id } });
     return res.status(StatusCodes.ACCEPTED).json({ deleteTrash });
 };
-  
 
+export const getExportsInDuration = async (req, res) => {
+    const { duration } = req.params;
+    const startDate = new Date();
+    if (duration === "day") {
+      startDate.setDate(startDate.getDate() - 1);
+    } else if (duration === "week") {
+      startDate.setDate(startDate.getDate() - 7);
+    } else if (duration === "month") {
+      startDate.setMonth(startDate.getMonth() - 1);
+    } else {
+      startDate.setFullYear(startDate.getFullYear() - 1);
+    }
+    startDate.setUTCHours(0);
+    startDate.setUTCMinutes(0);
+    startDate.setUTCSeconds(0);
+    startDate.setUTCMilliseconds(0);
+    const exportTotalInDuration = await prisma.trashItem.aggregate({
+      _sum: {
+        weight: true,
+      },
+      where: {
+        trashDate: {
+          gte: startDate,
+        },
+      },
+    });
+    return res.status(StatusCodes.ACCEPTED).json({ exportTotalInDuration });
+  };
