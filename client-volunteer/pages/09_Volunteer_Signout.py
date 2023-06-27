@@ -43,7 +43,7 @@ else:
 #user_names = users["Name"]
 
 user_input = st.selectbox(label="Please enter your name", options = active_users)
-food_input = st.text_input("Enter lbs of food")
+# food_input = st.text_input("Enter lbs of food")
 submit_button = st.button("Submit")
 #st.session_state['button'] = False
 if st.session_state.get('button') != True:
@@ -53,40 +53,41 @@ if st.session_state['button'] == True:
     row = shifts[shifts["user.name"] == user_input].iloc[0]
 
     # food_input must be a non-negative float
-    if is_non_neg_float(food_input):
-        foodAmt = float(food_input)
+    # if is_non_neg_float(food_input):
+    #     foodAmt = float(food_input)
         
-        # food amount more than 20lbs requires admin approval
-        if foodAmt > 20:
-            st.write("Please get admin approval.")
-            admin_input = st.text_input("Admin Name")
-            password_input = st.text_input("Password", type="password")
-            if st.button("Login admin"):            
-                res = json.loads(authConnectors.signinEmployee(admin_input, password_input))
-                if res["status"]!=200:
-                    st.write("Invalid admin login, volunteer not signed out")
-                    time.sleep(2)
-                    st.session_state['button'] = False
-                    nav_page("Volunteer_Home")
-                else:
-                    current_user_id = user_input
-                    shift_id = row["id"]
-                    shiftConnector.signout(foodAmt, int(shift_id))
-                    st.write("Sign out successful!")
-                    # wait 2 seconds
-                    time.sleep(2)
-                    st.session_state['button'] = False
-                    nav_page("Volunteer_Home")
-        else: 
-            current_user_id = user_input
-            shift_id = row["id"]
-            shiftConnector.signout(foodAmt, int(shift_id))
-            st.write("Sign out successful!")
-            # wait 2 seconds
-            time.sleep(2)
-            st.session_state['button'] = False
-            nav_page("Volunteer_Home")
-    else:
-        st.write("Please enter a number at least greater than or equal to 0.")
-        st.session_state['button'] = False
+    #     # food amount more than 20lbs requires admin approval
+    #     if foodAmt > 20:
+    #         st.write("Please get admin approval.")
+    #         admin_input = st.text_input("Admin Name")
+    #         password_input = st.text_input("Password", type="password")
+    #         if st.button("Login admin"):            
+    #             res = json.loads(authConnectors.signinEmployee(admin_input, password_input))
+    #             if res["status"]!=200:
+    #                 st.write("Invalid admin login, volunteer not signed out")
+    #                 time.sleep(2)
+    #                 st.session_state['button'] = False
+    #                 nav_page("Volunteer_Home")
+    #             else:
+    #                 current_user_id = user_input
+    #                 shift_id = row["id"]
+    #                 shiftConnector.signout(foodAmt, int(shift_id))
+    #                 st.write("Sign out successful!")
+    #                 # wait 2 seconds
+    #                 time.sleep(2)
+    #                 st.session_state['button'] = False
+    #                 nav_page("Volunteer_Home")
+    #     else: 
+    current_user_id = user_input
+    shift_id = row["id"]
+    # shiftConnector.signout(foodAmt, int(shift_id))
+    shiftConnector.signout(int(shift_id))
+    st.write("Sign out successful!")
+    # wait 2 seconds
+    time.sleep(2)
+    st.session_state['button'] = False
+    nav_page("Volunteer_Home")
+    # else:
+    #     st.write("Please enter a number at least greater than or equal to 0.")
+    #     st.session_state['button'] = False
     

@@ -21,6 +21,7 @@ model User {
   shiftsWorked  Shift[]
   employee      Employee?
   employeeId    Int?         @unique
+  trash         TrashItem[]
   isActive      Boolean      @default(true)
 }
 
@@ -40,7 +41,6 @@ model Shift {
   userId    Int
   start     DateTime  @default(now())
   end       DateTime?
-  foodTaken Float     @default(0)
   duration  Float?
 }
 
@@ -62,13 +62,13 @@ model Pallet {
 }
 
 model ExportItem {
-  id         Int       @id @default(autoincrement())
-  weight     Float     @default(0)
-  exportDate DateTime  @default(now()) @db.Date
-  category   Category  @relation(fields: [categoryId], references: [id])
+  id         Int               @id @default(autoincrement())
+  weight     Float             @default(0)
+  exportDate DateTime          @default(now()) @db.Date
+  category   Category          @relation(fields: [categoryId], references: [id])
   categoryId Int
   donatedTo  String
-  user       User      @relation(fields: [userId], references: [id])
+  user       User              @relation(fields: [userId], references: [id])
   userId     Int
   location   DonationLocation? @relation(fields: [locationId], references: [id])
   locationId Int?
@@ -93,6 +93,7 @@ model Category {
   name        String
   description String
   exports     ExportItem[]
+  trash       TrashItem[]
 }
 
 enum Role {
@@ -106,9 +107,19 @@ model Location {
 }
 
 model DonationLocation {
-  id          Int          @id @default(autoincrement())
-  name  String
+  id        Int          @id @default(autoincrement())
+  name      String
   longitude String
   latitude  String
   exports   ExportItem[]
+}
+
+model TrashItem {
+  id         Int      @id @default(autoincrement())
+  weight     Float    @default(0)
+  trashDate  DateTime @default(now()) @db.Date
+  category   Category @relation(fields: [categoryId], references: [id])
+  categoryId Int
+  user       User     @relation(fields: [userId], references: [id])
+  userId     Int
 }
