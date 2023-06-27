@@ -129,17 +129,26 @@ def importVis():
     other_total = sum(sorted_other_providers)
 
     #print(other_total)
-    sorted_provider_sizes.append(other_total)
-    sorted_provider_labels.append("other")
-
+    if ("Other" in sorted_provider_labels) :
+        index = sorted_provider_labels.index("Other")
+        sorted_provider_sizes[index] += other_total
+    else :
+        sorted_provider_sizes.append(other_total)
+        sorted_provider_labels.append("other")
+    
     for x,y in dict(sorted_food_receiver[:-10]).items():
         sorted_other_rec_labels.append(x)
         sorted_other_receivers.append(y)
 
     other_rec_total = sum(sorted_other_receivers)
 
-    sorted_receiver_sizes.append(other_rec_total)
-    sorted_receiver_labels.append("other")
+    if ("Other" in sorted_receiver_labels) :
+        otherIndex = sorted_receiver_labels.index("Other")
+        sorted_receiver_sizes[otherIndex] += other_rec_total
+    else :
+        sorted_receiver_sizes.append(other_rec_total)
+        sorted_receiver_labels.append("other")
+
 
     ImpTot= sum(sorted_provider_sizes)
     percTot = []
