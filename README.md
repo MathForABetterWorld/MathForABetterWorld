@@ -49,6 +49,15 @@ git push -u origin name_feature_description
 ```
 
 ## If on EC2
+to reset database:
+```
+yarn prisma migrate reset --force
+```
+to reseed database:
+```
+yarn run prod
+```
+to run API:
 ```
 ./node_modules/.bin/forever index.js
 ```
