@@ -1,8 +1,0 @@
-urllib3
-streamlit
-numpy
-pandas
-jinja2
-matplotlib
-seaborn
-plotly

@@ -34,6 +34,7 @@ router.post(
   body("id", "Id is required").notEmpty().isInt(),
   body("phoneNumber", "Phone number must be a string").optional().isString(),
   body("address", "Address must be a string").optional().isString(),
+  body("isActive", "isActive must be a boolean").notEmpty().isBoolean(),
   validator.isUniqueEmail,
   validator.isUniquePhoneNumber,
   controller.update

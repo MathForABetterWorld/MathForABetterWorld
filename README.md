@@ -1,8 +1,10 @@
 # Database Team!
 
 ## Live Deployments:
-- https://mathforabetterworld-mathforabetterworld-clienthome-m8lzil.streamlit.app
-- https://mathforabetterworldbackend.onrender.com/
+- https://mathforabetterworld-employee.streamlit.app/
+- https://mathforabetterworld-volunteer.streamlit.app/
+- https://mathforabetterworld-metrics.streamlit.app/
+- ec2-18-190-156-90.us-east-2.compute.amazonaws.com:5001
 
 
 ## Getting Started:
@@ -33,8 +35,21 @@ DATABASE_URL="postgresql://prisma:prisma@127.0.0.1:5432/math-for-better-world-lo
 JWT_SECRET="MathForABetterWorld!"
 ```
 
+## Frontend Deployment
+```
+cd client
+python -m pip install -r requirements.txt
+streamlit run Home.py
+```
+
 ## Best practices, for making a feature branch:
 ```
 git checkout -b name_feature_description
 git push -u origin name_feature_description
 ```
+
+## If on EC2
+```
+./node_modules/.bin/forever index.js
+```
+https://gist.github.com/jctosta/af918e1618682638aa82
