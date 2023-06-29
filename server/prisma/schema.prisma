@@ -72,6 +72,14 @@ model ExportItem {
   userId     Int
   location   DonationLocation? @relation(fields: [locationId], references: [id])
   locationId Int?
+  exportType  ExportType       @default(Regular)
+}
+
+enum ExportType {
+  Recycle
+  Compost
+  Regular
+  Damaged
 }
 
 model Distributor {
