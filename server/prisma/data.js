@@ -32254,4 +32254,4 @@ export const volunteerList = [
   { Timestamp: "2023-06-13 16:38:54", EndTime: "2023-06-13 20:38:54", Name: "Susan Larson"},
   { Timestamp: "2023-06-13 16:53:36", EndTime: "2023-06-13 20:53:36", Name: "Beverly Pinn"},
   { Timestamp: "2023-06-14 14:02:45", EndTime: "2023-06-14 18:02:45", Name: "Bud Stracker - Sisson Street DPW"}
-  ]
+];
