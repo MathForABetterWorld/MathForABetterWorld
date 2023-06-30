@@ -4,6 +4,7 @@ from PIL import Image
 import os
 from routeConnectors import authConnectors, employeeConnectors
 import json
+from nav import nav_page
 
 path = os.path.dirname(__file__)
 
@@ -18,6 +19,14 @@ with col2:
     st.image(image)
 with col3:
     st.write(' ')
+
+# log in status
+
+if 'token' in st.session_state :
+    log_button = st.button("Employee Log-out", key=".my-button", use_container_width=True)
+else:
+    log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
+
 
 # on button click submit, check if valid user
 
@@ -41,3 +50,11 @@ if 'token' in st.session_state:
     if promoteToAdmin:
         idx = int(usersDF.loc[usersDF["name"] == selectedIndex].iloc[0].id)
         r = employeeConnectors.promoteToAdmin(idx)
+
+
+if log_button :
+    if "token" in st.session_state :
+        del st.session_state.token
+        st.experimental_rerun()
+    else:
+        nav_page("")
