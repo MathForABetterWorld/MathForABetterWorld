@@ -6,6 +6,7 @@ import json
 import os
 from routeConnectors import categoryConnectors
 from PIL import Image
+from nav import nav_page
 
 path = os.path.dirname(__file__)
 # This has to be the first streamlit command called
@@ -13,6 +14,15 @@ st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_lo
 
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 st.image(image)
+
+# log in status
+
+if 'token' in st.session_state :
+    log_button = st.button("Employee Log-out", key=".my-button", use_container_width=True)
+else:
+    log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
+
+
 print("getting categories....")
 categories = categoryConnectors.getCategories()["category"]
 categoryDF = pd.DataFrame(categories)
@@ -69,3 +79,11 @@ if 'token' in st.session_state:
 # this button is not connected to any other logic, it just causes a plain
 # rerun.
 st.button("Re-run")
+
+
+if log_button :
+    if "token" in st.session_state :
+        del st.session_state.token
+        st.experimental_rerun()
+    else:
+        nav_page("")
