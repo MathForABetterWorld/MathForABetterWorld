@@ -10,12 +10,21 @@ from routeConnectors import categoryConnectors
 from routeConnectors import userConnector
 import json
 import os
+from nav import nav_page
 
 path = os.path.dirname(__file__)
 print(path + "/../assets/bmore_food_logo_dark_theme.png" )
 st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Import Form")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 st.image(image)
+
+# log in status
+
+if 'token' in st.session_state :
+    log_button = st.button("Employee Log-out", key=".my-button", use_container_width=True)
+else:
+    log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
+
 # Get rack, distributor and category info 
 print("getting racks....")
 allRacks = [{"id": -1, "location": "", "description": "", "weightLimit": 0}]
@@ -81,3 +90,10 @@ if submit:
         st.success("🎉 Your import was generated!")
     else:
         st.error(r["msg"])
+
+if log_button :
+    if "token" in st.session_state :
+        del st.session_state.token
+        st.experimental_rerun()
+    else:
+        nav_page("")
