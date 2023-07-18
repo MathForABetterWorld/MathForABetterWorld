@@ -10,7 +10,7 @@ from nav import nav_page
 
 path = os.path.dirname(__file__)
 # This has to be the first streamlit command called
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="View Distributors")
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Distributors Page")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 st.image(image)
 
@@ -42,7 +42,7 @@ if 'token' in st.session_state:
             if name == "":
                 st.error("Please fill in form elements!")
             else:
-                newDist = pd.DataFrame(json.loads(distributorConnectors.postDistributor(name))["distributor"], index=[0])
+                newDist = distributorConnectors.postDistributor(name)
                 st.experimental_rerun()
     elif editType == "Update Distributor":
         with st.form("template_form"):

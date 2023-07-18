@@ -10,7 +10,7 @@ from nav import nav_page
 
 path = os.path.dirname(__file__)
 # This has to be the first streamlit command called
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="View Categories")
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Categories Page")
 
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 st.image(image)
@@ -47,7 +47,7 @@ if 'token' in st.session_state:
             if name == "" or desc == "":
                 st.error("Please fill in both form elements!")
             else:
-                newCat = pd.DataFrame(json.loads(categoryConnectors.postCategory(name, desc))["category"], index=[0])
+                newCat = categoryConnectors.postCategory(name, desc)
                 st.experimental_rerun()
     elif editType == "Update Category":
         with st.form("template_form"):

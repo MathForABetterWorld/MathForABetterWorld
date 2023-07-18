@@ -14,13 +14,17 @@ def getCoordinates(address):
     str(address)
     r = http.request("GET", 'https://maps.googleapis.com/maps/api/geocode/json?address=' + address + '&key=AIzaSyCnXWK-JgfzOK4wRYE1z8Zojx1_nLiEWGw', headers={'Content-Type': 'application/json'})
     jsonObj = json.loads(r.data.decode('utf-8'))
-    lat = (jsonObj['results'][0]['geometry']['location']['lat'])
-    lon = (jsonObj['results'][0]['geometry']['location']['lng'])
-    return lat, lon
+    if "error_message" in jsonObj:
+        st.error("Please enter valid address")
+        return "err", "err"
+    else:
+        lat = (jsonObj['results'][0]['geometry']['location']['lat'])
+        lon = (jsonObj['results'][0]['geometry']['location']['lng'])
+        return lat, lon
 
 path = os.path.dirname(__file__)
 # This has to be the first streamlit command called
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="View Distributors")
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Locations Page")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 st.image(image)
 
@@ -48,12 +52,14 @@ if 'token' in st.session_state:
             name = st.text_input("Location Name", "")
             address = st.text_input(label = "Address of Location")
             newSubmit = st.form_submit_button()
-        if newSubmit:
-            if name == "":
-                st.error("Please fill in form elements!")
-            else:
-                newLoc = pd.DataFrame(json.loads(locationConnectors.postLocation(name))["location"], index=[0])
-                st.experimental_rerun()
+            if newSubmit:
+                if name == "":
+                    st.error("Please fill in form elements!")
+                else:
+                    latitude, longitude = getCoordinates(address)
+                    if latitude != "err":
+                        newLoc = locationConnectors.postLocation(name, str(longitude), str(latitude))
+                        st.experimental_rerun()
     elif editType == "Update Location":
         with st.form("template_form"):
             left, right = st.columns(2)
@@ -61,24 +67,26 @@ if 'token' in st.session_state:
             name = st.text_input("Location Name", "")
             address = st.text_input(label = "Address of Location")
             editSubmit = st.form_submit_button()
-        if editSubmit:
-            if name == "":
-                st.error("Please fill in both form elements!")
-            elif idx in locationDF.id.unique():
-                editedLoc = locationConnectors.updateLocation(idx, name)
-                st.experimental_rerun()
-            else:
-                st.error("Please input an id that is in the table!")
+            if editSubmit:
+                if name == "":
+                    st.error("Please fill in both form elements!")
+                elif idx in locationDF.id.unique():
+                    latitude, longitude = getCoordinates(address)
+                    if latitude != "err":
+                        editedLoc = locationConnectors.updateLocation(idx, name, str(longitude), str(latitude))
+                        st.experimental_rerun()
+                else:
+                    st.error("Please input an id that is in the table!")
     elif editType == "Delete Location":
         with st.form("template_form"):
             idx = st.number_input("Id", min_value=1)
             deleteSubmit = st.form_submit_button()
-        if deleteSubmit:
-            if idx in locationDF.id.unique():
-                deletedLoc = locationConnectors.deleteLocation(idx)
-                st.experimental_rerun()
-            else:
-                st.error("Please input an id that is in the table!")
+            if deleteSubmit:
+                if idx in locationDF.id.unique():
+                    deletedLoc = locationConnectors.deleteLocation(idx)
+                    st.experimental_rerun()
+                else:
+                    st.error("Please input an id that is in the table!")
 st.dataframe(locationDF)
 
 if log_button :
