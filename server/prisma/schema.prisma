@@ -56,7 +56,6 @@ model Pallet {
   companyId      Int
   rack           Rack?       @relation(fields: [rackId], references: [id])
   rackId         Int?
-  inWarehouse    Boolean     @default(false)
   description    String?
   categoryIds    Int[]
   barcodes       Int[]

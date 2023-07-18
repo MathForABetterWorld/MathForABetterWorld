@@ -18,7 +18,6 @@ export const createPallet = async (req, res) => {
     weight,
     companyId,
     rackId,
-    inWarehouse,
     description,
     categoryId,
   } = req.body;
@@ -31,7 +30,6 @@ export const createPallet = async (req, res) => {
       weight,
       companyId,
       rackId,
-      inWarehouse,
       description,
       categoryId,
     },
@@ -61,9 +59,6 @@ export const getPallets = async (req, res) => {
 export const getSoonestExpiringPallet = async (req, res) => {
   const Pallets = await prisma.pallet.findMany({
     // only care about pallets that are in the warehouse
-    where: {
-      inWarehouse: true,
-    },
     orderBy: {
       expirationDate: "asc", // I assume this sorts in ascending order
     },
@@ -113,7 +108,6 @@ export const edit = async (req, res) => {
     weight,
     companyId,
     rackId,
-    inWarehouse,
     description,
     categoryIds,
   } = req.body;
@@ -129,7 +123,6 @@ export const edit = async (req, res) => {
       weight,
       companyId,
       rackId,
-      inWarehouse,
       description,
       categoryIds,
     },
@@ -223,7 +216,6 @@ export const removePallet = async (req, res) => {
       id,
     },
     data: {
-      inWarehouse: false,
       rackId: null,
     },
   });
