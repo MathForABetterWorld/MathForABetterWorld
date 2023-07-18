@@ -35,7 +35,7 @@ env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 with st.form("template_form"):
     left, right = st.columns(2)
     donatedTo = left.text_input("Who is the food going to?", value="")
-    location = right.selectbox("Location", allLocations, format_func=lambda loc: f'{loc["name"]}')
+    location = right.selectbox("Location (Optional)", allLocations, format_func=lambda loc: f'{loc["name"]}')
     category = left.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
 
     exportType = right.selectbox("Export Type", (["Regular", "Damaged", "Recycle", "Compost"]))

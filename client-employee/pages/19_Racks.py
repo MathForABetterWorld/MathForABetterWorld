@@ -41,7 +41,7 @@ if 'token' in st.session_state:
             left, right = st.columns(2)
             location = left.text_input("Location", "")
             desc = right.text_input("Description", "")
-            weightLimit = left.number_input("Weight Limit", min_value=0, format="%.2f")
+            weightLimit = left.number_input("Weight Limit (Optional)", min_value=0, format="%.2f")
             newSubmit = st.form_submit_button()
         if newSubmit:
             if location == "" or weightLimit == 0 or desc == "":
