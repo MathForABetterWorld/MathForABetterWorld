@@ -84,7 +84,7 @@ if 'token' in st.session_state:
         food_input = st.number_input("Enter lbs of regular food taken", 0)
         damaged_food_input = st.number_input("Enter lbs of damaged food taken", 0)
         foodAmt = food_input
-        sign_out_for_shift = st.button("End Shift")
+        sign_out_for_shift = st.button("End Shift (Optional)")
         if sign_out_for_shift:
             endTime = datetime.now()
             st.write('Thank you')
