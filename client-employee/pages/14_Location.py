@@ -7,6 +7,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from routeConnectors import locationConnectors
 import os
 from nav import nav_page
+import pandas as pd
 
 def getCoordinates(address):
     http = urllib3.PoolManager()
@@ -31,23 +32,54 @@ if 'token' in st.session_state :
 else:
     log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
 
+print("getting locations...")
+locations = locationConnectors.getLocations()["location"]
+locationDF = pd.DataFrame(locations)
+title_container = st.container()
+col1, col2 = st.columns([1, 50])
+with title_container:
+    with col2:
+        st.markdown("<h1 style='text-align: center; '>Locations Page</h1>", unsafe_allow_html=True)
 
-st.subheader("Every Time There is a New Delivery Location Input that Here")
-with st.form("Location Form"):
-    location_name = st.text_input(label = 'Location name (Where it is being donated: could be the name of a person, a neighborhood, etc)')
-    address = st.text_input(label = 'Actual address')
-    submit = st.form_submit_button()
-
-
-if submit:
-    st.balloons()
-
-    ### TODO:: update location with coordinates 
-    latitude, longitude = getCoordinates(address)
-    r = locationConnectors.postLocation(location_name, str(longitude), str(latitude))
-    st.success("🎉 Your new location was generated!")
-
-
+if 'token' in st.session_state:
+    editType = st.selectbox("Modification Type", ["", "New Location", "Update Location", "Delete Location"])
+    if editType == "New Location":
+        with st.form("template_form"):
+            name = st.text_input("Location Name", "")
+            address = st.text_input(label = "Address of Location")
+            newSubmit = st.form_submit_button()
+        if newSubmit:
+            if name == "":
+                st.error("Please fill in form elements!")
+            else:
+                newLoc = pd.DataFrame(json.loads(locationConnectors.postLocation(name))["location"], index=[0])
+                st.experimental_rerun()
+    elif editType == "Update Location":
+        with st.form("template_form"):
+            left, right = st.columns(2)
+            idx = left.number_input("Id", min_value=1)
+            name = st.text_input("Location Name", "")
+            address = st.text_input(label = "Address of Location")
+            editSubmit = st.form_submit_button()
+        if editSubmit:
+            if name == "":
+                st.error("Please fill in both form elements!")
+            elif idx in locationDF.id.unique():
+                editedLoc = locationConnectors.updateLocation(idx, name)
+                st.experimental_rerun()
+            else:
+                st.error("Please input an id that is in the table!")
+    elif editType == "Delete Location":
+        with st.form("template_form"):
+            idx = st.number_input("Id", min_value=1)
+            deleteSubmit = st.form_submit_button()
+        if deleteSubmit:
+            if idx in locationDF.id.unique():
+                deletedLoc = locationConnectors.deleteLocation(idx)
+                st.experimental_rerun()
+            else:
+                st.error("Please input an id that is in the table!")
+st.dataframe(locationDF)
 
 if log_button :
     if "token" in st.session_state :
