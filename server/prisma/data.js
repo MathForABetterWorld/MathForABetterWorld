@@ -283,6 +283,7 @@ export const categoryList = [
   "Danone - Plant Based Drink", // final
   "Danone - Yogurt", // final
   "Dole - Fruit Cups", // final
+  "Dole - Juice", // final
   "Drinks [Dry]", // final
   "Drinks [Fridge]", // final
   "Frozen [Not Meat]", // final
@@ -299,126 +300,7 @@ export const categoryList = [
   "Snacks", // final
   "Spices", // final
   "Water", // final
-  "Assorted Dry", 
-  "Fruit Cup ", 
-  "Vinegar ", 
-  "Household", 
-  "Assorted Fridge", 
-  "Hand sanitizer ", 
-  "Drinks [Dry]", 
-  "Snacks", 
-  "Pet Supplies", 
-  "Drinks [Fridge]", 
-  "Frozen [Not Meat]", 
-  "Meat [Raw]", 
-  "Produce", 
-  "Dairy", 
-  "Assorted and Dairy ", 
-  "Hand sanitizer XOX", 
-  "Pasta  - condiment ", 
-  "Fruit cups", 
-  "Fruit cup", 
-  "Hand sanitizer", 
-  "Hand Sanitizer ", 
-  "Dole fruit cup", 
-  "Grains (rice, pasta, etc.)", 
-  "Hand  sanitizer", 
-  "Hand sanitizers ", 
-  "Drinks (Dry)", 
-  "Drinks (Fridge)", 
-  "Fruit cups ", 
-  "Dole", 
-  "Cleaning Supplies", 
-  "Paper Supplies", 
-  "Canned Goods", 
-  "Dog pillow", 
-  "Fruit up", 
-  "Dole fruit cups", 
-  "Dairy yogurt", 
-  "Dole Fruit Cups", 
-  "Dole Fruit CUP", 
-  "Dole Fruit Cup", 
-  "Dole fruit Cups", 
-  "Dannon yogart- Coffee", 
-  "Produce and Yogart", 
-  "Dole - Fruit cups", 
-  "COVID TEST", 
-  "Danone - Milk", 
-  "Light Bulb", 
-  "Dairy half&half", 
-  "Danone - Yogurt", 
-  "Honey", 
-  "Produce ", 
-  "Mixed dry", 
-  "Danone - Creamer", 
-  "Bread", 
-  "Hand Sanitizer", 
-  "Beans", 
-  "Creamer ", 
-  "F Fries", 
-  "Snacks -noodle", 
-  "Condiments", 
-  "Assorted", 
-  "Assorted ", 
-  "Hand saintizer", 
-  "French Frieds", 
-  "Cookie dough", 
-  "XOX", 
-  "French Fried", 
-  "French frieds", 
-  "French fried", 
-  "Mix dairy frozen dry", 
-  "Emd", 
-  "EMD Plus snacks", 
-  "Assorted Dry and Meats", 
-  "Assorted mix and. dry", 
-  "Assorted mix and dry", 
-  "Silk creamer", 
-  "Coffee", 
-  "Tortilla breads", 
-  "Cheese sauce", 
-  "EMD", 
-  "Bowery ", 
-  "Meat/Produce", 
-  "Boxes", 
-  "BCF Boxes", 
-  "Assorted Mix", 
-  "Dry Beans", 
-  "Vinegar", 
-  "Mixture neat bread dry sruff", 
-  "Assorted dry & produce", 
-  "Assorted fridge Dole", 
-  "Assorted products and dry", 
-  "Horizon Milk", 
-  "Xmas items", 
-  "Milk", 
-  "Mixed Drive", 
-  "Danone - Coffee", 
-  "BEANS", 
-  "Mix dry", 
-  "Dole and Snacks", 
-  "Produce Dairy", 
-  "Meat and pasta ", 
-  "Meat and can goods", 
-  "Assorted dry and meats", 
-  "Dole - Drinks [Dry]", 
-  "Produce and dry ", 
-  "Dairy and dry", 
-  "Assorted fridge ", 
-  "Dole Juice", 
-  "Cornmeal ", 
-  "Dole juice", 
-  "Dole - Fruit Pouches ", 
-  "Dole - Fruit Pouches", 
-  "Dole -Fruit Pouches ", 
-  "Spices", 
-  "Dole - Fruit cups & juice", 
-  "Assorted Dole", 
-  "Dole - Juice", 
-  "Water", 
-  "Juice [Minute Maid]", 
-  "Dole - Juice ",
-]; // THIS
+];
 
 export const distributorList = [
   "Alto Dale Farm", // final
@@ -35620,7 +35502,7 @@ export const exportsList = [
 		date: "2023-01-06 15:40:18",
 		name: "Juanita Chandler",
 		weight: "507",
-		category: "Fruit Cup ",
+		category: "Dole - Fruit Cups",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -35634,7 +35516,7 @@ export const exportsList = [
 		date: "2023-01-06 15:43:46",
 		name: "Juanita Chandler",
 		weight: "181",
-		category: "Vinegar ",
+		category: "Spices",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -35683,7 +35565,7 @@ export const exportsList = [
 		date: "2023-01-06 16:23:41",
 		name: "Juanita Chandler",
 		weight: "204",
-		category: "Fruit Cup ",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Crystal [Kingdom Worship Center]"
 	},
 	{
@@ -35704,7 +35586,7 @@ export const exportsList = [
 		date: "2023-01-07 12:58:59",
 		name: "Juanita Chandler",
 		weight: "360",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -35718,7 +35600,7 @@ export const exportsList = [
 		date: "2023-01-07 13:00:37",
 		name: "Juanita Chandler",
 		weight: "978",
-		category: "Fruit Cup ",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -35830,7 +35712,7 @@ export const exportsList = [
 		date: "2023-01-07 16:20:31",
 		name: "Juanita Chandler",
 		weight: "-172",
-		category: "Assorted and Dairy ",
+		category: "Assorted Fridge",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -35844,21 +35726,21 @@ export const exportsList = [
 		date: "2023-01-07 16:26:09",
 		name: "Juanita Chandler",
 		weight: "-254",
-		category: "Fruit Cup ",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-01-07 16:28:59",
 		name: "Juanita Chandler",
 		weight: "-75",
-		category: "Hand sanitizer XOX",
+		category: "Health & Beauty Products",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-01-07 16:33:42",
 		name: "Juanita Chandler",
 		weight: "-277",
-		category: "Pasta  - condiment ",
+		category: "Assorted Dry",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -35879,14 +35761,14 @@ export const exportsList = [
 		date: "2023-01-10 11:55:31",
 		name: "Claire",
 		weight: "381",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Sandtown"
 	},
 	{
 		date: "2023-01-10 11:55:59",
 		name: "Claire",
 		weight: "432",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pastor Young"
 	},
 	{
@@ -35921,7 +35803,7 @@ export const exportsList = [
 		date: "2023-01-10 11:58:15",
 		name: "Claire",
 		weight: "-253",
-		category: "Fruit cup",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pastor Young"
 	},
 	{
@@ -36012,14 +35894,14 @@ export const exportsList = [
 		date: "2023-01-14 00:00:00",
 		name: "Claire",
 		weight: "1024",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-01-14 00:00:00",
 		name: "Claire",
 		weight: "496",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36068,14 +35950,14 @@ export const exportsList = [
 		date: "2023-01-14 00:00:00",
 		name: "Claire",
 		weight: "1299",
-		category: "Hand sanitizer",
+		category: "Health & Beauty Products",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-01-14 00:00:00",
 		name: "Claire",
 		weight: "-739",
-		category: "Hand sanitizer",
+		category: "Health & Beauty Products",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36096,7 +35978,7 @@ export const exportsList = [
 		date: "2023-01-14 00:00:00",
 		name: "Claire",
 		weight: "-640",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36180,7 +36062,7 @@ export const exportsList = [
 		date: "2023-01-20 16:46:10",
 		name: "Claire",
 		weight: "1058",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
@@ -36194,21 +36076,21 @@ export const exportsList = [
 		date: "2023-01-20 16:47:36",
 		name: "Claire",
 		weight: "1506",
-		category: "Hand Sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-01-20 16:48:08",
 		name: "Claire",
 		weight: "890",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-01-20 16:48:33",
 		name: "Claire",
 		weight: "645",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
@@ -36250,7 +36132,7 @@ export const exportsList = [
 		date: "2023-01-21 15:34:28",
 		name: "Juanita Chandler",
 		weight: "1051",
-		category: "Dole fruit cup",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36292,7 +36174,7 @@ export const exportsList = [
 		date: "2023-01-21 15:43:22",
 		name: "Juanita Chandler",
 		weight: "356",
-		category: "Hand  sanitizer",
+		category: "Health & Beauty Products",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36390,7 +36272,7 @@ export const exportsList = [
 		date: "2023-01-21 16:05:18",
 		name: "Juanita Chandler",
 		weight: "-173",
-		category: "Dole fruit cup",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36404,7 +36286,7 @@ export const exportsList = [
 		date: "2023-01-21 16:15:46",
 		name: "Juanita Chandler",
 		weight: "-129",
-		category: "Hand sanitizers ",
+		category: "Health & Beauty Products",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36460,14 +36342,14 @@ export const exportsList = [
 		date: "2023-01-28 15:58:46",
 		name: "Juanita Chandler",
 		weight: "352",
-		category: "Drinks (Dry)",
+		category: "Drinks [Dry]",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-01-28 16:00:12",
 		name: "Juanita Chandler",
 		weight: "304",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36495,7 +36377,7 @@ export const exportsList = [
 		date: "2023-01-28 16:05:50",
 		name: "Juanita Chandler",
 		weight: "1098",
-		category: "Drinks (Dry)",
+		category: "Drinks [Dry]",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36558,7 +36440,7 @@ export const exportsList = [
 		date: "2023-01-28 00:00:00",
 		name: "Claire",
 		weight: "352",
-		category: "Drinks (Fridge)",
+		category: "Drinks [Fridge]",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36635,21 +36517,21 @@ export const exportsList = [
 		date: "2023-02-02 17:57:44",
 		name: "Aziza",
 		weight: "1112",
-		category: "Fruit cups ",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
 		date: "2023-02-02 17:58:02",
 		name: "Aziza",
 		weight: "1090",
-		category: "Fruit cups ",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
 		date: "2023-02-02 17:58:27",
 		name: "Aziza",
 		weight: "1102",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
@@ -36670,14 +36552,14 @@ export const exportsList = [
 		date: "2023-02-03 00:00:00",
 		name: "Claire",
 		weight: "25817.20",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-02-03 00:00:00",
 		name: "Claire",
 		weight: "36403.53",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
@@ -36698,7 +36580,7 @@ export const exportsList = [
 		date: "2023-02-04 16:02:13",
 		name: "Juanita Chandler",
 		weight: "1108",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36747,7 +36629,7 @@ export const exportsList = [
 		date: "2023-02-04 16:12:51",
 		name: "Juanita Chandler",
 		weight: "181",
-		category: "Dog pillow",
+		category: "Pet Supplies",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36775,7 +36657,7 @@ export const exportsList = [
 		date: "2023-02-04 16:20:39",
 		name: "Juanita Chandler",
 		weight: "-97",
-		category: "Dog pillow",
+		category: "Pet Supplies",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -36838,7 +36720,7 @@ export const exportsList = [
 		date: "2023-02-12 14:47:36",
 		name: "Zoe",
 		weight: "75",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Shelter"
 	},
 	{
@@ -36873,7 +36755,7 @@ export const exportsList = [
 		date: "2023-02-16 15:59:18",
 		name: "Jean",
 		weight: "1071",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pastor Young"
 	},
 	{
@@ -36894,7 +36776,7 @@ export const exportsList = [
 		date: "2023-02-16 16:04:17",
 		name: "Jean",
 		weight: "1087",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "David rec and park"
 	},
 	{
@@ -36908,7 +36790,7 @@ export const exportsList = [
 		date: "2023-02-17 13:30:15",
 		name: "Xiomara Rodriguez",
 		weight: "1251",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greenmount West"
 	},
 	{
@@ -36936,21 +36818,21 @@ export const exportsList = [
 		date: "2023-02-17 13:48:55",
 		name: "Xiomara Rodriguez",
 		weight: "912",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
 		date: "2023-02-17 13:50:20",
 		name: "Xiomara Rodriguez",
 		weight: "1289",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
 		date: "2023-02-17 13:50:51",
 		name: "Xiomara Rodriguez",
 		weight: "1082",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
@@ -36964,21 +36846,21 @@ export const exportsList = [
 		date: "2023-02-17 13:52:45",
 		name: "Xiomara Rodriguez",
 		weight: "1107",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Middle Branch Fitness and Wellness Center "
 	},
 	{
 		date: "2023-02-17 13:54:34",
 		name: "Xiomara Rodriguez",
 		weight: "1088",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Middle Branch Fitness and Wellness Center "
 	},
 	{
 		date: "2023-02-17 13:58:26",
 		name: "Xiomara Rodriguez",
 		weight: "1262",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Middle Branch Fitness and Wellness Center "
 	},
 	{
@@ -37062,14 +36944,14 @@ export const exportsList = [
 		date: "2023-02-18 12:54:37",
 		name: "JC",
 		weight: "1895",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-02-18 13:28:22",
 		name: "Juanita Chandler",
 		weight: "1053",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -37097,7 +36979,7 @@ export const exportsList = [
 		date: "2023-02-18 00:00:00",
 		name: "Claire",
 		weight: "-1042",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -37146,7 +37028,7 @@ export const exportsList = [
 		date: "2023-02-19 15:18:01",
 		name: "Lynnette Cromer",
 		weight: "35",
-		category: "Fruit up",
+		category: "Dole - Fruit Cups",
 		donatedTo: "West wednesday"
 	},
 	{
@@ -37160,56 +37042,56 @@ export const exportsList = [
 		date: "2023-02-22 14:14:22",
 		name: "Other",
 		weight: "760",
-		category: "Dole fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Abbottston Elementary School"
 	},
 	{
 		date: "2023-02-22 15:33:07",
 		name: "Juanita Chandler",
 		weight: "1312",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-02-22 15:34:11",
 		name: "Juanita Chandler",
 		weight: "1317",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-02-22 15:35:05",
 		name: "Juanita Chandler",
 		weight: "1288",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-02-22 15:36:08",
 		name: "Juanita Chandler",
 		weight: "1087",
-		category: "Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-02-23 13:23:13",
 		name: "Claire",
 		weight: "575",
-		category: "Dairy yogurt",
+		category: "Dairy",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-02-23 13:23:30",
 		name: "Claire",
 		weight: "592",
-		category: "Dairy yogurt",
+		category: "Dairy",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-02-23 13:36:00",
 		name: "Norma Kriger",
 		weight: "1404",
-		category: "Dairy yogurt",
+		category: "Dairy",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -37223,105 +37105,105 @@ export const exportsList = [
 		date: "2023-02-23 13:55:13",
 		name: "Norma Kriger",
 		weight: "1301",
-		category: "Dole fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Worship center"
 	},
 	{
 		date: "2023-02-23 13:56:22",
 		name: "Norma Kriger",
 		weight: "1079",
-		category: "Dole fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Worship center"
 	},
 	{
 		date: "2023-02-23 14:14:07",
 		name: "Norma Kriger",
 		weight: "1282",
-		category: "Dole fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Holabird Academy"
 	},
 	{
 		date: "2023-02-23 14:16:26",
 		name: "Norma Kriger",
 		weight: "1088",
-		category: "Dole fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Holabird Academy"
 	},
 	{
 		date: "2023-02-23 00:00:00",
 		name: "Safire Windley",
 		weight: "1159",
-		category: "Dole Fruit Cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Columbia Community Care"
 	},
 	{
 		date: "2023-02-23 19:51:36",
 		name: "Lynnette Cromer",
 		weight: "37",
-		category: "Dole fruit cup",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Church Temple od Pray prapraise se"
 	},
 	{
 		date: "2023-02-24 13:23:43",
 		name: "Juanita Chandler",
 		weight: "1066",
-		category: "Dole Fruit CUP",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greenmount West"
 	},
 	{
 		date: "2023-02-24 13:30:19",
 		name: "Juanita Chandler",
 		weight: "1061",
-		category: "Dole Fruit Cup",
+		category: "Dole - Fruit Cups",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
 		date: "2023-02-24 13:41:59",
 		name: "Nina Early",
 		weight: "295",
-		category: "Dole fruit Cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Love&Cornbread "
 	},
 	{
 		date: "2023-02-24 13:59:07",
 		name: "Juanita Chandler",
 		weight: "723",
-		category: "Dole Fruit Cup",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greenmount West"
 	},
 	{
 		date: "2023-02-24 14:00:59",
 		name: "Juanita Chandler",
 		weight: "667",
-		category: "Dannon yogart- Coffee",
+		category: "Danone - Coffee",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
 		date: "2023-02-24 14:02:54",
 		name: "Juanita Chandler",
 		weight: "1045",
-		category: "Dole Fruit Cup",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Webster Kendrick"
 	},
 	{
 		date: "2023-02-24 14:05:49",
 		name: "Juanita Chandler",
 		weight: "1251",
-		category: "Dole Fruit Cup",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Webster Kendrick"
 	},
 	{
 		date: "2023-02-24 14:07:37",
 		name: "Juanita Chandler",
 		weight: "1256",
-		category: "Dole Fruit Cup",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Webster Kendrick"
 	},
 	{
 		date: "2023-02-24 14:11:47",
 		name: "Juanita Chandler",
 		weight: "312",
-		category: "Produce and Yogart",
+		category: "Produce",
 		donatedTo: "Webster kendrick"
 	},
 	{
@@ -37342,14 +37224,14 @@ export const exportsList = [
 		date: "2023-02-25 12:37:15",
 		name: "Juanita Chandler",
 		weight: "1867",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-02-25 12:38:25",
 		name: "Juanita Chandler",
 		weight: "14",
-		category: "COVID TEST",
+		category: "Health & Beauty Products",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -37363,14 +37245,14 @@ export const exportsList = [
 		date: "2023-02-25 13:24:39",
 		name: "Juanita Chandler",
 		weight: "132",
-		category: "Light Bulb",
+		category: "Household",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-02-25 13:26:10",
 		name: "Juanita Chandler",
 		weight: "1595",
-		category: "Dairy half&half",
+		category: "Dairy",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -37398,7 +37280,7 @@ export const exportsList = [
 		date: "2023-02-25 15:33:22",
 		name: "Juanita Chandler",
 		weight: "-9",
-		category: "Light Bulb",
+		category: "Household",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -37447,7 +37329,7 @@ export const exportsList = [
 		date: "2023-02-25 15:47:25",
 		name: "Juanita Chandler",
 		weight: "-1417",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -37461,14 +37343,14 @@ export const exportsList = [
 		date: "2023-02-26 12:32:03",
 		name: "Juanita Chandler",
 		weight: "1066",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pastor Young"
 	},
 	{
 		date: "2023-02-26 12:34:24",
 		name: "Juanita Chandler",
 		weight: "1259",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pastor Young"
 	},
 	{
@@ -37496,7 +37378,7 @@ export const exportsList = [
 		date: "2023-02-26 13:53:41",
 		name: "Susan May",
 		weight: "273",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Love & Cornbread"
 	},
 	{
@@ -37510,105 +37392,105 @@ export const exportsList = [
 		date: "2023-02-28 13:26:15",
 		name: "Beverly Pinn",
 		weight: "1204",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-02-28 13:26:52",
 		name: "Beverly Pinn",
 		weight: "1106",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-02-28 13:27:53",
 		name: "Beverly Pinn",
 		weight: "1063",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-02-28 00:00:00",
 		name: "Claire",
 		weight: "1057",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-02-28 13:28:53",
 		name: "Beverly Pinn",
 		weight: "1112",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-02-28 13:29:30",
 		name: "Beverly Pinn",
 		weight: "1083",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-02-28 13:30:14",
 		name: "Beverly Pinn",
 		weight: "1089",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-02-28 13:30:46",
 		name: "Beverly Pinn",
 		weight: "1269",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-03-01 13:18:23",
 		name: "Tishea Lester",
 		weight: "485",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Park Heights Academy "
 	},
 	{
 		date: "2023-03-01 13:34:11",
 		name: "Charmika Burton",
 		weight: "627",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Fort Worthington Elementary Middle School "
 	},
 	{
 		date: "2023-03-01 13:37:12",
 		name: "Elizabeth Rehn",
 		weight: "1090",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Access Art Morrell Park"
 	},
 	{
 		date: "2023-03-01 14:02:13",
 		name: "Juanita Chandler",
 		weight: "1111",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-03-01 14:03:04",
 		name: "Juanita Chandler",
 		weight: "1101",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-03-01 14:03:54",
 		name: "Juanita Chandler",
 		weight: "1091",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-03-01 14:05:07",
 		name: "Juanita Chandler",
 		weight: "1065",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -37622,28 +37504,28 @@ export const exportsList = [
 		date: "2023-03-01 14:10:20",
 		name: "Juanita Chandler",
 		weight: "1069",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pastor Keith Bailey"
 	},
 	{
 		date: "2023-03-01 14:13:33",
 		name: "Juanita Chandler",
 		weight: "871",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Nate Tatum community ctr."
 	},
 	{
 		date: "2023-03-01 14:14:49",
 		name: "Juanita Chandler",
 		weight: "1446",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Tomorrow Promise"
 	},
 	{
 		date: "2023-03-01 14:15:24",
 		name: "Juanita Chandler",
 		weight: "530",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -37671,7 +37553,7 @@ export const exportsList = [
 		date: "2023-03-02 19:47:05",
 		name: "Norma Kriger",
 		weight: "1102",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Nkenge"
 	},
 	{
@@ -37713,63 +37595,63 @@ export const exportsList = [
 		date: "2023-03-03 13:12:34",
 		name: "Phillip Blackwell",
 		weight: "1298",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Middle Branch Fitness and Wellness Center "
 	},
 	{
 		date: "2023-03-03 13:14:15",
 		name: "Phillip Blackwell",
 		weight: "11",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Middle Branch Fitness and Wellness Center "
 	},
 	{
 		date: "2023-03-03 13:49:42",
 		name: "Juanita Chandler",
 		weight: "1238",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Md Food Bank"
 	},
 	{
 		date: "2023-03-03 13:51:39",
 		name: "Juanita Chandler",
 		weight: "373",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "MD Food Bank"
 	},
 	{
 		date: "2023-03-03 13:53:53",
 		name: "Juanita Chandler",
 		weight: "1271",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Md Food Bank"
 	},
 	{
 		date: "2023-03-03 13:55:06",
 		name: "Juanita Chandler",
 		weight: "1253",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Md Food Bank"
 	},
 	{
 		date: "2023-03-03 13:57:59",
 		name: "Juanita Chandler",
 		weight: "1163",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "MD food Bank"
 	},
 	{
 		date: "2023-03-03 14:08:45",
 		name: "Juanita Chandler",
 		weight: "1272",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Md Food Bank"
 	},
 	{
 		date: "2023-03-03 14:15:36",
 		name: "Juanita Chandler",
 		weight: "1768",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Md Food Bank"
 	},
 	{
@@ -37783,28 +37665,28 @@ export const exportsList = [
 		date: "2023-03-03 14:22:11",
 		name: "Juanita Chandler",
 		weight: "1253",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Md Food Bank"
 	},
 	{
 		date: "2023-03-03 14:23:39",
 		name: "Juanita Chandler",
 		weight: "1949",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Md foodBank"
 	},
 	{
 		date: "2023-03-03 14:24:37",
 		name: "Juanita Chandler",
 		weight: "1251",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Md Food Bank"
 	},
 	{
 		date: "2023-03-04 11:54:00",
 		name: "Beverly Pinn",
 		weight: "1175",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -37818,7 +37700,7 @@ export const exportsList = [
 		date: "2023-03-04 12:17:12",
 		name: "Beverly Pinn",
 		weight: "1093",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -37895,7 +37777,7 @@ export const exportsList = [
 		date: "2023-03-04 13:44:42",
 		name: "Beverly Pinn",
 		weight: "1175",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -37909,14 +37791,14 @@ export const exportsList = [
 		date: "2023-03-04 13:46:21",
 		name: "Beverly Pinn",
 		weight: "1065",
-		category: "Honey",
+		category: "Condiments",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-03-04 13:46:48",
 		name: "Beverly Pinn",
 		weight: "519",
-		category: "Produce ",
+		category: "Produce",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -37979,7 +37861,7 @@ export const exportsList = [
 		date: "2023-03-04 16:01:37",
 		name: "Juanita Chandler",
 		weight: "-880",
-		category: "Honey",
+		category: "Condiments",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -38021,35 +37903,35 @@ export const exportsList = [
 		date: "2023-03-05 23:32:45",
 		name: "Juanita Chandler",
 		weight: "16",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Cavla tilchin"
 	},
 	{
 		date: "2023-03-08 13:02:25",
 		name: "Juanita Chandler",
 		weight: "1098",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-03-08 13:03:07",
 		name: "Juanita Chandler",
 		weight: "1212",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-03-08 13:03:52",
 		name: "Juanita Chandler",
 		weight: "1272",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-03-08 13:15:32",
 		name: "Juanita Chandler",
 		weight: "411",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCPSS"
 	},
 	{
@@ -38098,21 +37980,21 @@ export const exportsList = [
 		date: "2023-03-08 00:00:00",
 		name: "Safire Windley",
 		weight: "1293",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
 		date: "2023-03-08 00:00:00",
 		name: "Safire Windley",
 		weight: "1050",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
 		date: "2023-03-09 13:23:51",
 		name: "Norma Kriger",
 		weight: "1084",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCPSS"
 	},
 	{
@@ -38140,28 +38022,28 @@ export const exportsList = [
 		date: "2023-03-09 14:42:13",
 		name: "Norma Kriger",
 		weight: "1014",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
 		date: "2023-03-09 14:43:16",
 		name: "Norma Kriger",
 		weight: "1100",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
 		date: "2023-03-09 14:53:04",
 		name: "Norma Kriger",
 		weight: "612",
-		category: "Mixed dry",
+		category: "Assorted Dry",
 		donatedTo: "Morgan State University"
 	},
 	{
 		date: "2023-03-09 14:56:42",
 		name: "Norma Kriger",
 		weight: "1069",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morgan State University"
 	},
 	{
@@ -38189,7 +38071,7 @@ export const exportsList = [
 		date: "2023-03-10 00:00:00",
 		name: "Claire",
 		weight: "499",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Access Art Morrell Park"
 	},
 	{
@@ -38210,7 +38092,7 @@ export const exportsList = [
 		date: "2023-03-10 14:10:50",
 		name: "Juanita Chandler",
 		weight: "146",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Arc of Balt."
 	},
 	{
@@ -38224,7 +38106,7 @@ export const exportsList = [
 		date: "2023-03-10 14:17:42",
 		name: "Juanita Chandler",
 		weight: "499",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morrell park Elem School"
 	},
 	{
@@ -38245,14 +38127,14 @@ export const exportsList = [
 		date: "2023-03-10 15:10:38",
 		name: "Juanita Chandler",
 		weight: "1189",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mt calvary Baptist church. Roxane Prettyman"
 	},
 	{
 		date: "2023-03-10 15:13:42",
 		name: "Juanita Chandler",
 		weight: "1294",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Balto. Rec Parks. Mr Carl Hicks "
 	},
 	{
@@ -38287,14 +38169,14 @@ export const exportsList = [
 		date: "2023-03-11 12:07:38",
 		name: "Beverly Pinn",
 		weight: "1067",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Coach"
 	},
 	{
 		date: "2023-03-11 12:08:57",
 		name: "Beverly Pinn",
 		weight: "962",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Coach"
 	},
 	{
@@ -38350,7 +38232,7 @@ export const exportsList = [
 		date: "2023-03-11 12:50:25",
 		name: "Beverly Pinn",
 		weight: "1281",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -38441,7 +38323,7 @@ export const exportsList = [
 		date: "2023-03-11 15:48:22",
 		name: "Juanita Chandler",
 		weight: "1271",
-		category: "Bread",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -38455,7 +38337,7 @@ export const exportsList = [
 		date: "2023-03-11 15:51:13",
 		name: "Juanita Chandler",
 		weight: "-713",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -38511,14 +38393,14 @@ export const exportsList = [
 		date: "2023-03-12 13:10:11",
 		name: "Juanita Chandler",
 		weight: "140",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Angle Shelter"
 	},
 	{
 		date: "2023-03-12 13:40:21",
 		name: "Phillip Blackwell",
 		weight: "997",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Middle Branch Fitness and Wellness Center "
 	},
 	{
@@ -38539,7 +38421,7 @@ export const exportsList = [
 		date: "2023-03-12 14:26:00",
 		name: "Juanita Chandler",
 		weight: "120",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Angle shelter"
 	},
 	{
@@ -38560,14 +38442,14 @@ export const exportsList = [
 		date: "2023-03-15 13:52:56",
 		name: "Juanita Chandler",
 		weight: "1254",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Manor Bible community outreac"
 	},
 	{
 		date: "2023-03-15 14:22:50",
 		name: "Juanita Chandler",
 		weight: "1629",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Manor bible community outreach center"
 	},
 	{
@@ -38581,14 +38463,14 @@ export const exportsList = [
 		date: "2023-03-15 15:05:25",
 		name: "Juanita Chandler",
 		weight: "1608",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-03-15 15:10:09",
 		name: "Juanita Chandler",
 		weight: "1153",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -38616,21 +38498,21 @@ export const exportsList = [
 		date: "2023-03-15 15:23:25",
 		name: "Juanita Chandler",
 		weight: "1432",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "REV Bailey"
 	},
 	{
 		date: "2023-03-15 15:25:31",
 		name: "Juanita Chandler",
 		weight: "1493",
-		category: "Hand sanitizer",
+		category: "Health & Beauty Products",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-03-15 15:29:17",
 		name: "Juanita Chandler",
 		weight: "1447",
-		category: "Hand Sanitizer",
+		category: "Health & Beauty Products",
 		donatedTo: "Rev Bailey"
 	},
 	{
@@ -38644,7 +38526,7 @@ export const exportsList = [
 		date: "2023-03-15 15:41:58",
 		name: "Juanita Chandler",
 		weight: "1438",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Rev Bailey"
 	},
 	{
@@ -38665,7 +38547,7 @@ export const exportsList = [
 		date: "2023-03-16 15:33:40",
 		name: "Norma Kriger",
 		weight: "1049",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Catherine family"
 	},
 	{
@@ -38693,7 +38575,7 @@ export const exportsList = [
 		date: "2023-03-17 00:00:00",
 		name: "Safire Windley",
 		weight: "664",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greenmount West (GBMC)"
 	},
 	{
@@ -38721,7 +38603,7 @@ export const exportsList = [
 		date: "2023-03-17 15:23:23",
 		name: "Juanita Chandler",
 		weight: "1138",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
@@ -38756,14 +38638,14 @@ export const exportsList = [
 		date: "2023-03-18 11:55:43",
 		name: "Beverly Pinn",
 		weight: "1418",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
 		date: "2023-03-18 12:46:06",
 		name: "Juanita Chandler",
 		weight: "1049",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -38819,7 +38701,7 @@ export const exportsList = [
 		date: "2023-03-18 13:36:24",
 		name: "Juanita Chandler",
 		weight: "150",
-		category: "Beans",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -38847,7 +38729,7 @@ export const exportsList = [
 		date: "2023-03-18 00:00:00",
 		name: "Safire Windley",
 		weight: "1475",
-		category: "Creamer ",
+		category: "Danone - Creamer",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -38861,7 +38743,7 @@ export const exportsList = [
 		date: "2023-03-18 15:45:25",
 		name: "Juanita Chandler",
 		weight: "-1091",
-		category: "F Fries",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -38896,14 +38778,14 @@ export const exportsList = [
 		date: "2023-03-18 15:55:53",
 		name: "Juanita Chandler",
 		weight: "-369",
-		category: "Snacks -noodle",
+		category: "Snacks",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-03-18 15:57:52",
 		name: "Juanita Chandler",
 		weight: "-149",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -38924,7 +38806,7 @@ export const exportsList = [
 		date: "2023-03-19 13:30:11",
 		name: "Juanita Chandler",
 		weight: "671",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Middle branch fitness"
 	},
 	{
@@ -38959,28 +38841,28 @@ export const exportsList = [
 		date: "2023-03-22 00:00:00",
 		name: "Safire Windley",
 		weight: "1120",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Excel Acad."
 	},
 	{
 		date: "2023-03-22 13:15:29",
 		name: "Elizabeth Rehn",
 		weight: "1250",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Access Art Morrell Park School"
 	},
 	{
 		date: "2023-03-22 13:17:02",
 		name: "Juanita Chandler",
 		weight: "1258",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morrell park Elem. School"
 	},
 	{
 		date: "2023-03-22 13:20:15",
 		name: "Juanita Chandler",
 		weight: "984",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Rev Keith Bailey"
 	},
 	{
@@ -39001,7 +38883,7 @@ export const exportsList = [
 		date: "2023-03-22 13:45:30",
 		name: "Juanita Chandler",
 		weight: "973",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -39015,7 +38897,7 @@ export const exportsList = [
 		date: "2023-03-22 13:51:01",
 		name: "Juanita Chandler",
 		weight: "1120",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Excel Acad."
 	},
 	{
@@ -39050,7 +38932,7 @@ export const exportsList = [
 		date: "2023-03-23 00:00:00",
 		name: "Claire",
 		weight: "1082",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Urban Strategies Healthfair"
 	},
 	{
@@ -39106,7 +38988,7 @@ export const exportsList = [
 		date: "2023-03-25 12:32:14",
 		name: "Jasmine Rose",
 		weight: "1082",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -39295,7 +39177,7 @@ export const exportsList = [
 		date: "2023-03-26 13:07:08",
 		name: "Juanita Chandler",
 		weight: "212",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pastor Young"
 	},
 	{
@@ -39323,14 +39205,14 @@ export const exportsList = [
 		date: "2023-03-26 00:00:00",
 		name: "Safire Windley",
 		weight: "61",
-		category: "Assorted",
+		category: "Assorted Dry",
 		donatedTo: "Keil"
 	},
 	{
 		date: "2023-03-26 00:00:00",
 		name: "Safire Windley",
 		weight: "32",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Angel Honse"
 	},
 	{
@@ -39344,14 +39226,14 @@ export const exportsList = [
 		date: "2023-03-28 16:48:05",
 		name: "Beverly Pinn",
 		weight: "150",
-		category: "Assorted ",
+		category: "Assorted Dry",
 		donatedTo: "Vince Faulk"
 	},
 	{
 		date: "2023-03-29 14:14:42",
 		name: "Juanita Chandler",
 		weight: "1141",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morrell pk Elem. and Middle schho"
 	},
 	{
@@ -39386,21 +39268,21 @@ export const exportsList = [
 		date: "2023-03-29 14:30:19",
 		name: "Juanita Chandler",
 		weight: "918",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-03-29 14:32:15",
 		name: "Juanita Chandler",
 		weight: "1072",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-03-29 14:33:46",
 		name: "Juanita Chandler",
 		weight: "1057",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Keith Bailey"
 	},
 	{
@@ -39414,7 +39296,7 @@ export const exportsList = [
 		date: "2023-03-29 14:40:27",
 		name: "Juanita Chandler",
 		weight: "1466",
-		category: "Hand saintizer",
+		category: "Health & Beauty Products",
 		donatedTo: "Keith Bailey"
 	},
 	{
@@ -39484,21 +39366,21 @@ export const exportsList = [
 		date: "2023-04-01 12:23:14",
 		name: "Juanita Chandler",
 		weight: "392",
-		category: "Bread",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-01 12:29:50",
 		name: "Juanita Chandler",
 		weight: "1850",
-		category: "French Frieds",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-01 12:30:56",
 		name: "Juanita Chandler",
 		weight: "1189",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -39526,7 +39408,7 @@ export const exportsList = [
 		date: "2023-04-01 13:21:34",
 		name: "Juanita Chandler",
 		weight: "804",
-		category: "Cookie dough",
+		category: "Snacks",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -39540,7 +39422,7 @@ export const exportsList = [
 		date: "2023-04-01 13:24:30",
 		name: "Juanita Chandler",
 		weight: "1171",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -39554,7 +39436,7 @@ export const exportsList = [
 		date: "2023-04-01 13:35:24",
 		name: "Juanita Chandler",
 		weight: "113",
-		category: "XOX",
+		category: "Other",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -39582,7 +39464,7 @@ export const exportsList = [
 		date: "2023-04-01 13:51:45",
 		name: "Juanita Chandler",
 		weight: "1849",
-		category: "French Fried",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -39624,14 +39506,14 @@ export const exportsList = [
 		date: "2023-04-01 15:11:13",
 		name: "Beverly Pinn",
 		weight: "333",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-04-01 15:38:39",
 		name: "Juanita Chandler",
 		weight: "-331",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -39652,7 +39534,7 @@ export const exportsList = [
 		date: "2023-04-01 15:49:47",
 		name: "Juanita Chandler",
 		weight: "-1428",
-		category: "French frieds",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -39680,7 +39562,7 @@ export const exportsList = [
 		date: "2023-04-02 13:11:57",
 		name: "Phillip Blackwell",
 		weight: "1523",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Middle Fitness and Wellness Center "
 	},
 	{
@@ -39694,7 +39576,7 @@ export const exportsList = [
 		date: "2023-04-02 15:09:33",
 		name: "Juanita Chandler",
 		weight: "151",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Oblate Sister"
 	},
 	{
@@ -39708,14 +39590,14 @@ export const exportsList = [
 		date: "2023-04-02 15:11:07",
 		name: "Juanita Chandler",
 		weight: "90",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Angle shelter"
 	},
 	{
 		date: "2023-04-05 13:08:45",
 		name: "Juanita Chandler",
 		weight: "1067",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morrell park Elem/Middle school"
 	},
 	{
@@ -39736,7 +39618,7 @@ export const exportsList = [
 		date: "2023-04-05 15:21:51",
 		name: "Juanita Chandler",
 		weight: "1174",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -39757,7 +39639,7 @@ export const exportsList = [
 		date: "2023-04-05 15:28:47",
 		name: "Juanita Chandler",
 		weight: "1192",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -39792,21 +39674,21 @@ export const exportsList = [
 		date: "2023-04-06 00:00:00",
 		name: "Safire Windley",
 		weight: "1184",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-06 00:00:00",
 		name: "Safire Windley",
 		weight: "1194",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-06 14:37:19",
 		name: "Norma Kriger",
 		weight: "856",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -39834,14 +39716,14 @@ export const exportsList = [
 		date: "2023-04-07 13:39:30",
 		name: "Juanita Chandler",
 		weight: "230",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Lynn"
 	},
 	{
 		date: "2023-04-07 13:41:18",
 		name: "Juanita Chandler",
 		weight: "128",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Lynn"
 	},
 	{
@@ -39904,14 +39786,14 @@ export const exportsList = [
 		date: "2023-04-08 13:04:18",
 		name: "Juanita Chandler",
 		weight: "943",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-08 13:10:37",
 		name: "Juanita Chandler",
 		weight: "1895",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -39925,14 +39807,14 @@ export const exportsList = [
 		date: "2023-04-08 13:17:15",
 		name: "Juanita Chandler",
 		weight: "1189",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-08 13:18:21",
 		name: "Juanita Chandler",
 		weight: "1192",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -39946,14 +39828,14 @@ export const exportsList = [
 		date: "2023-04-08 13:20:42",
 		name: "Juanita Chandler",
 		weight: "1164",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-04-08 13:22:15",
 		name: "Juanita Chandler",
 		weight: "1920",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -40072,7 +39954,7 @@ export const exportsList = [
 		date: "2023-04-08 17:22:01",
 		name: "Juanita Chandler",
 		weight: "-1663",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -40093,7 +39975,7 @@ export const exportsList = [
 		date: "2023-04-09 15:17:05",
 		name: "JC",
 		weight: "1175",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro "
 	},
 	{
@@ -40114,14 +39996,14 @@ export const exportsList = [
 		date: "2023-04-09 15:19:12",
 		name: "JC",
 		weight: "1152",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-09 15:19:45",
 		name: "JC",
 		weight: "1066",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -40142,7 +40024,7 @@ export const exportsList = [
 		date: "2023-04-11 16:29:28",
 		name: "Beverly Pinn",
 		weight: "1920",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pastor Young"
 	},
 	{
@@ -40170,35 +40052,35 @@ export const exportsList = [
 		date: "2023-04-12 13:18:42",
 		name: "Juanita Chandler",
 		weight: "1254",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Roxanne"
 	},
 	{
 		date: "2023-04-12 13:19:49",
 		name: "Juanita Chandler",
 		weight: "1692",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Roxanne"
 	},
 	{
 		date: "2023-04-12 13:26:35",
 		name: "Juanita Chandler",
 		weight: "1090",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-04-12 13:27:12",
 		name: "Juanita Chandler",
 		weight: "1220",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-04-12 13:28:17",
 		name: "Juanita Chandler",
 		weight: "1932",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -40233,28 +40115,28 @@ export const exportsList = [
 		date: "2023-04-12 13:49:48",
 		name: "Juanita Chandler",
 		weight: "322",
-		category: "French fried",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "Fort Worthington Elementary Middle School "
 	},
 	{
 		date: "2023-04-12 14:20:37",
 		name: "Juanita Chandler",
 		weight: "1845",
-		category: "French fried",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-04-12 14:39:36",
 		name: "Juanita Chandler",
 		weight: "-1845",
-		category: "French fried",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-04-12 14:41:06",
 		name: "Juanita Chandler",
 		weight: "1084",
-		category: "Mix dairy frozen dry",
+		category: "Assorted Fridge",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -40275,35 +40157,35 @@ export const exportsList = [
 		date: "2023-04-13 14:01:18",
 		name: "Norma Kriger",
 		weight: "1185",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-13 14:12:36",
 		name: "Norma Kriger",
 		weight: "1145",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-13 14:24:43",
 		name: "Norma Kriger",
 		weight: "562",
-		category: "Emd",
+		category: "Other",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-13 14:29:32",
 		name: "Norma Kriger",
 		weight: "2221",
-		category: "EMD Plus snacks",
+		category: "Other",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-13 14:45:47",
 		name: "Norma Kriger",
 		weight: "1147",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
@@ -40324,7 +40206,7 @@ export const exportsList = [
 		date: "2023-04-14 13:44:02",
 		name: "Juanita Chandler",
 		weight: "67",
-		category: "French Fried",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "Mt Calavary Church"
 	},
 	{
@@ -40338,21 +40220,21 @@ export const exportsList = [
 		date: "2023-04-14 13:46:33",
 		name: "Juanita Chandler",
 		weight: "1182",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-04-14 13:47:25",
 		name: "Juanita Chandler",
 		weight: "1178",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-04-14 14:20:52",
 		name: "Juanita Chandler",
 		weight: "114",
-		category: "Assorted Dry and Meats",
+		category: "Assorted Dry",
 		donatedTo: "Love & Cornbread"
 	},
 	{
@@ -40373,14 +40255,14 @@ export const exportsList = [
 		date: "2023-04-14 14:43:47",
 		name: "Juanita Chandler",
 		weight: "1197",
-		category: "Assorted mix and. dry",
+		category: "Assorted Dry",
 		donatedTo: "Greenmount West"
 	},
 	{
 		date: "2023-04-14 14:45:19",
 		name: "Juanita Chandler",
 		weight: "1202",
-		category: "Assorted mix and dry",
+		category: "Assorted Dry",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -40394,7 +40276,7 @@ export const exportsList = [
 		date: "2023-04-14 14:47:48",
 		name: "Juanita Chandler",
 		weight: "1902",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -40415,7 +40297,7 @@ export const exportsList = [
 		date: "2023-04-14 16:00:00",
 		name: "Juanita Chandler",
 		weight: "1185",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -40443,21 +40325,21 @@ export const exportsList = [
 		date: "2023-04-14 16:46:49",
 		name: "Juanita Chandler",
 		weight: "2030",
-		category: "Silk creamer",
+		category: "Dairy",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-15 12:10:03",
 		name: "Beverly Pinn",
 		weight: "1014",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-15 12:20:37",
 		name: "Beverly Pinn",
 		weight: "1639",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -40492,7 +40374,7 @@ export const exportsList = [
 		date: "2023-04-15 12:34:50",
 		name: "Beverly Pinn",
 		weight: "953",
-		category: "Coffee",
+		category: "Danone - Coffee",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -40506,7 +40388,7 @@ export const exportsList = [
 		date: "2023-04-15 12:47:02",
 		name: "Beverly Pinn",
 		weight: "1456",
-		category: "Tortilla breads",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -40555,7 +40437,7 @@ export const exportsList = [
 		date: "2023-04-15 17:08:05",
 		name: "Juanita Chandler",
 		weight: "-1173",
-		category: "Cheese sauce",
+		category: "Condiments",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -40569,49 +40451,49 @@ export const exportsList = [
 		date: "2023-04-17 12:30:14",
 		name: "JC",
 		weight: "223",
-		category: "EMD",
+		category: "Other",
 		donatedTo: "Coppin State"
 	},
 	{
 		date: "2023-04-17 12:31:04",
 		name: "JC",
 		weight: "322",
-		category: "EMD",
+		category: "Other",
 		donatedTo: "Coppin State"
 	},
 	{
 		date: "2023-04-17 12:31:41",
 		name: "JC",
 		weight: "1176",
-		category: "EMD",
+		category: "Other",
 		donatedTo: "Coppin State"
 	},
 	{
 		date: "2023-04-17 12:32:08",
 		name: "JC",
 		weight: "1679",
-		category: "EMD",
+		category: "Other",
 		donatedTo: "Coppin State"
 	},
 	{
 		date: "2023-04-17 12:32:46",
 		name: "JC",
 		weight: "1268",
-		category: "EMD",
+		category: "Other",
 		donatedTo: "Coppin State"
 	},
 	{
 		date: "2023-04-17 12:33:25",
 		name: "JC",
 		weight: "328",
-		category: "Bowery ",
+		category: "Other",
 		donatedTo: "Coppin State"
 	},
 	{
 		date: "2023-04-17 12:33:53",
 		name: "JC",
 		weight: "320",
-		category: "EMD",
+		category: "Other",
 		donatedTo: "Coppin State"
 	},
 	{
@@ -40639,14 +40521,14 @@ export const exportsList = [
 		date: "2023-04-18 14:29:57",
 		name: "Beverly Pinn",
 		weight: "1157",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-18 14:32:32",
 		name: "Beverly Pinn",
 		weight: "1243",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -40681,21 +40563,21 @@ export const exportsList = [
 		date: "2023-04-18 17:20:58",
 		name: "Beverly Pinn",
 		weight: "491",
-		category: "Meat/Produce",
+		category: "Assorted Fridge",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-04-19 12:35:32",
 		name: "Vincent Faulk",
 		weight: "1913",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-04-19 12:38:08",
 		name: "Vincent Faulk",
 		weight: "1182",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -40709,21 +40591,21 @@ export const exportsList = [
 		date: "2023-04-19 12:52:16",
 		name: "Vincent Faulk",
 		weight: "456",
-		category: "Honey",
+		category: "Condiments",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-04-19 14:09:29",
 		name: "Juanita Chandler",
 		weight: "1179",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis"
 	},
 	{
 		date: "2023-04-19 14:10:55",
 		name: "Juanita Chandler",
 		weight: "1185",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Rev Keith Bailey"
 	},
 	{
@@ -40786,21 +40668,21 @@ export const exportsList = [
 		date: "2023-04-20 00:00:00",
 		name: "Claire",
 		weight: "934",
-		category: "Boxes",
+		category: "Other",
 		donatedTo: "GBMC"
 	},
 	{
 		date: "2023-04-20 00:00:00",
 		name: "Claire",
 		weight: "976",
-		category: "Boxes",
+		category: "Other",
 		donatedTo: "GBMC"
 	},
 	{
 		date: "2023-04-20 00:00:00",
 		name: "Claire",
 		weight: "905",
-		category: "Boxes",
+		category: "Other",
 		donatedTo: "GBMC"
 	},
 	{
@@ -40821,21 +40703,21 @@ export const exportsList = [
 		date: "2023-04-21 14:42:45",
 		name: "Juanita Chandler",
 		weight: "206",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-04-21 14:45:52",
 		name: "Juanita Chandler",
 		weight: "1180",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greenmount West"
 	},
 	{
 		date: "2023-04-21 14:46:47",
 		name: "Juanita Chandler",
 		weight: "1194",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -40884,7 +40766,7 @@ export const exportsList = [
 		date: "2023-04-22 12:00:07",
 		name: "Beverly Pinn",
 		weight: "1888",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -40898,7 +40780,7 @@ export const exportsList = [
 		date: "2023-04-22 12:01:34",
 		name: "Beverly Pinn",
 		weight: "1249",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro "
 	},
 	{
@@ -40926,7 +40808,7 @@ export const exportsList = [
 		date: "2023-04-22 12:13:29",
 		name: "Beverly Pinn",
 		weight: "1907",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -40961,14 +40843,14 @@ export const exportsList = [
 		date: "2023-04-22 12:43:58",
 		name: "Beverly Pinn",
 		weight: "947",
-		category: "BCF Boxes",
+		category: "Other",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-04-22 12:46:13",
 		name: "Beverly Pinn",
 		weight: "970",
-		category: "BCF Boxes",
+		category: "Other",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -41045,7 +40927,7 @@ export const exportsList = [
 		date: "2023-04-22 16:12:05",
 		name: "Juanita Chandler",
 		weight: "-522",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -41108,7 +40990,7 @@ export const exportsList = [
 		date: "2023-04-23 13:21:44",
 		name: "Juanita Chandler",
 		weight: "1896",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pastor Young"
 	},
 	{
@@ -41150,14 +41032,14 @@ export const exportsList = [
 		date: "2023-04-25 00:00:00",
 		name: "Claire",
 		weight: "1916",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Rev Keith Bailey"
 	},
 	{
 		date: "2023-04-25 00:00:00",
 		name: "Claire",
 		weight: "1183",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Rev Keith Bailey"
 	},
 	{
@@ -41178,56 +41060,56 @@ export const exportsList = [
 		date: "2023-04-26 14:50:00",
 		name: "Karen Moore",
 		weight: "1180",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Morrell park"
 	},
 	{
 		date: "2023-04-28 14:58:25",
 		name: "Juanita Chandler",
 		weight: "1173",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis GYM"
 	},
 	{
 		date: "2023-04-28 14:59:22",
 		name: "Juanita Chandler",
 		weight: "1164",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis "
 	},
 	{
 		date: "2023-04-28 15:01:51",
 		name: "Juanita Chandler",
 		weight: "1183",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis"
 	},
 	{
 		date: "2023-04-28 15:02:48",
 		name: "Juanita Chandler",
 		weight: "1185",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis"
 	},
 	{
 		date: "2023-04-28 15:03:34",
 		name: "Juanita Chandler",
 		weight: "1120",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis"
 	},
 	{
 		date: "2023-04-28 15:04:29",
 		name: "Juanita Chandler",
 		weight: "580",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis"
 	},
 	{
 		date: "2023-04-28 15:06:21",
 		name: "Juanita Chandler",
 		weight: "314",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Love & Cornbread"
 	},
 	{
@@ -41241,7 +41123,7 @@ export const exportsList = [
 		date: "2023-04-29 00:00:00",
 		name: "Safire Windley",
 		weight: "1961",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Sandtown"
 	},
 	{
@@ -41276,7 +41158,7 @@ export const exportsList = [
 		date: "2023-05-05 00:00:00",
 		name: "Safire Windley",
 		weight: "1172",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Coppin Academy"
 	},
 	{
@@ -41311,14 +41193,14 @@ export const exportsList = [
 		date: "2023-05-07 13:16:46",
 		name: "Vincent Faulk",
 		weight: "1213",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-07 13:18:08",
 		name: "Vincent Faulk",
 		weight: "1297",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -41332,42 +41214,42 @@ export const exportsList = [
 		date: "2023-05-07 00:00:00",
 		name: "Claire",
 		weight: "95",
-		category: "Assorted Mix",
+		category: "Assorted Dry",
 		donatedTo: "Rehab House"
 	},
 	{
 		date: "2023-05-10 14:13:50",
 		name: "Juanita Chandler",
 		weight: "1918",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Rev Bailey"
 	},
 	{
 		date: "2023-05-10 14:14:50",
 		name: "Juanita Chandler",
 		weight: "1926",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-05-10 14:17:03",
 		name: "Juanita Chandler",
 		weight: "1927",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-05-10 14:17:56",
 		name: "Juanita Chandler",
 		weight: "1180",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-05-10 14:19:36",
 		name: "Juanita Chandler",
 		weight: "1820",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Fort Worthington Elementary Middle School "
 	},
 	{
@@ -41388,7 +41270,7 @@ export const exportsList = [
 		date: "2023-05-10 14:23:31",
 		name: "Juanita Chandler",
 		weight: "1172",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Coppin Academy"
 	},
 	{
@@ -41402,7 +41284,7 @@ export const exportsList = [
 		date: "2023-05-10 14:34:47",
 		name: "Juanita Chandler",
 		weight: "782",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pastor Young"
 	},
 	{
@@ -41479,7 +41361,7 @@ export const exportsList = [
 		date: "2023-05-10 14:51:48",
 		name: "Juanita Chandler",
 		weight: "1961",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Sandtown"
 	},
 	{
@@ -41563,14 +41445,14 @@ export const exportsList = [
 		date: "2023-05-11 14:49:20",
 		name: "Vincent Faulk",
 		weight: "1923",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro "
 	},
 	{
 		date: "2023-05-11 14:50:01",
 		name: "Vincent Faulk",
 		weight: "1922",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro "
 	},
 	{
@@ -41598,14 +41480,14 @@ export const exportsList = [
 		date: "2023-05-12 16:11:34",
 		name: "Juanita Chandler",
 		weight: "1926",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greenmount West"
 	},
 	{
 		date: "2023-05-12 16:12:47",
 		name: "Juanita Chandler",
 		weight: "1187",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -41619,7 +41501,7 @@ export const exportsList = [
 		date: "2023-05-12 16:15:07",
 		name: "Juanita Chandler",
 		weight: "118",
-		category: "Assorted Mix",
+		category: "Assorted Dry",
 		donatedTo: "PERRY FAULK"
 	},
 	{
@@ -41668,21 +41550,21 @@ export const exportsList = [
 		date: "2023-05-12 16:58:22",
 		name: "Mary Jo Gary",
 		weight: "1066",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-12 16:58:58",
 		name: "Mary Jo Gary",
 		weight: "1255",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-12 16:59:37",
 		name: "Mary Jo Gary",
 		weight: "1249",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -41738,7 +41620,7 @@ export const exportsList = [
 		date: "2023-05-13 13:38:22",
 		name: "Juanita Chandler",
 		weight: "1675",
-		category: "Beans",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -41752,14 +41634,14 @@ export const exportsList = [
 		date: "2023-05-13 13:40:12",
 		name: "Juanita Chandler",
 		weight: "1221",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-05-13 13:41:16",
 		name: "Juanita Chandler",
 		weight: "1868",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -41773,7 +41655,7 @@ export const exportsList = [
 		date: "2023-05-13 13:42:58",
 		name: "Juanita Chandler",
 		weight: "1107",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "PEDRO"
 	},
 	{
@@ -41822,7 +41704,7 @@ export const exportsList = [
 		date: "2023-05-13 16:36:00",
 		name: "Juanita Chandler",
 		weight: "-1174",
-		category: "Dry Beans",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -41843,7 +41725,7 @@ export const exportsList = [
 		date: "2023-05-13 16:39:00",
 		name: "Juanita Chandler",
 		weight: "415",
-		category: "Vinegar",
+		category: "Spices",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -41857,7 +41739,7 @@ export const exportsList = [
 		date: "2023-05-13 16:41:03",
 		name: "Juanita Chandler",
 		weight: "435",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -41871,28 +41753,28 @@ export const exportsList = [
 		date: "2023-05-13 00:00:00",
 		name: "Claire",
 		weight: "-356",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-05-16 15:31:31",
 		name: "Beverly Pinn",
 		weight: "136",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-16 00:00:00",
 		name: "Safire Windley",
 		weight: "1929",
-		category: "Dole",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-16 15:32:28",
 		name: "Beverly Pinn",
 		weight: "1241",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro "
 	},
 	{
@@ -41906,14 +41788,14 @@ export const exportsList = [
 		date: "2023-05-16 15:34:33",
 		name: "Beverly Pinn",
 		weight: "1071",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-16 15:35:24",
 		name: "Beverly Pinn",
 		weight: "1895",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -41934,7 +41816,7 @@ export const exportsList = [
 		date: "2023-05-17 14:48:33",
 		name: "Juanita Chandler",
 		weight: "1145",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Baltimore City Schools Headquarters "
 	},
 	{
@@ -41948,7 +41830,7 @@ export const exportsList = [
 		date: "2023-05-17 14:50:36",
 		name: "Juanita Chandler",
 		weight: "140",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Balto City Schools Headquarters "
 	},
 	{
@@ -41962,7 +41844,7 @@ export const exportsList = [
 		date: "2023-05-17 14:55:36",
 		name: "Juanita Chandler",
 		weight: "1168",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -41976,63 +41858,63 @@ export const exportsList = [
 		date: "2023-05-17 16:00:21",
 		name: "Juanita Chandler",
 		weight: "29",
-		category: "Mixture neat bread dry sruff",
+		category: "Assorted Dry",
 		donatedTo: "Andrea Harris "
 	},
 	{
 		date: "2023-05-17 17:44:43",
 		name: "Juanita Chandler",
 		weight: "274",
-		category: "Bread",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-05-18 13:14:05",
 		name: "Norma Kriger",
 		weight: "1248",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Boys and Girls club"
 	},
 	{
 		date: "2023-05-18 13:15:54",
 		name: "Norma Kriger",
 		weight: "1167",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Boys and girls club"
 	},
 	{
 		date: "2023-05-18 13:17:38",
 		name: "Norma Kriger",
 		weight: "423",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Boys and girls club"
 	},
 	{
 		date: "2023-05-18 13:18:58",
 		name: "Norma Kriger",
 		weight: "1919",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Boys and girls club"
 	},
 	{
 		date: "2023-05-18 13:19:47",
 		name: "Norma Kriger",
 		weight: "1244",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-05-18 13:24:23",
 		name: "Norma Kriger",
 		weight: "1219",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
 		date: "2023-05-18 13:25:12",
 		name: "Norma Kriger",
 		weight: "1250",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
@@ -42046,7 +41928,7 @@ export const exportsList = [
 		date: "2023-05-18 13:39:32",
 		name: "Norma Kriger",
 		weight: "1916",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "So What Else"
 	},
 	{
@@ -42074,21 +41956,21 @@ export const exportsList = [
 		date: "2023-05-19 13:54:15",
 		name: "Mary Jo Gary",
 		weight: "688",
-		category: "Assorted dry & produce",
+		category: "Assorted Dry",
 		donatedTo: "Greenmount West"
 	},
 	{
 		date: "2023-05-19 13:57:26",
 		name: "Juanita Chandler",
 		weight: "153",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-05-19 13:58:48",
 		name: "Juanita Chandler",
 		weight: "276",
-		category: "Assorted fridge Dole",
+		category: "Assorted Fridge",
 		donatedTo: "Love & Cornbread"
 	},
 	{
@@ -42102,28 +41984,28 @@ export const exportsList = [
 		date: "2023-05-19 14:39:25",
 		name: "Juanita Chandler",
 		weight: "720",
-		category: "Assorted products and dry",
+		category: "Assorted Dry",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
 		date: "2023-05-19 14:39:58",
 		name: "Juanita Chandler",
 		weight: "1934",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
 		date: "2023-05-19 14:44:57",
 		name: "Juanita Chandler",
 		weight: "1929",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greenmount West"
 	},
 	{
 		date: "2023-05-20 11:54:27",
 		name: "Beverly Pinn",
 		weight: "1350",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -42144,7 +42026,7 @@ export const exportsList = [
 		date: "2023-05-20 12:36:24",
 		name: "Beverly Pinn",
 		weight: "1689",
-		category: "Horizon Milk",
+		category: "Dairy",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -42228,7 +42110,7 @@ export const exportsList = [
 		date: "2023-05-20 16:16:56",
 		name: "Juanita Chandler",
 		weight: "-736",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -42333,14 +42215,14 @@ export const exportsList = [
 		date: "2023-05-21 15:52:45",
 		name: "Juanita Chandler",
 		weight: "1254",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "PEDRO "
 	},
 	{
 		date: "2023-05-21 15:53:43",
 		name: "Juanita Chandler",
 		weight: "1252",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "PEDRO "
 	},
 	{
@@ -42368,14 +42250,14 @@ export const exportsList = [
 		date: "2023-05-24 09:59:48",
 		name: "JC",
 		weight: "1187",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Roxanne"
 	},
 	{
 		date: "2023-05-24 10:00:31",
 		name: "JC",
 		weight: "1907",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Roxanne "
 	},
 	{
@@ -42389,21 +42271,21 @@ export const exportsList = [
 		date: "2023-05-24 14:21:59",
 		name: "Juanita Chandler",
 		weight: "1911",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-05-24 14:23:01",
 		name: "Juanita Chandler",
 		weight: "1169",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-05-24 14:25:29",
 		name: "Juanita Chandler",
 		weight: "1184",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Fort Worthington Elementary Middle School "
 	},
 	{
@@ -42424,7 +42306,7 @@ export const exportsList = [
 		date: "2023-05-24 15:20:32",
 		name: "Juanita Chandler",
 		weight: "1176",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Middlebranch Elementary and Middle School "
 	},
 	{
@@ -42438,7 +42320,7 @@ export const exportsList = [
 		date: "2023-05-24 15:28:15",
 		name: "Juanita Chandler",
 		weight: "1916",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "PEDRO "
 	},
 	{
@@ -42466,7 +42348,7 @@ export const exportsList = [
 		date: "2023-05-24 15:35:54",
 		name: "Juanita Chandler",
 		weight: "1212",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "PEDRO "
 	},
 	{
@@ -42480,14 +42362,14 @@ export const exportsList = [
 		date: "2023-05-24 15:58:58",
 		name: "Juanita Chandler",
 		weight: "188",
-		category: "Xmas items",
+		category: "Other",
 		donatedTo: "PEDRO "
 	},
 	{
 		date: "2023-05-24 15:59:47",
 		name: "Juanita Chandler",
 		weight: "745",
-		category: "Milk",
+		category: "Dairy",
 		donatedTo: "PEDRO "
 	},
 	{
@@ -42515,35 +42397,35 @@ export const exportsList = [
 		date: "2023-05-25 13:56:48",
 		name: "Norma Kriger",
 		weight: "1658",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greg Wilkes"
 	},
 	{
 		date: "2023-05-25 14:17:30",
 		name: "Norma Kriger",
 		weight: "1178",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greg Wilkes"
 	},
 	{
 		date: "2023-05-25 14:18:12",
 		name: "Norma Kriger",
 		weight: "1164",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greg Wilkes"
 	},
 	{
 		date: "2023-05-25 14:22:59",
 		name: "Norma Kriger",
 		weight: "1162",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "John Dorsey"
 	},
 	{
 		date: "2023-05-25 14:58:19",
 		name: "Sharon",
 		weight: "1555",
-		category: "Mixed Drive",
+		category: "Assorted Dry",
 		donatedTo: "Greg Wilkes"
 	},
 	{
@@ -42557,35 +42439,35 @@ export const exportsList = [
 		date: "2023-05-26 14:24:46",
 		name: "Juanita Chandler",
 		weight: "659",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Manna Bible Baptist Church "
 	},
 	{
 		date: "2023-05-26 15:30:11",
 		name: "Juanita Chandler",
 		weight: "1175",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greenmount West"
 	},
 	{
 		date: "2023-05-26 15:31:00",
 		name: "Juanita Chandler",
 		weight: "1187",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
 		date: "2023-05-26 15:33:47",
 		name: "Juanita Chandler",
 		weight: "1042",
-		category: "Assorted Mix",
+		category: "Assorted Dry",
 		donatedTo: "Greenmount West"
 	},
 	{
 		date: "2023-05-26 15:34:42",
 		name: "Juanita Chandler",
 		weight: "1084",
-		category: "Assorted Mix",
+		category: "Assorted Dry",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -42620,7 +42502,7 @@ export const exportsList = [
 		date: "2023-05-27 12:19:22",
 		name: "Beverly Pinn",
 		weight: "1179",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -42634,7 +42516,7 @@ export const exportsList = [
 		date: "2023-05-27 13:46:40",
 		name: "Juanita Chandler",
 		weight: "949",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -42697,7 +42579,7 @@ export const exportsList = [
 		date: "2023-05-27 16:07:58",
 		name: "Juanita Chandler",
 		weight: "-849",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -42718,21 +42600,21 @@ export const exportsList = [
 		date: "2023-05-27 16:17:15",
 		name: "Juanita Chandler",
 		weight: "-768",
-		category: "BEANS",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-05-27 16:19:22",
 		name: "Juanita Chandler",
 		weight: "-408",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-05-28 14:10:34",
 		name: "Juanita Chandler",
 		weight: "136",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Janet Arce"
 	},
 	{
@@ -42767,42 +42649,42 @@ export const exportsList = [
 		date: "2023-05-28 14:17:35",
 		name: "Juanita Chandler",
 		weight: "1184",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-28 15:28:52",
 		name: "Juanita Chandler",
 		weight: "1243",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-28 15:29:46",
 		name: "Juanita Chandler",
 		weight: "1227",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-28 15:30:32",
 		name: "Juanita Chandler",
 		weight: "1247",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-28 15:31:09",
 		name: "Juanita Chandler",
 		weight: "502",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-05-28 15:32:09",
 		name: "Juanita Chandler",
 		weight: "1874",
-		category: "Mix dry",
+		category: "Assorted Dry",
 		donatedTo: "Pedro"
 	},
 	{
@@ -42830,7 +42712,7 @@ export const exportsList = [
 		date: "2023-05-30 11:33:52",
 		name: "Claire",
 		weight: "1156",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greg Wilkes"
 	},
 	{
@@ -42844,7 +42726,7 @@ export const exportsList = [
 		date: "2023-05-30 11:34:45",
 		name: "Claire",
 		weight: "1178",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greg Wilkes"
 	},
 	{
@@ -42858,21 +42740,21 @@ export const exportsList = [
 		date: "2023-05-31 14:28:14",
 		name: "Juanita Chandler",
 		weight: "1148",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-05-31 14:35:23",
 		name: "Juanita Chandler",
 		weight: "1171",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
 		date: "2023-05-31 14:38:04",
 		name: "Juanita Chandler",
 		weight: "967",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Patterson Park charter School "
 	},
 	{
@@ -42886,7 +42768,7 @@ export const exportsList = [
 		date: "2023-05-31 14:39:47",
 		name: "Juanita Chandler",
 		weight: "1228",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -42914,7 +42796,7 @@ export const exportsList = [
 		date: "2023-06-01 15:11:57",
 		name: "Claire",
 		weight: "1209",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -42963,35 +42845,35 @@ export const exportsList = [
 		date: "2023-06-01 19:29:48",
 		name: "Aziza",
 		weight: "1518",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "Common Sense "
 	},
 	{
 		date: "2023-06-01 19:30:10",
 		name: "Aziza",
 		weight: "1534",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "Common Sense "
 	},
 	{
 		date: "2023-06-01 19:30:34",
 		name: "Aziza",
 		weight: "717",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "Common Sense "
 	},
 	{
 		date: "2023-06-01 19:30:53",
 		name: "Aziza",
 		weight: "1464",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "Common Sense "
 	},
 	{
 		date: "2023-06-01 19:31:28",
 		name: "Aziza",
 		weight: "1510",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "Common Sense "
 	},
 	{
@@ -43026,21 +42908,21 @@ export const exportsList = [
 		date: "2023-06-01 19:35:38",
 		name: "Aziza",
 		weight: "1220",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Common Sense "
 	},
 	{
 		date: "2023-06-01 19:35:59",
 		name: "Aziza",
 		weight: "1244",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Common Sense "
 	},
 	{
 		date: "2023-06-01 19:36:36",
 		name: "Aziza",
 		weight: "1227",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Common Sense "
 	},
 	{
@@ -43082,28 +42964,28 @@ export const exportsList = [
 		date: "2023-06-02 13:44:17",
 		name: "Juanita Chandler",
 		weight: "285",
-		category: "Dole and Snacks",
+		category: "Assorted Dry",
 		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-06-02 13:46:34",
 		name: "Juanita Chandler",
 		weight: "85",
-		category: "Produce Dairy",
+		category: "Assorted Fridge",
 		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-06-02 13:48:56",
 		name: "Juanita Chandler",
 		weight: "1175",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Greenmount West"
 	},
 	{
 		date: "2023-06-02 13:49:29",
 		name: "Juanita Chandler",
 		weight: "1153",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -43117,7 +42999,7 @@ export const exportsList = [
 		date: "2023-06-02 15:04:19",
 		name: "Juanita Chandler",
 		weight: "862",
-		category: "Meat and pasta ",
+		category: "Meat [Raw]",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -43131,7 +43013,7 @@ export const exportsList = [
 		date: "2023-06-02 15:21:34",
 		name: "Juanita Chandler",
 		weight: "1002",
-		category: "Meat and can goods",
+		category: "Meat [Raw]",
 		donatedTo: "Greenmount West"
 	},
 	{
@@ -43215,7 +43097,7 @@ export const exportsList = [
 		date: "2023-06-03 14:07:10",
 		name: "Rawan Elshobaky",
 		weight: "1207",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -43299,7 +43181,7 @@ export const exportsList = [
 		date: "2023-06-03 00:00:00",
 		name: "Claire",
 		weight: "1244",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -43320,7 +43202,7 @@ export const exportsList = [
 		date: "2023-06-04 13:02:03",
 		name: "Juanita Chandler",
 		weight: "163",
-		category: "Assorted dry and meats",
+		category: "Assorted Dry",
 		donatedTo: "Janet Arce"
 	},
 	{
@@ -43341,7 +43223,7 @@ export const exportsList = [
 		date: "2023-06-04 13:43:22",
 		name: "Juanita Chandler",
 		weight: "830",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Sandtown"
 	},
 	{
@@ -43390,49 +43272,49 @@ export const exportsList = [
 		date: "2023-06-06 00:00:00",
 		name: "Claire",
 		weight: "2004",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-06 00:00:00",
 		name: "Claire",
 		weight: "2035",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-06 00:00:00",
 		name: "Claire",
 		weight: "2028",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-06 00:00:00",
 		name: "Claire",
 		weight: "2011",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-06 00:00:00",
 		name: "Claire",
 		weight: "2032",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-06 00:00:00",
 		name: "Claire",
 		weight: "2020",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-06 13:14:33",
 		name: "Claire",
 		weight: "1166",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis Foundation"
 	},
 	{
@@ -43481,7 +43363,7 @@ export const exportsList = [
 		date: "2023-06-07 15:35:35",
 		name: "Sara B",
 		weight: "1544",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Douglas Homes"
 	},
 	{
@@ -43509,7 +43391,7 @@ export const exportsList = [
 		date: "2023-06-09 09:13:58",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Janet Arce"
 	},
 	{
@@ -43523,14 +43405,14 @@ export const exportsList = [
 		date: "2023-06-09 14:13:45",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Janet Arce"
 	},
 	{
 		date: "2023-06-09 15:07:56",
 		name: "Mary Jo Gary",
 		weight: "577",
-		category: "Produce and dry ",
+		category: "Produce",
 		donatedTo: "McCollouh Homes [Coach Dunkin]"
 	},
 	{
@@ -43558,14 +43440,14 @@ export const exportsList = [
 		date: "2023-06-09 16:12:21",
 		name: "Mary Jo Gary",
 		weight: "51",
-		category: "Dairy and dry",
+		category: "Dairy",
 		donatedTo: "Crystal [Kingdom Worship Center]"
 	},
 	{
 		date: "2023-06-09 16:13:01",
 		name: "Mary Jo Gary",
 		weight: "251",
-		category: "Assorted fridge ",
+		category: "Assorted Fridge",
 		donatedTo: "Crystal [Kingdom Worship Center]"
 	},
 	{
@@ -43586,49 +43468,49 @@ export const exportsList = [
 		date: "2023-06-10 11:57:45",
 		name: "Beverly Pinn",
 		weight: "1806",
-		category: "Dole Juice",
+		category: "Dole - Juice",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-06-10 12:23:39",
 		name: "Beverly Pinn",
 		weight: "750",
-		category: "Cornmeal ",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-06-10 12:47:52",
 		name: "Claire",
 		weight: "1800",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-10 12:48:19",
 		name: "Claire",
 		weight: "1816",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-10 12:48:43",
 		name: "Claire",
 		weight: "1820",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-10 12:49:10",
 		name: "Claire",
 		weight: "1812",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-10 12:49:53",
 		name: "Claire",
 		weight: "1816",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Pedro"
 	},
 	{
@@ -43698,35 +43580,35 @@ export const exportsList = [
 		date: "2023-06-10 14:31:06",
 		name: "Beverly Pinn",
 		weight: "1187",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-10 14:31:45",
 		name: "Beverly Pinn",
 		weight: "1181",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-10 14:34:40",
 		name: "Beverly Pinn",
 		weight: "1830",
-		category: "Dole juice",
+		category: "Dole - Juice",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-10 14:35:13",
 		name: "Beverly Pinn",
 		weight: "1167",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-10 14:35:53",
 		name: "Beverly Pinn",
 		weight: "1166",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -43761,7 +43643,7 @@ export const exportsList = [
 		date: "2023-06-10 16:39:21",
 		name: "Beverly Pinn",
 		weight: "-394",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -43775,7 +43657,7 @@ export const exportsList = [
 		date: "2023-06-11 00:00:00",
 		name: "Claire",
 		weight: "167",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Janet Arce"
 	},
 	{
@@ -43803,7 +43685,7 @@ export const exportsList = [
 		date: "2023-06-11 00:00:00",
 		name: "Claire",
 		weight: "12",
-		category: "Bread",
+		category: "Grains (rice, pasta, etc.)",
 		donatedTo: "Janet Arce"
 	},
 	{
@@ -43817,7 +43699,7 @@ export const exportsList = [
 		date: "2023-06-13 11:14:59",
 		name: "Claire",
 		weight: "1177",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis Foundation"
 	},
 	{
@@ -43845,70 +43727,70 @@ export const exportsList = [
 		date: "2023-06-13 14:42:44",
 		name: "Beverly Pinn",
 		weight: "1054",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-13 14:43:21",
 		name: "Beverly Pinn",
 		weight: "1055",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-13 14:43:59",
 		name: "Beverly Pinn",
 		weight: "1056",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-13 14:44:30",
 		name: "Beverly Pinn",
 		weight: "1056",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-13 16:44:54",
 		name: "Claire",
 		weight: "1058",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-13 16:45:36",
 		name: "Claire",
 		weight: "1059",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-14 15:09:14",
 		name: "Claire",
 		weight: "1517",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
 		date: "2023-06-14 15:09:51",
 		name: "Claire",
 		weight: "1518",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
 		date: "2023-06-14 15:10:15",
 		name: "Claire",
 		weight: "1469",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
 		date: "2023-06-14 15:10:38",
 		name: "Claire",
 		weight: "1510",
-		category: "Hand sanitizer ",
+		category: "Health & Beauty Products",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
@@ -43936,7 +43818,7 @@ export const exportsList = [
 		date: "2023-06-14 15:13:30",
 		name: "Claire",
 		weight: "1220",
-		category: "Dole - Fruit Pouches ",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
@@ -43957,7 +43839,7 @@ export const exportsList = [
 		date: "2023-06-14 15:14:53",
 		name: "Claire",
 		weight: "1032",
-		category: "Dole - Fruit Pouches",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
@@ -43971,56 +43853,56 @@ export const exportsList = [
 		date: "2023-06-14 00:00:00",
 		name: "Claire",
 		weight: "1269",
-		category: "Dole - Fruit Pouches",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
 		date: "2023-06-14 15:15:44",
 		name: "Claire",
 		weight: "1246",
-		category: "Dole - Fruit Pouches",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
 		date: "2023-06-14 15:16:14",
 		name: "Claire",
 		weight: "1263",
-		category: "Dole - Fruit Pouches",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
 		date: "2023-06-14 15:16:36",
 		name: "Claire",
 		weight: "1203",
-		category: "Dole - Fruit Pouches",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
 		date: "2023-06-14 15:16:57",
 		name: "Claire",
 		weight: "1206",
-		category: "Dole - Fruit Pouches",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
 		date: "2023-06-14 15:17:21",
 		name: "Claire",
 		weight: "1264",
-		category: "Dole - Fruit Pouches",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
 		date: "2023-06-14 15:17:49",
 		name: "Claire",
 		weight: "1227",
-		category: "Dole - Fruit Pouches",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
 		date: "2023-06-14 15:18:10",
 		name: "Claire",
 		weight: "1121",
-		category: "Dole -Fruit Pouches ",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
@@ -44090,77 +43972,77 @@ export const exportsList = [
 		date: "2023-06-15 10:06:03",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Eat Greater - Scott Ave Des Moines [IA]"
 	},
 	{
 		date: "2023-06-15 10:09:00",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Eat Greater - Des Moines [IA]"
 	},
 	{
 		date: "2023-06-15 10:12:38",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "United Across Borders [CA]"
 	},
 	{
 		date: "2023-06-15 10:30:09",
 		name: "GBMC",
 		weight: "1124",
-		category: "BCF Boxes",
+		category: "Other",
 		donatedTo: "GBMC"
 	},
 	{
 		date: "2023-06-15 10:31:15",
 		name: "GBMC",
 		weight: "1101",
-		category: "BCF Boxes",
+		category: "Other",
 		donatedTo: "GBMC"
 	},
 	{
 		date: "2023-06-15 10:32:52",
 		name: "GBMC",
 		weight: "970",
-		category: "BCF Boxes",
+		category: "Other",
 		donatedTo: "GBMC EVENT Jonestown"
 	},
 	{
 		date: "2023-06-15 10:36:02",
 		name: "Claire",
 		weight: "115",
-		category: "BCF Boxes",
+		category: "Other",
 		donatedTo: "GBMC - Live Chair"
 	},
 	{
 		date: "2023-06-15 10:42:58",
 		name: "Claire",
 		weight: "42000",
-		category: "Dole - Drinks [Dry]",
+		category: "Drinks [Dry]",
 		donatedTo: "Table to Table [NJ]"
 	},
 	{
 		date: "2023-06-15 10:45:20",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Midwest Food Bank [GA]"
 	},
 	{
 		date: "2023-06-15 11:03:40",
 		name: "Claire",
 		weight: "42000",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Share Food Program [PA]"
 	},
 	{
 		date: "2023-06-15 11:30:41",
 		name: "Claire",
 		weight: "42000",
-		category: "Dole - Fruit cups & juice",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Sharing Exess - Philadelphia [PA]"
 	},
 	{
@@ -44174,14 +44056,14 @@ export const exportsList = [
 		date: "2023-06-15 15:10:07",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio, Love Community, CA]"
 	},
 	{
 		date: "2023-06-16 13:50:47",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "United Across Borders [CA]"
 	},
 	{
@@ -44195,14 +44077,14 @@ export const exportsList = [
 		date: "2023-06-17 16:03:10",
 		name: "Beverly Pinn",
 		weight: "131",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-06-17 16:03:48",
 		name: "Beverly Pinn",
 		weight: "901",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "BCF Curbside"
 	},
 	{
@@ -44293,35 +44175,35 @@ export const exportsList = [
 		date: "2023-06-17 16:13:23",
 		name: "Beverly Pinn",
 		weight: "1065",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-17 16:14:07",
 		name: "Beverly Pinn",
 		weight: "1067",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-17 16:14:43",
 		name: "Beverly Pinn",
 		weight: "1086",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-17 16:15:28",
 		name: "Beverly Pinn",
 		weight: "1056",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-17 16:16:06",
 		name: "Beverly Pinn",
 		weight: "1073",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
@@ -44335,21 +44217,21 @@ export const exportsList = [
 		date: "2023-06-17 17:14:50",
 		name: "Claire",
 		weight: "1080",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "AFRAM"
 	},
 	{
 		date: "2023-06-17 17:15:29",
 		name: "Claire",
 		weight: "1032",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "AFRAM"
 	},
 	{
 		date: "2023-06-17 00:00:00",
 		name: "Claire",
 		weight: "764",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "AFRAM"
 	},
 	{
@@ -44384,21 +44266,21 @@ export const exportsList = [
 		date: "2023-06-17 18:12:15",
 		name: "Claire",
 		weight: "-603",
-		category: "Assorted Dole",
+		category: "Assorted Fridge",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-06-17 18:16:16",
 		name: "Claire",
 		weight: "-1532",
-		category: "Assorted Mix",
+		category: "Assorted Dry",
 		donatedTo: "BCF Curbside"
 	},
 	{
 		date: "2023-06-20 00:00:00",
 		name: "Claire",
 		weight: "603",
-		category: "Assorted Dole",
+		category: "Assorted Fridge",
 		donatedTo: "Mack Lewis Foundation"
 	},
 	{
@@ -44454,7 +44336,7 @@ export const exportsList = [
 		date: "2023-06-20 10:20:23",
 		name: "Claire",
 		weight: "1076",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis Foundation"
 	},
 	{
@@ -44496,7 +44378,7 @@ export const exportsList = [
 		date: "2023-06-21 18:51:38",
 		name: "Claire",
 		weight: "1067",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Farmlink [Mauricio]"
 	},
 	{
@@ -44510,7 +44392,7 @@ export const exportsList = [
 		date: "2023-06-22 16:34:47",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Fruit cups & juice",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Midwest Food Bank [GA]"
 	},
 	{
@@ -44545,42 +44427,42 @@ export const exportsList = [
 		date: "2023-06-23 15:47:18",
 		name: "Claire",
 		weight: "1155",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-23 15:47:38",
 		name: "Claire",
 		weight: "1166",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-26 12:14:43",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Iglesia Cristina Avivamiento [Philadelphia PA]"
 	},
 	{
 		date: "2023-06-26 12:16:27",
 		name: "Claire",
 		weight: "40000",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Midwest Food Bank [PA]"
 	},
 	{
 		date: "2023-06-27 14:15:10",
 		name: "Claire",
 		weight: "2566",
-		category: "Juice [Minute Maid]",
+		category: "Drinks [Fridge]",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-27 18:45:23",
 		name: "Claire",
 		weight: "2413",
-		category: "Juice [Minute Maid]",
+		category: "Drinks [Fridge]",
 		donatedTo: "Pedro"
 	},
 	{
@@ -44629,7 +44511,7 @@ export const exportsList = [
 		date: "2023-06-29 12:22:53",
 		name: "Claire",
 		weight: "1140",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis Foundation"
 	},
 	{
@@ -44643,21 +44525,21 @@ export const exportsList = [
 		date: "2023-06-29 12:23:42",
 		name: "Claire",
 		weight: "1814",
-		category: "Dole - Juice ",
+		category: "Dole - Juice",
 		donatedTo: "Mack Lewis Foundation"
 	},
 	{
 		date: "2023-06-29 12:24:04",
 		name: "Claire",
 		weight: "1164",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis Foundation"
 	},
 	{
 		date: "2023-06-29 12:24:23",
 		name: "Claire",
 		weight: "1057",
-		category: "Dole - Fruit cups",
+		category: "Dole - Fruit Cups",
 		donatedTo: "Mack Lewis Foundation"
 	},
 	{
@@ -44699,28 +44581,28 @@ export const exportsList = [
 		date: "2023-06-30 14:16:38",
 		name: "Claire",
 		weight: "2193",
-		category: "Milk",
+		category: "Dairy",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-30 14:17:00",
 		name: "Claire",
 		weight: "2197",
-		category: "Milk",
+		category: "Dairy",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-30 14:17:20",
 		name: "Claire",
 		weight: "2192",
-		category: "Milk",
+		category: "Dairy",
 		donatedTo: "Pedro"
 	},
 	{
 		date: "2023-06-30 14:17:54",
 		name: "Claire",
 		weight: "2202",
-		category: "Milk",
+		category: "Dairy",
 		donatedTo: "Pedro"
 	},
 ];
