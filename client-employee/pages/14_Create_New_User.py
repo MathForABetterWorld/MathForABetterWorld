@@ -21,8 +21,8 @@ if 'token' in st.session_state:
         left, right = st.columns(2)
         name = left.text_input("Name", "")
         email = right.text_input("Email", "")
-        phoneNumber = left.text_input("Phone Number (optional)", "")
-        address = right.text_input("Address (optional)", "")
+        phoneNumber = left.text_input("Phone Number (Optional)", "")
+        address = right.text_input("Address (Optional)", "")
         newSubmit = st.form_submit_button()
         if newSubmit:
             if name == "" or email == "":

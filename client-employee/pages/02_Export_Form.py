@@ -6,11 +6,22 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 import os 
 from routeConnectors import categoryConnectors, locationConnectors, userConnector, exportConnectors
 import json
+import pandas as pd
+from nav import nav_page
 
 path = os.path.dirname(__file__)
 st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Export Form")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 st.image(image)
+
+# log in status
+
+if 'token' in st.session_state :
+    log_button = st.button("Employee Log-out", key=".my-button", use_container_width=True)
+else:
+    log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
+
+
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
@@ -25,7 +36,8 @@ allLocations = sorted(locations, key=lambda location: location["name"])
 
 categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
 allCategories = sorted(categories, key=lambda cat: cat["name"])
-users = json.loads(userConnector.getUsers())["users"]
+users = [{"id": -1, "name": "", "email": ""}] + json.loads(userConnector.getUsers())['users']
+allUsers = sorted(users, key=lambda use: use["name"])
 
 env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 
@@ -33,24 +45,30 @@ env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 with st.form("template_form"):
     left, right = st.columns(2)
     donatedTo = left.text_input("Who is the food going to?", value="")
+    location = right.selectbox("Location (Optional)", allLocations, format_func=lambda loc: f'{loc["name"]}')
     category = left.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
 
-    weight = right.text_input("Weight", value="")
-    location = right.selectbox("Location", allLocations, format_func=lambda loc: f'{loc["name"]}')
-    exportedBy = left.selectbox("User", users, format_func=lambda user: f'{user["name"]}')
+    exportType = right.selectbox("Export Type", (["Regular", "Damaged", "Recycle", "Compost"]))
+    weight = left.text_input("Weight", value="")
+    exportedBy = right.selectbox("User", allUsers, format_func=lambda use: f'{use["name"]}')
     submit = st.form_submit_button()
 
 ### TODO:: update userID when sign in functionality is implemented
 if submit:
     categoryIndex = category["id"]
-    # if (categoryIndex != 0):
-    #     categoryId = categories[categoryIndex - 1]['id']
-    if weight == "" or donatedTo == "" or category['id'] == -1 or exportedBy['id'] == -1:
+    if weight == "" or donatedTo == "" or category['id'] == -1 or exportType[id] == -1 or exportedBy['id'] == -1:
         st.error('Please fill out the form')
     else:
-        r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, donatedTo, int(weight), location["id"]))
+        r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, donatedTo, int(weight), location["id"], exportType["id"]))
         if "msg" not in r:
             st.balloons()
             st.success("🎉 Export recorded!")
         else:
             st.error(r["msg"])
+
+if log_button :
+    if "token" in st.session_state :
+        del st.session_state.token
+        st.experimental_rerun()
+    else:
+        nav_page("")

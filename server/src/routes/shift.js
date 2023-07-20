@@ -20,6 +20,8 @@ router.post(
 
 router.post(
   "/signout",
+  body("damagedFoodTaken", "Include a regular food weight taken").optional().isFloat(),
+  body("regularFoodTaken", "Include a damaged food weight taken").optional().isFloat(),
   body("id", "id must be an int").notEmpty().isInt(),
   validator.isShiftIdBody,
   controller.signout
@@ -35,6 +37,8 @@ router.post(
   body("userId", "userId must be an int").notEmpty().isInt(),
   body("start", "Please include a start time").notEmpty().isISO8601(),
   body("end", "Please include an end time").notEmpty().isISO8601(),
+  body("regularFoodTaken", "regularFoodTaken should be a float").optional().isFloat(),
+  body("damagedFoodTaken", "damagedFoodTaken should be a float").optional().isFloat(),
   validator.isUserId, // make sure user exists
   //validator.isValidTimeShift,
   validator.isShiftIdBody, // make sure shift exists

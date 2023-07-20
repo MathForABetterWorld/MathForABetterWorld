@@ -25,22 +25,23 @@ def deleteShift(idField):
   r = http.request("DELETE", root + curPath + "/" + idField, headers={'Content-Type': 'application/json'})
   return r.data
 
-# def updateShift(idField, userId, startTime, endTime, foodWeightTaken):
-def updateShift(idField, userId, startTime, endTime):
+def updateShift(idField, userId, startTime, endTime, regularFoodTaken, damagedFoodTaken):
   f = json.dumps({
     "id": idField,
     "userId": userId,
     "start": startTime,
     "end": endTime,
-    # "foodTaken": foodWeightTaken
+    "regularFoodTaken": regularFoodTaken,
+    "damagedFoodTaken": damagedFoodTaken
   })
   r = http.request("POST", root + curPath + "/update", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
 
-def signout(id):
+def signout(regularFoodTaken, id, damagedFoodTaken ):
   f = json.dumps({
     "id": id,
-    # "foodTaken": foodTaken
+    "regularFoodTaken": regularFoodTaken,
+    "damagedFoodTaken": damagedFoodTaken
   })
   r = http.request("POST", root + curPath + "/signout", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')

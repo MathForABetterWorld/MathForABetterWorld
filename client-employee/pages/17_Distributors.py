@@ -6,11 +6,21 @@ import json
 import os
 from routeConnectors import distributorConnectors
 from PIL import Image
+from nav import nav_page
+
 path = os.path.dirname(__file__)
 # This has to be the first streamlit command called
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="View Distributors")
+st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Distributors Page")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 st.image(image)
+
+# log in status
+
+if 'token' in st.session_state :
+    log_button = st.button("Employee Log-out", key=".my-button", use_container_width=True)
+else:
+    log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
+
 print("getting distributors....")
 distributors = distributorConnectors.getDistributors()["distributors"]
 distributorDF = pd.DataFrame(distributors)
@@ -20,9 +30,8 @@ with title_container:
     # with col1:
     #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
     with col2:
-        st.markdown("<h1 style='text-align: center; '>View Distributors</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; '>Distributors Page</h1>", unsafe_allow_html=True)
 
-st.dataframe(distributorDF)
 if 'token' in st.session_state:
     editType = st.selectbox("Modification Type", ["", "New Distributor", "Update Distributor", "Delete Distributor"])
     if editType == "New Distributor":
@@ -33,7 +42,7 @@ if 'token' in st.session_state:
             if name == "":
                 st.error("Please fill in form elements!")
             else:
-                newDist = pd.DataFrame(json.loads(distributorConnectors.postDistributor(name))["distributor"], index=[0])
+                newDist = distributorConnectors.postDistributor(name)
                 st.experimental_rerun()
     elif editType == "Update Distributor":
         with st.form("template_form"):
@@ -59,8 +68,17 @@ if 'token' in st.session_state:
                 st.experimental_rerun()
             else:
                 st.error("Please input an id that is in the table!")
+st.dataframe(distributorDF)
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
 # rerun.
 st.button("Re-run")
+
+
+if log_button :
+    if "token" in st.session_state :
+        del st.session_state.token
+        st.experimental_rerun()
+    else:
+        nav_page("")

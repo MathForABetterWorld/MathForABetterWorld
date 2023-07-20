@@ -11,13 +11,15 @@ export const createShift = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { userId, start, end } = req.body;
+  const { userId, start, end, regularFoodTaken, damagedFoodTaken } = req.body;
   // const { id } = req.user;
   const shift = await prisma.shift.create({
     data: {
       userId,
       start: new Date(start),
       end: new Date(end),
+      regularFoodTaken,
+      damagedFoodTaken,
     },
   });
   return res.status(StatusCodes.CREATED).json({ shift });
@@ -43,7 +45,7 @@ export const updateShift = async (req, res) => {
     return res;
   }
 
-  const { id, user, userId, start, end } = req.body;
+  const { id, user, userId, start, end, regularFoodTaken, damagedFoodTaken } = req.body;
   const shift = await prisma.shift.update({
     where: {
       id,
@@ -52,6 +54,8 @@ export const updateShift = async (req, res) => {
       userId,
       start,
       end,
+      regularFoodTaken,
+      damagedFoodTaken
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ shift });
@@ -98,7 +102,7 @@ export const signout = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { id } = req.body;
+  const { id, regularFoodTaken, damagedFoodTaken } = req.body;
   const end = new Date();
   const startShift = await prisma.shift.findUnique({ where: { id } });
   const duration = Math.round((end - startShift.start) / 60000);
@@ -108,6 +112,8 @@ export const signout = async (req, res) => {
     },
     data: {
       end,
+      regularFoodTaken,
+      damagedFoodTaken,
       duration,
     },
   });
@@ -130,6 +136,23 @@ export const getActiveShifts = async (req, res) => {
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ activateShifts });
+};
+
+export const getTotalFoodGivenToVolunteers = async (req, res) => {
+  if (validate(req, res)) {
+    return res;
+  }
+  const totalRegularFoodToVolunteers = await prisma.shift.aggregate({
+    _sum: {
+      regularFoodTaken: true,
+    },
+  });
+  const totalDamagedFoodToVolunteers = await prisma.shift.aggregate({
+    _sum: {
+      damagedFoodTaken: true,
+    },
+  });
+  return res.status(StatusCodes.ACCEPTED).json({ totalRegularFoodToVolunteers, totalDamagedFoodToVolunteers });
 };
 
 export const getShiftsInRange = async (req, res) => {

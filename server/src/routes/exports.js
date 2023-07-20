@@ -28,6 +28,14 @@ router.post(
     .notEmpty()
     .isInt(),
   body("locationId", "LocationId must be an integer").optional().isInt(),
+  body("exportType", "exportType must be a valid export type").notEmpty().isIn(
+    [
+      "Regular",
+      "Recycle",
+      "Compost",
+      "Damaged",
+    ],
+  ),
   validator.isUserId,
   validator.isCategoryId,
   validator.isLocationIdOptional,
@@ -60,6 +68,14 @@ router.post(
     .notEmpty()
     .isInt(),
   body("locationId", "LocationId must be an integer").optional().isInt(),
+  body("exportType", "exportType must be a valid export type").notEmpty().isIn(
+    [
+      "Regular",
+      "Recycle",
+      "Compost",
+      "Damaged",
+    ],
+  ),
   validator.isExportId,
   validator.isUserId,
   validator.isCategoryId,

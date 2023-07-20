@@ -10,12 +10,21 @@ from routeConnectors import categoryConnectors
 from routeConnectors import userConnector
 import json
 import os
+from nav import nav_page
 
 path = os.path.dirname(__file__)
 print(path + "/../assets/bmore_food_logo_dark_theme.png" )
 st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Import Form")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 st.image(image)
+
+# log in status
+
+if 'token' in st.session_state :
+    log_button = st.button("Employee Log-out", key=".my-button", use_container_width=True)
+else:
+    log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
+
 # Get rack, distributor and category info 
 print("getting racks....")
 allRacks = [{"id": -1, "location": "", "description": "", "weightLimit": 0}]
@@ -51,14 +60,13 @@ env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 todaysDate = datetime.date.today()
 with st.form("template_form"):
     left, right = st.columns(2)
-    expiration_date = left.date_input("Expiration date", value=datetime.date(1970, 1, 1))
+    expiration_date = left.date_input("Expiration Date (Optional)", value=datetime.date(1970, 1, 1))
     category = right.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
-    inWarehouse = left.radio("In Warehouse", (True, False))
-    rack = right.selectbox("Rack", allRacks, format_func=lambda rack: f'{rack["location"]}') # get more info on how racks are stored in the google form 
-    distributor= left.selectbox("Distributor name", allDistributors, format_func=lambda dis: f'{dis["name"]}')
+    rack = left.selectbox("Rack (Optional)", allRacks, format_func=lambda rack: f'{rack["location"]}') # get more info on how racks are stored in the google form 
+    distributor= right.selectbox("Distributor Name", allDistributors, format_func=lambda dis: f'{dis["name"]}')
     pallet_weight = left.text_input("Weight", value="1000")
     inputUser = right.selectbox("User", allUsers, format_func=lambda user: f'{user["name"]}' )
-    description = st.text_input("Description (OPTIONAL)", value="")
+    description = st.text_input("Description (Optional)", value="")
     submit = st.form_submit_button()
 
 if submit:
@@ -70,7 +78,6 @@ if submit:
         pallet_weight, 
         distributor['id'],
         rack["id"],
-        inWarehouse,
         (description if description != "" else category["description"]),
         category['id']
        ))
@@ -81,3 +88,10 @@ if submit:
         st.success("🎉 Your import was generated!")
     else:
         st.error(r["msg"])
+
+if log_button :
+    if "token" in st.session_state :
+        del st.session_state.token
+        st.experimental_rerun()
+    else:
+        nav_page("")

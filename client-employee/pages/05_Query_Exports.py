@@ -6,6 +6,7 @@ import json
 import os 
 from routeConnectors import categoryConnectors, exportConnectors, locationConnectors, userConnector
 from PIL import Image
+from nav import nav_page
 
 
 path = os.path.dirname(__file__)
@@ -15,6 +16,15 @@ path = os.path.dirname(__file__)
 st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Query exports")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 st.image(image)
+
+# log in status
+
+if 'token' in st.session_state :
+    log_button = st.button("Employee Log-out", key=".my-button", use_container_width=True)
+else:
+    log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
+
+
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
@@ -93,3 +103,11 @@ st.button("Re-run")
 # Filter by time -- how much we've exported in the past month vs year
 # 
 ###
+
+
+if log_button :
+    if "token" in st.session_state :
+        del st.session_state.token
+        st.experimental_rerun()
+    else:
+        nav_page("")
