@@ -21,7 +21,6 @@ model User {
   shiftsWorked  Shift[]
   employee      Employee?
   employeeId    Int?         @unique
-  trash         TrashItem[]
   isActive      Boolean      @default(true)
 }
 
@@ -105,7 +104,6 @@ model Category {
   name        String
   description String
   exports     ExportItem[]
-  trash       TrashItem[]
 }
 
 enum Role {
@@ -124,14 +122,4 @@ model DonationLocation {
   longitude String
   latitude  String
   exports   ExportItem[]
-}
-
-model TrashItem {
-  id         Int      @id @default(autoincrement())
-  weight     Float    @default(0)
-  trashDate  DateTime @default(now()) @db.Date
-  category   Category @relation(fields: [categoryId], references: [id])
-  categoryId Int
-  user       User     @relation(fields: [userId], references: [id])
-  userId     Int
 }
