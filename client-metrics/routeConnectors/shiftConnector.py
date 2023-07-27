@@ -36,10 +36,11 @@ def updateShift(idField, userId, startTime, endTime, foodWeightTaken):
   r = http.request("POST", root + curPath + "/update", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
 
-def signout(foodTaken, id):
+def signout(regularFoodTaken, id, damagedFoodTaken ):
   f = json.dumps({
     "id": id,
-    "foodTaken": foodTaken
+    "regularFoodTaken": regularFoodTaken,
+    "damagedFoodTaken": damagedFoodTaken
   })
   r = http.request("POST", root + curPath + "/signout", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
