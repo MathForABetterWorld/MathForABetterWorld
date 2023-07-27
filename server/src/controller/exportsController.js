@@ -27,17 +27,9 @@ export const getExports = async (req, res) => {
   }
   const exports = await prisma.exportItem.findMany({
     include: {
+      category: true,
+      location: true,
       user: {
-        select: {
-          name: true,
-        },
-      },
-      category: {
-        select: {
-          name: true,
-        },
-      },
-      location: {
         select: {
           name: true,
         },
