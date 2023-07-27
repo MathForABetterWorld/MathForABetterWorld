@@ -99,7 +99,7 @@ const generateFakeData = async () => {
     createEntryList.push({
       entryUserId: userMap.get(entry.name).id,
       inputDate: new Date(entry.date),
-      weight: parseFloat(entry.weight),
+      weight: parseInt(entry.weight),
       categoryIds: [categoryMap.get(entry.category).id],
       companyId: distributorMap.get(entry.distributor).id,
     });
@@ -111,7 +111,7 @@ const generateFakeData = async () => {
       createExportsList.push({
         userId: userMap.get(exportItem.name).id,
         exportDate: new Date(exportItem.date),
-        weight: parseFloat(exportItem.weight),
+        weight: parseInt(exportItem.weight),
         categoryId: categoryMap.get(exportItem.category).id,
         donatedTo: exportItem.donatedTo,
         locationId: locationMap.get(exportItem.donatedTo).id,
@@ -120,7 +120,7 @@ const generateFakeData = async () => {
       createExportsList.push({
         userId: userMap.get(exportItem.name).id,
         exportDate: new Date(exportItem.date),
-        weight: parseFloat(exportItem.weight),
+        weight: parseInt(exportItem.weight),
         categoryId: categoryMap.get(exportItem.category).id,
         donatedTo: exportItem.donatedTo,
       });
