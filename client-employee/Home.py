@@ -67,39 +67,44 @@ if logout_button:
     # record checkout time
 
     # add shirt duration time AND amoutn taken into the respective tables
-
-    del st.session_state.token
+    if 'token' in st.session_state:
+        del st.session_state.token
+    else:
+        st.error("Already logged out")
 
 if 'token' in st.session_state:
     shift = json.loads(employeeConnectors.getMyActiveShift())["shift"]
     if len(shift) == 0:
         sign_in_for_shift = st.button("Start Shift")
         if sign_in_for_shift:
-                startTime = datetime.now()
-                r = json.loads(shiftConnector.postShift(int(st.session_state.idx), startTime.isoformat()))["shift"]
-                st.session_state["shift_active"] = r["id"]
-                st.experimental_rerun()
+            startTime = datetime.now()
+            r = json.loads(shiftConnector.postShift(int(st.session_state.idx), startTime.isoformat()))["shift"]
+            st.session_state["shift_active"] = r["id"]
+            st.experimental_rerun()
+
     else:
         st.session_state["shift_active"] = shift[0]["id"]
         food_input = st.number_input("Enter lbs of regular food taken", 0)
         damaged_food_input = st.number_input("Enter lbs of damaged food taken", 0)
         foodAmt = food_input
-        sign_out_for_shift = st.button("End Shift")
+        sign_out_for_shift = st.button("End Shift (Optional)")
         if sign_out_for_shift:
-            endTime = datetime.now()
-            st.write('Thank you')
-            time.sleep(2)
-            current_user_id = user_input
-            #shift_id = row["id"]
-            print('calling shift connector')
-            r = shiftConnector.signout(foodAmt, int(st.session_state.shift_active), damaged_food_input)
-            st.write("Sign out successful!")
-            # wait 2 seconds
-            del st.session_state.token
             if "shift_active" in st.session_state:
+                endTime = datetime.now()
+                st.write('Thank you')
+                time.sleep(2)
+                current_user_id = user_input
+                #shift_id = row["id"]
+                print('calling shift connector')
+                r = shiftConnector.signout(foodAmt, int(st.session_state.shift_active), damaged_food_input)
+                st.write("Sign out successful!")
+                # wait 2 seconds
+                del st.session_state.token
                 del st.session_state.shift_active
-            if "idx" in st.session_state:
-                del st.session_state.idx
-            st.experimental_rerun()
+                if "idx" in st.session_state:
+                    del st.session_state.idx
+                st.experimental_rerun()
+            else:
+                st.error("Not currently logged in")
 
             

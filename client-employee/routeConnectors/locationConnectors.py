@@ -22,7 +22,7 @@ def postLocation(name, longitude, latitude):
   return r.data.decode('utf-8')
 
 def deleteLocation(idField):
-  r = http.request("DELETE", root + curPath + "/" + idField, headers={'Content-Type': 'application/json'})
+  r = http.request("DELETE", root + curPath + "/" + str(idField), headers={'Content-Type': 'application/json'})
   return r.data
 
 def updateLocation(idField, name, longitude, latitude):
@@ -31,7 +31,7 @@ def updateLocation(idField, name, longitude, latitude):
     "longitude": longitude,
     "latitude": latitude
   })
-  r = http.request("POST", root + curPath + "/" + idField + "/" + "update", body=f, headers={'Content-Type': 'application/json'})
+  r = http.request("POST", root + curPath + "/" + str(idField) + "/" + "update", body=f, headers={'Content-Type': 'application/json'})
   return r.data
 
 def getVisitsPerLocation():

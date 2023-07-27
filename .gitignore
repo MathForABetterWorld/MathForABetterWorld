@@ -14,3 +14,4 @@ __MACOSX/*
 **/coverage/*
 **/__pycache__/
 client/__pycache__/*
+.ipynb_checkpoints

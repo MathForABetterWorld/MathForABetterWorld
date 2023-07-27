@@ -9,6 +9,7 @@ import {
   distributorList,
   exportsList,
   volunteerList,
+  donatedToList,
 } from "./data.js";
 
 const generateFakeUsers = async (numFakeUsers) => {

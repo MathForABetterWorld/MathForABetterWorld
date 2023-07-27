@@ -17,14 +17,11 @@ router.post(
     .isInt(),
   body("inputDate", "Please include a date for inputDate").notEmpty().isDate(),
   body("expirationDate", "Expiration Date must be a date").optional().isDate(),
-  body("weight", "Please include a float for entryUserId").notEmpty().isFloat(),
+  body("weight", "Please include a float for weight").notEmpty().isFloat(),
   body("companyId", "Please include an integer for companyId")
     .notEmpty()
     .isInt(),
   body("rackId", "Rack must be an int").optional().isInt(),
-  body("inWarehouse", "Please include a boolean for inWarehouse")
-    .notEmpty()
-    .isBoolean(),
   body("description", "Description is a string").optional().isString(),
   body("categoryIds", "Please include an integer for categoryId")
     .notEmpty()
@@ -35,7 +32,6 @@ router.post(
   validator.isRack,
   validator.isCategory,
   validator.isPositiveWeight,
-  validator.isWarehouseTrue,
   controller.createPallet
 );
 
@@ -47,14 +43,11 @@ router.post(
     .isInt(),
   body("inputDate", "Please include a date for inputDate").notEmpty().isDate(),
   body("expirationDate", "Expiration Date must be a date").optional().isDate(),
-  body("weight", "Please include a float for entryUserId").notEmpty().isFloat(),
+  body("weight", "Please include a float for weight").notEmpty().isFloat(),
   body("companyId", "Please include an integer for companyId")
     .notEmpty()
     .isInt(),
   body("rackId", "Rack must be an int").optional().isInt(),
-  body("inWarehouse", "Please include a boolean for inWarehouse")
-    .notEmpty()
-    .isBoolean(),
   body("description", "Description is a string").optional().isString(),
   body("categoryIds", "Please include an integer for categoryId")
     .notEmpty()
@@ -65,7 +58,6 @@ router.post(
   validator.isRack,
   validator.isCategory,
   validator.isPositiveWeight,
-  validator.isWarehouseTrue,
   controller.edit
 );
 
@@ -93,7 +85,6 @@ router.post(
   "/removePallet",
   body("id", "Please include an integer for palletId").notEmpty().isInt(),
   validator.isPalletIdBody,
-  validator.notInWarehouse,
   controller.removePallet
 );
 

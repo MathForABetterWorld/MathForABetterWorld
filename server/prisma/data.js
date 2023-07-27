@@ -1,294 +1,358 @@
 export const usersList = [
-  "Kate Weeks", // final
-  "Kaneesha", // final
-  "Romaine Bouldin", // final
-  "Beverly Graham", // final
-  "Susan Larson", // final
-  "Rosemary Hendricks", // final
-  "Anna West", // final
-  "Marci Yankelov", // final
-  "Bud Stracker - Sisson Street DPW", // final
-  "Juanita Chandler", // final
-  "Doris Parker Tuggle", // final
-  "Luke Mayhew", // final
-  "Karen Moore", // final
-  "Lynnette Cromer", // final
-  "Tina Paquet", // final
-  "Lynwood McDaniel", // final
-  "Maddie Pardes", // final
-  "Norma Kriger", // final
-  "Jean", // final
-  "Melissa Thomas", // final
-  "Raquel Bailey", // final
-  "Nathaniel McClean", // final
-  "Adeola Sulaiman", // final
-  "Beth Torres", // final
-  "Jack Bellows", // final
-  "Sunita Pathik", // final
-  "Theresa Columbus", // final
-  "Nathan So", // final
-  "Janet Lomax", // final
-  "Dan Pike", // final
-  "Emily Stucke", // final
-  "Kelly Chen", // final
-  "Angeles", // final
-  "Gilda Castillo", // final
-  "Evelyn Jiang", // final
-  "Emily Ma", // final
-  "Beverly Pinn", // final
-  "Lynda Bishop", // final
-  "Dean Chien", // final
-  "Nailah Bishop", // final
-  "Opeyemi Faleye", // final
-  "Laila", // final
-  "Safire", // final
-  "Bud Stracker", // final
-  "Charity Hsu", // final
-  "Connor Gephart", // final
-  "Dorja", // final
-  "Aziza", // final
-  "Julia Buckson", // final
-  "Adeolu Mojibola", // final
-  "Treston Codrington", // final
-  "Michael Ford", // final
-  "Carla T", // final
-  "Yulia", // final
-  "Aza Shiao", // final
-  "Nicolle Diaz", // final
-  "Nia Bishop", // final
-  "Olamilekan Sulaiman", // final
-  "Obinna Nwokoro", // final
-  "Rachel Lee", // final
-  "Jackee", // final
-  "Theresa Keil", // final
-  "Alex Bauer", // final
-  "Jonyce Bland", // final
-  "Karla Alexander", // final
-  "Cheryl Utsey", // final
-  "Justin Maduka", // final
-  "Harris Malik", // final
-  "Jasmine Rose", // final
-  "Ngozi Douglas", // final
-  "Tsion Getahun", // final
-  "Daphnie Sumah", // final
-  "Arezou Esmaeeli", // final
   "Abisola Adeusi", // final
-  "Kamryn Brown", // final
-  "Jade Weatherington", // final
-  "Rewa Hazim", // final
-  "Azel King", // final
-  "Connor Lu", // final
-  "Benjamin Hung", // final
-  "Jessica Martin", // final
-  "Zoe", // final
-  "Jonathan Shay", // final
-  "Emily Zhang", // final
-  "Amy Xing ", // final
-  "Ellen Cho", // final
-  "Sara B", // final
-  "Rachel Oh", // final
-  "Josefina Aguilar-Pliszka", // final
-  "Nidhi Batra", // final
-  "Faith Obilo", // final
-  "Elianna Perlman", // final
-  "Xinyue Gu", // final
-  "Charlie", // final
-  "Thomas Aloisi", // final
-  "Brandon Clark", // final
-  "Anita Bryant", // final
-  "Linda Arce", // final
-  "Sarah K", // final
-  "Kira Branch", // final
-  "Xiomara Rodriguez", // final
-  "Ryan Murphy", // final
-  "Katherine Wang", // final
-  "Liam Stewart", // final
-  "Cameron Minor", // final
-  "Jayla Butler", // final
-  "Justin Zhong", // final
-  "Claire Kim", // final
-  "Ariel Li", // final
-  "Kyle Cooper", // final
-  "Brian Min", // final
-  "Denise Rivers", // final
-  "Nastaran Keshmiri", // final
-  "David Annan", // final
-  "Daryan Fisher", // final
-  "Daniel Jin", // final
-  "Safeer Rasul", // final
-  "Imani Armour", // final
-  "Akul Umamageswaran", // final
-  "Katherine Xiao", // final
-  "Sharon", // final
-  "Lee Little", // final
-  "Trinity Burge", // final
-  "Zanya Jamieson", // final
-  "Meredith Snow", // final
-  "Katelyn", // final
-  "David Ondande", // final
-  "William Middlezong", // final
   "Adebola Akinwale", // final
-  "Kelly Crawford", // final
-  "Rachel H", // final
-  "Mackenzie", // final
-  "Erin B", // final
-  "Luke Pitsenbarger", // final
-  "Jackie", // final
-  "Latease", // final
-  "Gregory", // final
-  "Daniel Huff", // final
-  "Roxane", // final
-  "Justin Huang", // final
-  "Claire Ahn", // final
-  "Prabhleen", // final
-  "Meghan Alexis", // final
-  "Leap", // final
-  "Martina Pozzi", // final
-  "Andy", // final
-  "Zyare Abdul-Rahim", // final
-  "Arjun Yogaratnam", // final
-  "Tam Kelley", // final
-  "Dean Sharif", // final
-  "Sean Kwak", // final
-  "Waldo", // final
-  "Brendan Wille", // final
-  "Emily Fitzpatrick", // final
-  "Michael Yoo", // final
-  "Dimpy", // final
-  "Jan Kleinman", // final
-  "Jasmine Jones-Howard", // final
-  "Takiya Eastmond", // final
-  "Iyana Gross", // final
-  "Jaylen Harvey", // final
-  "Kiera Payne", // final
-  "Sierra Jai Smith", // final
-  "Marquise Pearson", // final
+  "Adeola Sulaiman", // final
+  "Adeolu Mojibola", // final
   "Adriana Hill", // final
-  "Isaiah Gordon", // final
-  "Morgan", // final
-  "Justin Coelho", // final
-  "Makayla Boyce", // final
-  "Nyasia Arrington ", // final
-  "Nani Herring", // final
-  "Cody Windley", // final
-  "Charisse", // final
-  "Lanae", // final
-  "Kamau", // final
-  "Tashana", // final
   "Aisha", // final
-  "Kennedy", // final
-  "Emily B", // final
-  "Kamille", // final
-  "Sue Daja", // final
-  "Yasmine", // final
-  "Perry Faulk", // final
+  "Akul Umamageswaran", // final
+  "Alex Bauer", // final
   "Alex Nguyen", // final
-  "Emi Ochoa", // final
-  "Nader Najjar", // final
-  "Derek Dang", // final
-  "Kaleigh Rudge", // final
-  "Nanrui Gong", // final
-  "Jillayne Clarke", // final
-  "Dynashia Woodson", // final
-  "Mekayle", // final
-  "Kathleen Lac", // final
-  "Brad Burton", // final
-  "Eric Alvarado", // final
-  "Cameron Dong", // final
-  "Layia", // final
-  "Diego Trafton", // final
-  "Gabriel C", // final
-  "Sandy W", // final
-  "Travis James", // final
-  "Michael Nwachukwu", // final
-  "Myles Austin", // final
-  "Fadil Santosa", // final
-  "Cindy Silveira", // final
-  "Paul H", // final
-  "Hong", // final
-  "Shoshana Kott", // final
-  "Tram Nguyen", // final
-  "Octavia", // final
-  "Polly", // final
-  "Rawan Elshobaky", // final
-  "Ifeoluwa Akinropo", // final
-  "Andrew Thampoe", // final
-  "Tara", // final
-  "JC", // final
-  "Ausar", // final
-  "Other", // final
-  "Anna Nicosia", // final
-  "Clarice", // final
-  "Vincent Faulk", // final
-  "Tyrese Springer", // final
   "Alexia Lilly", // final
-  "Seth Crawford", // final
-  "Gene", // final
-  "Tariq", // final
-  "Taja Keitt", // final
-  "Cailyn Lawler", // final
-  "Monah Perry", // final
-  "Camille", // final
-  "Torey Wilkins", // final
-  "Joanna", // final
-  "Deborah Claridy", // final
-  "GG", // final
-  "Claire", // final
-  "Sheneil Black", // final
-  "First Fruits Farm", // final
-  "Spencer Ellsworth", // final
-  "Teia", // final
-  "Young", // final
-  "Coach Dunkin", // final
-  "Jelani Dula", // final
-  "Jilleien Franquelli", // final
-  "Hannah Johnson", // final
-  "Jemila", // final
-  "Rilynn White", // final
-  "Sydni Demby", // final
-  "Munazza Abraham", // final
-  "Kyla", // final
-  "Nakia", // final
-  "Jessica Lee", // final
-  "Judy", // final
-  "Chenoa Martin", // final
-  "Mike Foy", // final
-  "Tracee Erskine", // final
-  "Laronda", // final
-  "Ladaisha Thompson", // final
+  "Amy Xing ", // final
+  "Andrew Kolodziejczak", // final
+  "Andrew Thampoe", // final
+  "Andy", // final
+  "Angeles", // final
+  "Anita Bryant", // final
+  "Anna Nicosia", // final
+  "Anna West", // final
+  "Arezou Esmaeeli", // final
+  "Ariel Li", // final
+  "Arjun Yogaratnam", // final
+  "Ausar", // final
+  "Aza Shiao", // final
+  "Azel King", // final
+  "Aziza", // final
+  "Barbara Zadek", // final
+  "Benjamin Hung", // final
   "Bertille", // final
+  "Beth Torres", // final
+  "Beverly Graham", // final
+  "Beverly Pinn", // final
+  "Brad Burton", // final
+  "Brandon Clark", // final
+  "Brendan Wille", // final
+  "Brian Min", // final
+  "Bud Stracker - Sisson Street DPW", // final
+  "Bud Stracker", // final
+  "Cailyn Lawler", // final
+  "Cameron Dong", // final
+  "Cameron Minor", // final
+  "Camille", // final
+  "Carla T", // final
+  "Charisse", // final
+  "Charity Hsu", // final
+  "Charlie", // final
+  "Charmika Burton", // final
+  "Chenoa Martin", // final
+  "Cheryl Utsey", // final
+  "Cindy Silveira", // final
+  "Claire Ahn", // final
+  "Claire Kim", // final
+  "Claire", // final
+  "Clarice", // final
+  "Coach Dunkin", // final
+  "Cody Windley", // final
+  "Connor Gephart", // final
+  "Connor Lu", // final
+  "Dan Pike", // final
+  "Daniel Huff", // final
+  "Daniel Jin", // final
+  "Daphnie Sumah", // final
+  "Daryan Fisher", // final
+  "David Annan", // final
+  "David Ondande", // final
+  "Dean Chien", // final
+  "Dean Sharif", // final
+  "Deborah Claridy", // final
+  "Denise Rivers", // final
+  "Derek Dang", // final
+  "Diego Trafton", // final
+  "Dimpy", // final
+  "Doris Parker Tuggle", // final
+  "Dorja", // final
+  "Dynashia Woodson", // final
+  "Elianna Perlman", // final
+  "Elizabeth Rehn", // final
+  "Ellen Cho", // final
+  "Emi Ochoa", // final
+  "Emily B", // final
+  "Emily Fitzpatrick", // final
+  "Emily Ma", // final
+  "Emily Stucke", // final
+  "Emily Zhang", // final
+  "Eric Alvarado", // final
+  "Erin B", // final
+  "Evelyn Jiang", // final
+  "Fadil Santosa", // final
+  "Faith Obilo", // final
+  "First Fruits Farm", // final
+  "GBMC", // final
+  "GG", // final
+  "Gabriel C", // final
+  "Gene", // final
+  "Gilda Castillo", // final
+  "Gregory", // final
+  "Hannah Johnson", // final
+  "Harris Malik", // final
+  "Hong", // final
+  "Ifeoluwa Akinropo", // final
+  "Imani Armour", // final
+  "Isaiah Gordon", // final
+  "Iyana Gross", // final
+  "JC", // final
+  "Jack Bellows", // final
+  "Jackee", // final
+  "Jackie", // final
+  "Jade Weatherington", // final
+  "Jan Kleinman", // final
+  "Janet Lomax", // final
+  "Jasmine Jones-Howard", // final
+  "Jasmine Rose", // final
+  "Jayla Butler", // final
+  "Jaylen Harvey", // final
+  "Jean", // final
+  "Jelani Dula", // final
+  "Jemila", // final
+  "Jessica Lee", // final
+  "Jessica Martin", // final
+  "Jillayne Clarke", // final
+  "Jilleien Franquelli", // final
+  "Joanna", // final
+  "Jonathan Shay", // final
+  "Jonyce Bland", // final
+  "Josefina Aguilar-Pliszka", // final
+  "Juanita Chandler", // final
+  "Judy", // final
+  "Julia Buckson", // final
+  "Justin Coelho", // final
+  "Justin Huang", // final
+  "Justin Maduka", // final
+  "Justin Zhong", // final
+  "Kaleigh Rudge", // final
+  "Kamau", // final
+  "Kamille", // final
+  "Kamryn Brown", // final
+  "Kaneesha", // final
+  "Karen Moore", // final
+  "Karla Alexander", // final
+  "Kate Weeks", // final
+  "Katelyn", // final
+  "Katherine Wang", // final
+  "Katherine Xiao", // final
+  "Kathleen Lac", // final
+  "Kelly Chen", // final
+  "Kelly Crawford", // final
+  "Kennedy", // final
+  "Kiera Payne", // final
+  "Kira Branch", // final
+  "Kyla", // final
+  "Kyle Cooper", // final
+  "Ladaisha Thompson", // final
+  "Laila", // final
+  "Lanae", // final
+  "Laronda", // final
+  "Latease", // final
+  "Layia", // final
+  "Leap", // final
+  "Lee Little", // final
+  "Liam Stewart", // final
+  "Linda Arce", // final
+  "Luke Mayhew", // final
+  "Luke Pitsenbarger", // final
+  "Lynda Bishop", // final
+  "Lynnette Cromer", // final
+  "Lynwood McDaniel", // final
+  "Mackenzie", // final
+  "Maddie Pardes", // final
+  "Makayla Boyce", // final
+  "Marci Yankelov", // final
+  "Marquise Pearson", // final
+  "Martina Pozzi", // final
+  "Mary Jo Gary", // final
+  "Meghan Alexis", // final
+  "Mekayle", // final
+  "Melissa Thomas", // final
+  "Meredith Snow", // final
+  "Michael Ford", // final
+  "Michael Nwachukwu", // final
+  "Michael Yoo", // final
+  "Mike Foy", // final
+  "Monah Perry", // final
+  "Morgan", // final
+  "Munazza Abraham", // final
+  "Myles Austin", // final
+  "Nader Najjar", // final
+  "Nailah Bishop", // final
+  "Nakia", // final
+  "Nani Herring", // final
+  "Nanrui Gong", // final
+  "Nastaran Keshmiri", // final
+  "Nathan So", // final
+  "Nathaniel McClean", // final
+  "Ngozi Douglas", // final
+  "Nia Bishop", // final
+  "Nicolle Diaz", // final
+  "Nidhi Batra", // final
+  "Nina Early", // final
+  "Norma Kriger", // final
+  "Nyasia Arrington", // final
+  "Obinna Nwokoro", // final
+  "Octavia", // final
+  "Olamilekan Sulaiman", // final
+  "Opeyemi Faleye", // final
+  "Other", // final
+  "Paul H", // final
+  "Perry Faulk", // final
+  "Phillip Blackwell", // final
+  "Polly", // final
+  "Prabhleen", // final
+  "Rachel H", // final
+  "Rachel Lee", // final
+  "Rachel Oh", // final
+  "Raquel Bailey", // final
+  "Rawan Elshobaky", // final
+  "Rewa Hazim", // final
+  "Rilynn White", // final
+  "Romaine Bouldin", // final
+  "Rosemary Hendricks", // final
+  "Roxane", // final
+  "Ryan Murphy", // final
+  "Safeer Rasul", // final
+  "Safire Windley", // final
+  "Sandy W", // final
+  "Sara B", // final
+  "Sarah K", // final
+  "Sean Kwak", // final
+  "Seth Crawford", // final
+  "Sharon", // final
+  "Sheneil Black", // final
+  "Shoshana Kott", // final
+  "Sierra Jai Smith", // final
+  "Spencer Ellsworth", // final
+  "Sue Daja", // final
+  "Sunita Pathik", // final
+  "Susan Larson", // final
+  "Susan May", // final
+  "Sydni Demby", // final
+  "Taja Keitt", // final
+  "Takiya Eastmond", // final
+  "Tam Kelley", // final
+  "Tara Brooky", // final
+  "Tariq", // final
+  "Tashana", // final
+  "Teia", // final
+  "Theresa Columbus", // final
+  "Theresa Keil", // final
+  "Thomas Aloisi", // final
+  "Tina Paquet", // final
+  "Tishea Lester", // final
+  "Torey Wilkins", // final
+  "Tracee Erskine", // final
+  "Tram Nguyen", // final
+  "Travis James", // final
+  "Treston Codrington", // final
+  "Trinity Burge", // final
+  "Tsion Getahun", // final
+  "Tyrese Springer", // final
+  "Vincent Faulk", // final
+  "Waldo", // final
+  "William Middlezong", // final
+  "Xinyue Gu", // final
+  "Xiomara Rodriguez", // final
+  "Yasmine", // final
+  "Young", // final
+  "Yulia", // final
+  "Zanya Jamieson", // final
+  "Zoe", // final
+  "Zyare Abdul-Rahim", // final
 ];
 
 export const categoryList = [
   "Assorted Dry", // final
   "Assorted Fridge", // final
-  "Frozen [Not Meat]", // final
-  "Produce", // final
-  "Danone - Plant based Drink", // final
-  "Water", // final
-  "Dairy", // final
-  "Household", // final
-  "Cleaning Supplies", // final
-  "Meat [Raw]", // final
-  "Pet Supplies", // final
+  "Baby Supplies", // final
   "Canned Goods", // final
+  "Cleaning Supplies", // final
   "Condiments", // final
-  "Grains (rice, pasta, etc.)", // final
+  "Dairy", // final
+  "Danone - Coffee", // final
+  "Danone - Creamer", // final
+  "Danone - Milk", // final
+  "Danone - Plant Based Drink", // final
+  "Danone - Yogurt", // final
+  "Dole - Fruit Cups", // final
+  "Dole - Juice", // final
   "Drinks [Dry]", // final
+  "Drinks [Fridge]", // final
+  "Frozen [Not Meat]", // final
+  "Grains (rice, pasta, etc.)", // final
+  "Health & Beauty Products", // final
+  "Household", // final
+  "Meat [Raw]", // final
+  "Oil", // final
   "Other", //final
   "Paper Supplies", // final
-  "Baby Supplies", // final
   "Personal Care", // final
-  "Health & Beauty Products", // final
-  "Spices", // final
-  "Dole – Fruit cups", // final
+  "Pet Supplies", // final
+  "Produce", // final
   "Snacks", // final
-  "Oil", // final
-  "Danone – Coffee", // final
-  "Danone- Creamer", // final
-  "Danone – Milk", // final
-  "Danone – Yogurt", // final
-  "Drinks [Fridge]", // final
+  "Spices", // final
+  "Water", // final
+];
+
+export const distributorList = [
+  "Alto Dale Farm", // final
+  "Amazon", // final
+  "BCF", // final
+  "Clemens Food Group", // final
+  "Common Market", // final
+  "Dannon", // final
+  "Dietz & Watson", // final
+  "Dole", // final
+  "Donation", // final
+  "EMD", // final
+  "Farmlink [Mauricio]", // final
+  "First Fruits Farm", // final
+  "Guinness", // final
+  "H and S Bakery", // final
+  "Henderson-Hopkins", // final
+  "McCormick", // final
+  "Other", // final
+  "Sandtown", // final
+  "Walmart", // final
+];
+
+export const donatedToList = [
+  "Baltimore Cease Fire [Nkenge]", // final
+  "BCF [Non Curbside]", // final
+  "BCF Curbside", // final
+  "Bowery", // final
+  "Crystal [Kingdom Worship Center]", // final
+  "Douglas Homes", // final
+  "Farmlink [Mauricio]", // final
+  "GBMC", // final
+  "Gilmore Homes", // final
+  "Greenmount West", // final
+  "Impact Hub", // final
+  "Individual", // final
+  "Janet Arce", // final
+  "Love and Cornbread", // final
+  "Love and Lunches", // final
+  "Other Organization", // final
+  "McCollouh Homes [Coach Dunkin]", // final
+  "Mike Foy [Emily Wall]", // final
+  "Morgan State University", // final
+  "New Beginnings Center Church", // final
+  "Other Organization", // final
+  "Pastor Young", // final
+  "Pedro", // final
+  "Sandtown", // final
+  "So What Else", // final
+  "Sunita [Delivery]", // final
+  "Whitebox", // final
+  "Women's Housing Coalition", // final
 ];
 
 export const entries = [
@@ -345,7 +409,7 @@ export const entries = [
     date: "2022-01-06 14:52:03.284000",
     name: "Adriana Hill",
     weight: 994,
-    category: "Danone - Plant based Drink",
+    category: "Danone - Plant Based Drink",
     distributor: "Amazon",
   },
   {
@@ -8507,14 +8571,14 @@ export const entries = [
     date: "2022-08-06 00:00:00",
     name: "Claire",
     weight: 1611,
-    category: "Danone - Plant based Drink",
+    category: "Danone - Plant Based Drink",
     distributor: "Amazon",
   },
   {
     date: "2022-08-06 00:00:00",
     name: "Claire",
     weight: 1589,
-    category: "Danone - Plant based Drink",
+    category: "Danone - Plant Based Drink",
     distributor: "Amazon",
   },
   {
@@ -10327,441 +10391,441 @@ export const entries = [
     date: "2022-10-18 17:53:10.160000",
     name: "Claire",
     weight: 1052,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 17:54:01.794000",
     name: "Claire",
     weight: 1053,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 17:54:27.132000",
     name: "Claire",
     weight: 1054,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 17:54:51.880000",
     name: "Claire",
     weight: 1055,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 17:59:38.963000",
     name: "Claire",
     weight: 932,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:00:09.336000",
     name: "Claire",
     weight: 1134,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:00:35.600000",
     name: "Claire",
     weight: 838,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:01:03.292000",
     name: "Claire",
     weight: 1147,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:01:30.052000",
     name: "Claire",
     weight: 1056,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:01:56.835000",
     name: "Claire",
     weight: 1140,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:02:20.847000",
     name: "Claire",
     weight: 822,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:07:19.191000",
     name: "Claire",
     weight: 1158,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:07:50.929000",
     name: "Claire",
     weight: 1050,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:08:22.181000",
     name: "Claire",
     weight: 954,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:10:12.333000",
     name: "Claire",
     weight: 1148,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:13:17.245000",
     name: "Claire",
     weight: 1050,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:13:58.828000",
     name: "Claire",
     weight: 1917,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:22:31.544000",
     name: "Claire",
     weight: 2177,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:32:09.933000",
     name: "Claire",
     weight: 1961,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:32:47.193000",
     name: "Claire",
     weight: 782,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:33:17.967000",
     name: "Claire",
     weight: 1089,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 18:33:47.663000",
     name: "Claire",
     weight: 1848,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 19:11:17.524000",
     name: "Claire",
     weight: 803,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 19:11:54.871000",
     name: "Claire",
     weight: 387,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 19:14:02.223000",
     name: "Claire",
     weight: 531,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 19:15:01.798000",
     name: "Claire",
     weight: 1942,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 19:15:32.678000",
     name: "Claire",
     weight: 1080,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 00:00:00",
     name: "Claire",
     weight: 1049,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 00:00:00",
     name: "Claire",
     weight: 1052,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 00:00:00",
     name: "Claire",
     weight: 1533,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-18 19:22:59.311000",
     name: "Claire",
     weight: 1510,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:44:26.231000",
     name: "Claire",
     weight: 1017,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:45:21.096000",
     name: "Claire",
     weight: 1403,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:45:51.944000",
     name: "Claire",
     weight: 1310,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:46:19.906000",
     name: "Claire",
     weight: 1008,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:46:51.450000",
     name: "Claire",
     weight: 998,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:47:23.679000",
     name: "Claire",
     weight: 1011,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:47:50.274000",
     name: "Claire",
     weight: 1008,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:48:17.437000",
     name: "Claire",
     weight: 1007,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:48:46.415000",
     name: "Claire",
     weight: 982,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:49:23.570000",
     name: "Claire",
     weight: 982,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:51:27.824000",
     name: "Claire",
     weight: 1040,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:52:04.042000",
     name: "Claire",
     weight: 1289,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:52:35.812000",
     name: "Claire",
     weight: 979,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:53:06.287000",
     name: "Claire",
     weight: 1014,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:53:41.773000",
     name: "Claire",
     weight: 984,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:54:09.210000",
     name: "Claire",
     weight: 978,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:54:37.887000",
     name: "Claire",
     weight: 1015,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:55:09.144000",
     name: "Claire",
     weight: 1101,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:55:51.166000",
     name: "Claire",
     weight: 1022,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:56:20.942000",
     name: "Claire",
     weight: 1016,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:56:52.654000",
     name: "Claire",
     weight: 1014,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:58:46.236000",
     name: "Claire",
     weight: 1069,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:59:17.816000",
     name: "Claire",
     weight: 1070,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 10:59:46.890000",
     name: "Claire",
     weight: 1012,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 11:00:22.118000",
     name: "Claire",
     weight: 1021,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 11:00:48.731000",
     name: "Claire",
     weight: 1033,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 11:01:32.679000",
     name: "Claire",
     weight: 1038,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 11:02:09.206000",
     name: "Claire",
     weight: 1012,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 11:02:40.120000",
     name: "Claire",
     weight: 870,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 11:03:11.759000",
     name: "Claire",
     weight: 1378,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 11:03:39.858000",
     name: "Claire",
     weight: 982,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-10-20 11:04:12.311000",
     name: "Claire",
     weight: 1045,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
@@ -11188,112 +11252,112 @@ export const entries = [
     date: "2022-11-15 15:43:22.816000",
     name: "Beverly Pinn",
     weight: 1033,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:44:03.557000",
     name: "Beverly Pinn",
     weight: 1049,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:44:41.452000",
     name: "Beverly Pinn",
     weight: 936,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:45:36.863000",
     name: "Beverly Pinn",
     weight: 1130,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:46:16.151000",
     name: "Beverly Pinn",
     weight: 1051,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:46:52.762000",
     name: "Beverly Pinn",
     weight: 846,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:47:26.038000",
     name: "Beverly Pinn",
     weight: 1038,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:48:12.294000",
     name: "Beverly Pinn",
     weight: 1031,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:48:44.602000",
     name: "Beverly Pinn",
     weight: 1034,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:49:16.713000",
     name: "Beverly Pinn",
     weight: 1235,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:49:52.448000",
     name: "Beverly Pinn",
     weight: 943,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:57:30.094000",
     name: "Beverly Pinn",
     weight: 1134,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 15:58:07.026000",
     name: "Beverly Pinn",
     weight: 1244,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 16:00:22.418000",
     name: "Beverly Pinn",
     weight: 1212,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 16:03:46.124000",
     name: "Beverly Pinn",
     weight: 964,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 16:10:31.510000",
     name: "Beverly Pinn",
     weight: 1234,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
@@ -11307,56 +11371,56 @@ export const entries = [
     date: "2022-11-15 16:18:23.579000",
     name: "Claire",
     weight: 962,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 16:20:27.750000",
     name: "Claire",
     weight: 1026,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 16:20:44.430000",
     name: "Claire",
     weight: 1034,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 16:27:32.940000",
     name: "Claire",
     weight: 998,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 16:28:22.134000",
     name: "Claire",
     weight: 1163,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 16:31:14.312000",
     name: "Claire",
     weight: 1224,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 16:34:39.302000",
     name: "Claire",
     weight: 1170,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
     date: "2022-11-15 16:40:39.818000",
     name: "Claire",
     weight: 1124,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     distributor: "Dole",
   },
   {
@@ -12129,28 +12193,3954 @@ export const entries = [
     category: "Assorted Dry",
     distributor: "Donation",
   },
-];
-
-export const distributorList = [
-  "Amazon", // final
-  "Donation", // final
-  "Common Market", // final
-  "BCF", // final
-  "Other", // final
-  "McCormick", // final
-  "Walmart", // final
-  "Dole", // final
-  "Sandtown", // final
-  "Dannon", // final
-  "First Fruits Farm", // final
-  "Alto Dale Farm", // final
-  "Clemens Food Group", // final
-  "Dietz & Watson", // final
-  "EMD", // final
-  "Farmlink [Mauricio]", // final
-  "Guinness", // final
-  "H and S Bakery", // final
-  "Henderson-Hopkins", // final
+  {
+		date: "2023-01-01 12:59:08",
+		name: "Vincent Faulk",
+		weight: "106",
+		category: "Pet Supplies",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-01 12:59:41",
+		name: "Vincent Faulk",
+		weight: "498",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-01 13:00:24",
+		name: "Vincent Faulk",
+		weight: "203",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-01 13:01:25",
+		name: "Vincent Faulk",
+		weight: "177",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-01 13:02:45",
+		name: "Vincent Faulk",
+		weight: "620",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-10 00:00:00",
+		name: "Claire",
+		weight: "18805",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-10 11:59:13",
+		name: "Claire",
+		weight: "158",
+		category: "Assorted Dry",
+		distributor: "Homewood Friends"
+	},
+	{
+		date: "2023-01-11 20:52:07",
+		name: "Claire",
+		weight: "439",
+		category: "Dairy",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-11 20:52:29",
+		name: "Claire",
+		weight: "504",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-11 20:52:47",
+		name: "Claire",
+		weight: "554",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-11 20:53:17",
+		name: "Claire",
+		weight: "350",
+		category: "Frozen [Not Meat]",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-11 20:53:39",
+		name: "Claire",
+		weight: "864",
+		category: "Dairy",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-11 20:53:59",
+		name: "Claire",
+		weight: "1396",
+		category: "Meat [Raw]",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-11 20:54:39",
+		name: "Claire",
+		weight: "742",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-11 20:55:03",
+		name: "Claire",
+		weight: "2021",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:55:31",
+		name: "Claire",
+		weight: "2019",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:56:05",
+		name: "Claire",
+		weight: "2022",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:56:23",
+		name: "Claire",
+		weight: "2023",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:56:39",
+		name: "Claire",
+		weight: "2021",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:57:04",
+		name: "Claire",
+		weight: "2022",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:57:24",
+		name: "Claire",
+		weight: "2018",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:57:42",
+		name: "Claire",
+		weight: "2021",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:58:03",
+		name: "Claire",
+		weight: "2023",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:58:22",
+		name: "Claire",
+		weight: "2020",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:58:42",
+		name: "Claire",
+		weight: "2021",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-11 20:58:59",
+		name: "Claire",
+		weight: "673",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-01-17 11:42:07",
+		name: "Claire",
+		weight: "130",
+		category: "Produce",
+		distributor: "So What Else"
+	},
+	{
+		date: "2023-01-17 11:42:49",
+		name: "Claire",
+		weight: "563",
+		category: "Drinks [Dry]",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-17 11:43:16",
+		name: "Claire",
+		weight: "849",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-17 11:43:35",
+		name: "Claire",
+		weight: "665",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-17 11:43:57",
+		name: "Claire",
+		weight: "1217",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-17 11:44:18",
+		name: "Claire",
+		weight: "606",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-17 11:45:07",
+		name: "Claire",
+		weight: "199",
+		category: "Cleaning Supplies",
+		distributor: "Tubman house"
+	},
+	{
+		date: "2023-01-17 11:45:27",
+		name: "Claire",
+		weight: "13",
+		category: "Assorted Dry",
+		distributor: "Donation"
+	},
+	{
+		date: "2023-01-17 16:28:20",
+		name: "Claire",
+		weight: "97",
+		category: "Household",
+		distributor: "Walmart"
+	},
+	{
+		date: "2023-01-17 16:28:49",
+		name: "Claire",
+		weight: "131",
+		category: "Pet Supplies",
+		distributor: "Walmart"
+	},
+	{
+		date: "2023-01-17 16:29:12",
+		name: "Claire",
+		weight: "152",
+		category: "Pet Supplies",
+		distributor: "Walmart"
+	},
+	{
+		date: "2023-01-17 16:29:45",
+		name: "Claire",
+		weight: "574",
+		category: "Assorted Dry",
+		distributor: "Walmart"
+	},
+	{
+		date: "2023-01-19 14:11:08",
+		name: "Claire",
+		weight: "112",
+		category: "Assorted Dry",
+		distributor: "Donation"
+	},
+	{
+		date: "2023-01-24 12:06:07",
+		name: "Claire",
+		weight: "148",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-24 12:06:31",
+		name: "Claire",
+		weight: "380",
+		category: "Assorted Fridge",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-24 12:06:50",
+		name: "Claire",
+		weight: "372",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-24 12:07:15",
+		name: "Claire",
+		weight: "669",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-24 12:07:44",
+		name: "Claire",
+		weight: "44",
+		category: "Personal Care",
+		distributor: "Homewood Friends"
+	},
+	{
+		date: "2023-01-27 12:14:51",
+		name: "Claire",
+		weight: "1102",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 12:15:07",
+		name: "Claire",
+		weight: "1272",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 12:15:33",
+		name: "Claire",
+		weight: "1271",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 12:15:51",
+		name: "Claire",
+		weight: "1251",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 12:16:09",
+		name: "Claire",
+		weight: "1102",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 12:16:29",
+		name: "Claire",
+		weight: "1258",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 12:21:56",
+		name: "Claire",
+		weight: "1253",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 12:39:22",
+		name: "Claire",
+		weight: "1262",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 12:39:46",
+		name: "Claire",
+		weight: "1088",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 12:40:21",
+		name: "Claire",
+		weight: "1112",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 13:01:24",
+		name: "Claire",
+		weight: "1088",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 00:00:00",
+		name: "Claire",
+		weight: "1067",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 13:18:41",
+		name: "Claire",
+		weight: "1073",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 13:28:09",
+		name: "Claire",
+		weight: "1111",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 13:28:30",
+		name: "Claire",
+		weight: "1253",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 13:31:19",
+		name: "Claire",
+		weight: "1099",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 13:38:56",
+		name: "Claire",
+		weight: "1090",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 13:42:14",
+		name: "Claire",
+		weight: "1116",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 14:08:57",
+		name: "Nailah Bishop",
+		weight: "1069",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 14:09:47",
+		name: "Nailah Bishop",
+		weight: "565",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 14:15:12",
+		name: "Nailah Bishop",
+		weight: "1093",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 14:22:55",
+		name: "Nailah Bishop",
+		weight: "1082",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 14:34:43",
+		name: "Nailah Bishop",
+		weight: "1112",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 14:39:26",
+		name: "Nailah Bishop",
+		weight: "1120",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 14:45:37",
+		name: "Nailah Bishop",
+		weight: "1111",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 14:49:41",
+		name: "Nailah Bishop",
+		weight: "1101",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 14:58:21",
+		name: "Nailah Bishop",
+		weight: "1087",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 15:01:58",
+		name: "Nailah Bishop",
+		weight: "1090",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 15:05:56",
+		name: "Nailah Bishop",
+		weight: "1083",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 15:11:24",
+		name: "Nailah Bishop",
+		weight: "1111",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 15:29:55",
+		name: "Nailah Bishop",
+		weight: "1065",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 15:34:49",
+		name: "Nailah Bishop",
+		weight: "1091",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 15:39:54",
+		name: "Nailah Bishop",
+		weight: "1063",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 15:44:31",
+		name: "Nailah Bishop",
+		weight: "1057",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 16:19:38",
+		name: "Nailah Bishop",
+		weight: "1106",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 16:22:58",
+		name: "Nailah Bishop",
+		weight: "1121",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 16:31:16",
+		name: "Nailah Bishop",
+		weight: "1107",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-27 16:37:52",
+		name: "Nailah Bishop",
+		weight: "1089",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-01-31 12:39:38",
+		name: "Claire",
+		weight: "114",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-31 12:40:02",
+		name: "Claire",
+		weight: "805",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-31 12:40:25",
+		name: "Claire",
+		weight: "410",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-31 12:40:52",
+		name: "Claire",
+		weight: "464",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-01-31 12:41:21",
+		name: "Claire",
+		weight: "45",
+		category: "Baby Supplies",
+		distributor: "Homewood Friends"
+	},
+	{
+		date: "2023-02-03 15:21:47",
+		name: "Kamryn Brown",
+		weight: "225",
+		category: "Other",
+		distributor: "Walmart"
+	},
+	{
+		date: "2023-02-03 15:22:53",
+		name: "Kamryn Brown",
+		weight: "177",
+		category: "Other",
+		distributor: "Walmart"
+	},
+	{
+		date: "2023-02-03 15:23:32",
+		name: "Kamryn Brown",
+		weight: "307",
+		category: "Other",
+		distributor: "Walmart"
+	},
+	{
+		date: "2023-02-03 15:24:04",
+		name: "Kamryn Brown",
+		weight: "182",
+		category: "Pet Supplies",
+		distributor: "Walmart"
+	},
+	{
+		date: "2023-02-03 15:56:34",
+		name: "Kamryn Brown",
+		weight: "25817.20",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-02-03 15:57:03",
+		name: "Kamryn Brown",
+		weight: "36403.53",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-02-05 14:38:21",
+		name: "Juanita Chandler",
+		weight: "29",
+		category: "Health & Beauty Products",
+		distributor: "Homewood meeting "
+	},
+	{
+		date: "2023-02-05 14:39:21",
+		name: "Juanita Chandler",
+		weight: "594",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-05 14:40:21",
+		name: "Juanita Chandler",
+		weight: "568",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-05 14:41:37",
+		name: "Juanita Chandler",
+		weight: "381",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-05 14:43:48",
+		name: "Juanita Chandler",
+		weight: "385",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-07 12:05:28",
+		name: "Claire",
+		weight: "43145.33",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-02-07 12:06:08",
+		name: "Claire",
+		weight: "27248.15",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-02-09 17:09:00",
+		name: "Claire",
+		weight: "18675.44",
+		category: "Canned Goods",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-02-10 00:00:00",
+		name: "Claire",
+		weight: "14073.72",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-02-12 00:00:00",
+		name: "Juanita Chandler",
+		weight: "530",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-12 12:41:26",
+		name: "Juanita Chandler",
+		weight: "617",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-12 12:42:19",
+		name: "Juanita Chandler",
+		weight: "286",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-12 12:43:34",
+		name: "Juanita Chandler",
+		weight: "282",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-12 00:00:00",
+		name: "Claire",
+		weight: "13",
+		category: "Personal Care",
+		distributor: "Homewood Friends"
+	},
+	{
+		date: "2023-02-15 00:00:00",
+		name: "Claire",
+		weight: "14975",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-15 17:34:28",
+		name: "Claire",
+		weight: "654",
+		category: "Drinks [Fridge]",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-15 17:45:36",
+		name: "Tina Paquet",
+		weight: "1321",
+		category: "Drinks [Fridge]",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-15 17:46:04",
+		name: "Tina Paquet",
+		weight: "1726",
+		category: "Drinks [Fridge]",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-15 17:51:40",
+		name: "Tina Paquet",
+		weight: "1282",
+		category: "Assorted Fridge",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-15 17:55:01",
+		name: "Tina Paquet",
+		weight: "1608",
+		category: "Dairy",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-15 18:00:00",
+		name: "Tina Paquet",
+		weight: "2073",
+		category: "Drinks [Fridge]",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-15 18:02:37",
+		name: "Tina Paquet",
+		weight: "2105",
+		category: "Drinks [Fridge]",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-15 18:06:22",
+		name: "Tina Paquet",
+		weight: "2094",
+		category: "Drinks [Fridge]",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-15 18:10:49",
+		name: "Tina Paquet",
+		weight: "1137",
+		category: "Drinks [Fridge]",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-15 18:14:32",
+		name: "Tina Paquet",
+		weight: "1303",
+		category: "Drinks [Fridge]",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-17 13:57:39",
+		name: "Xiomara Rodriguez",
+		weight: "79",
+		category: "Household",
+		distributor: "Love and cornbread "
+	},
+	{
+		date: "2023-02-18 11:57:36",
+		name:  "Other",
+		weight: "130",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "Sysco"
+	},
+	{
+		date: "2023-02-19 12:06:05",
+		name: "Juanita Chandler",
+		weight: "608",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-19 12:08:45",
+		name: "Juanita Chandler",
+		weight: "421",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-19 12:09:59",
+		name: "Juanita Chandler",
+		weight: "819",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-19 12:12:37",
+		name: "Juanita Chandler",
+		weight: "441",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-19 13:58:19",
+		name: "Juanita Chandler",
+		weight: "46",
+		category: "Health & Beauty Products",
+		distributor: "Homewood Friends"
+	},
+	{
+		date: "2023-02-22 14:43:36",
+		name: "Juanita Chandler",
+		weight: "582",
+		category: "Danone - Yogurt",
+		distributor: "Dannon "
+	},
+	{
+		date: "2023-02-22 14:44:48",
+		name: "Juanita Chandler",
+		weight: "575",
+		category: "Danone - Yogurt",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-22 14:45:53",
+		name: "Juanita Chandler",
+		weight: "592",
+		category: "Danone - Yogurt",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-22 14:47:13",
+		name: "Juanita Chandler",
+		weight: "573",
+		category: "Danone - Yogurt",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-22 14:48:22",
+		name: "Juanita Chandler",
+		weight: "854",
+		category: "Danone - Yogurt",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-22 14:49:28",
+		name: "Juanita Chandler",
+		weight: "598",
+		category: "Danone - Yogurt",
+		distributor: "Dannon"
+	},
+	{
+		date: "2023-02-22 14:50:34",
+		name: "Juanita Chandler",
+		weight: "704",
+		category: "Household",
+		distributor: "Whitebox"
+	},
+	{
+		date: "2023-02-22 14:51:42",
+		name: "Juanita Chandler",
+		weight: "462",
+		category: "Household",
+		distributor: "Whitebox"
+	},
+	{
+		date: "2023-02-24 17:17:15",
+		name: "Juanita Chandler",
+		weight: "300",
+		category: "Produce",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-02-26 11:53:47",
+		name: "Juanita Chandler",
+		weight: "491",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-26 11:59:51",
+		name: "Juanita Chandler",
+		weight: "347",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-26 12:11:50",
+		name: "Juanita Chandler",
+		weight: "303",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-02-26 13:27:34",
+		name: "Juanita Chandler",
+		weight: "233",
+		category: "Household",
+		distributor: "Homewood Friends"
+	},
+	{
+		date: "2023-03-01 15:07:35",
+		name: "Juanita Chandler",
+		weight: "135",
+		category: "Meat [Raw]",
+		distributor: "Holly Poultry"
+	},
+	{
+		date: "2023-03-01 15:09:10",
+		name: "Juanita Chandler",
+		weight: "290",
+		category: "Produce",
+		distributor: "Gotham farm"
+	},
+	{
+		date: "2023-03-01 15:10:19",
+		name: "Juanita Chandler",
+		weight: "293",
+		category: "Produce",
+		distributor: "Gotham Farm"
+	},
+	{
+		date: "2023-03-01 15:11:41",
+		name: "Juanita Chandler",
+		weight: "369",
+		category: "Produce",
+		distributor: "Gotham Farm"
+	},
+	{
+		date: "2023-03-01 01:00:01",
+		name: "Safire Windley",
+		weight: "85",
+		category: "Health & Beauty Products",
+		distributor: "Love and cornbread "
+	},
+	{
+		date: "2023-03-01 17:39:27",
+		name: "Luke Mayhew",
+		weight: "26",
+		category: "Canned Goods",
+		distributor: "Homewood friends meeting"
+	},
+	{
+		date: "2023-03-02 15:31:39",
+		name: "Norma Kriger",
+		weight: "1790",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-02 15:44:43",
+		name: "Norma Kriger",
+		weight: "706",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-02 15:45:48",
+		name: "Norma Kriger",
+		weight: "406",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-02 15:49:48",
+		name: "Norma Kriger",
+		weight: "971",
+		category: "Canned Goods",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-02 15:54:25",
+		name: "Norma Kriger",
+		weight: "1885",
+		category: "Canned Goods",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-02 16:00:12",
+		name: "Norma Kriger",
+		weight: "714",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-02 16:03:41",
+		name: "Norma Kriger",
+		weight: "1547",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-02 16:10:36",
+		name: "Norma Kriger",
+		weight: "2020",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-02 16:15:46",
+		name: "Norma Kriger",
+		weight: "802",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-02 16:20:04",
+		name: "Norma Kriger",
+		weight: "1524",
+		category: "Spices",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-02 16:25:15",
+		name: "Norma Kriger",
+		weight: "1061",
+		category: "Condiments",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-03 16:14:57",
+		name: "Nastaran Keshmiri",
+		weight: "1865",
+		category: "Frozen [Not Meat]",
+		distributor: "So what else sysco "
+	},
+	{
+		date: "2023-03-03 16:19:39",
+		name: "Nastaran Keshmiri",
+		weight: "360",
+		category: "Meat [Raw]",
+		distributor: "So what else sysco "
+	},
+	{
+		date: "2023-03-03 16:21:21",
+		name: "Nastaran Keshmiri",
+		weight: "274",
+		category: "Produce",
+		distributor: "So what else sysco"
+	},
+	{
+		date: "2023-03-03 16:27:22",
+		name: "Nastaran Keshmiri",
+		weight: "1893",
+		category: "Frozen [Not Meat]",
+		distributor: "So what else sysco"
+	},
+	{
+		date: "2023-03-03 16:31:47",
+		name: "Nastaran Keshmiri",
+		weight: "1849",
+		category: "Frozen [Not Meat]",
+		distributor: "So what else sysco"
+	},
+	{
+		date: "2023-03-03 16:37:01",
+		name: "Nastaran Keshmiri",
+		weight: "1836",
+		category: "Frozen [Not Meat]",
+		distributor: "So what else Sysco"
+	},
+	{
+		date: "2023-03-03 16:40:49",
+		name: "Nastaran Keshmiri",
+		weight: "1864",
+		category: "Frozen [Not Meat]",
+		distributor: "So what else Sysco"
+	},
+	{
+		date: "2023-03-03 16:46:32",
+		name: "Nastaran Keshmiri",
+		weight: "1864",
+		category: "Frozen [Not Meat]",
+		distributor: "So what else Sysco"
+	},
+	{
+		date: "2023-03-05 23:09:20",
+		name: "Juanita Chandler",
+		weight: "102",
+		category: "Dairy",
+		distributor: "Bored COW"
+	},
+	{
+		date: "2023-03-05 23:11:43",
+		name: "Juanita Chandler",
+		weight: "62",
+		category: "Household",
+		distributor: "Homewood Friends"
+	},
+	{
+		date: "2023-03-05 23:18:33",
+		name: "Juanita Chandler",
+		weight: "238",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-05 23:20:06",
+		name: "Juanita Chandler",
+		weight: "534",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-05 23:21:04",
+		name: "Juanita Chandler",
+		weight: "653",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-05 23:21:45",
+		name: "Juanita Chandler",
+		weight: "95",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-07 15:45:38",
+		name: "Beverly Pinn",
+		weight: "721",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-07 15:46:42",
+		name: "Beverly Pinn",
+		weight: "918",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 10:32:12",
+		name: "Safire Windley",
+		weight: "1749",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 00:00:00",
+		name: "Safire Windley",
+		weight: "672",
+		category: "Snacks",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 11:02:33",
+		name: "Safire Windley",
+		weight: "1398",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 11:04:47",
+		name: "Safire Windley",
+		weight: "1083",
+		category: "Spices",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 11:22:07",
+		name: "Safire Windley",
+		weight: "807",
+		category: "Assorted Dry",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 11:23:49",
+		name: "Safire Windley",
+		weight: "748",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 11:26:27",
+		name: "Safire Windley",
+		weight: "806",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 11:53:04",
+		name: "Safire Windley",
+		weight: "1257",
+		category: "Assorted Dry",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 11:54:03",
+		name: "Safire Windley",
+		weight: "1949",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 11:54:45",
+		name: "Safire Windley",
+		weight: "1959",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-08 18:48:58",
+		name: "Tina Paquet",
+		weight: "1400",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 18:54:43",
+		name: "Tina Paquet",
+		weight: "1792",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:03:11",
+		name: "Tina Paquet",
+		weight: "2297",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:08:21",
+		name: "Tina Paquet",
+		weight: "1764",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:15:15",
+		name: "Tina Paquet",
+		weight: "1762",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:22:00",
+		name: "Tina Paquet",
+		weight: "1342",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:26:05",
+		name: "Tina Paquet",
+		weight: "1764",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:30:31",
+		name: "Tina Paquet",
+		weight: "1769",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:34:37",
+		name: "Tina Paquet",
+		weight: "697",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:39:07",
+		name: "Tina Paquet",
+		weight: "1768",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:43:41",
+		name: "Tina Paquet",
+		weight: "691",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:47:57",
+		name: "Tina Paquet",
+		weight: "1761",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:51:55",
+		name: "Tina Paquet",
+		weight: "687",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 19:56:47",
+		name: "Tina Paquet",
+		weight: "693",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 20:04:04",
+		name: "Tina Paquet",
+		weight: "694",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 20:08:34",
+		name: "Tina Paquet",
+		weight: "703",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 20:12:46",
+		name: "Tina Paquet",
+		weight: "685",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 20:16:14",
+		name: "Tina Paquet",
+		weight: "686",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 20:19:35",
+		name: "Tina Paquet",
+		weight: "685",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 20:25:02",
+		name: "Tina Paquet",
+		weight: "691",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 20:43:53",
+		name: "Tina Paquet",
+		weight: "1696",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 20:48:02",
+		name: "Tina Paquet",
+		weight: "1762",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 20:52:27",
+		name: "Tina Paquet",
+		weight: "336",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 20:57:00",
+		name: "Tina Paquet",
+		weight: "2278",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 21:01:34",
+		name: "Tina Paquet",
+		weight: "685",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 21:05:01",
+		name: "Tina Paquet",
+		weight: "1770",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 00:00:00",
+		name: "Claire",
+		weight: "1281",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 21:20:40",
+		name: "Tina Paquet",
+		weight: "660",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 21:24:58",
+		name: "Tina Paquet",
+		weight: "688",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-08 21:34:01",
+		name: "Tina Paquet",
+		weight: "802",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-09 00:00:00",
+		name: "Claire",
+		weight: "11936.00",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-10 16:53:27",
+		name: "Claire",
+		weight: "17166.44",
+		category: "Frozen [Not Meat]",
+		distributor: "Sysco-So What Else"
+	},
+	{
+		date: "2023-03-12 12:45:44",
+		name: "Juanita Chandler",
+		weight: "803",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-12 12:56:26",
+		name: "Juanita Chandler",
+		weight: "57",
+		category: "Health & Beauty Products",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-12 12:57:27",
+		name: "Juanita Chandler",
+		weight: "474",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-12 12:58:16",
+		name: "Juanita Chandler",
+		weight: "566",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-12 13:04:39",
+		name: "Juanita Chandler",
+		weight: "159",
+		category: "Assorted Dry",
+		distributor: "Truth to Power"
+	},
+	{
+		date: "2023-03-19 12:17:32",
+		name: "Juanita Chandler",
+		weight: "580",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-19 12:20:46",
+		name: "Juanita Chandler",
+		weight: "378",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-19 12:24:01",
+		name: "Juanita Chandler",
+		weight: "966",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-19 12:24:53",
+		name: "Juanita Chandler",
+		weight: "650",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-19 00:00:00",
+		name: "Claire",
+		weight: "650",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-19 13:07:58",
+		name: "Juanita Chandler",
+		weight: "45",
+		category: "Household",
+		distributor: "Homewood friends"
+	},
+	{
+		date: "2023-03-22 14:22:31",
+		name: "Juanita Chandler",
+		weight: "12",
+		category: "Household",
+		distributor: "Other Organization"
+	},
+	{
+		date: "2023-03-22 17:40:15",
+		name: "Juanita Chandler",
+		weight: "2221",
+		category: "Snacks",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 18:00:19",
+		name: "Juanita Chandler",
+		weight: "855",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 18:03:33",
+		name: "Juanita Chandler",
+		weight: "735",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 18:12:27",
+		name: "Juanita Chandler",
+		weight: "1352",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 18:20:15",
+		name: "Juanita Chandler",
+		weight: "1479",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 18:24:28",
+		name: "Juanita Chandler",
+		weight: "1212",
+		category: "Canned Goods",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 18:40:25",
+		name: "Juanita Chandler",
+		weight: "829",
+		category: "Canned Goods",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 18:45:20",
+		name: "Juanita Chandler",
+		weight: "323",
+		category: "Assorted Dry",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 18:50:38",
+		name: "Luke Mayhew",
+		weight: "921",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 19:05:47",
+		name: "Luke Mayhew",
+		weight: "930",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "Emd"
+	},
+	{
+		date: "2023-03-22 19:14:32",
+		name: "Luke Mayhew",
+		weight: "1969",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 19:17:32",
+		name: "Luke Mayhew",
+		weight: "495",
+		category: "Snacks",
+		distributor: "EMD "
+	},
+	{
+		date: "2023-03-22 19:21:27",
+		name: "Luke Mayhew",
+		weight: "711",
+		category: "Snacks",
+		distributor: "EMD "
+	},
+	{
+		date: "2023-03-22 19:25:52",
+		name: "Jonathan Shay",
+		weight: "1979",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 19:29:43",
+		name: "Jonathan Shay",
+		weight: "2138",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-22 19:36:45",
+		name: "Jonathan Shay",
+		weight: "913",
+		category: "Snacks",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-24 15:28:46",
+		name: "Juanita Chandler",
+		weight: "332",
+		category: "Produce",
+		distributor: "Bowery/so what else"
+	},
+	{
+		date: "2023-03-24 15:30:29",
+		name: "Juanita Chandler",
+		weight: "338",
+		category: "Produce",
+		distributor: "Bowery/so what else"
+	},
+	{
+		date: "2023-03-24 15:32:04",
+		name: "Juanita Chandler",
+		weight: "342",
+		category: "Produce",
+		distributor: "Bowery / so what else"
+	},
+	{
+		date: "2023-03-24 16:40:29",
+		name: "Juanita Chandler",
+		weight: "102",
+		category: "Produce",
+		distributor: "Bowery / so what else"
+	},
+	{
+		date: "2023-03-24 16:51:52",
+		name: "Juanita Chandler",
+		weight: "157",
+		category: "Produce",
+		distributor: "Bowery / so what else"
+	},
+	{
+		date: "2023-03-24 16:54:52",
+		name: "Juanita Chandler",
+		weight: "345",
+		category: "Produce",
+		distributor: "Bowery / so what else"
+	},
+	{
+		date: "2023-03-24 17:03:05",
+		name: "Juanita Chandler",
+		weight: "191",
+		category: "Produce",
+		distributor: "Bowery / so what else"
+	},
+	{
+		date: "2023-03-24 17:08:22",
+		name: "Juanita Chandler",
+		weight: "113",
+		category: "Produce",
+		distributor: "Bowery /so what else"
+	},
+	{
+		date: "2023-03-24 17:09:46",
+		name: "Juanita Chandler",
+		weight: "288",
+		category: "Produce",
+		distributor: "Bowery / so what else"
+	},
+	{
+		date: "2023-03-24 17:13:20",
+		name: "Juanita Chandler",
+		weight: "315",
+		category: "Produce",
+		distributor: "Browery / so what else"
+	},
+	{
+		date: "2023-03-26 12:07:36",
+		name: "Juanita Chandler",
+		weight: "359",
+		category: "Assorted Fridge",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-26 12:09:24",
+		name: "Juanita Chandler",
+		weight: "613",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-26 12:10:26",
+		name: "Juanita Chandler",
+		weight: "253",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-26 12:11:21",
+		name: "Juanita Chandler",
+		weight: "465",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-03-26 13:11:37",
+		name: "Juanita Chandler",
+		weight: "27",
+		category: "Health & Beauty Products",
+		distributor: "Homewood women"
+	},
+	{
+		date: "2023-03-29 13:04:30",
+		name: "Juanita Chandler",
+		weight: "910",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-29 13:12:01",
+		name: "Juanita Chandler",
+		weight: "1634",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-29 13:13:08",
+		name: "Juanita Chandler",
+		weight: "1713",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-29 13:15:02",
+		name: "Juanita Chandler",
+		weight: "1456",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-29 13:18:49",
+		name: "Juanita Chandler",
+		weight: "2639",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-29 13:26:43",
+		name: "Juanita Chandler",
+		weight: "572",
+		category: "Snacks",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-29 13:29:32",
+		name: "Juanita Chandler",
+		weight: "1951",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-29 13:43:05",
+		name: "Juanita Chandler",
+		weight: "620",
+		category: "Canned Goods",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-29 13:49:04",
+		name: "Juanita Chandler",
+		weight: "1916",
+		category: "Condiments",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-29 14:04:41",
+		name: "Juanita Chandler",
+		weight: "844",
+		category: "Condiments",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-29 14:06:25",
+		name: "Juanita Chandler",
+		weight: "1060",
+		category: "Canned Goods",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-03-30 00:00:00",
+		name: "Claire",
+		weight: "1785",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-30 00:00:00",
+		name: "Claire",
+		weight: "1581",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-30 00:00:00",
+		name: "Claire",
+		weight: "900",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-30 00:00:00",
+		name: "Claire",
+		weight: "1186",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-30 00:00:00",
+		name: "Claire",
+		weight: "1567",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-03-30 14:03:16",
+		name: "Norma Kriger",
+		weight: "685",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 00:00:00",
+		name: "Claire",
+		weight: "475",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 14:18:47",
+		name: "Norma Kriger",
+		weight: "1185",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 14:29:01",
+		name: "Norma Kriger",
+		weight: "1176",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 14:38:53",
+		name: "Norma Kriger",
+		weight: "1081",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 14:42:35",
+		name: "Norma Kriger",
+		weight: "1090",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 14:46:28",
+		name: "Norma Kriger",
+		weight: "1187",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 14:56:00",
+		name: "Norma Kriger",
+		weight: "1164",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 14:59:13",
+		name: "Norma Kriger",
+		weight: "1189",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 15:03:09",
+		name: "Norma Kriger",
+		weight: "1178",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 15:08:33",
+		name: "Norma Kriger",
+		weight: "1166",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 15:18:12",
+		name: "Norma Kriger",
+		weight: "1182",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 15:57:46",
+		name: "Norma Kriger",
+		weight: "837",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 16:03:59",
+		name: "Norma Kriger",
+		weight: "1523",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 16:49:12",
+		name: "Norma Kriger",
+		weight: "1855",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 16:50:14",
+		name: "Norma Kriger",
+		weight: "1181",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 17:04:22",
+		name: "Norma Kriger",
+		weight: "1179",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 17:23:26",
+		name: "Norma Kriger",
+		weight: "1178",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 17:28:03",
+		name: "Andrew Kolodziejczak",
+		weight: "1184",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 17:28:55",
+		name: "Andrew Kolodziejczak",
+		weight: "1177",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 17:30:15",
+		name: "Andrew Kolodziejczak",
+		weight: "1194",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 18:51:23",
+		name: "Lynnette Cromer",
+		weight: "1197",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 18:52:58",
+		name: "Lynnette Cromer",
+		weight: "1178",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 18:56:41",
+		name: "Lynnette Cromer",
+		weight: "1179",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 18:58:15",
+		name: "Lynnette Cromer",
+		weight: "1173",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 18:58:53",
+		name: "Lynnette Cromer",
+		weight: "1180",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 18:59:43",
+		name: "Lynnette Cromer",
+		weight: "1175",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 19:00:31",
+		name: "Lynnette Cromer",
+		weight: "1194",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 19:01:50",
+		name: "Lynnette Cromer",
+		weight: "1179",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 19:03:02",
+		name: "Lynnette Cromer",
+		weight: "1180",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 19:05:29",
+		name: "Lynnette Cromer",
+		weight: "1194",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 19:06:34",
+		name: "Lynnette Cromer",
+		weight: "1187",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 19:13:55",
+		name: "Lynnette Cromer",
+		weight: "1171",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 19:14:33",
+		name: "Lynnette Cromer",
+		weight: "1177",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 19:17:32",
+		name: "Lynnette Cromer",
+		weight: "1189",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 19:31:01",
+		name: "Lynnette Cromer",
+		weight: "1171",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-30 19:34:01",
+		name: "Lynnette Cromer",
+		weight: "1169",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 13:57:12",
+		name: "Juanita Chandler",
+		weight: "1185",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 13:58:19",
+		name: "Juanita Chandler",
+		weight: "1183",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 13:59:04",
+		name: "Juanita Chandler",
+		weight: "1279",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 13:59:53",
+		name: "Juanita Chandler",
+		weight: "1192",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 14:02:43",
+		name: "Juanita Chandler",
+		weight: "1157",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 14:30:33",
+		name: "Juanita Chandler",
+		weight: "1164",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 14:38:00",
+		name: "Juanita Chandler",
+		weight: "1172",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 15:55:09",
+		name: "Juanita Chandler",
+		weight: "1173",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 15:59:58",
+		name: "Juanita Chandler",
+		weight: "1205",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:11:33",
+		name: "Juanita Chandler",
+		weight: "1191",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:20:02",
+		name: "Juanita Chandler",
+		weight: "1188",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:20:48",
+		name: "Juanita Chandler",
+		weight: "1166",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:21:36",
+		name: "Juanita Chandler",
+		weight: "1066",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:22:19",
+		name: "Juanita Chandler",
+		weight: "1162",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:23:08",
+		name: "Juanita Chandler",
+		weight: "1692",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:24:36",
+		name: "Juanita Chandler",
+		weight: "1182",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:25:42",
+		name: "Juanita Chandler",
+		weight: "1152",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:26:45",
+		name: "Juanita Chandler",
+		weight: "1152",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:27:38",
+		name: "Juanita Chandler",
+		weight: "1145",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:28:22",
+		name: "Juanita Chandler",
+		weight: "1149",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:31:29",
+		name: "Juanita Chandler",
+		weight: "1148",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:32:17",
+		name: "Juanita Chandler",
+		weight: "1207",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:33:18",
+		name: "Juanita Chandler",
+		weight: "1159",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:36:26",
+		name: "Juanita Chandler",
+		weight: "1156",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:37:51",
+		name: "Juanita Chandler",
+		weight: "1186",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:40:51",
+		name: "Juanita Chandler",
+		weight: "1813",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:41:28",
+		name: "Juanita Chandler",
+		weight: "1166",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:49:03",
+		name: "Juanita Chandler",
+		weight: "1672",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:50:06",
+		name: "Juanita Chandler",
+		weight: "1175",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:52:33",
+		name: "Juanita Chandler",
+		weight: "1210",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:54:38",
+		name: "Juanita Chandler",
+		weight: "1176",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 16:58:43",
+		name: "Juanita Chandler",
+		weight: "1350",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 17:02:58",
+		name: "Juanita Chandler",
+		weight: "913",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-03-31 17:12:39",
+		name: "Juanita Chandler",
+		weight: "226",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-03-31 17:19:38",
+		name: "Juanita Chandler",
+		weight: "232",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-04-01 16:12:28",
+		name: "Juanita Chandler",
+		weight: "180",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-04-01 16:13:20",
+		name: "Juanita Chandler",
+		weight: "248",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-04-01 16:19:18",
+		name: "Juanita Chandler",
+		weight: "212",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-04-01 16:20:10",
+		name: "Juanita Chandler",
+		weight: "219",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-04-02 12:12:30",
+		name: "Juanita Chandler",
+		weight: "12",
+		category: "Health & Beauty Products",
+		distributor: "Homewood friends"
+	},
+	{
+		date: "2023-04-02 12:13:38",
+		name: "Juanita Chandler",
+		weight: "737",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-02 12:14:22",
+		name: "Juanita Chandler",
+		weight: "466",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-02 12:15:18",
+		name: "Juanita Chandler",
+		weight: "645",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-02 12:19:13",
+		name: "Juanita Chandler",
+		weight: "596",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-02 12:20:14",
+		name: "Juanita Chandler",
+		weight: "499",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-06 11:46:29",
+		name: "Claire",
+		weight: "36595",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-04-06 16:19:19",
+		name: "Claire",
+		weight: "39876",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-04-07 13:13:08",
+		name: "Juanita Chandler",
+		weight: "1122",
+		category: "Produce",
+		distributor: "Sweet seasons"
+	},
+	{
+		date: "2023-04-07 13:14:31",
+		name: "Juanita Chandler",
+		weight: "1401",
+		category: "Produce",
+		distributor: "Sweet Seasons"
+	},
+	{
+		date: "2023-04-07 13:15:36",
+		name: "Juanita Chandler",
+		weight: "942",
+		category: "Produce",
+		distributor: "Sweet Seasons"
+	},
+	{
+		date: "2023-04-07 13:16:38",
+		name: "Juanita Chandler",
+		weight: "599",
+		category: "Produce",
+		distributor: "Sweet Seasons"
+	},
+	{
+		date: "2023-04-07 13:18:10",
+		name: "Juanita Chandler",
+		weight: "1270",
+		category: "Produce",
+		distributor: "Sweet Seasons"
+	},
+	{
+		date: "2023-04-07 13:19:40",
+		name: "Juanita Chandler",
+		weight: "655",
+		category: "Produce",
+		distributor: "Sweet Seasons"
+	},
+	{
+		date: "2023-04-07 13:20:40",
+		name: "Juanita Chandler",
+		weight: "1134",
+		category: "Produce",
+		distributor: "Sweet Seasons"
+	},
+	{
+		date: "2023-04-07 13:21:50",
+		name: "Juanita Chandler",
+		weight: "1828",
+		category: "Produce",
+		distributor: "Sweet Seasons"
+	},
+	{
+		date: "2023-04-07 13:23:39",
+		name: "Juanita Chandler",
+		weight: "1462",
+		category: "Produce",
+		distributor: "Sweet Seasons"
+	},
+	{
+		date: "2023-04-07 15:47:28",
+		name: "Juanita Chandler",
+		weight: "1267",
+		category: "Produce",
+		distributor: "Sweet Seasones"
+	},
+	{
+		date: "2023-04-07 16:04:58",
+		name: "Claire",
+		weight: "42560",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-04-09 11:58:11",
+		name: "JC",
+		weight: "258",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-09 11:58:39",
+		name: "JC",
+		weight: "955",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-09 11:58:58",
+		name: "JC",
+		weight: "616",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-09 11:59:18",
+		name: "JC",
+		weight: "401",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-12 17:18:58",
+		name: "Juanita Chandler",
+		weight: "777",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 17:22:35",
+		name: "Juanita Chandler",
+		weight: "875",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 17:23:22",
+		name: "Juanita Chandler",
+		weight: "953",
+		category: "Danone - Coffee",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 17:24:06",
+		name: "Juanita Chandler",
+		weight: "793",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 17:27:12",
+		name: "Juanita Chandler",
+		weight: "2105",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 17:30:26",
+		name: "Juanita Chandler",
+		weight: "1667",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 17:40:53",
+		name: "Tina Paquet",
+		weight: "1144",
+		category: "Danone - Plant Based Drink",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 17:54:38",
+		name: "Tina Paquet",
+		weight: "2163",
+		category: "Danone - Plant Based Drink",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 17:55:03",
+		name: "Tina Paquet",
+		weight: "2023",
+		category: "Danone - Plant Based Drink",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 17:55:27",
+		name: "Tina Paquet",
+		weight: "2030",
+		category: "Danone - Plant Based Drink",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:01:08",
+		name: "Tina Paquet",
+		weight: "1022",
+		category: "Danone - Fruit Cups",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:03:59",
+		name: "Tina Paquet",
+		weight: "2027",
+		category: "Danone - Plant Based Drink",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:07:26",
+		name: "Tina Paquet",
+		weight: "2023",
+		category: "Danone - Plant Based Drink",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:11:06",
+		name: "Tina Paquet",
+		weight: "832",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:15:12",
+		name: "Tina Paquet",
+		weight: "2037",
+		category: "Danone - Plant Based Drink",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:19:40",
+		name: "Tina Paquet",
+		weight: "1024",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:25:55",
+		name: "Tina Paquet",
+		weight: "1260",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:31:58",
+		name: "Tina Paquet",
+		weight: "1679",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:39:45",
+		name: "Tina Paquet",
+		weight: "952",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:40:10",
+		name: "Tina Paquet",
+		weight: "394",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:45:36",
+		name: "Tina Paquet",
+		weight: "1098",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:49:36",
+		name: "Tina Paquet",
+		weight: "1611",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:55:19",
+		name: "Tina Paquet",
+		weight: "1611",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:55:44",
+		name: "Tina Paquet",
+		weight: "1625",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 18:59:42",
+		name: "Tina Paquet",
+		weight: "986",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 19:00:33",
+		name: "Tina Paquet",
+		weight: "2027",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 19:06:25",
+		name: "Tina Paquet",
+		weight: "1200",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-12 19:13:11",
+		name: "Tina Paquet",
+		weight: "1658",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-14 16:39:58",
+		name: "Claire",
+		weight: "27065",
+		category: "Meat [Raw]",
+		distributor: "Clemens Food Group"
+	},
+	{
+		date: "2023-04-13 00:00:00",
+		name: "Claire",
+		weight: "36622",
+		category: "Danone - Creamer",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-16 12:43:22",
+		name: "Dynashia Woodson",
+		weight: "354",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-16 12:48:45",
+		name: "Dynashia Woodson",
+		weight: "659",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-16 12:49:51",
+		name: "Dynashia Woodson",
+		weight: "405",
+		category: "Assorted Fridge",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-16 12:51:27",
+		name: "Dynashia Woodson",
+		weight: "599",
+		category: "Assorted Fridge",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-04-18 11:22:56",
+		name: "JC",
+		weight: "1522",
+		category: "Assorted Dry",
+		distributor: "Sysco"
+	},
+	{
+		date: "2023-04-18 14:09:23",
+		name: "Beverly Pinn",
+		weight: "264",
+		category: "Produce",
+		distributor: "So what else"
+	},
+	{
+		date: "2023-04-18 00:00:00",
+		name: "Safire Windley",
+		weight: "343",
+		category: "Produce",
+		distributor: "So what else"
+	},
+	{
+		date: "2023-04-18 00:00:00",
+		name: "Claire",
+		weight: "36534",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-19 13:10:19",
+		name: "Beverly Pinn",
+		weight: "25496",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-04-23 13:39:21",
+		name: "Juanita Chandler",
+		weight: "14",
+		category: "Health & Beauty Products",
+		distributor: "Homewood friends"
+	},
+	{
+		date: "2023-05-05 13:59:11",
+		name: "Vincent Faulk",
+		weight: "393",
+		category: "Meat [Raw]",
+		distributor: "Dietz & Watson"
+	},
+	{
+		date: "2023-05-07 13:03:12",
+		name: "Vincent Faulk",
+		weight: "167",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-07 13:04:17",
+		name: "Vincent Faulk",
+		weight: "154",
+		category: "Personal Care",
+		distributor: "Sandtown"
+	},
+	{
+		date: "2023-05-07 13:05:21",
+		name: "Vincent Faulk",
+		weight: "894",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-07 13:06:01",
+		name: "Vincent Faulk",
+		weight: "435",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-10 15:04:23",
+		name: "Juanita Chandler",
+		weight: "240",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-05-10 15:05:26",
+		name: "Juanita Chandler",
+		weight: "231",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-05-10 15:06:44",
+		name: "Juanita Chandler",
+		weight: "90",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-05-10 15:07:38",
+		name: "Juanita Chandler",
+		weight: "225",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-05-10 15:08:38",
+		name: "Juanita Chandler",
+		weight: "223",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-05-11 10:40:33",
+		name: "Safire Windley",
+		weight: "1988",
+		category: "Produce",
+		distributor: "Mauricio"
+	},
+	{
+		date: "2023-05-11 10:55:51",
+		name: "Safire Windley",
+		weight: "1855",
+		category: "Produce",
+		distributor: "Mauricio "
+	},
+	{
+		date: "2023-05-11 10:56:33",
+		name: "Safire Windley",
+		weight: "1983",
+		category: "Produce",
+		distributor: "Mauricio "
+	},
+	{
+		date: "2023-05-11 11:02:03",
+		name: "Safire Windley",
+		weight: "1912",
+		category: "Produce",
+		distributor: "Mauricio "
+	},
+	{
+		date: "2023-05-11 11:14:21",
+		name: "Safire Windley",
+		weight: "2003",
+		category: "Produce",
+		distributor: "Mauricio "
+	},
+	{
+		date: "2023-05-11 11:21:05",
+		name: "Safire Windley",
+		weight: "2021",
+		category: "Produce",
+		distributor: "Mauricio "
+	},
+	{
+		date: "2023-05-11 11:21:49",
+		name: "Safire Windley",
+		weight: "1262",
+		category: "Produce",
+		distributor: "Mauricio "
+	},
+	{
+		date: "2023-05-11 11:25:41",
+		name: "Safire Windley",
+		weight: "1262",
+		category: "Produce",
+		distributor: "Mauricio "
+	},
+	{
+		date: "2023-05-11 00:00:00",
+		name: "Claire",
+		weight: "2020",
+		category: "Produce",
+		distributor: "Mauricio [Farmlink]"
+	},
+	{
+		date: "2023-05-11 00:00:00",
+		name: "Claire",
+		weight: "1920",
+		category: "Produce",
+		distributor: "Mauricio [Farmlink]"
+	},
+	{
+		date: "2023-05-12 15:17:15",
+		name: "Juanita Chandler",
+		weight: "2025",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-12 15:18:26",
+		name: "Juanita Chandler",
+		weight: "2097",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-12 15:25:43",
+		name: "Juanita Chandler",
+		weight: "1746",
+		category: "Assorted Dry",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-12 15:26:47",
+		name: "Juanita Chandler",
+		weight: "2093",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-12 15:30:14",
+		name: "Juanita Chandler",
+		weight: "1752",
+		category: "Assorted Dry",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-12 15:37:42",
+		name: "Juanita Chandler",
+		weight: "933",
+		category: "Snacks",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-12 17:01:19",
+		name: "Mary Jo Gary",
+		weight: "3",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "Roland Park Bagels"
+	},
+	{
+		date: "2023-05-13 16:43:19",
+		name: "Juanita Chandler",
+		weight: "21",
+		category: "Assorted Dry",
+		distributor: "Personal Donation"
+	},
+	{
+		date: "2023-05-13 17:23:09",
+		name: "Juanita Chandler",
+		weight: "1375",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-13 17:24:03",
+		name: "Juanita Chandler",
+		weight: "2049",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-13 17:25:00",
+		name: "Juanita Chandler",
+		weight: "1934",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-13 17:26:57",
+		name: "Juanita Chandler",
+		weight: "1786",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-13 17:27:57",
+		name: "Juanita Chandler",
+		weight: "2116",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-14 12:41:43",
+		name: "Vincent Faulk",
+		weight: "847",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-14 12:42:11",
+		name: "Vincent Faulk",
+		weight: "848",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-14 12:42:44",
+		name: "Vincent Faulk",
+		weight: "575",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-14 12:43:51",
+		name: "Vincent Faulk",
+		weight: "708",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-15 14:08:23",
+		name: "Vincent Faulk",
+		weight: "1132",
+		category: "Assorted Dry",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-15 14:09:18",
+		name: "Vincent Faulk",
+		weight: "1231",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-15 14:11:50",
+		name: "Vincent Faulk",
+		weight: "1740",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-15 14:13:03",
+		name: "Vincent Faulk",
+		weight: "866",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-15 14:13:55",
+		name: "Vincent Faulk",
+		weight: "924",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-15 14:14:42",
+		name: "Vincent Faulk",
+		weight: "662",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-15 14:15:31",
+		name: "Vincent Faulk",
+		weight: "1958",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-15 14:16:15",
+		name: "Vincent Faulk",
+		weight: "1378",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-15 14:17:46",
+		name: "Vincent Faulk",
+		weight: "683",
+		category: "Assorted Dry",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-15 14:18:33",
+		name: "Vincent Faulk",
+		weight: "958",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-15 14:19:23",
+		name: "Vincent Faulk",
+		weight: "1149",
+		category: "Drinks [Dry]",
+		distributor: "EMD"
+	},
+	{
+		date: "2023-05-17 11:57:01",
+		name: "Vincent Faulk",
+		weight: "1569",
+		category: "Danone - Milk",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-17 11:57:29",
+		name: "Vincent Faulk",
+		weight: "1748",
+		category: "Danone - Milk",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-17 11:57:59",
+		name: "Vincent Faulk",
+		weight: "1765",
+		category: "Danone - Milk",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-17 16:11:10",
+		name: "Juanita Chandler",
+		weight: "11",
+		category: "Personal Care",
+		distributor: "U of MD"
+	},
+	{
+		date: "2023-05-17 17:43:00",
+		name: "Juanita Chandler",
+		weight: "468",
+		category: "Meat [Raw]",
+		distributor: "Holly Poultry"
+	},
+	{
+		date: "2023-05-21 12:39:56",
+		name: "Juanita Chandler",
+		weight: "550",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-21 12:41:38",
+		name: "Juanita Chandler",
+		weight: "234",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-21 12:42:53",
+		name: "Juanita Chandler",
+		weight: "227",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-21 12:43:52",
+		name: "Juanita Chandler",
+		weight: "848",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-21 12:44:26",
+		name: "Juanita Chandler",
+		weight: "489",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-21 15:55:21",
+		name: "Juanita Chandler",
+		weight: "53",
+		category: "Health & Beauty Products",
+		distributor: "Quaker "
+	},
+	{
+		date: "2023-05-23 14:32:18",
+		name: "Beverly Pinn",
+		weight: "1658",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-23 14:32:55",
+		name: "Beverly Pinn",
+		weight: "1544",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-23 14:40:38",
+		name: "Beverly Pinn",
+		weight: "1176",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-24 00:00:00",
+		name: "Claire",
+		weight: "25000",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-24 00:00:00",
+		name: "Claire",
+		weight: "25000",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-26 16:11:41",
+		name: "Claire",
+		weight: "12000",
+		category: "Dairy",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-28 12:20:25",
+		name: "Juanita Chandler",
+		weight: "232",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-28 12:44:09",
+		name: "Juanita Chandler",
+		weight: "284",
+		category: "Frozen [Not Meat]",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-28 12:44:51",
+		name: "Juanita Chandler",
+		weight: "796",
+		category: "Frozen [Not Meat]",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-28 12:45:24",
+		name: "Juanita Chandler",
+		weight: "605",
+		category: "Frozen [Not Meat]",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-28 12:47:12",
+		name: "Juanita Chandler",
+		weight: "545",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-28 12:47:44",
+		name: "Juanita Chandler",
+		weight: "446",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-28 14:09:10",
+		name: "Juanita Chandler",
+		weight: "327",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-28 14:09:45",
+		name: "Juanita Chandler",
+		weight: "964",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-05-28 16:13:49",
+		name: "Juanita Chandler",
+		weight: "475",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-28 16:19:56",
+		name: "Juanita Chandler",
+		weight: "427",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-28 16:20:53",
+		name: "Juanita Chandler",
+		weight: "836",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-28 16:24:53",
+		name: "Juanita Chandler",
+		weight: "1843",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-28 16:33:05",
+		name: "Juanita Chandler",
+		weight: "1840",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-05-30 14:32:13",
+		name: "Claire",
+		weight: "122",
+		category: "Assorted Dry",
+		distributor: "Personal Donation (AB)"
+	},
+	{
+		date: "2023-05-31 13:58:32",
+		name: "Juanita Chandler",
+		weight: "120",
+		category: "Produce",
+		distributor: "Bowery "
+	},
+	{
+		date: "2023-05-31 13:59:10",
+		name: "Juanita Chandler",
+		weight: "313",
+		category: "Produce",
+		distributor: "Bowery "
+	},
+	{
+		date: "2023-05-31 13:59:49",
+		name: "Juanita Chandler",
+		weight: "241",
+		category: "Produce",
+		distributor: "Bowery "
+	},
+	{
+		date: "2023-05-31 14:00:33",
+		name: "Juanita Chandler",
+		weight: "314",
+		category: "Produce",
+		distributor: "Bowery"
+	},
+	{
+		date: "2023-05-31 14:01:24",
+		name: "Juanita Chandler",
+		weight: "338",
+		category: "Produce",
+		distributor: "Bowery Farm"
+	},
+	{
+		date: "2023-05-31 14:03:07",
+		name: "Juanita Chandler",
+		weight: "327",
+		category: "Produce",
+		distributor: "Bowery Farm"
+	},
+	{
+		date: "2023-05-31 14:03:54",
+		name: "Juanita Chandler",
+		weight: "323",
+		category: "Produce",
+		distributor: "Bowery Farm"
+	},
+	{
+		date: "2023-05-31 14:08:30",
+		name: "Juanita Chandler",
+		weight: "326",
+		category: "Produce",
+		distributor: "Bowery Farm"
+	},
+	{
+		date: "2023-05-31 14:23:36",
+		name: "Juanita Chandler",
+		weight: "338",
+		category: "Produce",
+		distributor: "Bowery Farm "
+	},
+	{
+		date: "2023-05-31 14:25:04",
+		name: "Juanita Chandler",
+		weight: "337",
+		category: "Produce",
+		distributor: "Bowery Farm"
+	},
+	{
+		date: "2023-05-31 14:25:54",
+		name: "Juanita Chandler",
+		weight: "342",
+		category: "Produce",
+		distributor: "Bowery Farm"
+	},
+	{
+		date: "2023-06-02 09:12:23",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-02 09:14:31",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-02 09:15:45",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-02 09:16:49",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-02 09:18:13",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-02 09:19:20",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-02 16:30:13",
+		name: "Claire",
+		weight: "23228",
+		category: "Meat [Raw]",
+		distributor: "Clemens Food Group"
+	},
+	{
+		date: "2023-06-04 12:40:06",
+		name: "Juanita Chandler",
+		weight: "16",
+		category: "Health & Beauty Products",
+		distributor: "Quaker"
+	},
+	{
+		date: "2023-06-04 12:40:37",
+		name: "Juanita Chandler",
+		weight: "520",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-06-04 12:41:25",
+		name: "Juanita Chandler",
+		weight: "313",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-06-04 12:44:13",
+		name: "Juanita Chandler",
+		weight: "221",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-06-04 12:44:55",
+		name: "Juanita Chandler",
+		weight: "221",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-06-04 12:45:34",
+		name: "Juanita Chandler",
+		weight: "51",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-06-04 12:49:42",
+		name: "Juanita Chandler",
+		weight: "273",
+		category: "Produce",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-06-07 14:11:00",
+		name: "Sara B",
+		weight: "2384",
+		category: "Water",
+		distributor: "Wegmans"
+	},
+	{
+		date: "2023-06-07 14:13:24",
+		name: "Sara B",
+		weight: "2386",
+		category: "Water",
+		distributor: "Wegmans"
+	},
+	{
+		date: "2023-06-08 17:01:41",
+		name: "Claire",
+		weight: "40000",
+		category: "Produce",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-09 09:12:44",
+		name: "Claire",
+		weight: "40000",
+		category: "Drinks [Dry]",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-09 09:20:28",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-09 09:22:35",
+		name: "Claire",
+		weight: "40000",
+		category: "Drinks [Dry]",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-09 14:09:58",
+		name: "Claire",
+		weight: "40000",
+		category: "Assorted Dry",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-09 14:12:59",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-10 15:20:47",
+		name: "Beverly Pinn",
+		weight: "10",
+		category: "Assorted Dry",
+		distributor: "Donation "
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "33",
+		category: "Cleaning Supplies",
+		distributor: "Homewood friends"
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "397",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "781",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "541",
+		category: "Assorted Dry",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "1489",
+		category: "Drinks [Dry]",
+		distributor: "Amazon"
+	},
+	{
+		date: "2023-06-13 09:45:35",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-13 16:46:36",
+		name: "Claire",
+		weight: "26",
+		category: "Grains (rice, pasta, etc.)",
+		distributor: "Donation (community event)"
+	},
+	{
+		date: "2023-06-14 16:04:42",
+		name: "Karen Moore",
+		weight: "682",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:05:16",
+		name: "Karen Moore",
+		weight: "682",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:05:56",
+		name: "Karen Moore",
+		weight: "522",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:06:26",
+		name: "Karen Moore",
+		weight: "532",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:06:58",
+		name: "Karen Moore",
+		weight: "445",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:07:24",
+		name: "Karen Moore",
+		weight: "534",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:08:36",
+		name: "Karen Moore",
+		weight: "542",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:09:08",
+		name: "Karen Moore",
+		weight: "593",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:09:36",
+		name: "Karen Moore",
+		weight: "524",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:10:16",
+		name: "Karen Moore",
+		weight: "596",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:11:14",
+		name: "Karen Moore",
+		weight: "439",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-14 16:11:57",
+		name: "Karen Moore",
+		weight: "482",
+		category: "Produce",
+		distributor: "First Fruits Farm"
+	},
+	{
+		date: "2023-06-15 10:05:06",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-15 10:08:00",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-15 10:11:40",
+		name: "Claire",
+		weight: "40000",
+		category: "Drinks [Dry]",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-15 10:16:23",
+		name: "Claire",
+		weight: "42000",
+		category: "Drinks [Dry]",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-15 10:44:33",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-15 11:01:48",
+		name: "Claire",
+		weight: "42000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-15 11:29:44",
+		name: "Claire",
+		weight: "42000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-15 15:09:30",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-15 16:28:36",
+		name: "Norma Kriger",
+		weight: "749",
+		category: "Meat [Raw]",
+		distributor: "Dietz and Watson"
+	},
+	{
+		date: "2023-06-16 13:49:43",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-16 16:13:05",
+		name: "Claire",
+		weight: "36000",
+		category: "Produce",
+		distributor: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-16 17:16:02",
+		name: "Claire",
+		weight: "30000",
+		category: "Danone - Yogurt",
+		distributor: "Danone"
+	},
+	{
+		date: "2023-06-22 16:34:08",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-22 16:37:54",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-23 15:44:13",
+		name: "Claire",
+		weight: "30752",
+		category: "Water",
+		distributor: "Farmlink [Mauricio] & MEANS"
+	},
+	{
+		date: "2023-06-26 12:13:40",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-26 12:15:38",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		distributor: "Dole"
+	},
+	{
+		date: "2023-06-27 10:12:03",
+		name: "Claire",
+		weight: "22000",
+		category: "Drinks [Fridge]",
+		distributor: "Farmlink [Mauricio] & MEANS"
+	},
+	{
+		date: "2023-06-27 16:45:24",
+		name: "Claire",
+		weight: "13444",
+		category: "Paper Supplies",
+		distributor: "Farmlink [Mauricio] & MEANS"
+	},
+	{
+		date: "2023-06-29 14:37:26",
+		name: "Claire",
+		weight: "40000",
+		category: "Meat [Raw]",
+		distributor: "Clemens Food Group"
+	},
+	{
+		date: "2023-06-30 13:08:28",
+		name: "Claire",
+		weight: "40000",
+		category: "Drinks [Fridge]",
+		distributor: "Farmlink [Mauricio] &MEANS"
+	},
 ];
 
 export const exportsList = [
@@ -12207,7 +16197,7 @@ export const exportsList = [
     date: "2022-01-06 15:01:12.774000",
     name: "Teia",
     weight: 1012,
-    category: "Danone - Plant based Drink",
+    category: "Danone - Plant Based Drink",
     donatedTo: "Loctrobe",
   },
   {
@@ -13397,7 +17387,7 @@ export const exportsList = [
     date: "2022-01-29 15:48:05.431000",
     name: "Clarice",
     weight: 501,
-    category: "Danone - Plant based Drink",
+    category: "Danone - Plant Based Drink",
     donatedTo: "BCF Curbside",
   },
   {
@@ -13965,7 +17955,7 @@ export const exportsList = [
     name: "Emily Stucke",
     weight: 37,
     category: "Other",
-    donatedTo: "Karen M. ",
+    donatedTo: "Karen Moore",
   },
   {
     date: "2022-02-05 13:11:00.761000",
@@ -15196,7 +19186,7 @@ export const exportsList = [
     date: "2022-02-19 15:12:18.728000",
     name: "Marci Yankelov",
     weight: 2010,
-    category: "Danone - Plant based Drink",
+    category: "Danone - Plant Based Drink",
     donatedTo: "BCF Curbside",
   },
   {
@@ -15708,7 +19698,7 @@ export const exportsList = [
     name: "Iyana Gross",
     weight: 135,
     category: "Other",
-    donatedTo: "sunita",
+    donatedTo: "Sunita [Delivery]",
   },
   {
     date: "2022-02-26 12:59:13.475000",
@@ -18416,7 +22406,7 @@ export const exportsList = [
     date: "2022-04-16 13:02:22.058000",
     name: "Deborah Claridy",
     weight: 722,
-    category: "Danone - Plant based Drink",
+    category: "Danone - Plant Based Drink",
     donatedTo: "Curbside",
   },
   {
@@ -19530,7 +23520,7 @@ export const exportsList = [
     name: "Chenoa Martin",
     weight: 143,
     category: "Assorted Dry",
-    donatedTo: "Coppin State",
+    donatedTo: "Other Organization",
   },
   {
     date: "2022-05-06 13:28:36.297000",
@@ -19551,7 +23541,7 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 435,
     category: "Other",
-    donatedTo: "Coppin State",
+    donatedTo: "Other Organization",
   },
   {
     date: "2022-05-07 11:55:17.546000",
@@ -25164,7 +29154,7 @@ export const exportsList = [
     date: "2022-08-20 17:41:13.552000",
     name: "Claire",
     weight: 1311,
-    category: "Danone - Plant based Drink",
+    category: "Danone - Plant Based Drink",
     donatedTo: "BCF Curbside",
   },
   {
@@ -27657,7 +31647,7 @@ export const exportsList = [
     name: "Claire",
     weight: 153,
     category: "Assorted Dry",
-    donatedTo: "Perry",
+    donatedTo: "Individual",
   },
   {
     date: "2022-10-09 14:53:53.431000",
@@ -27915,7 +31905,7 @@ export const exportsList = [
     date: "2022-10-21 13:36:00.356000",
     name: "Claire",
     weight: 105,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Her Loving Hands",
   },
   {
@@ -27985,14 +31975,14 @@ export const exportsList = [
     date: "2022-10-21 16:05:33.544000",
     name: "Claire",
     weight: 1448,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Morgan State University",
   },
   {
     date: "2022-10-21 16:06:09.411000",
     name: "Claire",
     weight: 954,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Morgan State University",
   },
   {
@@ -28013,7 +32003,7 @@ export const exportsList = [
     date: "2022-10-21 16:07:55.421000",
     name: "Claire",
     weight: 1157,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Greenmount West",
   },
   {
@@ -28041,7 +32031,7 @@ export const exportsList = [
     date: "2022-10-21 16:20:03.539000",
     name: "Claire",
     weight: 1054,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
@@ -28118,7 +32108,7 @@ export const exportsList = [
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 914,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -28146,7 +32136,7 @@ export const exportsList = [
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 614,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -28195,7 +32185,7 @@ export const exportsList = [
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 870,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -28237,14 +32227,14 @@ export const exportsList = [
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 664,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 456,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -28300,7 +32290,7 @@ export const exportsList = [
     date: "2022-10-23 15:41:46.926000",
     name: "Claire",
     weight: 417,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Sandtown",
   },
   {
@@ -28335,14 +32325,14 @@ export const exportsList = [
     date: "2022-10-26 16:40:57.041000",
     name: "Claire",
     weight: 1007,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Mike Foy [Emily Wall]",
   },
   {
     date: "2022-10-26 16:41:19.972000",
     name: "Claire",
     weight: 1008,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Mike Foy [Emily Wall]",
   },
   {
@@ -28363,7 +32353,7 @@ export const exportsList = [
     date: "2022-10-26 16:42:23.194000",
     name: "Claire",
     weight: 1069,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Mike Foy [Emily Wall]",
   },
   {
@@ -28385,7 +32375,7 @@ export const exportsList = [
     name: "JC",
     weight: 81,
     category: "Assorted Dry",
-    donatedTo: "Perry Faulk",
+    donatedTo: "Individual",
   },
   {
     date: "2022-10-28 14:07:47.726000",
@@ -28503,21 +32493,21 @@ export const exportsList = [
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 750,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 1012,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 1263,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -28622,7 +32612,7 @@ export const exportsList = [
     date: "2022-10-29 16:04:14.232000",
     name: "Beverly Pinn",
     weight: 646,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -28678,7 +32668,7 @@ export const exportsList = [
     date: "2022-10-30 15:20:55.367000",
     name: "Dorja",
     weight: 1147,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Pastor Young",
   },
   {
@@ -28734,7 +32724,7 @@ export const exportsList = [
     date: "2022-10-30 15:24:43.037000",
     name: "Dorja",
     weight: 399,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Sandtown",
   },
   {
@@ -28776,7 +32766,7 @@ export const exportsList = [
     date: "2022-11-03 15:13:09.990000",
     name: "Jean",
     weight: 702,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "David McNair rec & park cecil",
   },
   {
@@ -28791,13 +32781,13 @@ export const exportsList = [
     name: "Jean",
     weight: 223,
     category: "Assorted Dry",
-    donatedTo: "Perry faulk",
+    donatedTo: "Individual",
   },
   {
     date: "2022-11-03 15:20:39.391000",
     name: "Jean",
     weight: 126,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Cecil  Rec",
   },
   {
@@ -28832,21 +32822,21 @@ export const exportsList = [
     date: "2022-11-04 14:51:41.073000",
     name: "Claire",
     weight: 119,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-11-04 14:52:14.789000",
     name: "Claire",
     weight: 1174,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-11-04 14:52:59.330000",
     name: "Claire",
     weight: 1134,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Greenmount West",
   },
   {
@@ -28860,7 +32850,7 @@ export const exportsList = [
     date: "2022-11-04 14:54:16.386000",
     name: "Claire",
     weight: 1038,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Morgan State University",
   },
   {
@@ -28881,7 +32871,7 @@ export const exportsList = [
     date: "2022-11-04 14:55:37.455000",
     name: "Claire",
     weight: 1163,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Morgan State University",
   },
   {
@@ -28923,7 +32913,7 @@ export const exportsList = [
     date: "2022-11-05 15:41:14.637000",
     name: "Other",
     weight: 1052,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -28937,7 +32927,7 @@ export const exportsList = [
     date: "2022-11-05 15:45:07.778000",
     name: "Beverly Pinn",
     weight: 1140,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -29035,7 +33025,7 @@ export const exportsList = [
     date: "2022-11-05 15:54:27.051000",
     name: "Beverly Pinn",
     weight: 516,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -29077,14 +33067,14 @@ export const exportsList = [
     date: "2022-11-06 12:58:55.999000",
     name: "Juanita Chandler",
     weight: 517,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Pastor Young",
   },
   {
     date: "2022-11-06 13:01:16.546000",
     name: "Juanita Chandler",
     weight: 492,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Pastor Young",
   },
   {
@@ -29140,14 +33130,14 @@ export const exportsList = [
     date: "2022-11-09 15:33:12.857000",
     name: "Juanita Chandler",
     weight: 1039,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Mike Foy [Emily Wall]",
   },
   {
     date: "2022-11-09 15:34:20.563000",
     name: "Juanita Chandler",
     weight: 1134,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Mike Foy [Emily Wall]",
   },
   {
@@ -29161,28 +33151,28 @@ export const exportsList = [
     date: "2022-11-10 14:59:55.524000",
     name: "Norma Kriger",
     weight: 350,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Nate Tatum center",
   },
   {
     date: "2022-11-10 15:01:57.682000",
     name: "Norma Kriger",
     weight: 1021,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Greenmount West",
   },
   {
     date: "2022-11-10 15:03:07.905000",
     name: "Norma Kriger",
     weight: 516,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Greenmount West",
   },
   {
     date: "2022-11-10 15:05:35.155000",
     name: "Norma Kriger",
     weight: 516,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Greenmount West",
   },
   {
@@ -29231,14 +33221,14 @@ export const exportsList = [
     date: "2022-11-10 15:12:03.634000",
     name: "Norma Kriger",
     weight: 345,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-11-10 15:13:01.854000",
     name: "Norma Kriger",
     weight: 984,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
@@ -29252,7 +33242,7 @@ export const exportsList = [
     date: "2022-11-10 16:00:37.274000",
     name: "Bertille",
     weight: 838,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -29273,7 +33263,7 @@ export const exportsList = [
     date: "2022-11-10 16:02:20.829000",
     name: "Bertille",
     weight: 979,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -29309,14 +33299,14 @@ export const exportsList = [
     name: "Claire",
     weight: 333,
     category: "Produce",
-    donatedTo: "BCF (not curbside)",
+    donatedTo: "BCF [Non Curbside]",
   },
   {
     date: "2022-11-10 16:32:58.036000",
     name: "Claire",
     weight: 294,
     category: "Produce",
-    donatedTo: "BCF (not curbside)",
+    donatedTo: "BCF [Non Curbside]",
   },
   {
     date: "2022-11-11 16:51:08.586000",
@@ -29427,14 +33417,14 @@ export const exportsList = [
     date: "2022-11-12 16:12:02.842000",
     name: "Juanita Chandler",
     weight: 334,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
     date: "2022-11-12 16:16:03.432000",
     name: "Juanita Chandler",
     weight: 390,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -29448,7 +33438,7 @@ export const exportsList = [
     date: "2022-11-13 12:22:39.082000",
     name: "Dorja",
     weight: 466,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Pastor Young",
   },
   {
@@ -29498,14 +33488,14 @@ export const exportsList = [
     name: "Claire",
     weight: 86,
     category: "Assorted Dry",
-    donatedTo: "Perry faulk",
+    donatedTo: "Individual",
   },
   {
     date: "2022-11-13 00:00:00",
     name: "Claire",
     weight: 42,
     category: "Pet Supplies",
-    donatedTo: "Perry faulk",
+    donatedTo: "Individual",
   },
   {
     date: "2022-11-13 15:43:26.275000",
@@ -29525,35 +33515,35 @@ export const exportsList = [
     date: "2022-11-16 19:01:44.038000",
     name: "Claire",
     weight: 300,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Cecil elementary ",
   },
   {
     date: "2022-11-16 19:02:12.345000",
     name: "Claire",
     weight: 476,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Cecil elementary ",
   },
   {
     date: "2022-11-16 19:02:41.014000",
     name: "Claire",
     weight: 50,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Karen Moore",
   },
   {
     date: "2022-11-16 19:02:59.448000",
     name: "Claire",
     weight: 70,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Karen Moore",
   },
   {
     date: "2022-11-17 00:00:00",
     name: "Claire",
     weight: 205,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Crystal [Kingdom Worship Center]",
   },
   {
@@ -29574,21 +33564,21 @@ export const exportsList = [
     date: "2022-11-17 15:47:29.736000",
     name: "Jean",
     weight: 240,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Children's Guild/ jean",
   },
   {
     date: "2022-11-18 14:51:21.194000",
     name: "Juanita Chandler",
     weight: 1212,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-11-18 14:52:54.076000",
     name: "Juanita Chandler",
     weight: 1244,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Greenmount West",
   },
   {
@@ -29623,14 +33613,14 @@ export const exportsList = [
     date: "2022-11-18 14:59:20.927000",
     name: "Juanita Chandler",
     weight: 1151,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Morgan State University",
   },
   {
     date: "2022-11-18 15:00:28.809000",
     name: "Juanita Chandler",
     weight: 936,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Morgan State University",
   },
   {
@@ -29679,14 +33669,14 @@ export const exportsList = [
     date: "2022-11-19 16:51:53.589000",
     name: "Claire",
     weight: 1234,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
     date: "2022-11-19 16:52:12.321000",
     name: "Claire",
     weight: 964,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -29805,14 +33795,14 @@ export const exportsList = [
     date: "2022-11-19 17:14:41.264000",
     name: "Claire",
     weight: 627,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
     date: "2022-11-19 17:15:00.104000",
     name: "Claire",
     weight: 540,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -29833,14 +33823,14 @@ export const exportsList = [
     date: "2022-11-20 13:15:39.686000",
     name: "Claire",
     weight: 540,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Pastor Young",
   },
   {
     date: "2022-11-20 13:16:08.019000",
     name: "Claire",
     weight: 627,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Pastor Young",
   },
   {
@@ -29896,21 +33886,21 @@ export const exportsList = [
     date: "2022-11-22 17:13:19.563000",
     name: "Claire",
     weight: 1310,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Mike Foy [Emily Wall]",
   },
   {
     date: "2022-11-22 17:13:44.750000",
     name: "Claire",
     weight: 1008,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Mike Foy [Emily Wall]",
   },
   {
     date: "2022-11-22 17:14:38.546000",
     name: "Claire",
     weight: 1134,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Mike Foy [Emily Wall]",
   },
   {
@@ -29924,21 +33914,21 @@ export const exportsList = [
     date: "2022-11-23 13:50:50.033000",
     name: "JC",
     weight: 998,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "B-Gaddy",
   },
   {
     date: "2022-11-23 13:51:14.487000",
     name: "JC",
     weight: 982,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "B-Gaddy",
   },
   {
     date: "2022-11-23 13:51:44.324000",
     name: "JC",
     weight: 1040,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "B-Gaddy",
   },
   {
@@ -29952,7 +33942,7 @@ export const exportsList = [
     date: "2022-11-27 13:35:07.227000",
     name: "Juanita Chandler",
     weight: 796,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Pastor Young",
   },
   {
@@ -30036,7 +34026,7 @@ export const exportsList = [
     date: "2022-12-02 15:36:10.910000",
     name: "Juanita Chandler",
     weight: 1005,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Morgan State University",
   },
   {
@@ -30113,7 +34103,7 @@ export const exportsList = [
     date: "2022-12-03 16:17:36.893000",
     name: "Juanita Chandler",
     weight: 1033,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -30197,14 +34187,14 @@ export const exportsList = [
     date: "2022-12-03 00:00:00",
     name: "Claire",
     weight: 1080,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
     date: "2022-12-03 16:35:12.873000",
     name: "Juanita Chandler",
     weight: 464,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -30232,7 +34222,7 @@ export const exportsList = [
     date: "2022-12-03 16:39:52.184000",
     name: "Juanita Chandler",
     weight: 681,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -30281,7 +34271,7 @@ export const exportsList = [
     date: "2022-12-04 00:00:00",
     name: "Claire",
     weight: 464,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Pastor Young",
   },
   {
@@ -30303,7 +34293,7 @@ export const exportsList = [
     name: "Claire",
     weight: 207,
     category: "Assorted Dry",
-    donatedTo: "Perry faulk",
+    donatedTo: "Individual",
   },
   {
     date: "2022-12-04 00:00:00",
@@ -30365,14 +34355,14 @@ export const exportsList = [
     date: "2022-12-09 13:31:40.374000",
     name: "Juanita Chandler",
     weight: 840,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Greenmount West",
   },
   {
     date: "2022-12-09 13:32:50.041000",
     name: "Juanita Chandler",
     weight: 670,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
@@ -30428,7 +34418,7 @@ export const exportsList = [
     date: "2022-12-10 13:12:59.814000",
     name: "Juanita Chandler",
     weight: 1043,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -30505,7 +34495,7 @@ export const exportsList = [
     date: "2022-12-10 16:04:04.985000",
     name: "Juanita Chandler",
     weight: 1033,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -30568,7 +34558,7 @@ export const exportsList = [
     date: "2022-12-10 16:22:29.484000",
     name: "Juanita Chandler",
     weight: 985,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -30638,7 +34628,7 @@ export const exportsList = [
     date: "2022-12-14 14:18:35.211000",
     name: "Jean",
     weight: 371,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Nate tatem Center",
   },
   {
@@ -30687,14 +34677,14 @@ export const exportsList = [
     date: "2022-12-16 13:53:33.463000",
     name: "Juanita Chandler",
     weight: 799,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-12-16 13:54:24.945000",
     name: "Juanita Chandler",
     weight: 1056,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Greenmount West",
   },
   {
@@ -30750,7 +34740,7 @@ export const exportsList = [
     date: "2022-12-18 14:35:37.944000",
     name: "Juanita Chandler",
     weight: 281,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Pastor Young",
   },
   {
@@ -30807,7 +34797,7 @@ export const exportsList = [
     name: "Claire",
     weight: 84,
     category: "Assorted Dry",
-    donatedTo: "Perry",
+    donatedTo: "Individual",
   },
   {
     date: "2022-12-21 14:38:26.349000",
@@ -30820,84 +34810,84 @@ export const exportsList = [
     date: "2022-12-21 15:17:01.160000",
     name: "Juanita Chandler",
     weight: 1002,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So what Else Can We DO",
   },
   {
     date: "2022-12-21 15:18:57.652000",
     name: "Juanita Chandler",
     weight: 1017,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We Do",
   },
   {
     date: "2022-12-21 15:20:52.915000",
     name: "Juanita Chandler",
     weight: 1022,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We Do",
   },
   {
     date: "2022-12-21 15:23:24.984000",
     name: "Juanita Chandler",
     weight: 1070,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We Do",
   },
   {
     date: "2022-12-21 15:24:33.058000",
     name: "Juanita Chandler",
     weight: 1011,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We Do",
   },
   {
     date: "2022-12-21 15:26:43.739000",
     name: "Juanita Chandler",
     weight: 1015,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We DO ",
   },
   {
     date: "2022-12-21 15:27:42.067000",
     name: "Juanita Chandler",
     weight: 984,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We DO ",
   },
   {
     date: "2022-12-21 15:34:08.477000",
     name: "Juanita Chandler",
     weight: 1014,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We DO ",
   },
   {
     date: "2022-12-21 15:35:11.574000",
     name: "Juanita Chandler",
     weight: 1050,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We DO ",
   },
   {
     date: "2022-12-21 15:36:02.516000",
     name: "Juanita Chandler",
     weight: 1025,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We Do ",
   },
   {
     date: "2022-12-21 15:37:05.143000",
     name: "Juanita Chandler",
     weight: 755,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We DO ",
   },
   {
     date: "2022-12-21 15:41:13.627000",
     name: "Juanita Chandler",
     weight: 1012,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We DO ",
   },
   {
@@ -30918,35 +34908,35 @@ export const exportsList = [
     date: "2022-12-21 16:34:34.839000",
     name: "Juanita Chandler",
     weight: 985,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "What Else can We DO",
   },
   {
     date: "2022-12-21 16:37:16.406000",
     name: "Juanita Chandler",
     weight: 846,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "  So What Else can We DO ",
   },
   {
     date: "2022-12-21 16:38:21.438000",
     name: "Juanita Chandler",
     weight: 1101,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We DO ",
   },
   {
     date: "2022-12-21 16:39:29.843000",
     name: "Juanita Chandler",
     weight: 1378,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We DO ",
   },
   {
     date: "2022-12-21 16:40:40.203000",
     name: "Juanita Chandler",
     weight: 1045,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "So What Else Can We DO ",
   },
   {
@@ -30960,7 +34950,7 @@ export const exportsList = [
     date: "2022-12-27 12:32:01.165000",
     name: "Claire",
     weight: 677,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -30995,7 +34985,7 @@ export const exportsList = [
     date: "2022-12-27 12:35:01.957000",
     name: "Claire",
     weight: 723,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -31093,7 +35083,7 @@ export const exportsList = [
     date: "2022-12-27 12:41:11.577000",
     name: "Claire",
     weight: 117,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -31135,7 +35125,7 @@ export const exportsList = [
     date: "2022-12-28 14:59:57.236000",
     name: "Juanita Chandler",
     weight: 1235,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Greenmount West",
   },
   {
@@ -31143,21 +35133,21 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 90,
     category: "Assorted Dry",
-    donatedTo: "Perry",
+    donatedTo: "Individual",
   },
   {
     date: "2022-12-28 15:03:54.332000",
     name: "Juanita Chandler",
     weight: 149,
     category: "Assorted Dry",
-    donatedTo: "PERRY ",
+    donatedTo: "Individual",
   },
   {
     date: "2022-12-28 15:04:47.422000",
     name: "Juanita Chandler",
     weight: 49,
     category: "Assorted Dry",
-    donatedTo: "Perry",
+    donatedTo: "Individual",
   },
   {
     date: "2022-12-28 15:05:58.583000",
@@ -31177,7 +35167,7 @@ export const exportsList = [
     date: "2022-12-28 15:08:20.978000",
     name: "Juanita Chandler",
     weight: 764,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
@@ -31212,7 +35202,7 @@ export const exportsList = [
     date: "2022-12-29 15:49:57.285000",
     name: "Vincent Faulk",
     weight: 608,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "Young ",
   },
   {
@@ -31247,7 +35237,7 @@ export const exportsList = [
     date: "2022-12-31 13:05:37.782000",
     name: "Juanita Chandler",
     weight: 1112,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -31303,7 +35293,7 @@ export const exportsList = [
     date: "2022-12-31 00:00:00",
     name: "Claire",
     weight: 846,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -31324,7 +35314,7 @@ export const exportsList = [
     date: "2022-12-31 15:50:55.986000",
     name: "Juanita Chandler",
     weight: 936,
-    category: "Dole – Fruit cups",
+    category: "Dole - Fruit Cups",
     donatedTo: "BCF Curbside",
   },
   {
@@ -31348,6 +35338,9120 @@ export const exportsList = [
     category: "Grains (rice, pasta, etc.)",
     donatedTo: "BCF Curbside",
   },
+  {
+    date: "2023-01-01 13:05:46",
+		name: "Vincent Faulk",
+		weight: "224",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-01-06 15:40:18",
+		name: "Juanita Chandler",
+		weight: "507",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-01-06 15:41:27",
+		name: "Juanita Chandler",
+		weight: "665",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-01-06 15:43:46",
+		name: "Juanita Chandler",
+		weight: "181",
+		category: "Spices",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-06 15:44:31",
+		name: "Juanita Chandler",
+		weight: "713",
+		category: "Household",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-06 15:45:39",
+		name: "Juanita Chandler",
+		weight: "232",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-01-06 15:50:11",
+		name: "Juanita Chandler",
+		weight: "61",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-06 15:51:34",
+		name: "Juanita Chandler",
+		weight: "220",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-06 15:52:10",
+		name: "Juanita Chandler",
+		weight: "455",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-06 15:53:19",
+		name: "Juanita Chandler",
+		weight: "48",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-01-06 16:23:41",
+		name: "Juanita Chandler",
+		weight: "204",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Crystal [Kingdom Worship Center]"
+	},
+	{
+		date: "2023-01-06 16:25:07",
+		name: "Juanita Chandler",
+		weight: "253",
+		category: "Assorted Fridge",
+		donatedTo: "Crystal [Kingdom Worship Center]"
+	},
+	{
+		date: "2023-01-06 16:54:09",
+		name: "Sunita Pathik",
+		weight: "150",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-01-07 12:58:59",
+		name: "Juanita Chandler",
+		weight: "360",
+		category: "Health & Beauty Products",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 12:59:50",
+		name: "Juanita Chandler",
+		weight: "683",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 13:00:37",
+		name: "Juanita Chandler",
+		weight: "978",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 13:01:26",
+		name: "Juanita Chandler",
+		weight: "146",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 13:03:15",
+		name: "Juanita Chandler",
+		weight: "624",
+		category: "Pet Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 13:03:58",
+		name: "Juanita Chandler",
+		weight: "131",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 13:05:13",
+		name: "Juanita Chandler",
+		weight: "1125",
+		category: "Drinks [Fridge]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 13:06:08",
+		name: "Juanita Chandler",
+		weight: "1071",
+		category: "Drinks [Fridge]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 13:08:38",
+		name: "Juanita Chandler",
+		weight: "184",
+		category: "Assorted Fridge",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 13:41:57",
+		name: "Juanita Chandler",
+		weight: "690",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 00:00:00",
+		name: "Claire",
+		weight: "480",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 00:00:00",
+		name: "Claire",
+		weight: "334",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 00:00:00",
+		name: "Claire",
+		weight: "125",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 15:59:45",
+		name: "Juanita Chandler",
+		weight: "-62",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 16:00:19",
+		name: "Juanita Chandler",
+		weight: "-548",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 16:10:35",
+		name: "Juanita Chandler",
+		weight: "-499",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 16:11:24",
+		name: "Juanita Chandler",
+		weight: "-529",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 16:15:42",
+		name: "Juanita Chandler",
+		weight: "-693",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 16:20:31",
+		name: "Juanita Chandler",
+		weight: "-172",
+		category: "Assorted Fridge",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 16:23:32",
+		name: "Juanita Chandler",
+		weight: "-83",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 16:26:09",
+		name: "Juanita Chandler",
+		weight: "-254",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 16:28:59",
+		name: "Juanita Chandler",
+		weight: "-75",
+		category: "Health & Beauty Products",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-07 16:33:42",
+		name: "Juanita Chandler",
+		weight: "-277",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-08 15:00:48",
+		name: "Zoe",
+		weight: "1604",
+		category: "Assorted Fridge",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-01-10 00:00:00",
+		name: "Claire",
+		weight: "18805",
+		category: "Dairy",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-10 11:55:31",
+		name: "Claire",
+		weight: "381",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-01-10 11:55:59",
+		name: "Claire",
+		weight: "432",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-10 11:56:33",
+		name: "Claire",
+		weight: "904",
+		category: "Dairy",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-10 11:57:00",
+		name: "Claire",
+		weight: "143",
+		category: "Frozen [Not Meat]",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-10 11:57:22",
+		name: "Claire",
+		weight: "87",
+		category: "Assorted Dry",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-10 11:57:50",
+		name: "Claire",
+		weight: "190",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-01-10 11:58:15",
+		name: "Claire",
+		weight: "-253",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-13 16:27:53",
+		name: "Sunita Pathik",
+		weight: "197",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-01-13 00:00:00",
+		name: "Claire",
+		weight: "2019",
+		category: "Dairy",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-13 00:00:00",
+		name: "Claire",
+		weight: "2025",
+		category: "Dairy",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-13 00:00:00",
+		name: "Claire",
+		weight: "2222",
+		category: "Dairy",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-13 00:00:00",
+		name: "Claire",
+		weight: "2221",
+		category: "Dairy",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-13 00:00:00",
+		name: "Claire",
+		weight: "2018",
+		category: "Dairy",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-13 00:00:00",
+		name: "Claire",
+		weight: "2223",
+		category: "Dairy",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-13 00:00:00",
+		name: "Claire",
+		weight: "1186",
+		category: "Assorted Fridge",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-01-13 00:00:00",
+		name: "Claire",
+		weight: "1187",
+		category: "Assorted Fridge",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-01-13 00:00:00",
+		name: "Claire",
+		weight: "139",
+		category: "Produce",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-01-13 00:00:00",
+		name: "Claire",
+		weight: "168",
+		category: "Produce",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "1579",
+		category: "Drinks [Fridge]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "1024",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "496",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "544",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "312",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "1663",
+		category: "Drinks [Fridge]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "265",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "673",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "162",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "1299",
+		category: "Health & Beauty Products",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "-739",
+		category: "Health & Beauty Products",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "-28",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "-918",
+		category: "Drinks [Fridge]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "-640",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "-1499",
+		category: "Drinks [Fridge]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "-129",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "-130",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-14 00:00:00",
+		name: "Claire",
+		weight: "-58",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-15 00:00:00",
+		name: "Claire",
+		weight: "377",
+		category: "Produce",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-15 00:00:00",
+		name: "Claire",
+		weight: "196",
+		category: "Produce",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-15 00:00:00",
+		name: "Claire",
+		weight: "381",
+		category: "Drinks [Fridge]",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-15 00:00:00",
+		name: "Claire",
+		weight: "222",
+		category: "Dairy",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-15 00:00:00",
+		name: "Claire",
+		weight: "389",
+		category: "Drinks [Fridge]",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-15 00:00:00",
+		name: "Claire",
+		weight: "166",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-01-15 15:42:19",
+		name: "Opeyemi Faleye",
+		weight: "1817",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-01-20 16:46:10",
+		name: "Claire",
+		weight: "1058",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-20 16:47:05",
+		name: "Claire",
+		weight: "650",
+		category: "Dairy",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-20 16:47:36",
+		name: "Claire",
+		weight: "1506",
+		category: "Health & Beauty Products",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-20 16:48:08",
+		name: "Claire",
+		weight: "890",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-20 16:48:33",
+		name: "Claire",
+		weight: "645",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-01-20 16:48:55",
+		name: "Claire",
+		weight: "1155",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-01-20 16:49:16",
+		name: "Claire",
+		weight: "230",
+		category: "Assorted Fridge",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-01-20 16:49:36",
+		name: "Claire",
+		weight: "1147",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-01-20 16:49:56",
+		name: "Claire",
+		weight: "276",
+		category: "Assorted Fridge",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-01-21 15:32:51",
+		name: "Juanita Chandler",
+		weight: "51",
+		category: "Household",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:34:28",
+		name: "Juanita Chandler",
+		weight: "1051",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:35:07",
+		name: "Juanita Chandler",
+		weight: "1337",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:36:25",
+		name: "Juanita Chandler",
+		weight: "1301",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:39:17",
+		name: "Juanita Chandler",
+		weight: "413",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:40:25",
+		name: "Juanita Chandler",
+		weight: "235",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:42:19",
+		name: "Juanita Chandler",
+		weight: "245",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:43:22",
+		name: "Juanita Chandler",
+		weight: "356",
+		category: "Health & Beauty Products",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:46:10",
+		name: "Juanita Chandler",
+		weight: "131",
+		category: "Pet Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:48:05",
+		name: "Juanita Chandler",
+		weight: "1329",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:49:01",
+		name: "Juanita Chandler",
+		weight: "184",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:49:44",
+		name: "Juanita Chandler",
+		weight: "320",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:51:05",
+		name: "Juanita Chandler",
+		weight: "972",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:52:18",
+		name: "Juanita Chandler",
+		weight: "135",
+		category: "Pet Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:54:00",
+		name: "Juanita Chandler",
+		weight: "-402",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:54:43",
+		name: "Juanita Chandler",
+		weight: "-749",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:55:58",
+		name: "Juanita Chandler",
+		weight: "-736",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:56:48",
+		name: "Juanita Chandler",
+		weight: "-1098",
+		category: "Dairy",
+		donatedTo: "BCF [Non Curbside]"
+	},
+	{
+		date: "2023-01-21 15:57:27",
+		name: "Juanita Chandler",
+		weight: "-299",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 15:59:22",
+		name: "Juanita Chandler",
+		weight: "-167",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 16:02:06",
+		name: "Juanita Chandler",
+		weight: "-106",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 16:05:18",
+		name: "Juanita Chandler",
+		weight: "-173",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 16:14:41",
+		name: "Juanita Chandler",
+		weight: "-84",
+		category: "Pet Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-21 16:15:46",
+		name: "Juanita Chandler",
+		weight: "-129",
+		category: "Health & Beauty Products",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-22 00:00:00",
+		name: "Claire",
+		weight: "515",
+		category: "Assorted Fridge",
+		donatedTo: "Crystal [Kingdom Worship Center]"
+	},
+	{
+		date: "2023-01-22 00:00:00",
+		name: "Claire",
+		weight: "453",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-01-22 16:17:49",
+		name: "Opeyemi Faleye",
+		weight: "1827",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-01-26 11:22:16",
+		name: "Claire",
+		weight: "171",
+		category: "Assorted Dry",
+		donatedTo: "Impact Hub"
+	},
+	{
+		date: "2023-01-27 00:00:00",
+		name: "Claire",
+		weight: "103",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-01-27 16:58:52",
+		name: "Sunita Pathik",
+		weight: "182",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-01-27 17:42:45",
+		name: "Perry Faulk",
+		weight: "18",
+		category: "Assorted Fridge",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-01-28 15:58:46",
+		name: "Juanita Chandler",
+		weight: "352",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:00:12",
+		name: "Juanita Chandler",
+		weight: "304",
+		category: "Health & Beauty Products",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:01:16",
+		name: "Juanita Chandler",
+		weight: "255",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:02:17",
+		name: "Juanita Chandler",
+		weight: "1061",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:05:00",
+		name: "Juanita Chandler",
+		weight: "66",
+		category: "Household",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:05:50",
+		name: "Juanita Chandler",
+		weight: "1098",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:06:40",
+		name: "Juanita Chandler",
+		weight: "1111",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:07:16",
+		name: "Juanita Chandler",
+		weight: "841",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:08:10",
+		name: "Juanita Chandler",
+		weight: "905",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:08:59",
+		name: "Juanita Chandler",
+		weight: "626",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:12:58",
+		name: "Juanita Chandler",
+		weight: "307",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:14:01",
+		name: "Juanita Chandler",
+		weight: "158",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:14:37",
+		name: "Juanita Chandler",
+		weight: "178",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:15:35",
+		name: "Juanita Chandler",
+		weight: "505",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 00:00:00",
+		name: "Claire",
+		weight: "352",
+		category: "Drinks [Fridge]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:17:54",
+		name: "Juanita Chandler",
+		weight: "-55",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:19:33",
+		name: "Juanita Chandler",
+		weight: "-175",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:20:18",
+		name: "Juanita Chandler",
+		weight: "-1108",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-28 16:21:13",
+		name: "Juanita Chandler",
+		weight: "-763",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-01-29 14:50:21",
+		name: "Zoe",
+		weight: "935",
+		category: "Produce",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-29 14:51:10",
+		name: "Zoe",
+		weight: "154",
+		category: "Assorted Dry",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-29 14:52:07",
+		name: "Zoe",
+		weight: "156",
+		category: "Produce",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-29 14:52:52",
+		name: "Zoe",
+		weight: "439",
+		category: "Dairy",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-01-29 14:53:35",
+		name: "Zoe",
+		weight: "136",
+		category: "Assorted Fridge",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-01-29 14:54:01",
+		name: "Zoe",
+		weight: "1332",
+		category: "Assorted Fridge",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-02-02 17:57:44",
+		name: "Aziza",
+		weight: "1112",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-02-02 17:58:02",
+		name: "Aziza",
+		weight: "1090",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-02-02 17:58:27",
+		name: "Aziza",
+		weight: "1102",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-02-02 17:59:06",
+		name: "Aziza",
+		weight: "2020",
+		category: "Dairy",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-02-03 16:53:50",
+		name: "Sunita Pathik",
+		weight: "200",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-02-03 00:00:00",
+		name: "Claire",
+		weight: "25817.20",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-02-03 00:00:00",
+		name: "Claire",
+		weight: "36403.53",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-02-04 15:55:41",
+		name: "Juanita Chandler",
+		weight: "369",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 15:59:23",
+		name: "Juanita Chandler",
+		weight: "1876",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:02:13",
+		name: "Juanita Chandler",
+		weight: "1108",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:03:21",
+		name: "Juanita Chandler",
+		weight: "117",
+		category: "Household",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:04:42",
+		name: "Juanita Chandler",
+		weight: "130",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:06:34",
+		name: "Juanita Chandler",
+		weight: "129",
+		category: "Assorted Fridge",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:08:16",
+		name: "Juanita Chandler",
+		weight: "204",
+		category: "Cleaning Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:09:08",
+		name: "Juanita Chandler",
+		weight: "56",
+		category: "Paper Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:10:34",
+		name: "Juanita Chandler",
+		weight: "411",
+		category: "Canned Goods",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:12:51",
+		name: "Juanita Chandler",
+		weight: "181",
+		category: "Pet Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:14:41",
+		name: "Juanita Chandler",
+		weight: "313",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:15:23",
+		name: "Juanita Chandler",
+		weight: "150",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:16:33",
+		name: "Juanita Chandler",
+		weight: "-76",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:20:39",
+		name: "Juanita Chandler",
+		weight: "-97",
+		category: "Pet Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 16:21:44",
+		name: "Juanita Chandler",
+		weight: "-47",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-04 00:00:00",
+		name: "Claire",
+		weight: "-143",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-05 14:31:42",
+		name: "Juanita Chandler",
+		weight: "198",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-02-05 15:14:49",
+		name: "Opeyemi Faleye",
+		weight: "962",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-02-10 16:02:32",
+		name: "Susan May",
+		weight: "338",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-02-11 00:00:00",
+		name: "Claire",
+		weight: "61",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-02-11 15:00:22",
+		name: "Claire Kim",
+		weight: "3",
+		category: "Drinks [Fridge]",
+		donatedTo:"Individual"
+	},
+	{
+		date: "2023-02-12 14:44:38",
+		name: "Zoe",
+		weight: "419",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-02-12 14:47:36",
+		name: "Zoe",
+		weight: "75",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-02-12 14:48:13",
+		name: "Zoe",
+		weight: "134",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-02-12 14:54:54",
+		name: "Susan May",
+		weight: "50",
+		category: "Produce",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-02-15 00:00:00",
+		name: "Claire",
+		weight: "14974.55",
+		category: "Dairy",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-02-16 14:59:02",
+		name: "Perry Faulk",
+		weight: "34",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-02-16 15:59:18",
+		name: "Jean",
+		weight: "1071",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-02-16 16:00:21",
+		name: "Jean",
+		weight: "1479",
+		category: "Dairy",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-02-16 16:02:23",
+		name: "Jean",
+		weight: "16",
+		category: "Dairy",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-02-16 16:04:17",
+		name: "Jean",
+		weight: "1087",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-17 13:29:35",
+		name: "Xiomara Rodriguez",
+		weight: "1524",
+		category: "Dairy",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-02-17 13:30:15",
+		name: "Xiomara Rodriguez",
+		weight: "1251",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-02-17 13:30:56",
+		name: "Xiomara Rodriguez",
+		weight: "1094",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-02-17 13:31:20",
+		name: "Xiomara Rodriguez",
+		weight: "1247",
+		category: "Dairy",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-02-17 13:48:23",
+		name: "Xiomara Rodriguez",
+		weight: "1260",
+		category: "Dairy",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-02-17 13:48:55",
+		name: "Xiomara Rodriguez",
+		weight: "912",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-02-17 13:50:20",
+		name: "Xiomara Rodriguez",
+		weight: "1289",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-02-17 13:50:51",
+		name: "Xiomara Rodriguez",
+		weight: "1082",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-02-17 13:51:49",
+		name: "Xiomara Rodriguez",
+		weight: "346",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-02-17 13:52:45",
+		name: "Xiomara Rodriguez",
+		weight: "1107",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-17 13:54:34",
+		name: "Xiomara Rodriguez",
+		weight: "1088",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-17 13:58:26",
+		name: "Xiomara Rodriguez",
+		weight: "1262",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-17 16:44:31",
+		name: "Sunita Pathik",
+		weight: "164",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-02-18 11:56:08",
+		name: "Beverly Pinn",
+		weight: "130",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 12:04:48",
+		name: "Beverly Pinn",
+		weight: "1856",
+		category: "Canned Goods",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 12:08:07",
+		name: "Beverly Pinn",
+		weight: "102",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 12:13:04",
+		name: "Beverly Pinn",
+		weight: "143",
+		category: "Cleaning Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 12:16:13",
+		name: "Beverly Pinn",
+		weight: "94",
+		category: "Household",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 12:38:01",
+		name: "Cameron Minor",
+		weight: "799",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 12:38:54",
+		name: "Cameron Minor",
+		weight: "331",
+		category: "Drinks [Fridge]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 12:39:36",
+		name: "Cameron Minor",
+		weight: "766",
+		category: "Drinks [Fridge]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 12:40:06",
+		name: "Cameron Minor",
+		weight: "399",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 12:44:41",
+		name: "Cameron Minor",
+		weight: "616",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 12:54:37",
+		name: "JC",
+		weight: "1895",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 13:28:22",
+		name: "Juanita Chandler",
+		weight: "1053",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 13:29:17",
+		name: "Juanita Chandler",
+		weight: "157",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 00:00:00",
+		name: "Claire",
+		weight: "-12",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 00:00:00",
+		name: "Claire",
+		weight: "-435",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 00:00:00",
+		name: "Claire",
+		weight: "-1042",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 00:00:00",
+		name: "Claire",
+		weight: "-181",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-18 00:00:00",
+		name: "Claire",
+		weight: "-32",
+		category: "Household",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-19 13:09:55",
+		name: "Juanita Chandler",
+		weight: "214",
+		category: "Assorted Fridge",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-02-19 13:21:05",
+		name: "Susan May",
+		weight: "128",
+		category: "Produce",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-02-19 14:55:49",
+		name: "Juanita Chandler",
+		weight: "184",
+		category: "Assorted Dry",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-19 15:01:11",
+		name: "Juanita Chandler",
+		weight: "2",
+		category: "Produce",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-19 15:18:01",
+		name: "Lynnette Cromer",
+		weight: "35",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-19 16:00:01",
+		name: "Zoe",
+		weight: "907",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-02-22 14:14:22",
+		name: "Other",
+		weight: "760",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-22 15:33:07",
+		name: "Juanita Chandler",
+		weight: "1312",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-02-22 15:34:11",
+		name: "Juanita Chandler",
+		weight: "1317",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-02-22 15:35:05",
+		name: "Juanita Chandler",
+		weight: "1288",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-02-22 15:36:08",
+		name: "Juanita Chandler",
+		weight: "1087",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-02-23 13:23:13",
+		name: "Claire",
+		weight: "575",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-02-23 13:23:30",
+		name: "Claire",
+		weight: "592",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-02-23 13:36:00",
+		name: "Norma Kriger",
+		weight: "1404",
+		category: "Dairy",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-02-23 13:48:28",
+		name: "Norma Kriger",
+		weight: "215",
+		category: "Dairy",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-23 13:55:13",
+		name: "Norma Kriger",
+		weight: "1301",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-23 13:56:22",
+		name: "Norma Kriger",
+		weight: "1079",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-23 14:14:07",
+		name: "Norma Kriger",
+		weight: "1282",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-23 14:16:26",
+		name: "Norma Kriger",
+		weight: "1088",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-23 00:00:00",
+		name: "Safire Windley",
+		weight: "1159",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-23 19:51:36",
+		name: "Lynnette Cromer",
+		weight: "37",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-02-24 13:23:43",
+		name: "Juanita Chandler",
+		weight: "1066",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-02-24 13:30:19",
+		name: "Juanita Chandler",
+		weight: "1061",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-02-24 13:41:59",
+		name: "Nina Early",
+		weight: "295",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-02-24 13:59:07",
+		name: "Juanita Chandler",
+		weight: "723",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-02-24 14:00:59",
+		name: "Juanita Chandler",
+		weight: "667",
+		category: "Danone - Coffee",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-02-24 14:02:54",
+		name: "Juanita Chandler",
+		weight: "1045",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-02-24 14:05:49",
+		name: "Juanita Chandler",
+		weight: "1251",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-02-24 14:07:37",
+		name: "Juanita Chandler",
+		weight: "1256",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-02-24 14:11:47",
+		name: "Juanita Chandler",
+		weight: "312",
+		category: "Produce",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-02-24 16:45:45",
+		name: "Sunita Pathik",
+		weight: "226",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-02-25 12:36:02",
+		name: "Juanita Chandler",
+		weight: "175",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 12:37:15",
+		name: "Juanita Chandler",
+		weight: "1867",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 12:38:25",
+		name: "Juanita Chandler",
+		weight: "14",
+		category: "Health & Beauty Products",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 13:23:34",
+		name: "Juanita Chandler",
+		weight: "2073",
+		category: "Danone - Milk",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 13:24:39",
+		name: "Juanita Chandler",
+		weight: "132",
+		category: "Household",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 13:26:10",
+		name: "Juanita Chandler",
+		weight: "1595",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 13:27:03",
+		name: "Juanita Chandler",
+		weight: "619",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 13:28:11",
+		name: "Juanita Chandler",
+		weight: "360",
+		category: "Danone - Yogurt",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 13:28:50",
+		name: "Juanita Chandler",
+		weight: "172",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 15:33:22",
+		name: "Juanita Chandler",
+		weight: "-9",
+		category: "Household",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 15:35:30",
+		name: "Juanita Chandler",
+		weight: "224",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 15:37:59",
+		name: "Juanita Chandler",
+		weight: "-297",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 15:38:54",
+		name: "Juanita Chandler",
+		weight: "-1264",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 15:41:00",
+		name: "Juanita Chandler",
+		weight: "-210",
+		category: "Assorted Fridge",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 15:41:41",
+		name: "Juanita Chandler",
+		weight: "-265",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 15:42:44",
+		name: "Juanita Chandler",
+		weight: "-157",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 15:47:25",
+		name: "Juanita Chandler",
+		weight: "-1417",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-25 15:50:17",
+		name: "Juanita Chandler",
+		weight: "-1563",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-02-26 12:32:03",
+		name: "Juanita Chandler",
+		weight: "1066",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-02-26 12:34:24",
+		name: "Juanita Chandler",
+		weight: "1259",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-02-26 12:49:36",
+		name: "Juanita Chandler",
+		weight: "1104",
+		category: "Dairy",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-02-26 12:59:43",
+		name: "Juanita Chandler",
+		weight: "161",
+		category: "Produce",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-02-26 13:25:28",
+		name: "Juanita Chandler",
+		weight: "253",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-02-26 13:53:41",
+		name: "Susan May",
+		weight: "273",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-02-26 15:01:03",
+		name: "Opeyemi Faleye",
+		weight: "1574",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-02-28 13:26:15",
+		name: "Beverly Pinn",
+		weight: "1204",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-02-28 13:26:52",
+		name: "Beverly Pinn",
+		weight: "1106",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-02-28 13:27:53",
+		name: "Beverly Pinn",
+		weight: "1063",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-02-28 00:00:00",
+		name: "Claire",
+		weight: "1057",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-02-28 13:28:53",
+		name: "Beverly Pinn",
+		weight: "1112",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-02-28 13:29:30",
+		name: "Beverly Pinn",
+		weight: "1083",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-02-28 13:30:14",
+		name: "Beverly Pinn",
+		weight: "1089",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-02-28 13:30:46",
+		name: "Beverly Pinn",
+		weight: "1269",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-03-01 13:18:23",
+		name: "Tishea Lester",
+		weight: "485",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-01 13:34:11",
+		name: "Charmika Burton",
+		weight: "627",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-01 13:37:12",
+		name: "Elizabeth Rehn",
+		weight: "1090",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-01 14:02:13",
+		name: "Juanita Chandler",
+		weight: "1111",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-01 14:03:04",
+		name: "Juanita Chandler",
+		weight: "1101",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-01 14:03:54",
+		name: "Juanita Chandler",
+		weight: "1091",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-01 14:05:07",
+		name: "Juanita Chandler",
+		weight: "1065",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-01 14:08:25",
+		name: "Juanita Chandler",
+		weight: "1087",
+		category: "Frozen [Not Meat]",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-01 14:10:20",
+		name: "Juanita Chandler",
+		weight: "1069",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-01 14:13:33",
+		name: "Juanita Chandler",
+		weight: "871",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-01 14:14:49",
+		name: "Juanita Chandler",
+		weight: "1446",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-01 14:15:24",
+		name: "Juanita Chandler",
+		weight: "530",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-01 15:30:49",
+		name: "Gabriel C",
+		weight: "152",
+		category: "Assorted Fridge",
+		donatedTo: "Impact Hub"
+	},
+	{
+		date: "2023-03-01 17:07:17",
+		name: "Barbara Zadek",
+		weight: "10",
+		category: "Produce",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-03-02 19:45:31",
+		name: "Norma Kriger",
+		weight: "939",
+		category: "Assorted Dry",
+		donatedTo: "Baltimore Cease Fire [Nkenge]"
+	},
+	{
+		date: "2023-03-02 19:47:05",
+		name: "Norma Kriger",
+		weight: "1102",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Baltimore Cease Fire [Nkenge]"
+	},
+	{
+		date: "2023-03-02 19:48:40",
+		name: "Norma Kriger",
+		weight: "490",
+		category: "Dairy",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-03-02 19:49:56",
+		name: "Norma Kriger",
+		weight: "521",
+		category: "Dairy",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-02 19:51:05",
+		name: "Norma Kriger",
+		weight: "272",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-02 19:51:59",
+		name: "Norma Kriger",
+		weight: "276",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-03-02 00:00:00",
+		name: "Norma Kriger",
+		weight: "211",
+		category: "Produce",
+		donatedTo: "Baltimore Cease Fire [Nkenge]"
+	},
+	{
+		date: "2023-03-03 13:12:34",
+		name: "Phillip Blackwell",
+		weight: "1298",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 13:14:15",
+		name: "Phillip Blackwell",
+		weight: "11",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 13:49:42",
+		name: "Juanita Chandler",
+		weight: "1238",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 13:51:39",
+		name: "Juanita Chandler",
+		weight: "373",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 13:53:53",
+		name: "Juanita Chandler",
+		weight: "1271",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 13:55:06",
+		name: "Juanita Chandler",
+		weight: "1253",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 13:57:59",
+		name: "Juanita Chandler",
+		weight: "1163",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 14:08:45",
+		name: "Juanita Chandler",
+		weight: "1272",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 14:15:36",
+		name: "Juanita Chandler",
+		weight: "1768",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 14:16:47",
+		name: "Barbara Zadek",
+		weight: "198",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-03-03 14:22:11",
+		name: "Juanita Chandler",
+		weight: "1253",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 14:23:39",
+		name: "Juanita Chandler",
+		weight: "1949",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-03 14:24:37",
+		name: "Juanita Chandler",
+		weight: "1251",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-04 11:54:00",
+		name: "Beverly Pinn",
+		weight: "1175",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 12:16:36",
+		name: "Beverly Pinn",
+		weight: "624",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 12:17:12",
+		name: "Beverly Pinn",
+		weight: "1093",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-04 12:17:53",
+		name: "Beverly Pinn",
+		weight: "583",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 12:19:05",
+		name: "Beverly Pinn",
+		weight: "621",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-04 12:20:11",
+		name: "Beverly Pinn",
+		weight: "463",
+		category: "Assorted Fridge",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-04 12:22:19",
+		name: "Beverly Pinn",
+		weight: "223",
+		category: "Produce",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-04 12:29:15",
+		name: "Beverly Pinn",
+		weight: "389",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 12:42:10",
+		name: "Beverly Pinn",
+		weight: "417",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 13:40:13",
+		name: "Beverly Pinn",
+		weight: "945",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 13:40:52",
+		name: "Beverly Pinn",
+		weight: "641",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 13:42:50",
+		name: "Beverly Pinn",
+		weight: "507",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 13:43:38",
+		name: "Beverly Pinn",
+		weight: "581",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 13:44:42",
+		name: "Beverly Pinn",
+		weight: "1175",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 13:45:33",
+		name: "Beverly Pinn",
+		weight: "1263",
+		category: "Danone - Milk",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 13:46:21",
+		name: "Beverly Pinn",
+		weight: "1065",
+		category: "Condiments",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 13:46:48",
+		name: "Beverly Pinn",
+		weight: "519",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 13:57:56",
+		name: "Beverly Pinn",
+		weight: "1598",
+		category: "Canned Goods",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 15:41:31",
+		name: "Juanita Chandler",
+		weight: "-486",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 15:47:51",
+		name: "Juanita Chandler",
+		weight: "-47",
+		category: "Household",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 15:48:47",
+		name: "Juanita Chandler",
+		weight: "-717",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 15:51:31",
+		name: "Juanita Chandler",
+		weight: "-23",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 15:55:50",
+		name: "Juanita Chandler",
+		weight: "-1210",
+		category: "Canned Goods",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 15:59:14",
+		name: "Juanita Chandler",
+		weight: "-282",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF [Non Curbside]"
+	},
+	{
+		date: "2023-03-04 16:00:19",
+		name: "Juanita Chandler",
+		weight: "-155",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-04 16:01:37",
+		name: "Juanita Chandler",
+		weight: "-880",
+		category: "Condiments",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-05 13:44:10",
+		name: "Susan May",
+		weight: "29",
+		category: "Produce",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-03-05 15:15:09",
+		name: "Juanita Chandler",
+		weight: "118",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-05 15:18:37",
+		name: "Juanita Chandler",
+		weight: "95",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-05 15:26:26",
+		name: "Zoe",
+		weight: "1419",
+		category: "Assorted Fridge",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-03-05 23:30:16",
+		name: "Juanita Chandler",
+		weight: "203",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-05 23:32:45",
+		name: "Juanita Chandler",
+		weight: "16",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-08 13:02:25",
+		name: "Juanita Chandler",
+		weight: "1098",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-08 13:03:07",
+		name: "Juanita Chandler",
+		weight: "1212",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-08 13:03:52",
+		name: "Juanita Chandler",
+		weight: "1272",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-08 13:15:32",
+		name: "Juanita Chandler",
+		weight: "411",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-08 13:27:11",
+		name: "Juanita Chandler",
+		weight: "1355",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-08 13:32:43",
+		name: "Juanita Chandler",
+		weight: "1250",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-08 13:38:34",
+		name: "Juanita Chandler",
+		weight: "1959",
+		category: "Drinks [Dry]",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-08 13:52:26",
+		name: "Juanita Chandler",
+		weight: "651",
+		category: "Assorted Dry",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-08 13:54:58",
+		name: "Juanita Chandler",
+		weight: "570",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-08 00:00:00",
+		name: "Safire Windley",
+		weight: "502",
+		category: "Assorted Dry",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-03-08 00:00:00",
+		name: "Safire Windley",
+		weight: "1293",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-03-08 00:00:00",
+		name: "Safire Windley",
+		weight: "1050",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-03-09 13:23:51",
+		name: "Norma Kriger",
+		weight: "1084",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-09 14:37:13",
+		name: "Norma Kriger",
+		weight: "660",
+		category: "Dairy",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-03-09 14:38:40",
+		name: "Norma Kriger",
+		weight: "685",
+		category: "Dairy",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-03-09 14:41:13",
+		name: "Norma Kriger",
+		weight: "2078",
+		category: "Dairy",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-03-09 14:42:13",
+		name: "Norma Kriger",
+		weight: "1014",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-03-09 14:43:16",
+		name: "Norma Kriger",
+		weight: "1100",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-03-09 14:53:04",
+		name: "Norma Kriger",
+		weight: "612",
+		category: "Assorted Dry",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-03-09 14:56:42",
+		name: "Norma Kriger",
+		weight: "1069",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morgan State University"
+	},
+	{
+		date: "2023-03-09 00:00:00",
+		name: "Claire",
+		weight: "11936",
+		category: "Dairy",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-03-10 13:55:45",
+		name: "Barbara Zadek",
+		weight: "397",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-03-10 14:01:05",
+		name: "Elizabeth Rehn",
+		weight: "346",
+		category: "Danone - Creamer",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 00:00:00",
+		name: "Claire",
+		weight: "499",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 00:00:00",
+		name: "Claire",
+		weight: "688",
+		category: "Danone - Creamer",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 14:09:33",
+		name: "Juanita Chandler",
+		weight: "132",
+		category: "Assorted Dry",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 14:10:50",
+		name: "Juanita Chandler",
+		weight: "146",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 14:15:48",
+		name: "Juanita Chandler",
+		weight: "346",
+		category: "Danone - Creamer",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 14:17:42",
+		name: "Juanita Chandler",
+		weight: "499",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 14:19:57",
+		name: "Juanita Chandler",
+		weight: "-294",
+		category: "Danone - Creamer",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 15:09:05",
+		name: "Juanita Chandler",
+		weight: "297",
+		category: "Danone - Creamer",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 15:10:38",
+		name: "Juanita Chandler",
+		weight: "1189",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 15:13:42",
+		name: "Juanita Chandler",
+		weight: "1294",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 16:19:19",
+		name: "Phillip Blackwell",
+		weight: "231",
+		category: "Danone - Creamer",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-10 16:54:36",
+		name: "Sunita Pathik",
+		weight: "103",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-03-11 11:45:06",
+		name: "Beverly Pinn",
+		weight: "694",
+		category: "Danone - Creamer",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-11 12:06:54",
+		name: "Beverly Pinn",
+		weight: "691",
+		category: "Danone - Creamer",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-11 12:07:38",
+		name: "Beverly Pinn",
+		weight: "1067",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-11 12:08:57",
+		name: "Beverly Pinn",
+		weight: "962",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-11 12:09:49",
+		name: "Beverly Pinn",
+		weight: "749",
+		category: "Drinks [Dry]",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-11 12:10:31",
+		name: "Beverly Pinn",
+		weight: "564",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-03-11 12:11:10",
+		name: "Beverly Pinn",
+		weight: "912",
+		category: "Drinks [Dry]",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-11 12:13:18",
+		name: "Beverly Pinn",
+		weight: "1762",
+		category: "Danone - Creamer",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-11 12:15:24",
+		name: "Beverly Pinn",
+		weight: "1098",
+		category: "Danone - Creamer",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-11 12:28:36",
+		name: "Beverly Pinn",
+		weight: "1728",
+		category: "Frozen [Not Meat]",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-11 12:49:38",
+		name: "Beverly Pinn",
+		weight: "1826",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 12:50:25",
+		name: "Beverly Pinn",
+		weight: "1281",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 12:58:35",
+		name: "Beverly Pinn",
+		weight: "1949",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 13:18:55",
+		name: "Juanita Chandler",
+		weight: "185",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 13:21:40",
+		name: "Juanita Chandler",
+		weight: "1342",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 13:22:32",
+		name: "Juanita Chandler",
+		weight: "1155",
+		category: "Drinks [Fridge]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 13:28:03",
+		name: "Juanita Chandler",
+		weight: "492",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 13:36:17",
+		name: "Juanita Chandler",
+		weight: "1570",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 13:46:40",
+		name: "Juanita Chandler",
+		weight: "534",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 13:53:13",
+		name: "Juanita Chandler",
+		weight: "430",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 13:58:33",
+		name: "Juanita Chandler",
+		weight: "831",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 14:02:52",
+		name: "Juanita Chandler",
+		weight: "340",
+		category: "Meat [Raw]",
+		donatedTo: "BCF [Non Curbside]"
+	},
+	{
+		date: "2023-03-11 15:11:20",
+		name: "Beverly Pinn",
+		weight: "1087",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 15:41:37",
+		name: "Juanita Chandler",
+		weight: "-534",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 15:48:22",
+		name: "Juanita Chandler",
+		weight: "1271",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 15:50:32",
+		name: "Juanita Chandler",
+		weight: "-1485",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 15:51:13",
+		name: "Juanita Chandler",
+		weight: "-713",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 15:52:19",
+		name: "Juanita Chandler",
+		weight: "-1483",
+		category: "Assorted Fridge",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 16:03:49",
+		name: "Juanita Chandler",
+		weight: "-415",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 16:05:38",
+		name: "Juanita Chandler",
+		weight: "-1052",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 16:11:36",
+		name: "Juanita Chandler",
+		weight: "-119",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-11 16:12:26",
+		name: "Juanita Chandler",
+		weight: "-287",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-12 12:25:29",
+		name: "Juanita Chandler",
+		weight: "688",
+		category: "Assorted Dry",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-03-12 12:33:19",
+		name: "Juanita Chandler",
+		weight: "1489",
+		category: "Danone - Creamer",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-03-12 13:10:11",
+		name: "Juanita Chandler",
+		weight: "140",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-12 13:40:21",
+		name: "Phillip Blackwell",
+		weight: "997",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-12 13:56:15",
+		name: "Susan May",
+		weight: "22",
+		category: "Produce",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-03-12 14:25:03",
+		name: "Juanita Chandler",
+		weight: "138",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-03-12 14:26:00",
+		name: "Juanita Chandler",
+		weight: "120",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-12 15:31:36",
+		name: "Opeyemi Faleye",
+		weight: "1322",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-03-15 13:51:09",
+		name: "Juanita Chandler",
+		weight: "28",
+		category: "Danone - Creamer",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-15 13:52:56",
+		name: "Juanita Chandler",
+		weight: "1254",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-15 14:22:50",
+		name: "Juanita Chandler",
+		weight: "1629",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-15 14:59:38",
+		name: "Juanita Chandler",
+		weight: "28",
+		category: "Danone - Creamer",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-15 15:05:25",
+		name: "Juanita Chandler",
+		weight: "1608",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-15 15:10:09",
+		name: "Juanita Chandler",
+		weight: "1153",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-15 15:11:14",
+		name: "Juanita Chandler",
+		weight: "703",
+		category: "Danone - Creamer",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-15 15:16:37",
+		name: "Juanita Chandler",
+		weight: "1761",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-15 15:17:19",
+		name: "Juanita Chandler",
+		weight: "252",
+		category: "Assorted Dry",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-15 15:23:25",
+		name: "Juanita Chandler",
+		weight: "1432",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-15 15:25:31",
+		name: "Juanita Chandler",
+		weight: "1493",
+		category: "Health & Beauty Products",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-15 15:29:17",
+		name: "Juanita Chandler",
+		weight: "1447",
+		category: "Health & Beauty Products",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-15 15:36:59",
+		name: "Juanita Chandler",
+		weight: "1194",
+		category: "Danone - Creamer",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-15 15:41:58",
+		name: "Juanita Chandler",
+		weight: "1438",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-15 15:46:07",
+		name: "Juanita Chandler",
+		weight: "685",
+		category: "Danone - Creamer",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-16 13:53:28",
+		name: "Norma Kriger",
+		weight: "332",
+		category: "Produce",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-03-16 15:33:40",
+		name: "Norma Kriger",
+		weight: "1049",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-16 15:56:01",
+		name: "Norma Kriger",
+		weight: "525",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-17 14:29:06",
+		name: "Juanita Chandler",
+		weight: "617",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-03-17 14:37:25",
+		name: "Juanita Chandler",
+		weight: "1013",
+		category: "Assorted Fridge",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-03-17 00:00:00",
+		name: "Safire Windley",
+		weight: "664",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-03-17 14:45:09",
+		name: "Juanita Chandler",
+		weight: "640",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-17 14:47:46",
+		name: "Juanita Chandler",
+		weight: "993",
+		category: "Assorted Fridge",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-17 15:18:08",
+		name: "Juanita Chandler",
+		weight: "697",
+		category: "Danone - Creamer",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-03-17 15:23:23",
+		name: "Juanita Chandler",
+		weight: "1138",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-03-17 15:31:06",
+		name: "Juanita Chandler",
+		weight: "349",
+		category: "Assorted Dry",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-03-17 16:48:08",
+		name: "Sunita Pathik",
+		weight: "152",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-03-18 11:54:24",
+		name: "Beverly Pinn",
+		weight: "685",
+		category: "Danone - Creamer",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-18 11:55:06",
+		name: "Beverly Pinn",
+		weight: "1792",
+		category: "Danone - Creamer",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-18 11:55:43",
+		name: "Beverly Pinn",
+		weight: "1418",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-18 12:46:06",
+		name: "Juanita Chandler",
+		weight: "1049",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 12:49:21",
+		name: "Juanita Chandler",
+		weight: "1398",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 12:56:05",
+		name: "Juanita Chandler",
+		weight: "1394",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 13:06:26",
+		name: "Juanita Chandler",
+		weight: "1023",
+		category: "Danone - Creamer",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 13:15:03",
+		name: "Juanita Chandler",
+		weight: "1764",
+		category: "Danone - Creamer",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 13:22:11",
+		name: "Juanita Chandler",
+		weight: "218",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 00:00:00",
+		name: "Claire",
+		weight: "200",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 13:23:05",
+		name: "Juanita Chandler",
+		weight: "287",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 13:36:24",
+		name: "Juanita Chandler",
+		weight: "150",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:34:11",
+		name: "Juanita Chandler",
+		weight: "-1475",
+		category: "Danone - Creamer",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:39:21",
+		name: "Juanita Chandler",
+		weight: "1877",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:41:43",
+		name: "Juanita Chandler",
+		weight: "43",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 00:00:00",
+		name: "Safire Windley",
+		weight: "1475",
+		category: "Danone - Creamer",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:43:25",
+		name: "Juanita Chandler",
+		weight: "-768",
+		category: "Danone - Creamer",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:45:25",
+		name: "Juanita Chandler",
+		weight: "-1091",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:46:17",
+		name: "Juanita Chandler",
+		weight: "-163",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:48:01",
+		name: "Juanita Chandler",
+		weight: "607",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:49:13",
+		name: "Juanita Chandler",
+		weight: "-748",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:53:36",
+		name: "Juanita Chandler",
+		weight: "-717",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:55:53",
+		name: "Juanita Chandler",
+		weight: "-369",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-18 15:57:52",
+		name: "Juanita Chandler",
+		weight: "-149",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-19 13:22:22",
+		name: "Phillip Blackwell",
+		weight: "682",
+		category: "Drinks [Dry]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-19 13:28:37",
+		name: "Juanita Chandler",
+		weight: "306",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-03-19 13:30:11",
+		name: "Juanita Chandler",
+		weight: "671",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-19 13:59:59",
+		name: "Susan May",
+		weight: "7",
+		category: "Produce",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-03-19 15:24:13",
+		name: "Opeyemi Faleye",
+		weight: "1343",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-03-22 13:08:21",
+		name: "Juanita Chandler",
+		weight: "687",
+		category: "Danone - Creamer",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-22 13:09:54",
+		name: "Juanita Chandler",
+		weight: "1361",
+		category: "Danone - Creamer",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-22 00:00:00",
+		name: "Safire Windley",
+		weight: "1120",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-22 13:15:29",
+		name: "Elizabeth Rehn",
+		weight: "1250",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-22 13:17:02",
+		name: "Juanita Chandler",
+		weight: "1258",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-22 13:20:15",
+		name: "Juanita Chandler",
+		weight: "984",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-22 13:31:45",
+		name: "Juanita Chandler",
+		weight: "134",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-22 13:32:29",
+		name: "Juanita Chandler",
+		weight: "601",
+		category: "Danone - Creamer",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-22 13:45:30",
+		name: "Juanita Chandler",
+		weight: "973",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-22 13:46:56",
+		name: "Juanita Chandler",
+		weight: "1769",
+		category: "Danone - Creamer",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-22 13:51:01",
+		name: "Juanita Chandler",
+		weight: "1120",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-22 13:51:41",
+		name: "Juanita Chandler",
+		weight: "255",
+		category: "Assorted Dry",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-22 14:15:15",
+		name: "Juanita Chandler",
+		weight: "206",
+		category: "Danone - Creamer",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-23 13:51:36",
+		name: "Barbara Zadek",
+		weight: "263",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-03-23 00:00:00",
+		name: "Claire",
+		weight: "415",
+		category: "Assorted Dry",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-23 00:00:00",
+		name: "Claire",
+		weight: "1082",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-23 00:00:00",
+		name: "Claire",
+		weight: "372",
+		category: "Assorted Fridge",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-24 15:11:39",
+		name: "Juanita Chandler",
+		weight: "1040",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-03-24 15:12:45",
+		name: "Juanita Chandler",
+		weight: "628",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-03-24 15:14:53",
+		name: "Juanita Chandler",
+		weight: "732",
+		category: "Assorted Fridge",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-24 15:16:19",
+		name: "Juanita Chandler",
+		weight: "12",
+		category: "Produce",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-25 12:23:27",
+		name: "Jasmine Rose",
+		weight: "187",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-03-25 12:25:18",
+		name: "Jasmine Rose",
+		weight: "314",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-03-25 12:32:14",
+		name: "Jasmine Rose",
+		weight: "1082",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-03-25 12:34:57",
+		name: "Jasmine Rose",
+		weight: "1548",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-03-25 13:30:58",
+		name: "Juanita Chandler",
+		weight: "1134",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 00:00:00",
+		name: "Safire Windley",
+		weight: "513",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 13:39:18",
+		name: "Juanita Chandler",
+		weight: "162",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 13:46:35",
+		name: "Juanita Chandler",
+		weight: "1937",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 13:47:32",
+		name: "Juanita Chandler",
+		weight: "282",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 13:48:23",
+		name: "Juanita Chandler",
+		weight: "587",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 13:55:06",
+		name: "Juanita Chandler",
+		weight: "281",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 13:58:39",
+		name: "Juanita Chandler",
+		weight: "239",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 14:00:55",
+		name: "Juanita Chandler",
+		weight: "70",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 14:04:18",
+		name: "Juanita Chandler",
+		weight: "124",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 14:07:36",
+		name: "Juanita Chandler",
+		weight: "695",
+		category: "Condiments",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 00:00:00",
+		name: "Safire Windley",
+		weight: "201",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 14:12:22",
+		name: "Juanita Chandler",
+		weight: "1501",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 15:44:44",
+		name: "Juanita Chandler",
+		weight: "336",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 15:47:37",
+		name: "Juanita Chandler",
+		weight: "-213",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 15:48:36",
+		name: "Juanita Chandler",
+		weight: "-24",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 15:51:15",
+		name: "Juanita Chandler",
+		weight: "-1379",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 15:56:52",
+		name: "Juanita Chandler",
+		weight: "-147",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 15:59:30",
+		name: "Juanita Chandler",
+		weight: "-496",
+		category: "Condiments",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 16:01:39",
+		name: "Juanita Chandler",
+		weight: "-760",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 16:06:16",
+		name: "Juanita Chandler",
+		weight: "-535",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 16:11:30",
+		name: "Juanita Chandler",
+		weight: "-365",
+		category: "Assorted Fridge",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-25 16:22:07",
+		name: "Juanita Chandler",
+		weight: "-316",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-03-26 12:28:58",
+		name: "Juanita Chandler",
+		weight: "523",
+		category: "Assorted Dry",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-03-26 13:06:02",
+		name: "Juanita Chandler",
+		weight: "-419",
+		category: "Assorted Dry",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-03-26 13:07:08",
+		name: "Juanita Chandler",
+		weight: "212",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-03-26 13:09:53",
+		name: "Juanita Chandler",
+		weight: "230",
+		category: "Assorted Dry",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-03-26 13:23:45",
+		name: "Juanita Chandler",
+		weight: "8",
+		category: "Meat [Raw]",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-03-26 13:24:25",
+		name: "Juanita Chandler",
+		weight: "247",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-03-26 00:00:00",
+		name: "Safire Windley",
+		weight: "61",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-26 00:00:00",
+		name: "Safire Windley",
+		weight: "32",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-26 16:24:42",
+		name: "Opeyemi Faleye",
+		weight: "919",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-03-28 16:48:05",
+		name: "Beverly Pinn",
+		weight: "150",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-29 14:14:42",
+		name: "Juanita Chandler",
+		weight: "1141",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Morrell pk Elem. and Middle schho"
+	},
+	{
+		date: "2023-03-29 14:24:53",
+		name: "Juanita Chandler",
+		weight: "1951",
+		category: "Drinks [Dry]",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-29 14:26:11",
+		name: "Juanita Chandler",
+		weight: "1776",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-29 14:28:37",
+		name: "Juanita Chandler",
+		weight: "1297",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-29 14:29:30",
+		name: "Juanita Chandler",
+		weight: "327",
+		category: "Produce",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-29 14:30:19",
+		name: "Juanita Chandler",
+		weight: "918",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-29 14:32:15",
+		name: "Juanita Chandler",
+		weight: "1072",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-03-29 14:33:46",
+		name: "Juanita Chandler",
+		weight: "1057",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-29 14:35:10",
+		name: "Juanita Chandler",
+		weight: "191",
+		category: "Produce",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-29 14:40:27",
+		name: "Juanita Chandler",
+		weight: "1466",
+		category: "Health & Beauty Products",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-03-30 00:00:00",
+		name: "Claire",
+		weight: "52",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-03-30 13:39:53",
+		name: "Barbara Zadek",
+		weight: "324",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-03-31 13:56:25",
+		name: "Susan May",
+		weight: "23",
+		category: "Produce",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-03-31 16:47:50",
+		name: "Sunita Pathik",
+		weight: "225",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-03-31 00:00:00",
+		name: "Juanita Chandler",
+		weight: "767",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-31 00:00:00",
+		name: "Juanita Chandler",
+		weight: "347",
+		category: "Produce",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-03-31 00:00:00",
+		name: "Juanita Chandler",
+		weight: "341",
+		category: "Produce",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-03-31 00:00:00",
+		name: "Juanita Chandler",
+		weight: "874",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-03-31 00:00:00",
+		name: "Juanita Chandler",
+		weight: "778",
+		category: "Drinks [Dry]",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-04-01 12:23:14",
+		name: "Juanita Chandler",
+		weight: "392",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-01 12:29:50",
+		name: "Juanita Chandler",
+		weight: "1850",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-01 12:30:56",
+		name: "Juanita Chandler",
+		weight: "1189",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-01 12:49:07",
+		name: "Juanita Chandler",
+		weight: "1796",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-01 12:50:54",
+		name: "Juanita Chandler",
+		weight: "325",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-01 13:12:13",
+		name: "Juanita Chandler",
+		weight: "1184",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:21:34",
+		name: "Juanita Chandler",
+		weight: "804",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:22:18",
+		name: "Juanita Chandler",
+		weight: "256",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:24:30",
+		name: "Juanita Chandler",
+		weight: "1171",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:31:20",
+		name: "Juanita Chandler",
+		weight: "443",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:35:24",
+		name: "Juanita Chandler",
+		weight: "113",
+		category: "Other",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:37:30",
+		name: "Juanita Chandler",
+		weight: "240",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:39:53",
+		name: "Juanita Chandler",
+		weight: "571",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:47:21",
+		name: "Juanita Chandler",
+		weight: "1658",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:51:45",
+		name: "Juanita Chandler",
+		weight: "1849",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:54:18",
+		name: "Juanita Chandler",
+		weight: "513",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 13:56:40",
+		name: "Juanita Chandler",
+		weight: "147",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 14:51:12",
+		name: "Beverly Pinn",
+		weight: "190",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 14:51:38",
+		name: "Beverly Pinn",
+		weight: "151",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 14:52:17",
+		name: "Beverly Pinn",
+		weight: "685",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 15:11:13",
+		name: "Beverly Pinn",
+		weight: "333",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 15:38:39",
+		name: "Juanita Chandler",
+		weight: "-331",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 15:46:50",
+		name: "Juanita Chandler",
+		weight: "-927",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 15:47:54",
+		name: "Juanita Chandler",
+		weight: "-69",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 15:49:47",
+		name: "Juanita Chandler",
+		weight: "-1428",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 16:02:15",
+		name: "Juanita Chandler",
+		weight: "-131",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 16:03:33",
+		name: "Juanita Chandler",
+		weight: "-611",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-01 01:00:01",
+		name: "Claire",
+		weight: "196",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-02 13:11:57",
+		name: "Phillip Blackwell",
+		weight: "1523",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-02 13:14:11",
+		name: "Juanita Chandler",
+		weight: "360",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-04-02 15:09:33",
+		name: "Juanita Chandler",
+		weight: "151",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-02 15:10:17",
+		name: "Zoe",
+		weight: "1345",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-04-02 15:11:07",
+		name: "Juanita Chandler",
+		weight: "90",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-05 13:08:45",
+		name: "Juanita Chandler",
+		weight: "1067",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-05 13:11:40",
+		name: "Juanita Chandler",
+		weight: "561",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-05 14:37:35",
+		name: "Juanita Chandler",
+		weight: "223",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-05 15:21:51",
+		name: "Juanita Chandler",
+		weight: "1174",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-05 15:22:41",
+		name: "Juanita Chandler",
+		weight: "206",
+		category: "Produce",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-05 15:25:19",
+		name: "Juanita Chandler",
+		weight: "459",
+		category: "Assorted Fridge",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-05 15:28:47",
+		name: "Juanita Chandler",
+		weight: "1192",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-05 15:30:23",
+		name: "Juanita Chandler",
+		weight: "313",
+		category: "Assorted Fridge",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-05 15:41:44",
+		name: "Juanita Chandler",
+		weight: "-313",
+		category: "Assorted Fridge",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-05 15:43:39",
+		name: "Juanita Chandler",
+		weight: "313",
+		category: "Assorted Fridge",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-06 14:26:03",
+		name: "Norma Kriger",
+		weight: "200",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-06 00:00:00",
+		name: "Safire Windley",
+		weight: "1184",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-06 00:00:00",
+		name: "Safire Windley",
+		weight: "1194",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-06 14:37:19",
+		name: "Norma Kriger",
+		weight: "856",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-06 14:38:03",
+		name: "Norma Kriger",
+		weight: "241",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-06 14:42:14",
+		name: "Norma Kriger",
+		weight: "606",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-07 13:38:23",
+		name: "Juanita Chandler",
+		weight: "403",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-04-07 13:39:30",
+		name: "Juanita Chandler",
+		weight: "230",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-07 13:41:18",
+		name: "Juanita Chandler",
+		weight: "128",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-07 15:28:37",
+		name: "Juanita Chandler",
+		weight: "280",
+		category: "Produce",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-04-07 15:32:27",
+		name: "Juanita Chandler",
+		weight: "1015",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-04-07 15:35:20",
+		name: "Juanita Chandler",
+		weight: "253",
+		category: "Produce",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-04-07 15:38:57",
+		name: "Juanita Chandler",
+		weight: "1022",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-04-07 15:44:56",
+		name: "Juanita Chandler",
+		weight: "524",
+		category: "Drinks [Dry]",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-04-07 16:56:15",
+		name: "Sunita Pathik",
+		weight: "206",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-04-08 13:00:34",
+		name: "Juanita Chandler",
+		weight: "619",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-08 13:01:37",
+		name: "Juanita Chandler",
+		weight: "1176",
+		category: "Canned Goods",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-08 13:04:18",
+		name: "Juanita Chandler",
+		weight: "943",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-08 13:10:37",
+		name: "Juanita Chandler",
+		weight: "1895",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-08 13:15:27",
+		name: "Juanita Chandler",
+		weight: "776",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 13:17:15",
+		name: "Juanita Chandler",
+		weight: "1189",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-08 13:18:21",
+		name: "Juanita Chandler",
+		weight: "1192",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-08 13:19:26",
+		name: "Juanita Chandler",
+		weight: "1228",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 13:20:42",
+		name: "Juanita Chandler",
+		weight: "1164",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 13:22:15",
+		name: "Juanita Chandler",
+		weight: "1920",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 13:25:18",
+		name: "Juanita Chandler",
+		weight: "1276",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 13:37:59",
+		name: "Juanita Chandler",
+		weight: "967",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 13:38:55",
+		name: "Juanita Chandler",
+		weight: "128",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 13:42:51",
+		name: "Juanita Chandler",
+		weight: "1116",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 13:50:20",
+		name: "Juanita Chandler",
+		weight: "565",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 13:51:04",
+		name: "Juanita Chandler",
+		weight: "222",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 13:52:16",
+		name: "Juanita Chandler",
+		weight: "1270",
+		category: "Danone - Yogurt",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 15:25:41",
+		name: "Opeyemi Faleye",
+		weight: "309",
+		category: "Snacks",
+		donatedTo: "BCF [Non Curbside]"
+	},
+	{
+		date: "2023-04-08 15:26:12",
+		name: "Opeyemi Faleye",
+		weight: "1713",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF [Non Curbside]"
+	},
+	{
+		date: "2023-04-08 15:28:35",
+		name: "Opeyemi Faleye",
+		weight: "1369",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-04-08 16:35:30",
+		name: "Juanita Chandler",
+		weight: "1429",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 16:41:58",
+		name: "Juanita Chandler",
+		weight: "-149",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 16:42:50",
+		name: "Juanita Chandler",
+		weight: "-296",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 16:43:54",
+		name: "Juanita Chandler",
+		weight: "-532",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 16:57:45",
+		name: "Juanita Chandler",
+		weight: "-763",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 17:20:58",
+		name: "Juanita Chandler",
+		weight: "-342",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 17:22:01",
+		name: "Juanita Chandler",
+		weight: "-1663",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 17:23:01",
+		name: "Juanita Chandler",
+		weight: "-1558",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-08 17:24:25",
+		name: "Juanita Chandler",
+		weight: "-389",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-09 15:17:05",
+		name: "JC",
+		weight: "1175",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-09 15:18:01",
+		name: "JC",
+		weight: "879",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-09 15:18:41",
+		name: "JC",
+		weight: "682",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-09 15:19:12",
+		name: "JC",
+		weight: "1152",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-09 15:19:45",
+		name: "JC",
+		weight: "1066",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-09 15:20:17",
+		name: "JC",
+		weight: "532",
+		category: "Danone - Yogurt",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-11 14:21:45",
+		name: "Barbara Zadek",
+		weight: "392",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-04-11 16:29:28",
+		name: "Beverly Pinn",
+		weight: "1920",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-04-11 16:30:03",
+		name: "Beverly Pinn",
+		weight: "545",
+		category: "Assorted Fridge",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-04-12 13:14:32",
+		name: "Juanita Chandler",
+		weight: "581",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-12 13:15:41",
+		name: "Juanita Chandler",
+		weight: "621",
+		category: "Produce",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-12 13:18:42",
+		name: "Juanita Chandler",
+		weight: "1254",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-12 13:19:49",
+		name: "Juanita Chandler",
+		weight: "1692",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-12 13:26:35",
+		name: "Juanita Chandler",
+		weight: "1090",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-12 13:27:12",
+		name: "Juanita Chandler",
+		weight: "1220",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-12 13:28:17",
+		name: "Juanita Chandler",
+		weight: "1932",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-12 13:30:15",
+		name: "Juanita Chandler",
+		weight: "1106",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-12 13:36:56",
+		name: "Juanita Chandler",
+		weight: "439",
+		category: "Dairy",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-12 13:44:56",
+		name: "Juanita Chandler",
+		weight: "968",
+		category: "Assorted Fridge",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-12 13:46:36",
+		name: "Juanita Chandler",
+		weight: "784",
+		category: "Assorted Dry",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-12 13:49:48",
+		name: "Juanita Chandler",
+		weight: "322",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-12 14:20:37",
+		name: "Juanita Chandler",
+		weight: "1845",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-12 14:39:36",
+		name: "Juanita Chandler",
+		weight: "-1845",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-12 14:41:06",
+		name: "Juanita Chandler",
+		weight: "1084",
+		category: "Assorted Fridge",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-12 14:47:00",
+		name: "Juanita Chandler",
+		weight: "581",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-13 13:59:16",
+		name: "Norma Kriger",
+		weight: "1260",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-13 14:01:18",
+		name: "Norma Kriger",
+		weight: "1185",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-13 14:12:36",
+		name: "Norma Kriger",
+		weight: "1145",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-13 14:24:43",
+		name: "Norma Kriger",
+		weight: "562",
+		category: "Other",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-13 14:29:32",
+		name: "Norma Kriger",
+		weight: "2221",
+		category: "Other",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-13 14:45:47",
+		name: "Norma Kriger",
+		weight: "1147",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-04-13 14:46:30",
+		name: "Norma Kriger",
+		weight: "1126",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-14 00:00:00",
+		name: "Claire",
+		weight: "36622",
+		category: "Danone - Creamer",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-04-14 13:44:02",
+		name: "Juanita Chandler",
+		weight: "67",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-14 13:45:22",
+		name: "Juanita Chandler",
+		weight: "14",
+		category: "Snacks",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-14 13:46:33",
+		name: "Juanita Chandler",
+		weight: "1182",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-04-14 13:47:25",
+		name: "Juanita Chandler",
+		weight: "1178",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-04-14 14:20:52",
+		name: "Juanita Chandler",
+		weight: "114",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-04-14 14:34:13",
+		name: "Juanita Chandler",
+		weight: "1146",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-04-14 14:35:08",
+		name: "Juanita Chandler",
+		weight: "209",
+		category: "Produce",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-04-14 14:43:47",
+		name: "Juanita Chandler",
+		weight: "1197",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-04-14 14:45:19",
+		name: "Juanita Chandler",
+		weight: "1202",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-04-14 14:46:27",
+		name: "Juanita Chandler",
+		weight: "183",
+		category: "Produce",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-04-14 14:47:48",
+		name: "Juanita Chandler",
+		weight: "1902",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-04-14 15:50:12",
+		name: "Juanita Chandler",
+		weight: "1899",
+		category: "Snacks",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-14 15:58:41",
+		name: "Juanita Chandler",
+		weight: "901",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-14 16:00:00",
+		name: "Juanita Chandler",
+		weight: "1185",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-14 16:01:38",
+		name: "Juanita Chandler",
+		weight: "1854",
+		category: "Frozen [Not Meat]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-14 16:02:34",
+		name: "Juanita Chandler",
+		weight: "1260",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-14 16:09:56",
+		name: "Juanita Chandler",
+		weight: "1040",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-14 16:46:49",
+		name: "Juanita Chandler",
+		weight: "2030",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-15 12:10:03",
+		name: "Beverly Pinn",
+		weight: "1014",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-15 12:20:37",
+		name: "Beverly Pinn",
+		weight: "1639",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-15 12:21:02",
+		name: "Beverly Pinn",
+		weight: "1611",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-15 12:30:57",
+		name: "Beverly Pinn",
+		weight: "2037",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-15 12:32:06",
+		name: "Beverly Pinn",
+		weight: "1713",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-15 12:34:14",
+		name: "Beverly Pinn",
+		weight: "1537",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-15 12:34:50",
+		name: "Beverly Pinn",
+		weight: "953",
+		category: "Danone - Coffee",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-15 12:38:04",
+		name: "Beverly Pinn",
+		weight: "793",
+		category: "Danone - Creamer",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-15 12:47:02",
+		name: "Beverly Pinn",
+		weight: "1456",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-15 13:20:32",
+		name: "Juanita Chandler",
+		weight: "381",
+		category: "Canned Goods",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-15 13:21:46",
+		name: "Juanita Chandler",
+		weight: "1679",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-15 14:11:59",
+		name: "Juanita Chandler",
+		weight: "443",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-15 15:27:01",
+		name: "Juanita Chandler",
+		weight: "25",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-15 15:27:39",
+		name: "Juanita Chandler",
+		weight: "30",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-15 17:01:51",
+		name: "Juanita Chandler",
+		weight: "-153",
+		category: "Canned Goods",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-15 17:08:05",
+		name: "Juanita Chandler",
+		weight: "-1173",
+		category: "Condiments",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-16 16:27:52",
+		name: "Opeyemi Faleye",
+		weight: "2222",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-04-17 12:30:14",
+		name: "JC",
+		weight: "223",
+		category: "Other",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-17 12:31:04",
+		name: "JC",
+		weight: "322",
+		category: "Other",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-17 12:31:41",
+		name: "JC",
+		weight: "1176",
+		category: "Other",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-17 12:32:08",
+		name: "JC",
+		weight: "1679",
+		category: "Other",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-17 12:32:46",
+		name: "JC",
+		weight: "1268",
+		category: "Other",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-17 12:33:25",
+		name: "JC",
+		weight: "328",
+		category: "Other",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-17 12:33:53",
+		name: "JC",
+		weight: "320",
+		category: "Other",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-18 00:00:00",
+		name: "Claire",
+		weight: "36534",
+		category: "Dairy",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-04-18 14:27:12",
+		name: "Beverly Pinn",
+		weight: "922",
+		category: "Danone - Yogurt",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-18 14:29:19",
+		name: "Beverly Pinn",
+		weight: "2149",
+		category: "Danone - Milk",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-18 14:29:57",
+		name: "Beverly Pinn",
+		weight: "1157",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-18 14:32:32",
+		name: "Beverly Pinn",
+		weight: "1243",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-18 14:38:49",
+		name: "Beverly Pinn",
+		weight: "334",
+		category: "Drinks [Fridge]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-18 14:44:31",
+		name: "Beverly Pinn",
+		weight: "2023",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-18 16:03:03",
+		name: "Barbara Zadek",
+		weight: "126",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-04-18 17:18:23",
+		name: "Beverly Pinn",
+		weight: "917",
+		category: "Danone - Yogurt",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-18 17:20:58",
+		name: "Beverly Pinn",
+		weight: "491",
+		category: "Assorted Fridge",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-19 12:35:32",
+		name: "Vincent Faulk",
+		weight: "1913",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-19 12:38:08",
+		name: "Vincent Faulk",
+		weight: "1182",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-19 12:39:33",
+		name: "Vincent Faulk",
+		weight: "1098",
+		category: "Danone - Creamer",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-19 12:52:16",
+		name: "Vincent Faulk",
+		weight: "456",
+		category: "Condiments",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-19 14:09:29",
+		name: "Juanita Chandler",
+		weight: "1179",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-19 14:10:55",
+		name: "Juanita Chandler",
+		weight: "1185",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-19 14:17:03",
+		name: "Juanita Chandler",
+		weight: "590",
+		category: "Assorted Fridge",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-19 14:18:05",
+		name: "Juanita Chandler",
+		weight: "331",
+		category: "Dairy",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-19 14:19:19",
+		name: "Juanita Chandler",
+		weight: "233",
+		category: "Dairy",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-19 14:22:11",
+		name: "Juanita Chandler",
+		weight: "779",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-19 14:23:01",
+		name: "Juanita Chandler",
+		weight: "1053",
+		category: "Assorted Dry",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-19 14:26:24",
+		name: "Juanita Chandler",
+		weight: "985",
+		category: "Assorted Dry",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-04-19 14:52:11",
+		name: "Juanita Chandler",
+		weight: "912",
+		category: "Assorted Dry",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-19 14:53:27",
+		name: "Juanita Chandler",
+		weight: "29",
+		category: "Produce",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-04-20 00:00:00",
+		name: "Claire",
+		weight: "934",
+		category: "Other",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-04-20 00:00:00",
+		name: "Claire",
+		weight: "976",
+		category: "Other",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-04-20 00:00:00",
+		name: "Claire",
+		weight: "905",
+		category: "Other",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-04-21 13:21:54",
+		name: "Juanita Chandler",
+		weight: "-939",
+		category: "Assorted Dry",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-04-21 13:22:43",
+		name: "Juanita Chandler",
+		weight: "-944",
+		category: "Assorted Dry",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-04-21 14:42:45",
+		name: "Juanita Chandler",
+		weight: "206",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-04-21 14:45:52",
+		name: "Juanita Chandler",
+		weight: "1180",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-04-21 14:46:47",
+		name: "Juanita Chandler",
+		weight: "1194",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-04-21 15:33:04",
+		name: "Juanita Chandler",
+		weight: "1360",
+		category: "Dairy",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-04-21 15:33:52",
+		name: "Juanita Chandler",
+		weight: "1371",
+		category: "Dairy",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-04-21 15:37:35",
+		name: "Juanita Chandler",
+		weight: "421",
+		category: "Meat [Raw]",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-04-21 15:45:38",
+		name: "Juanita Chandler",
+		weight: "430",
+		category: "Meat [Raw]",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-04-21 16:06:32",
+		name: "Juanita Chandler",
+		weight: "500",
+		category: "Assorted Fridge",
+		donatedTo: "Crystal [Kingdom Worship Center]"
+	},
+	{
+		date: "2023-04-21 16:43:52",
+		name: "Sunita Pathik",
+		weight: "101",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-04-22 12:00:07",
+		name: "Beverly Pinn",
+		weight: "1888",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-22 12:00:51",
+		name: "Beverly Pinn",
+		weight: "1616",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-22 12:01:34",
+		name: "Beverly Pinn",
+		weight: "1249",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-22 12:11:09",
+		name: "Beverly Pinn",
+		weight: "2138",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 12:11:45",
+		name: "Beverly Pinn",
+		weight: "286",
+		category: "Pet Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 12:12:53",
+		name: "Beverly Pinn",
+		weight: "249",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 12:13:29",
+		name: "Beverly Pinn",
+		weight: "1907",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 12:19:09",
+		name: "Beverly Pinn",
+		weight: "257",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 12:20:46",
+		name: "Beverly Pinn",
+		weight: "240",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 12:21:15",
+		name: "Beverly Pinn",
+		weight: "98",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 12:43:10",
+		name: "Beverly Pinn",
+		weight: "2017",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-22 12:43:58",
+		name: "Beverly Pinn",
+		weight: "947",
+		category: "Other",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 12:46:13",
+		name: "Beverly Pinn",
+		weight: "970",
+		category: "Other",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 13:47:54",
+		name: "Juanita Chandler",
+		weight: "2423",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 13:53:24",
+		name: "Juanita Chandler",
+		weight: "784",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-04-22 14:18:24",
+		name: "Juanita Chandler",
+		weight: "2447",
+		category: "Danone - Creamer",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 14:19:00",
+		name: "Juanita Chandler",
+		weight: "196",
+		category: "Assorted Fridge",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 14:20:08",
+		name: "Juanita Chandler",
+		weight: "1992",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 14:21:04",
+		name: "Juanita Chandler",
+		weight: "-163",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 15:13:40",
+		name: "Juanita Chandler",
+		weight: "1857",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 15:15:04",
+		name: "Juanita Chandler",
+		weight: "163",
+		category: "Dairy",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-22 16:01:52",
+		name: "Juanita Chandler",
+		weight: "-249",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 16:10:10",
+		name: "Juanita Chandler",
+		weight: "1393",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 16:12:05",
+		name: "Juanita Chandler",
+		weight: "-522",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 16:13:14",
+		name: "Juanita Chandler",
+		weight: "-112",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 16:15:42",
+		name: "Juanita Chandler",
+		weight: "-2138",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 16:16:29",
+		name: "Juanita Chandler",
+		weight: "-108",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 16:18:46",
+		name: "Juanita Chandler",
+		weight: "-224",
+		category: "Pet Supplies",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 16:19:40",
+		name: "Juanita Chandler",
+		weight: "-1724",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-22 16:35:57",
+		name: "Juanita Chandler",
+		weight: "-300",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-04-23 13:18:57",
+		name: "Juanita Chandler",
+		weight: "1586",
+		category: "Assorted Dry",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-04-23 13:19:40",
+		name: "Juanita Chandler",
+		weight: "381",
+		category: "Drinks [Dry]",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-04-23 13:21:44",
+		name: "Juanita Chandler",
+		weight: "1896",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-04-23 13:30:39",
+		name: "Juanita Chandler",
+		weight: "35",
+		category: "Produce",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-04-23 13:37:46",
+		name: "Juanita Chandler",
+		weight: "316",
+		category: "Assorted Fridge",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-04-23 13:42:38",
+		name: "Juanita Chandler",
+		weight: "86",
+		category: "Meat [Raw]",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-04-23 15:09:43",
+		name: "Opeyemi Faleye",
+		weight: "952",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-04-25 13:54:44",
+		name: "Beverly Pinn",
+		weight: "177",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-25 00:00:00",
+		name: "Claire",
+		weight: "1916",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-25 00:00:00",
+		name: "Claire",
+		weight: "1183",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-25 00:00:00",
+		name: "Claire",
+		weight: "500",
+		category: "Meat [Raw]",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-25 00:00:00",
+		name: "Claire",
+		weight: "1113",
+		category: "Danone - Creamer",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-04-26 14:50:00",
+		name: "Karen Moore",
+		weight: "1180",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-28 14:58:25",
+		name: "Juanita Chandler",
+		weight: "1173",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-28 14:59:22",
+		name: "Juanita Chandler",
+		weight: "1164",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-28 15:01:51",
+		name: "Juanita Chandler",
+		weight: "1183",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-28 15:02:48",
+		name: "Juanita Chandler",
+		weight: "1185",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-28 15:03:34",
+		name: "Juanita Chandler",
+		weight: "1120",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-28 15:04:29",
+		name: "Juanita Chandler",
+		weight: "580",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-04-28 15:06:21",
+		name: "Juanita Chandler",
+		weight: "314",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-04-28 15:07:46",
+		name: "Juanita Chandler",
+		weight: "11",
+		category: "Dairy",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-04-29 00:00:00",
+		name: "Safire Windley",
+		weight: "1961",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-04-29 00:00:00",
+		name: "Safire Windley",
+		weight: "100",
+		category: "Assorted Dry",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-05 14:03:45",
+		name: "Barbara Zadek",
+		weight: "403",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-05-05 17:02:00",
+		name: "Vincent Faulk",
+		weight: "887",
+		category: "Danone - Creamer",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-05-05 17:06:31",
+		name: "Sunita Pathik",
+		weight: "111",
+		category: "Assorted Dry",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-05-05 00:00:00",
+		name: "Safire Windley",
+		weight: "1172",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-07 13:12:04",
+		name: "Vincent Faulk",
+		weight: "887",
+		category: "Danone - Creamer",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-05-07 13:13:10",
+		name: "Vincent Faulk",
+		weight: "1735",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-07 13:14:31",
+		name: "Vincent Faulk",
+		weight: "2027",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-07 13:15:50",
+		name: "Vincent Faulk",
+		weight: "2016",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-07 13:16:46",
+		name: "Vincent Faulk",
+		weight: "1213",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-07 13:18:08",
+		name: "Vincent Faulk",
+		weight: "1297",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-07 15:46:50",
+		name: "Zoe",
+		weight: "1163",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-05-07 00:00:00",
+		name: "Claire",
+		weight: "95",
+		category: "Assorted Dry",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-10 14:13:50",
+		name: "Juanita Chandler",
+		weight: "1918",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-10 14:14:50",
+		name: "Juanita Chandler",
+		weight: "1926",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-10 14:17:03",
+		name: "Juanita Chandler",
+		weight: "1927",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-10 14:17:56",
+		name: "Juanita Chandler",
+		weight: "1180",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-10 14:19:36",
+		name: "Juanita Chandler",
+		weight: "1820",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-10 14:20:36",
+		name: "Juanita Chandler",
+		weight: "353",
+		category: "Meat [Raw]",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-10 14:21:24",
+		name: "Juanita Chandler",
+		weight: "1156",
+		category: "Meat [Raw]",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-10 14:23:31",
+		name: "Juanita Chandler",
+		weight: "1172",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-10 14:29:45",
+		name: "Juanita Chandler",
+		weight: "30",
+		category: "Produce",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-05-10 14:34:47",
+		name: "Juanita Chandler",
+		weight: "782",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-05-10 14:35:38",
+		name: "Juanita Chandler",
+		weight: "570",
+		category: "Drinks [Dry]",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-05-10 14:37:29",
+		name: "Juanita Chandler",
+		weight: "1220",
+		category: "Danone - Creamer",
+		donatedTo: "Pastor Young"
+	},
+	{
+		date: "2023-05-10 14:39:24",
+		name: "Juanita Chandler",
+		weight: "1813",
+		category: "Dairy",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-10 14:41:43",
+		name: "Juanita Chandler",
+		weight: "240",
+		category: "Produce",
+		donatedTo: "Bowery"
+	},
+	{
+		date: "2023-05-10 14:42:44",
+		name: "Juanita Chandler",
+		weight: "231",
+		category: "Produce",
+		donatedTo: "Bowery"
+	},
+	{
+		date: "2023-05-10 14:44:01",
+		name: "Juanita Chandler",
+		weight: "90",
+		category: "Produce",
+		donatedTo: "Bowery"
+	},
+	{
+		date: "2023-05-10 14:44:56",
+		name: "Juanita Chandler",
+		weight: "225",
+		category: "Produce",
+		donatedTo: "Bowery"
+	},
+	{
+		date: "2023-05-10 14:45:53",
+		name: "Juanita Chandler",
+		weight: "223",
+		category: "Produce",
+		donatedTo: "Bowery"
+	},
+	{
+		date: "2023-05-10 14:48:21",
+		name: "Juanita Chandler",
+		weight: "160",
+		category: "Produce",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-10 14:49:53",
+		name: "Juanita Chandler",
+		weight: "65",
+		category: "Produce",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-10 14:51:48",
+		name: "Juanita Chandler",
+		weight: "1961",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-05-10 14:54:04",
+		name: "Juanita Chandler",
+		weight: "100",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-10 14:56:01",
+		name: "Juanita Chandler",
+		weight: "-240",
+		category: "Produce",
+		donatedTo: "Bowery"
+	},
+	{
+		date: "2023-05-10 14:57:12",
+		name: "Juanita Chandler",
+		weight: "-231",
+		category: "Produce",
+		donatedTo: "Bowery"
+	},
+	{
+		date: "2023-05-10 14:58:01",
+		name: "Juanita Chandler",
+		weight: "90",
+		category: "Produce",
+		donatedTo: "Bowery"
+	},
+	{
+		date: "2023-05-10 14:58:51",
+		name: "Juanita Chandler",
+		weight: "-225",
+		category: "Produce",
+		donatedTo: "Bowery"
+	},
+	{
+		date: "2023-05-10 14:59:46",
+		name: "Juanita Chandler",
+		weight: "-223",
+		category: "Produce",
+		donatedTo: "Bowery"
+	},
+	{
+		date: "2023-05-10 15:13:31",
+		name: "Juanita Chandler",
+		weight: "-740",
+		category: "Dairy",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-11 14:46:44",
+		name: "Vincent Faulk",
+		weight: "1925",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-11 14:47:26",
+		name: "Vincent Faulk",
+		weight: "2069",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-11 14:48:01",
+		name: "Vincent Faulk",
+		weight: "2010",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-11 14:48:38",
+		name: "Vincent Faulk",
+		weight: "2020",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-11 14:49:20",
+		name: "Vincent Faulk",
+		weight: "1923",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-11 14:50:01",
+		name: "Vincent Faulk",
+		weight: "1922",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-12 13:18:14",
+		name: "Barbara Zadek",
+		weight: "242",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-05-12 16:09:41",
+		name: "Juanita Chandler",
+		weight: "127",
+		category: "Drinks [Dry]",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-12 16:10:22",
+		name: "Juanita Chandler",
+		weight: "28",
+		category: "Assorted Fridge",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-12 16:11:34",
+		name: "Juanita Chandler",
+		weight: "1926",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-05-12 16:12:47",
+		name: "Juanita Chandler",
+		weight: "1187",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-05-12 16:13:40",
+		name: "Juanita Chandler",
+		weight: "536",
+		category: "Assorted Fridge",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-05-12 16:15:07",
+		name: "Juanita Chandler",
+		weight: "118",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-12 16:15:42",
+		name: "Juanita Chandler",
+		weight: "520",
+		category: "Assorted Fridge",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-05-12 16:17:16",
+		name: "Juanita Chandler",
+		weight: "141",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-12 16:18:15",
+		name: "Juanita Chandler",
+		weight: "1988",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-12 16:23:50",
+		name: "Juanita Chandler",
+		weight: "1667",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-12 16:50:25",
+		name: "Sunita Pathik",
+		weight: "87",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-05-12 16:57:14",
+		name: "Mary Jo Gary",
+		weight: "1988",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-12 16:58:22",
+		name: "Mary Jo Gary",
+		weight: "1066",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-12 16:58:58",
+		name: "Mary Jo Gary",
+		weight: "1255",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-12 16:59:37",
+		name: "Mary Jo Gary",
+		weight: "1249",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-13 11:55:53",
+		name: "Beverly Pinn",
+		weight: "1912",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-13 11:59:04",
+		name: "Beverly Pinn",
+		weight: "1100",
+		category: "Drinks [Dry]",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-05-13 00:00:00",
+		name: "Claire",
+		weight: "2000",
+		category: "Drinks [Dry]",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-05-13 12:00:06",
+		name: "Beverly Pinn",
+		weight: "635",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-13 12:00:51",
+		name: "Beverly Pinn",
+		weight: "991",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-13 13:36:53",
+		name: "Juanita Chandler",
+		weight: "139",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 13:37:29",
+		name: "Juanita Chandler",
+		weight: "878",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 13:38:22",
+		name: "Juanita Chandler",
+		weight: "1675",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 13:39:30",
+		name: "Juanita Chandler",
+		weight: "1454",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 13:40:12",
+		name: "Juanita Chandler",
+		weight: "1221",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 13:41:16",
+		name: "Juanita Chandler",
+		weight: "1868",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-13 13:42:11",
+		name: "Juanita Chandler",
+		weight: "356",
+		category: "Assorted Fridge",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-05-13 13:42:58",
+		name: "Juanita Chandler",
+		weight: "1107",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-13 13:44:53",
+		name: "Juanita Chandler",
+		weight: "2030",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 00:00:00",
+		name: "Claire",
+		weight: "288",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:31:22",
+		name: "Juanita Chandler",
+		weight: "-50",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:33:06",
+		name: "Juanita Chandler",
+		weight: "-1660",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:34:30",
+		name: "Juanita Chandler",
+		weight: "-658",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:35:12",
+		name: "Juanita Chandler",
+		weight: "-666",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:36:00",
+		name: "Juanita Chandler",
+		weight: "-1174",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:37:09",
+		name: "Juanita Chandler",
+		weight: "356",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:37:43",
+		name: "Juanita Chandler",
+		weight: "2159",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:39:00",
+		name: "Juanita Chandler",
+		weight: "415",
+		category: "Spices",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:39:37",
+		name: "Juanita Chandler",
+		weight: "425",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:41:03",
+		name: "Juanita Chandler",
+		weight: "435",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 16:41:51",
+		name: "Juanita Chandler",
+		weight: "-136",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-13 00:00:00",
+		name: "Claire",
+		weight: "-356",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-16 15:31:31",
+		name: "Beverly Pinn",
+		weight: "136",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-16 00:00:00",
+		name: "Safire Windley",
+		weight: "1929",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-16 15:32:28",
+		name: "Beverly Pinn",
+		weight: "1241",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-16 15:33:45",
+		name: "Beverly Pinn",
+		weight: "1327",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-16 15:34:33",
+		name: "Beverly Pinn",
+		weight: "1071",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-16 15:35:24",
+		name: "Beverly Pinn",
+		weight: "1895",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-16 15:36:28",
+		name: "Beverly Pinn",
+		weight: "1356",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-16 12:02:06",
+		name: "Vincent Faulk",
+		weight: "104",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-17 14:48:33",
+		name: "Juanita Chandler",
+		weight: "1145",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-17 14:49:31",
+		name: "Juanita Chandler",
+		weight: "180",
+		category: "Dairy",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-17 14:50:36",
+		name: "Juanita Chandler",
+		weight: "140",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-17 14:52:53",
+		name: "Juanita Chandler",
+		weight: "1305",
+		category: "Assorted Dry",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-17 14:55:36",
+		name: "Juanita Chandler",
+		weight: "1168",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-17 15:59:02",
+		name: "Juanita Chandler",
+		weight: "47",
+		category: "Dairy",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-05-17 16:00:21",
+		name: "Juanita Chandler",
+		weight: "29",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-17 17:44:43",
+		name: "Juanita Chandler",
+		weight: "274",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-18 13:14:05",
+		name: "Norma Kriger",
+		weight: "1248",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-18 13:15:54",
+		name: "Norma Kriger",
+		weight: "1167",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-18 13:17:38",
+		name: "Norma Kriger",
+		weight: "423",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-18 13:18:58",
+		name: "Norma Kriger",
+		weight: "1919",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-18 13:19:47",
+		name: "Norma Kriger",
+		weight: "1244",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-05-18 13:24:23",
+		name: "Norma Kriger",
+		weight: "1219",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-05-18 13:25:12",
+		name: "Norma Kriger",
+		weight: "1250",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-05-18 13:38:03",
+		name: "Norma Kriger",
+		weight: "1149",
+		category: "Drinks [Dry]",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-05-18 13:39:32",
+		name: "Norma Kriger",
+		weight: "1916",
+		category: "Dole - Fruit Cups",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-05-18 13:40:10",
+		name: "Norma Kriger",
+		weight: "794",
+		category: "Danone - Creamer",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-05-18 13:40:44",
+		name: "Norma Kriger",
+		weight: "1350",
+		category: "Danone - Creamer",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-05-19 13:53:31",
+		name: "Mary Jo Gary",
+		weight: "588",
+		category: "Meat [Raw]",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-05-19 13:54:15",
+		name: "Mary Jo Gary",
+		weight: "688",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-05-19 13:57:26",
+		name: "Juanita Chandler",
+		weight: "153",
+		category: "Health & Beauty Products",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-05-19 13:58:48",
+		name: "Juanita Chandler",
+		weight: "276",
+		category: "Assorted Fridge",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-05-19 14:23:18",
+		name: "Juanita Chandler",
+		weight: "625",
+		category: "Meat [Raw]",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-05-19 14:39:25",
+		name: "Juanita Chandler",
+		weight: "720",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-05-19 14:39:58",
+		name: "Juanita Chandler",
+		weight: "1934",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-05-19 14:44:57",
+		name: "Juanita Chandler",
+		weight: "1929",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-05-20 11:54:27",
+		name: "Beverly Pinn",
+		weight: "1350",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 12:01:29",
+		name: "Beverly Pinn",
+		weight: "1796",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 12:04:08",
+		name: "Beverly Pinn",
+		weight: "348",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 12:36:24",
+		name: "Beverly Pinn",
+		weight: "1689",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 12:49:32",
+		name: "Juanita Chandler",
+		weight: "1906",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 13:11:28",
+		name: "Juanita Chandler",
+		weight: "476",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 13:23:40",
+		name: "Juanita Chandler",
+		weight: "960",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 13:33:44",
+		name: "Juanita Chandler",
+		weight: "Xx",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 13:48:16",
+		name: "Juanita Chandler",
+		weight: "186",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 13:48:52",
+		name: "Juanita Chandler",
+		weight: "135",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 13:58:11",
+		name: "Juanita Chandler",
+		weight: "1523",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:03:42",
+		name: "Juanita Chandler",
+		weight: "698",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:04:24",
+		name: "Juanita Chandler",
+		weight: "-1028",
+		category: "Dairy",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:05:00",
+		name: "Juanita Chandler",
+		weight: "-1310",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:05:46",
+		name: "Juanita Chandler",
+		weight: "-91",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:16:56",
+		name: "Juanita Chandler",
+		weight: "-736",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:17:33",
+		name: "Juanita Chandler",
+		weight: "-711",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:23:17",
+		name: "Juanita Chandler",
+		weight: "-1646",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:25:10",
+		name: "Juanita Chandler",
+		weight: "-293",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:29:57",
+		name: "Juanita Chandler",
+		weight: "-392",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:31:58",
+		name: "Juanita Chandler",
+		weight: "-1563",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-20 16:36:20",
+		name: "Juanita Chandler",
+		weight: "-82",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-21 15:45:30",
+		name: "Juanita Chandler",
+		weight: "222",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-05-21 15:46:08",
+		name: "Juanita Chandler",
+		weight: "84",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-21 15:47:05",
+		name: "Juanita Chandler",
+		weight: "1748",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-21 15:47:49",
+		name: "Juanita Chandler",
+		weight: "1244",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-21 15:48:37",
+		name: "Juanita Chandler",
+		weight: "198",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-21 15:50:01",
+		name: "Juanita Chandler",
+		weight: "1765",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-21 15:50:55",
+		name: "Juanita Chandler",
+		weight: "81",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-21 15:51:48",
+		name: "Juanita Chandler",
+		weight: "211",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-21 15:52:45",
+		name: "Juanita Chandler",
+		weight: "1254",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-21 15:53:43",
+		name: "Juanita Chandler",
+		weight: "1252",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-21 16:27:49",
+		name: "Opeyemi Faleye",
+		weight: "1873",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-05-23 14:14:51",
+		name: "Beverly Pinn",
+		weight: "16",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-05-24 09:59:13",
+		name: "JC",
+		weight: "294",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-24 09:59:48",
+		name: "JC",
+		weight: "1187",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-24 10:00:31",
+		name: "JC",
+		weight: "1907",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-24 10:01:00",
+		name: "JC",
+		weight: "707",
+		category: "Danone - Yogurt",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-24 14:21:59",
+		name: "Juanita Chandler",
+		weight: "1911",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-24 14:23:01",
+		name: "Juanita Chandler",
+		weight: "1169",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-24 14:25:29",
+		name: "Juanita Chandler",
+		weight: "1184",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-24 14:29:47",
+		name: "Juanita Chandler",
+		weight: "1452",
+		category: "Assorted Dry",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-24 14:31:04",
+		name: "Juanita Chandler",
+		weight: "629",
+		category: "Assorted Fridge",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-24 15:20:32",
+		name: "Juanita Chandler",
+		weight: "1176",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-24 15:27:30",
+		name: "Juanita Chandler",
+		weight: "1378",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-24 15:28:15",
+		name: "Juanita Chandler",
+		weight: "1916",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-24 00:00:00",
+		name: "Safire Windley",
+		weight: "1176",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-24 15:29:53",
+		name: "Juanita Chandler",
+		weight: "730",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-24 15:33:15",
+		name: "Juanita Chandler",
+		weight: "1364",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-24 15:35:54",
+		name: "Juanita Chandler",
+		weight: "1212",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-24 15:40:21",
+		name: "Juanita Chandler",
+		weight: "657",
+		category: "Assorted Fridge",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-24 15:58:58",
+		name: "Juanita Chandler",
+		weight: "188",
+		category: "Other",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-24 15:59:47",
+		name: "Juanita Chandler",
+		weight: "745",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-24 00:00:00",
+		name: "Claire",
+		weight: "25000",
+		category: "Dairy",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-05-24 00:00:00",
+		name: "Claire",
+		weight: "25000",
+		category: "Dairy",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-05-25 13:25:15",
+		name: "Barbara Zadek",
+		weight: "558",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-05-25 13:56:48",
+		name: "Norma Kriger",
+		weight: "1658",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-25 14:17:30",
+		name: "Norma Kriger",
+		weight: "1178",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-25 14:18:12",
+		name: "Norma Kriger",
+		weight: "1164",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-25 14:22:59",
+		name: "Norma Kriger",
+		weight: "1162",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-25 14:58:19",
+		name: "Sharon",
+		weight: "1555",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-26 14:23:48",
+		name: "Juanita Chandler",
+		weight: "986",
+		category: "Danone - Creamer",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-26 14:24:46",
+		name: "Juanita Chandler",
+		weight: "659",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-26 15:30:11",
+		name: "Juanita Chandler",
+		weight: "1175",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-05-26 15:31:00",
+		name: "Juanita Chandler",
+		weight: "1187",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-05-26 15:33:47",
+		name: "Juanita Chandler",
+		weight: "1042",
+		category: "Assorted Dry",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-05-26 15:34:42",
+		name: "Juanita Chandler",
+		weight: "1084",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-05-26 16:57:56",
+		name: "Sunita Pathik",
+		weight: "110",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-05-27 12:17:29",
+		name: "Beverly Pinn",
+		weight: "666",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 12:18:04",
+		name: "Beverly Pinn",
+		weight: "250",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 12:18:45",
+		name: "Beverly Pinn",
+		weight: "1046",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 12:19:22",
+		name: "Beverly Pinn",
+		weight: "1179",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 12:36:30",
+		name: "Beverly Pinn",
+		weight: "1934",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 13:46:40",
+		name: "Juanita Chandler",
+		weight: "949",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 14:15:21",
+		name: "Juanita Chandler",
+		weight: "1576",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 14:16:07",
+		name: "Juanita Chandler",
+		weight: "607",
+		category: "Danone - Coffee",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 14:16:37",
+		name: "Juanita Chandler",
+		weight: "297",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 15:56:32",
+		name: "Juanita Chandler",
+		weight: "-907",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 15:58:01",
+		name: "Juanita Chandler",
+		weight: "-321",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 15:58:54",
+		name: "Juanita Chandler",
+		weight: "-1356",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 15:59:40",
+		name: "Juanita Chandler",
+		weight: "-185",
+		category: "Snacks",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 16:07:23",
+		name: "Juanita Chandler",
+		weight: "-586",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 16:07:58",
+		name: "Juanita Chandler",
+		weight: "-849",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 16:12:12",
+		name: "Juanita Chandler",
+		weight: "340",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 16:12:57",
+		name: "Juanita Chandler",
+		weight: "-117",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 16:17:15",
+		name: "Juanita Chandler",
+		weight: "-768",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-27 16:19:22",
+		name: "Juanita Chandler",
+		weight: "-408",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-05-28 14:10:34",
+		name: "Juanita Chandler",
+		weight: "136",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-05-28 14:11:46",
+		name: "Juanita Chandler",
+		weight: "189",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-05-28 14:12:56",
+		name: "Juanita Chandler",
+		weight: "289",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-28 14:13:42",
+		name: "Juanita Chandler",
+		weight: "406",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-28 14:14:28",
+		name: "Juanita Chandler",
+		weight: "147",
+		category: "Assorted Dry",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-28 14:17:35",
+		name: "Juanita Chandler",
+		weight: "1184",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-28 15:28:52",
+		name: "Juanita Chandler",
+		weight: "1243",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-28 15:29:46",
+		name: "Juanita Chandler",
+		weight: "1227",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-28 15:30:32",
+		name: "Juanita Chandler",
+		weight: "1247",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-28 15:31:09",
+		name: "Juanita Chandler",
+		weight: "502",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-28 15:32:09",
+		name: "Juanita Chandler",
+		weight: "1874",
+		category: "Assorted Dry",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-28 15:32:58",
+		name: "Juanita Chandler",
+		weight: "1406",
+		category: "Danone - Creamer",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-28 15:59:09",
+		name: "Opeyemi Faleye",
+		weight: "1555",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-05-28 16:07:37",
+		name: "Juanita Chandler",
+		weight: "1577",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-05-30 11:33:52",
+		name: "Claire",
+		weight: "1156",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-30 11:34:23",
+		name: "Claire",
+		weight: "648",
+		category: "Danone - Yogurt",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-30 11:34:45",
+		name: "Claire",
+		weight: "1178",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-30 11:35:09",
+		name: "Claire",
+		weight: "2116",
+		category: "Drinks [Dry]",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-05-31 14:28:14",
+		name: "Juanita Chandler",
+		weight: "1148",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-31 14:35:23",
+		name: "Juanita Chandler",
+		weight: "1171",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-31 14:38:04",
+		name: "Juanita Chandler",
+		weight: "967",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-05-31 14:38:54",
+		name: "Juanita Chandler",
+		weight: "342",
+		category: "Produce",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-31 14:39:47",
+		name: "Juanita Chandler",
+		weight: "1228",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-31 15:28:47",
+		name: "Juanita Chandler",
+		weight: "1816",
+		category: "Danone - Yogurt",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-05-31 15:29:27",
+		name: "Juanita Chandler",
+		weight: "875",
+		category: "Meat [Raw]",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-06-01 15:11:01",
+		name: "Claire",
+		weight: "1333",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-01 15:11:57",
+		name: "Claire",
+		weight: "1209",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-01 16:09:17",
+		name: "Claire",
+		weight: "648",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-01 16:09:55",
+		name: "Claire",
+		weight: "452",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-01 16:10:33",
+		name: "Claire",
+		weight: "854",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-01 16:11:01",
+		name: "Claire",
+		weight: "831",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-01 16:12:42",
+		name: "Claire",
+		weight: "1530",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-01 16:13:06",
+		name: "Claire",
+		weight: "59",
+		category: "Assorted Fridge",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:29:48",
+		name: "Aziza",
+		weight: "1518",
+		category: "Health & Beauty Products",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:30:10",
+		name: "Aziza",
+		weight: "1534",
+		category: "Health & Beauty Products",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:30:34",
+		name: "Aziza",
+		weight: "717",
+		category: "Health & Beauty Products",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:30:53",
+		name: "Aziza",
+		weight: "1464",
+		category: "Health & Beauty Products",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:31:28",
+		name: "Aziza",
+		weight: "1510",
+		category: "Health & Beauty Products",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:32:38",
+		name: "Aziza",
+		weight: "1153",
+		category: "Danone - Coffee",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:33:04",
+		name: "Aziza",
+		weight: "1047",
+		category: "Danone - Coffee",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:33:26",
+		name: "Aziza",
+		weight: "1490",
+		category: "Danone - Coffee",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:34:43",
+		name: "Aziza",
+		weight: "1387",
+		category: "Danone - Coffee",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:35:38",
+		name: "Aziza",
+		weight: "1220",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:35:59",
+		name: "Aziza",
+		weight: "1244",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-01 19:36:36",
+		name: "Aziza",
+		weight: "1227",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-02 09:13:30",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-02 09:15:16",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-02 09:16:19",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		donatedTo: "So What Else"
+	},
+	{
+		date: "2023-06-02 09:17:39",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-02 09:18:51",
+		name: "Claire",
+		weight: "40560",
+		category: "Drinks [Dry]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-02 13:44:17",
+		name: "Juanita Chandler",
+		weight: "285",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-06-02 13:46:34",
+		name: "Juanita Chandler",
+		weight: "85",
+		category: "Assorted Fridge",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-06-02 13:48:56",
+		name: "Juanita Chandler",
+		weight: "1175",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-06-02 13:49:29",
+		name: "Juanita Chandler",
+		weight: "1153",
+		category: "Dole - Fruit Cups",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-06-02 15:03:01",
+		name: "Juanita Chandler",
+		weight: "460",
+		category: "Assorted Fridge",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-06-02 15:04:19",
+		name: "Juanita Chandler",
+		weight: "862",
+		category: "Meat [Raw]",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-06-02 15:20:43",
+		name: "Juanita Chandler",
+		weight: "397",
+		category: "Assorted Fridge",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-06-02 15:21:34",
+		name: "Juanita Chandler",
+		weight: "1002",
+		category: "Meat [Raw]",
+		donatedTo: "Greenmount West"
+	},
+	{
+		date: "2023-06-02 16:42:34",
+		name: "Juanita Chandler",
+		weight: "1028",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-02 16:43:27",
+		name: "Juanita Chandler",
+		weight: "1130",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-02 16:44:07",
+		name: "Juanita Chandler",
+		weight: "1122",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-02 16:45:51",
+		name: "Juanita Chandler",
+		weight: "999",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-02 16:55:09",
+		name: "Juanita Chandler",
+		weight: "281",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-02 17:05:01",
+		name: "Juanita Chandler",
+		weight: "318",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-02 17:22:47",
+		name: "Juanita Chandler",
+		weight: "1026",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-03 13:38:44",
+		name: "Other",
+		weight: "171",
+		category: "Assorted Fridge",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 13:53:26",
+		name: "Rawan Elshobaky",
+		weight: "1822",
+		category: "Danone - Yogurt",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 13:59:21",
+		name: "Rawan Elshobaky",
+		weight: "766",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 14:05:30",
+		name: "Rawan Elshobaky",
+		weight: "605",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 14:07:10",
+		name: "Rawan Elshobaky",
+		weight: "1207",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 14:21:11",
+		name: "Juanita Chandler",
+		weight: "1533",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 14:30:10",
+		name: "Juanita Chandler",
+		weight: "2361",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 15:58:55",
+		name: "Juanita Chandler",
+		weight: "-104",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 16:00:36",
+		name: "Juanita Chandler",
+		weight: "-10",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 16:09:24",
+		name: "Juanita Chandler",
+		weight: "-1286",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 16:10:03",
+		name: "Juanita Chandler",
+		weight: "78",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 16:13:09",
+		name: "Juanita Chandler",
+		weight: "-1444",
+		category: "Danone - Yogurt",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 16:30:18",
+		name: "Juanita Chandler",
+		weight: "-496",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 17:06:24",
+		name: "Juanita Chandler",
+		weight: "-104",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 17:07:13",
+		name: "Juanita Chandler",
+		weight: "-1326",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-03 00:00:00",
+		name: "Claire",
+		weight: "1003",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-03 00:00:00",
+		name: "Claire",
+		weight: "1244",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-04 13:00:06",
+		name: "Juanita Chandler",
+		weight: "137",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-04 13:01:01",
+		name: "Juanita Chandler",
+		weight: "156",
+		category: "Drinks [Dry]",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-04 13:02:03",
+		name: "Juanita Chandler",
+		weight: "163",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-04 13:33:29",
+		name: "Juanita Chandler",
+		weight: "311",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-04 13:35:06",
+		name: "Juanita Chandler",
+		weight: "296",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-04 13:43:22",
+		name: "Juanita Chandler",
+		weight: "830",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-06-04 13:46:19",
+		name: "Juanita Chandler",
+		weight: "519",
+		category: "Assorted Fridge",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-04 14:03:26",
+		name: "Juanita Chandler",
+		weight: "541",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-04 14:04:07",
+		name: "Juanita Chandler",
+		weight: "307",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-04 16:01:28",
+		name: "Opeyemi Faleye",
+		weight: "1321",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-06-04 16:16:05",
+		name: "Juanita Chandler",
+		weight: "34",
+		category: "Snacks",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-04 16:50:27",
+		name: "Juanita Chandler",
+		weight: "1283",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-06 00:00:00",
+		name: "Claire",
+		weight: "2004",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-06 00:00:00",
+		name: "Claire",
+		weight: "2035",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-06 00:00:00",
+		name: "Claire",
+		weight: "2028",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-06 00:00:00",
+		name: "Claire",
+		weight: "2011",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-06 00:00:00",
+		name: "Claire",
+		weight: "2032",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-06 00:00:00",
+		name: "Claire",
+		weight: "2020",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-06 13:14:33",
+		name: "Claire",
+		weight: "1166",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-06 13:22:52",
+		name: "Claire",
+		weight: "1363",
+		category: "Drinks [Dry]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-06 00:00:00",
+		name: "Claire",
+		weight: "1437",
+		category: "Danone - Yogurt",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-06 13:23:33",
+		name: "Claire",
+		weight: "1371",
+		category: "Meat [Raw]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-06 13:24:02",
+		name: "Claire",
+		weight: "357",
+		category: "Produce",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-06 13:33:22",
+		name: "Barbara Zadek",
+		weight: "52",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-06-07 15:34:01",
+		name: "Sara B",
+		weight: "1310",
+		category: "Assorted Dry",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-06-07 15:35:35",
+		name: "Sara B",
+		weight: "1544",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-06-07 15:49:27",
+		name: "Sara B",
+		weight: "292",
+		category: "Produce",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-06-07 15:51:28",
+		name: "Sara B",
+		weight: "528",
+		category: "Snacks",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-06-08 14:49:24",
+		name: "Barbara Zadek",
+		weight: "389",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-06-09 09:13:58",
+		name: "Claire",
+		weight: "40000",
+		category: "Drinks [Dry]",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-09 14:11:15",
+		name: "Claire",
+		weight: "40000",
+		category: "Assorted Dry",
+		donatedTo: "Individual"
+	},
+	{
+		date: "2023-06-09 14:13:45",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-09 15:07:56",
+		name: "Mary Jo Gary",
+		weight: "577",
+		category: "Produce",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-06-09 15:15:02",
+		name: "David Ondande",
+		weight: "1277",
+		category: "Assorted Dry",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-06-09 15:15:34",
+		name: "David Ondande",
+		weight: "410",
+		category: "Meat [Raw]",
+		donatedTo: "McCollouh Homes [Coach Dunkin]"
+	},
+	{
+		date: "2023-06-09 16:11:36",
+		name: "Mary Jo Gary",
+		weight: "200",
+		category: "Meat [Raw]",
+		donatedTo: "Crystal [Kingdom Worship Center]"
+	},
+	{
+		date: "2023-06-09 16:12:21",
+		name: "Mary Jo Gary",
+		weight: "51",
+		category: "Dairy",
+		donatedTo: "Crystal [Kingdom Worship Center]"
+	},
+	{
+		date: "2023-06-09 16:13:01",
+		name: "Mary Jo Gary",
+		weight: "251",
+		category: "Assorted Fridge",
+		donatedTo: "Crystal [Kingdom Worship Center]"
+	},
+	{
+		date: "2023-06-09 16:46:10",
+		name: "Sunita Pathik",
+		weight: "59",
+		category: "Assorted Fridge",
+		donatedTo: "Sunita [Delivery]"
+	},
+	{
+		date: "2023-06-09 17:11:09",
+		name: "Mary Jo Gary",
+		weight: "481",
+		category: "Assorted Dry",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-10 11:57:45",
+		name: "Beverly Pinn",
+		weight: "1806",
+		category: "Dole - Juice",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 12:23:39",
+		name: "Beverly Pinn",
+		weight: "750",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 12:47:52",
+		name: "Claire",
+		weight: "1800",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 12:48:19",
+		name: "Claire",
+		weight: "1816",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 12:48:43",
+		name: "Claire",
+		weight: "1820",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 12:49:10",
+		name: "Claire",
+		weight: "1812",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 12:49:53",
+		name: "Claire",
+		weight: "1816",
+		category: "Drinks [Dry]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 13:38:38",
+		name: "Beverly Pinn",
+		weight: "329",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 13:48:42",
+		name: "Beverly Pinn",
+		weight: "343",
+		category: "Danone - Yogurt",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 13:49:37",
+		name: "Beverly Pinn",
+		weight: "331",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 14:01:40",
+		name: "Beverly Pinn",
+		weight: "231",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 14:07:49",
+		name: "Beverly Pinn",
+		weight: "951",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 14:19:47",
+		name: "Beverly Pinn",
+		weight: "743",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 14:26:06",
+		name: "Beverly Pinn",
+		weight: "1151",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 14:26:38",
+		name: "Beverly Pinn",
+		weight: "532",
+		category: "Frozen [Not Meat]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 14:30:03",
+		name: "Beverly Pinn",
+		weight: "281",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 14:31:06",
+		name: "Beverly Pinn",
+		weight: "1187",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 14:31:45",
+		name: "Beverly Pinn",
+		weight: "1181",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 14:34:40",
+		name: "Beverly Pinn",
+		weight: "1830",
+		category: "Dole - Juice",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 14:35:13",
+		name: "Beverly Pinn",
+		weight: "1167",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-10 14:35:53",
+		name: "Beverly Pinn",
+		weight: "1166",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 16:37:04",
+		name: "Beverly Pinn",
+		weight: "-91",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 16:37:37",
+		name: "Beverly Pinn",
+		weight: "-237",
+		category: "Danone - Yogurt",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 16:38:06",
+		name: "Beverly Pinn",
+		weight: "-864",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 16:38:49",
+		name: "Beverly Pinn",
+		weight: "-501",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-10 16:39:21",
+		name: "Beverly Pinn",
+		weight: "-394",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-11 16:42:54",
+		name: "Opeyemi Faleye",
+		weight: "1855",
+		category: "Assorted Dry",
+		donatedTo: "Sandtown"
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "167",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "129",
+		category: "Assorted Fridge",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "84",
+		category: "Drinks [Dry]",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "14",
+		category: "Assorted Dry",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "12",
+		category: "Grains (rice, pasta, etc.)",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-11 00:00:00",
+		name: "Claire",
+		weight: "16",
+		category: "Produce",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-13 11:14:59",
+		name: "Claire",
+		weight: "1177",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-13 11:17:32",
+		name: "Claire",
+		weight: "2006",
+		category: "Drinks [Dry]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-13 11:17:57",
+		name: "Claire",
+		weight: "1803",
+		category: "Drinks [Dry]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-13 11:18:36",
+		name: "Claire",
+		weight: "1873",
+		category: "Meat [Raw]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-13 14:42:44",
+		name: "Beverly Pinn",
+		weight: "1054",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-13 14:43:21",
+		name: "Beverly Pinn",
+		weight: "1055",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-13 14:43:59",
+		name: "Beverly Pinn",
+		weight: "1056",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-13 14:44:30",
+		name: "Beverly Pinn",
+		weight: "1056",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-13 16:44:54",
+		name: "Claire",
+		weight: "1058",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-13 16:45:36",
+		name: "Claire",
+		weight: "1059",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-14 15:09:14",
+		name: "Claire",
+		weight: "1517",
+		category: "Health & Beauty Products",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:09:51",
+		name: "Claire",
+		weight: "1518",
+		category: "Health & Beauty Products",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:10:15",
+		name: "Claire",
+		weight: "1469",
+		category: "Health & Beauty Products",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:10:38",
+		name: "Claire",
+		weight: "1510",
+		category: "Health & Beauty Products",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:11:16",
+		name: "Claire",
+		weight: "1153",
+		category: "Danone - Creamer",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:11:41",
+		name: "Claire",
+		weight: "1387",
+		category: "Danone - Creamer",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:12:31",
+		name: "Claire",
+		weight: "1490",
+		category: "Danone - Creamer",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:13:30",
+		name: "Claire",
+		weight: "1220",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:13:55",
+		name: "Claire",
+		weight: "1388",
+		category: "Danone - Creamer",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:14:14",
+		name: "Claire",
+		weight: "1389",
+		category: "Danone - Creamer",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:14:53",
+		name: "Claire",
+		weight: "1032",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:15:15",
+		name: "Claire",
+		weight: "1433",
+		category: "Danone - Creamer",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 00:00:00",
+		name: "Claire",
+		weight: "1269",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:15:44",
+		name: "Claire",
+		weight: "1246",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:16:14",
+		name: "Claire",
+		weight: "1263",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:16:36",
+		name: "Claire",
+		weight: "1203",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:16:57",
+		name: "Claire",
+		weight: "1206",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:17:21",
+		name: "Claire",
+		weight: "1264",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:17:49",
+		name: "Claire",
+		weight: "1227",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:18:10",
+		name: "Claire",
+		weight: "1121",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-14 15:55:32",
+		name: "Karen Moore",
+		weight: "595",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-14 15:56:04",
+		name: "Karen Moore",
+		weight: "682",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-14 15:56:37",
+		name: "Karen Moore",
+		weight: "522",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-14 15:57:09",
+		name: "Karen Moore",
+		weight: "532",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-14 15:58:32",
+		name: "Karen Moore",
+		weight: "733",
+		category: "Spices",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-14 15:59:16",
+		name: "Karen Moore",
+		weight: "448",
+		category: "Meat [Raw]",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-06-14 15:59:54",
+		name: "Karen Moore",
+		weight: "679",
+		category: "Snacks",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-06-14 16:01:00",
+		name: "Karen Moore",
+		weight: "1324",
+		category: "Drinks [Dry]",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-06-14 16:01:25",
+		name: "Karen Moore",
+		weight: "1250",
+		category: "Snacks",
+		donatedTo: "Douglas Homes"
+	},
+	{
+		date: "2023-06-15 10:06:03",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-15 10:09:00",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-15 10:12:38",
+		name: "Claire",
+		weight: "40000",
+		category: "Drinks [Dry]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-15 10:30:09",
+		name: "GBMC",
+		weight: "1124",
+		category: "Other",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-06-15 10:31:15",
+		name: "GBMC",
+		weight: "1101",
+		category: "Other",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-06-15 10:32:52",
+		name: "GBMC",
+		weight: "970",
+		category: "Other",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-06-15 10:36:02",
+		name: "Claire",
+		weight: "115",
+		category: "Other",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-06-15 10:42:58",
+		name: "Claire",
+		weight: "42000",
+		category: "Drinks [Dry]",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-15 10:45:20",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-15 11:03:40",
+		name: "Claire",
+		weight: "42000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-15 11:30:41",
+		name: "Claire",
+		weight: "42000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-15 13:41:57",
+		name: "Norma Kriger",
+		weight: "1047",
+		category: "Assorted Dry",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-06-15 15:10:07",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-16 13:50:47",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-16 14:00:21",
+		name: "Barbara Zadek",
+		weight: "334",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-06-17 16:03:10",
+		name: "Beverly Pinn",
+		weight: "131",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 16:03:48",
+		name: "Beverly Pinn",
+		weight: "901",
+		category: "Dole - Fruit Cups",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 16:04:25",
+		name: "Beverly Pinn",
+		weight: "1524",
+		category: "Drinks [Dry]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 16:05:20",
+		name: "Beverly Pinn",
+		weight: "532",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 16:06:00",
+		name: "Beverly Pinn",
+		weight: "404",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 16:06:41",
+		name: "Beverly Pinn",
+		weight: "1427",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 16:07:28",
+		name: "Beverly Pinn",
+		weight: "1471",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 16:08:06",
+		name: "Beverly Pinn",
+		weight: "885",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 16:08:58",
+		name: "Beverly Pinn",
+		weight: "1378",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 16:09:36",
+		name: "Beverly Pinn",
+		weight: "918",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 16:10:35",
+		name: "Beverly Pinn",
+		weight: "1363",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 16:11:13",
+		name: "Beverly Pinn",
+		weight: "563",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 16:11:48",
+		name: "Beverly Pinn",
+		weight: "1267",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 16:12:31",
+		name: "Beverly Pinn",
+		weight: "748",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 16:13:23",
+		name: "Beverly Pinn",
+		weight: "1065",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 16:14:07",
+		name: "Beverly Pinn",
+		weight: "1067",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 16:14:43",
+		name: "Beverly Pinn",
+		weight: "1086",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 16:15:28",
+		name: "Beverly Pinn",
+		weight: "1056",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 16:16:06",
+		name: "Beverly Pinn",
+		weight: "1073",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-17 17:14:13",
+		name: "Claire",
+		weight: "1567",
+		category: "Drinks [Dry]",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-06-17 17:14:50",
+		name: "Claire",
+		weight: "1080",
+		category: "Dole - Fruit Cups",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-06-17 17:15:29",
+		name: "Claire",
+		weight: "1032",
+		category: "Dole - Fruit Cups",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-06-17 00:00:00",
+		name: "Claire",
+		weight: "764",
+		category: "Dole - Fruit Cups",
+		donatedTo: "GBMC"
+	},
+	{
+		date: "2023-06-17 18:09:00",
+		name: "Claire",
+		weight: "-705",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 18:09:24",
+		name: "Claire",
+		weight: "-178",
+		category: "Meat [Raw]",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 18:09:44",
+		name: "Claire",
+		weight: "-1082",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 18:10:26",
+		name: "Claire",
+		weight: "-437",
+		category: "Produce",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 18:12:15",
+		name: "Claire",
+		weight: "-603",
+		category: "Assorted Fridge",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-17 18:16:16",
+		name: "Claire",
+		weight: "-1532",
+		category: "Assorted Dry",
+		donatedTo: "BCF Curbside"
+	},
+	{
+		date: "2023-06-20 00:00:00",
+		name: "Claire",
+		weight: "603",
+		category: "Assorted Fridge",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-20 00:00:00",
+		name: "Claire",
+		weight: "1346",
+		category: "Produce",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-20 00:00:00",
+		name: "Claire",
+		weight: "1091",
+		category: "Produce",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-20 00:00:00",
+		name: "Claire",
+		weight: "972",
+		category: "Produce",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-20 00:00:00",
+		name: "Claire",
+		weight: "30000",
+		category: "Danone - Yogurt",
+		donatedTo: "Janet Arce"
+	},
+	{
+		date: "2023-06-20 10:10:41",
+		name: "Barbara Zadek",
+		weight: "250",
+		category: "Assorted Dry",
+		donatedTo: "Love and Cornbread"
+	},
+	{
+		date: "2023-06-20 10:11:00",
+		name: "Claire",
+		weight: "2012",
+		category: "Dole - Juice",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-20 10:11:21",
+		name: "Claire",
+		weight: "1812",
+		category: "Dole - Juice",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-20 10:20:23",
+		name: "Claire",
+		weight: "1076",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-20 10:34:21",
+		name: "Claire",
+		weight: "732",
+		category: "Produce",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-20 10:37:45",
+		name: "Claire",
+		weight: "631",
+		category: "Produce",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-20 10:45:32",
+		name: "Claire",
+		weight: "691",
+		category: "Assorted Dry",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-21 18:50:37",
+		name: "Claire",
+		weight: "1388",
+		category: "Danone - Creamer",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-21 18:51:14",
+		name: "Claire",
+		weight: "1389",
+		category: "Danone - Creamer",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-21 18:51:38",
+		name: "Claire",
+		weight: "1067",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-21 18:52:02",
+		name: "Claire",
+		weight: "1808",
+		category: "Dole - Juice",
+		donatedTo: "Farmlink [Mauricio]"
+	},
+	{
+		date: "2023-06-22 16:34:47",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-23 15:44:48",
+		name: "Claire",
+		weight: "2009",
+		category: "Water",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-23 15:45:33",
+		name: "Claire",
+		weight: "1999",
+		category: "Water",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-23 15:45:59",
+		name: "Claire",
+		weight: "430",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-23 15:46:36",
+		name: "Claire",
+		weight: "677",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-23 15:47:18",
+		name: "Claire",
+		weight: "1155",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-23 15:47:38",
+		name: "Claire",
+		weight: "1166",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-26 12:14:43",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-26 12:16:27",
+		name: "Claire",
+		weight: "40000",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-27 14:15:10",
+		name: "Claire",
+		weight: "2566",
+		category: "Drinks [Fridge]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-27 18:45:23",
+		name: "Claire",
+		weight: "2413",
+		category: "Drinks [Fridge]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-27 18:50:03",
+		name: "Claire",
+		weight: "1501",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-27 18:50:20",
+		name: "Claire",
+		weight: "1502",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-27 18:50:42",
+		name: "Claire",
+		weight: "1503",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-27 18:50:59",
+		name: "Claire",
+		weight: "1504",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-27 18:51:13",
+		name: "Claire",
+		weight: "1505",
+		category: "Produce",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-29 12:22:34",
+		name: "Claire",
+		weight: "579",
+		category: "Paper Supplies",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-29 12:22:53",
+		name: "Claire",
+		weight: "1140",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-29 12:23:17",
+		name: "Claire",
+		weight: "1639",
+		category: "Water",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-29 12:23:42",
+		name: "Claire",
+		weight: "1814",
+		category: "Dole - Juice",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-29 12:24:04",
+		name: "Claire",
+		weight: "1164",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-29 12:24:23",
+		name: "Claire",
+		weight: "1057",
+		category: "Dole - Fruit Cups",
+		donatedTo: "Other Organization"
+	},
+	{
+		date: "2023-06-29 20:03:48",
+		name: "Claire",
+		weight: "862",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-29 20:04:07",
+		name: "Claire",
+		weight: "1395",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-29 20:04:25",
+		name: "Claire",
+		weight: "1424",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-29 20:04:43",
+		name: "Claire",
+		weight: "1048",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-29 20:04:57",
+		name: "Claire",
+		weight: "1210",
+		category: "Meat [Raw]",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-30 14:16:38",
+		name: "Claire",
+		weight: "2193",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-30 14:17:00",
+		name: "Claire",
+		weight: "2197",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-30 14:17:20",
+		name: "Claire",
+		weight: "2192",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
+	{
+		date: "2023-06-30 14:17:54",
+		name: "Claire",
+		weight: "2202",
+		category: "Dairy",
+		donatedTo: "Pedro"
+	},
 ];
 
 export const volunteerList = [
@@ -31401,7 +44505,7 @@ export const volunteerList = [
   { Timestamp: "2023-01-08 15:00:48", EndTime: "2023-01-08 19:00:48", Name: "Kaneesha"},
   { Timestamp: "2023-01-08 15:01:32", EndTime: "2023-01-08 19:01:32", Name: "Kate Weeks"},
   { Timestamp: "2023-01-08 00:00:00", EndTime: "2023-01-08 04:00:00", Name: "Laila"},
-  { Timestamp: "2023-01-08 00:00:00", EndTime: "2023-01-08 04:00:00", Name: "Safire"},
+  { Timestamp: "2023-01-08 00:00:00", EndTime: "2023-01-08 04:00:00", Name: "Safire Windley"},
   { Timestamp: "2023-01-10 15:10:55", EndTime: "2023-01-10 19:10:55", Name: "Rosemary Hendricks"},
   { Timestamp: "2023-01-10 15:11:56", EndTime: "2023-01-10 19:11:56", Name: "Romaine Bouldin"},
   { Timestamp: "2023-01-10 15:11:58", EndTime: "2023-01-10 19:11:58", Name: "Jean"},
@@ -31965,7 +45069,7 @@ export const volunteerList = [
   { Timestamp: "2023-04-08 17:25:28", EndTime: "2023-04-08 21:25:28", Name: "Josefina Aguilar-Pliszka"},
   { Timestamp: "2023-04-08 17:26:29", EndTime: "2023-04-08 21:26:29", Name: "Liam Stewart"},
   { Timestamp: "2023-04-08 17:27:24", EndTime: "2023-04-08 21:27:24", Name: "Makayla Boyce"},
-  { Timestamp: "2023-04-08 17:31:09", EndTime: "2023-04-08 21:31:09", Name: "Nyasia Arrington "},
+  { Timestamp: "2023-04-08 17:31:09", EndTime: "2023-04-08 21:31:09", Name: "Nyasia Arrington"},
   { Timestamp: "2023-04-08 17:33:22", EndTime: "2023-04-08 21:33:22", Name: "Dean Chien"},
   { Timestamp: "2023-04-08 17:36:33", EndTime: "2023-04-08 21:36:33", Name: "Beverly Pinn"},
   { Timestamp: "2023-04-08 17:49:06", EndTime: "2023-04-08 21:49:06", Name: "Emily Stucke"},
@@ -32234,7 +45338,7 @@ export const volunteerList = [
   { Timestamp: "2023-06-08 16:34:00", EndTime: "2023-06-08 20:34:00", Name: "David Ondande"},
   { Timestamp: "2023-06-08 16:36:39", EndTime: "2023-06-08 20:36:39", Name: "Norma Kriger"},
   { Timestamp: "2023-06-08 16:41:11", EndTime: "2023-06-08 20:41:11", Name: "Norma Kriger"},
-  { Timestamp: "2023-06-08 19:37:21", EndTime: "2023-06-08 23:37:21", Name: "Tara"},
+  { Timestamp: "2023-06-08 19:37:21", EndTime: "2023-06-08 23:37:21", Name: "Tara Brooky"},
   { Timestamp: "2023-06-09 16:45:22", EndTime: "2023-06-09 20:45:22", Name: "Sunita Pathik"},
   { Timestamp: "2023-06-10 17:01:29", EndTime: "2023-06-10 21:01:29", Name: "Tram Nguyen"},
   { Timestamp: "2023-06-10 17:01:35", EndTime: "2023-06-10 21:01:35", Name: "Emily Stucke"},
@@ -32253,5 +45357,22 @@ export const volunteerList = [
   { Timestamp: "2023-06-13 16:38:02", EndTime: "2023-06-13 20:38:02", Name: "Cindy Silveira"},
   { Timestamp: "2023-06-13 16:38:54", EndTime: "2023-06-13 20:38:54", Name: "Susan Larson"},
   { Timestamp: "2023-06-13 16:53:36", EndTime: "2023-06-13 20:53:36", Name: "Beverly Pinn"},
-  { Timestamp: "2023-06-14 14:02:45", EndTime: "2023-06-14 18:02:45", Name: "Bud Stracker - Sisson Street DPW"}
+  { Timestamp: "2023-06-14 17:56:56", EndTime: "2023-06-14 21:56:56", Name: "Karen Moore"}, 
+  { Timestamp: "2023-06-14 21:54:22", EndTime: "2023-06-15 01:54:22", Name: "Jonathan Shay"}, 
+  { Timestamp: "2023-06-14 21:58:30", EndTime: "2023-06-15 01:58:30", Name: "Lynwood McDaniel"}, 
+  { Timestamp: "2023-06-14 21:58:45", EndTime: "2023-06-15 01:58:45", Name: "Luke Mayhew"}, 
+  { Timestamp: "2023-06-14 22:02:07", EndTime: "2023-06-15 02:02:07", Name: "Tina Paquet"}, 
+  { Timestamp: "2023-06-14 00:00:00", EndTime: "2023-06-14 04:00:00", Name: "Paul H"}, 
+  { Timestamp: "2023-06-14 00:00:00", EndTime: "2023-06-14 04:00:00", Name: "Latease"}, 
+  { Timestamp: "2023-06-14 00:00:00", EndTime: "2023-06-14 04:00:00", Name: "Zoe"}, 
+  { Timestamp: "2023-06-15 16:57:05", EndTime: "2023-06-15 20:57:05", Name: "Norma Kriger"}, 
+  { Timestamp: "2023-06-15 17:04:17", EndTime: "2023-06-15 21:04:17", Name: "David Ondande"}, 
+  { Timestamp: "2023-06-15 20:25:28", EndTime: "2023-06-16 00:25:28", Name: "Myles Austin"}, 
+  { Timestamp: "2023-06-15 20:26:06", EndTime: "2023-06-16 00:26:06", Name: "Tara Brooky"}, 
+  { Timestamp: "2023-06-15 00:00:00", EndTime: "2023-06-15 04:00:00", Name: "Hong"}, 
+  { Timestamp: "2023-06-17 17:00:08", EndTime: "2023-06-17 21:00:08", Name: "Emily Stucke"}, 
+  { Timestamp: "2023-06-17 17:05:40", EndTime: "2023-06-17 21:05:40", Name: "Tram Nguyen"}, 
+  { Timestamp: "2023-06-17 17:05:53", EndTime: "2023-06-17 21:05:53", Name: "Emily Fitzpatrick"}, 
+  { Timestamp: "2023-06-17 17:21:44", EndTime: "2023-06-17 21:21:44", Name: "Beverly Pinn"}, 
+  { Timestamp: "2023-06-28 14:09:22", EndTime: "2023-06-28 18:09:22", Name: "Bud Stracker - Sisson Street DPW"}
 ];

@@ -43,8 +43,12 @@ else:
 #user_names = users["Name"]
 
 user_input = st.selectbox(label="Please enter your name", options = active_users)
+<<<<<<< HEAD
+# food_input = st.text_input("Enter lbs of food")
+=======
 food_input = st.text_input("Enter lbs of regular food taken")
 damaged_food_input = st.text_input("Enter lbs of damaged food taken")
+>>>>>>> 7a4aa2088d17519d19e760acceac006e651a9866
 submit_button = st.button("Submit")
 
 
