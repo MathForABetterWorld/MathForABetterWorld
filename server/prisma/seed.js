@@ -3,13 +3,13 @@ import prisma from "./client.js";
 import { Role } from "@prisma/client";
 import { hashPassword } from "../src/util/password.js";
 import {
-  categoryList,
   usersList,
-  entries,
+  categoryList,
   distributorList,
+  // donatedToList,
+  entries,
   exportsList,
   volunteerList,
-  donatedToList,
 } from "./data.js";
 
 const generateFakeUsers = async (numFakeUsers) => {
