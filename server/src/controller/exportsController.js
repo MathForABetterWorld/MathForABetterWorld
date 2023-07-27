@@ -6,7 +6,8 @@ export const createExport = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { weight, categoryId, donatedTo, userId, locationId, exportType } = req.body;
+  const { weight, categoryId, donatedTo, userId, locationId, exportType } =
+    req.body;
   const exportItem = await prisma.exportItem.create({
     data: {
       weight,
@@ -25,27 +26,22 @@ export const getExports = async (req, res) => {
     return res;
   }
   const exports = await prisma.exportItem.findMany({
-    select: { 
-      id,
-      weight,
-      exportDate,
-      donatedTo,
+    include: {
       user: {
         select: {
           name: true,
-        }
+        },
       },
       category: {
         select: {
           name: true,
-        }
-      }, 
+        },
+      },
       location: {
         select: {
           name: true,
-        }
-      }, 
-      exportType,
+        },
+      },
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ exports });
@@ -64,7 +60,8 @@ export const editExport = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { weight, categoryId, donatedTo, userId, id, locationId, exportType } = req.body;
+  const { weight, categoryId, donatedTo, userId, id, locationId, exportType } =
+    req.body;
   const exportItem = await prisma.exportItem.update({
     where: {
       id,
