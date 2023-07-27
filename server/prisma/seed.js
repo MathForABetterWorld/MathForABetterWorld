@@ -99,7 +99,7 @@ const generateFakeData = async () => {
     createEntryList.push({
       entryUserId: userMap.get(entry.name).id,
       inputDate: new Date(entry.date),
-      weight: entry.weight,
+      weight: parseFloat(entry.weight),
       categoryIds: [categoryMap.get(entry.category).id],
       companyId: distributorMap.get(entry.distributor).id,
     });
@@ -111,7 +111,7 @@ const generateFakeData = async () => {
       createExportsList.push({
         userId: userMap.get(exportItem.name).id,
         exportDate: new Date(exportItem.date),
-        weight: exportItem.weight,
+        weight: parseFloat(exportItem.weight),
         categoryId: categoryMap.get(exportItem.category).id,
         donatedTo: exportItem.donatedTo,
         locationId: locationMap.get(exportItem.donatedTo).id,
@@ -120,12 +120,13 @@ const generateFakeData = async () => {
       createExportsList.push({
         userId: userMap.get(exportItem.name).id,
         exportDate: new Date(exportItem.date),
-        weight: exportItem.weight,
+        weight: parseFloat(exportItem.weight),
         categoryId: categoryMap.get(exportItem.category).id,
         donatedTo: exportItem.donatedTo,
       });
     }
   });
+  console.log(createExportsList);
   const exports = await prisma.exportItem.createMany({
     data: createExportsList,
   });
@@ -240,13 +241,13 @@ const generateFakeData = async () => {
       createShiftList.push({
         userId: userMap.get(entry.Name).id,
         start: new Date(entry.Timestamp),
-        end: new Date(entry.EndTime)
+        end: new Date(entry.EndTime),
       });
     } else {
-      console.log(entry.Name)
+      console.log(entry.Name);
     }
   });
-  await prisma.shift.createMany({data: createShiftList});
+  await prisma.shift.createMany({ data: createShiftList });
 };
 
 try {
