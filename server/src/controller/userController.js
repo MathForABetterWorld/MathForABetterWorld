@@ -28,6 +28,7 @@ export const get = async (req, res) => {
       checkedPallet: true,
       exportedItems: true,
       shiftsWorked: true,
+      isActive: true,
     },
   });
 
