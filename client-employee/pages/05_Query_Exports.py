@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import json
 import os 
-from routeConnectors import categoryConnectors, exportConnectors, locationConnectors, userConnector
+from routeConnectors import categoryConnectors, exportConnectors, locationConnectors, userConnector, rackConnector
 from PIL import Image
 from nav import nav_page
 
@@ -50,6 +50,10 @@ sortedLocations = sorted(locations, key=lambda location: location["name"])
 categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
 sortedCategories = sorted(categories, key=lambda cat: cat["name"])
 
+allRacks = ["", 1, 2, 3, 4, 5, 6]
+rackRes = rackConnector.getRacks()
+if rackRes: 
+    allRacks = allRacks + rackRes["rack"]
 
 categorySelect = st.selectbox("Show all food of type", categories, format_func=lambda cat: f'{cat["name"]}')
 recSelect = st.selectbox("Show all food going to", sortedLocations, format_func=lambda loc: f'{loc["name"]}')
