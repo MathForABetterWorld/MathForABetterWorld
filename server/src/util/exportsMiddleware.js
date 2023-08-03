@@ -68,3 +68,7 @@ export const isLocationIdOptional = async (req, res, next) => {
     next();
   }
 };
+
+export const returnIsBCF = async (req, res, next) => {
+  
+}

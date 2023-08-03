@@ -34,11 +34,13 @@ router.post(
       "Recycle",
       "Compost",
       "Damaged",
+      "Return",
     ],
   ),
   validator.isUserId,
   validator.isCategoryId,
   validator.isLocationIdOptional,
+  validator.returnIsBCF,
   controller.createExport
 );
 
@@ -74,12 +76,14 @@ router.post(
       "Recycle",
       "Compost",
       "Damaged",
+      "Return",
     ],
   ),
   validator.isExportId,
   validator.isUserId,
   validator.isCategoryId,
   validator.isLocationIdOptional,
+  validator.returnIsBCF,
   controller.createExport
 );
 
