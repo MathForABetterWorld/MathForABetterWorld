@@ -24,11 +24,12 @@ if 'token' in st.session_state:
         phoneNumber = left.text_input("Phone Number (Optional)", "")
         address = right.text_input("Address (Optional)", "")
         newSubmit = st.form_submit_button()
+        isActive = True
         if newSubmit:
             if name == "" or email == "":
                 st.error("Please fill in required form elements!")
             else:
-                jsonObj = json.loads(userConnector.postUser(email, name, None if phoneNumber == "" else phoneNumber, None if address == "" else address))
+                jsonObj = json.loads(userConnector.postUser(email, name, None if phoneNumber == "" else phoneNumber, None if address == "" else address, isActive))
                 newCat = pd.DataFrame(jsonObj["user"], index=[0])
                 #print(newCat)
                 st.experimental_rerun()
