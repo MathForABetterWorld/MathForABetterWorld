@@ -68,3 +68,23 @@ export const isLocationIdOptional = async (req, res, next) => {
     next();
   }
 };
+
+export const isRack = async (req, res, next) => {
+  const { rackId } = req.body;
+  if (rackId === null || rackId === undefined) {
+    next();
+  } else {
+    const query = await prisma.rack.findUnique({
+      where: {
+        id: rackId,
+      },
+    });
+    if (query === null || query === undefined) {
+      return res
+        .status(StatusCodes.CONFLICT)
+        .json({ msg: "ERROR: rack does not exist" });
+    } else {
+      next();
+    }
+  }
+}

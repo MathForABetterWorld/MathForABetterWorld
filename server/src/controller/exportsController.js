@@ -6,7 +6,7 @@ export const createExport = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { weight, categoryId, donatedTo, userId, locationId, exportType } = req.body;
+  const { weight, categoryId, donatedTo, userId, locationId, exportType, rackId } = req.body;
   const exportItem = await prisma.exportItem.create({
     data: {
       weight,
@@ -15,6 +15,7 @@ export const createExport = async (req, res) => {
       categoryId,
       locationId,
       exportType,
+      rackId, 
     },
   });
   return res.status(StatusCodes.CREATED).json({ exportItem });
@@ -64,7 +65,7 @@ export const editExport = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { weight, categoryId, donatedTo, userId, id, locationId, exportType } = req.body;
+  const { weight, categoryId, donatedTo, userId, id, locationId, exportType, rackId } = req.body;
   const exportItem = await prisma.exportItem.update({
     where: {
       id,
@@ -76,6 +77,7 @@ export const editExport = async (req, res) => {
       categoryId,
       locationId,
       exportType,
+      rackId,
     },
   });
   return res.status(StatusCodes.CREATED).json({ exportItem });
