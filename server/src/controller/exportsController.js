@@ -47,6 +47,7 @@ export const getExports = async (req, res) => {
         }
       }, 
       exportType,
+      rackId,
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ exports });
