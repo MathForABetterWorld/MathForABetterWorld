@@ -70,5 +70,12 @@ export const isLocationIdOptional = async (req, res, next) => {
 };
 
 export const returnIsBCF = async (req, res, next) => {
-  
+  const {donatedTo, exportType } = req.body;
+  if (donatedTo !== "BCF Curbside" && exportType === "Return") {
+    return res
+    .status(StatusCodes.BAD_REQUEST)
+    .json({ msg: "ERROR: only food from BCF Curbside is returned" });
+  } else {
+    next();
+  }
 }
