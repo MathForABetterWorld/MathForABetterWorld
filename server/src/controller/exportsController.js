@@ -17,6 +17,7 @@ export const createExport = async (req, res) => {
       exportType,
     },
   });
+  // if donatedTo = BCF Curbside and exportType = return --> weight becomes negative???
   return res.status(StatusCodes.CREATED).json({ exportItem });
 };
 
