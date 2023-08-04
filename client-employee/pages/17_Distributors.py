@@ -33,7 +33,7 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Distributors Page</h1>", unsafe_allow_html=True)
 
 if 'token' in st.session_state:
-    editType = st.selectbox("Modification Type", ["", "New Distributor", "Update Distributor", "Delete Distributor"])
+    editType = st.selectbox("Modification Type (Add, Edit, Delete) (Select Below)", ["", "New Distributor", "Update Distributor", "Delete Distributor"])
     if editType == "New Distributor":
         with st.form("template_form"):
             name = st.text_input("Name", "")

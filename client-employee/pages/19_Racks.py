@@ -35,7 +35,7 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Racks Page</h1>", unsafe_allow_html=True)
 
 if 'token' in st.session_state:
-    editType = st.selectbox("Modification Type", ["", "New Rack", "Update Rack", "Delete Rack"])
+    editType = st.selectbox("Modification Type (Add, Edit, Delete) (Select Below)", ["", "New Rack", "Update Rack", "Delete Rack"])
     if editType == "New Rack":
         with st.form("template_form"):
             left, right = st.columns(2)

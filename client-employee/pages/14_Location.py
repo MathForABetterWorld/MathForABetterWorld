@@ -46,7 +46,7 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Locations Page</h1>", unsafe_allow_html=True)
 
 if 'token' in st.session_state:
-    editType = st.selectbox("Modification Type", ["", "New Location", "Update Location", "Delete Location"])
+    editType = st.selectbox("Modification Type (Add, Edit, Delete) (Select Below)", ["", "New Location", "Update Location", "Delete Location"])
     if editType == "New Location":
         with st.form("template_form"):
             name = st.text_input("Location Name", "")
