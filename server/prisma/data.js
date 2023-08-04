@@ -1,3 +1,390 @@
+export const rackList = [
+  {
+    location: "A1",
+    description: "A1",
+  },
+  {
+    location: "A2",
+    description: "A2",
+  },
+  {
+    location: "A3",
+    description: "A3",
+  },
+  {
+    location: "A4",
+    description: "A4",
+  },
+  {
+    location: "A5",
+    description: "A5",
+  },
+  {
+    location: "A6",
+    description: "A6",
+  },
+  {
+    location: "B1",
+    description: "B1",
+  },
+  {
+    location: "B2",
+    description: "B2",
+  },
+  {
+    location: "B3",
+    description: "B3",
+  },
+  {
+    location: "B4",
+    description: "B4",
+  },
+  {
+    location: "B5",
+    description: "B5",
+  },
+  {
+    location: "B6",
+    description: "B6",
+  },
+  {
+    location: "C1",
+    description: "C1",
+  },
+  {
+    location: "C2",
+    description: "C2",
+  },
+  {
+    location: "C3",
+    description: "C3",
+  },
+  {
+    location: "C4",
+    description: "C4",
+  },
+  {
+    location: "C5",
+    description: "C5",
+  },
+  {
+    location: "C6",
+    description: "C6",
+  },
+  {
+    location: "D1",
+    description: "D1",
+  },
+  {
+    location: "D2",
+    description: "D2",
+  },
+  {
+    location: "D3",
+    description: "D3",
+  },
+  {
+    location: "D4",
+    description: "D4",
+  },
+  {
+    location: "D5",
+    description: "D5",
+  },
+  {
+    location: "D6",
+    description: "D6",
+  },
+  {
+    location: "E1",
+    description: "E1",
+  },
+  {
+    location: "E2",
+    description: "E2",
+  },
+  {
+    location: "E3",
+    description: "E3",
+  },
+  {
+    location: "E4",
+    description: "E4",
+  },
+  {
+    location: "E5",
+    description: "E5",
+  },
+  {
+    location: "E6",
+    description: "E6",
+  },
+  {
+    location: "F1",
+    description: "F1",
+  },
+  {
+    location: "F2",
+    description: "F2",
+  },
+  {
+    location: "F3",
+    description: "F3",
+  },
+  {
+    location: "F4",
+    description: "F4",
+  },
+  {
+    location: "F5",
+    description: "F5",
+  },
+  {
+    location: "F6",
+    description: "F6",
+  },
+  {
+    location: "G1",
+    description: "G1",
+  },
+  {
+    location: "G2",
+    description: "G2",
+  },
+  {
+    location: "G3",
+    description: "G3",
+  },
+  {
+    location: "G4",
+    description: "G4",
+  },
+  {
+    location: "G5",
+    description: "G5",
+  },
+  {
+    location: "G6",
+    description: "G6",
+  },
+  {
+    location: "H1",
+    description: "H1",
+  },
+  {
+    location: "H2",
+    description: "H2",
+  },
+  {
+    location: "H3",
+    description: "H3",
+  },
+  {
+    location: "H4",
+    description: "H4",
+  },
+  {
+    location: "H5",
+    description: "H5",
+  },
+  {
+    location: "H6",
+    description: "H6",
+  },
+  {
+    location: "I1",
+    description: "I1",
+  },
+  {
+    location: "I2",
+    description: "I2",
+  },
+  {
+    location: "I3",
+    description: "I3",
+  },
+  {
+    location: "I4",
+    description: "I4",
+  },
+  {
+    location: "I5",
+    description: "I5",
+  },
+  {
+    location: "I6",
+    description: "I6",
+  },
+  {
+    location: "J1",
+    description: "J1",
+  },
+  {
+    location: "J2",
+    description: "J2",
+  },
+  {
+    location: "J3",
+    description: "J3",
+  },
+  {
+    location: "J4",
+    description: "J4",
+  },
+  {
+    location: "J5",
+    description: "J5",
+  },
+  {
+    location: "J6",
+    description: "J6",
+  },
+  {
+    location: "K1",
+    description: "K1",
+  },
+  {
+    location: "K2",
+    description: "K2",
+  },
+  {
+    location: "K3",
+    description: "K3",
+  },
+  {
+    location: "K4",
+    description: "K4",
+  },
+  {
+    location: "K5",
+    description: "K5",
+  },
+  {
+    location: "K6",
+    description: "K6",
+  },
+  {
+    location: "L1",
+    description: "L1",
+  },
+  {
+    location: "L2",
+    description: "L2",
+  },
+  {
+    location: "L3",
+    description: "L3",
+  },
+  {
+    location: "L4",
+    description: "L4",
+  },
+  {
+    location: "L5",
+    description: "L5",
+  },
+  {
+    location: "L6",
+    description: "L6",
+  },
+  {
+    location: "M1",
+    description: "M1",
+  },
+  {
+    location: "M2",
+    description: "M2",
+  },
+  {
+    location: "M3",
+    description: "M3",
+  },
+  {
+    location: "M4",
+    description: "M4",
+  },
+  {
+    location: "M5",
+    description: "M5",
+  },
+  {
+    location: "M6",
+    description: "M6",
+  },
+  {
+    location: "N1",
+    description: "N1",
+  },
+  {
+    location: "N2",
+    description: "N2",
+  },
+  {
+    location: "N3",
+    description: "N3",
+  },
+  {
+    location: "N4",
+    description: "N4",
+  },
+  {
+    location: "N5",
+    description: "N5",
+  },
+  {
+    location: "N6",
+    description: "N6",
+  },
+  {
+    location: "O1",
+    description: "O1",
+  },
+  {
+    location: "O2",
+    description: "O2",
+  },
+  {
+    location: "O3",
+    description: "O3",
+  },
+  {
+    location: "O4",
+    description: "O4",
+  },
+  {
+    location: "O5",
+    description: "O5",
+  },
+  {
+    location: "O6",
+    description: "O6",
+  },
+  {
+    location: "P1",
+    description: "P1",
+  },
+  {
+    location: "P2",
+    description: "P2",
+  },
+  {
+    location: "P3",
+    description: "P3",
+  },
+  {
+    location: "P4",
+    description: "P4",
+  },
+  {
+    location: "P5",
+    description: "P5",
+  },
+  {
+    location: "P6",
+    description: "P6",
+  },
+];
+
 export const usersList = [
   "Abisola Adeusi", // final
   "Adebola Akinwale", // final

@@ -10,6 +10,7 @@ import {
   exportsList,
   volunteerList,
   donatedToList,
+  rackList,
 } from "./data.js";
 
 const generateFakeUsers = async (numFakeUsers) => {
@@ -94,36 +95,78 @@ const generateFakeData = async () => {
   await prisma.distributor.createMany({ data: createDistributors });
   const distributors = await prisma.distributor.findMany();
   distributors.forEach((dis) => distributorMap.set(dis.name, dis));
+  const createRacks = [];
+  const rackMap = new Map();
+  rackList.forEach((rack) => {
+    createRacks.push({ name: rack, description: rack });
+  });
+  await prisma.rack.createMany({ data: createRacks });
+  const racks = await prisma.rack.findMany();
+  racks.forEach((rack) => rackMap.set(rack.location, rack));
   const createEntryList = [];
   entries.forEach((entry) => {
-    createEntryList.push({
-      entryUserId: userMap.get(entry.name).id,
-      inputDate: new Date(entry.date),
-      weight: entry.weight,
-      categoryIds: [categoryMap.get(entry.category).id],
-      companyId: distributorMap.get(entry.distributor).id,
-    });
+    if (rackMap.has(entry.rack)) {
+      createEntryList.push({
+        entryUserId: userMap.get(entry.name).id,
+        inputDate: new Date(entry.date),
+        weight: entry.weight,
+        categoryIds: [categoryMap.get(entry.category).id],
+        companyId: distributorMap.get(entry.distributor).id,
+        rackId: rackMap.get(entry.rack).id,
+      });  
+    } else {
+      createEntryList.push({
+        entryUserId: userMap.get(entry.name).id,
+        inputDate: new Date(entry.date),
+        weight: entry.weight,
+        categoryIds: [categoryMap.get(entry.category).id],
+        companyId: distributorMap.get(entry.distributor).id,
+      });  
+    }
   });
   const foodData = await prisma.pallet.createMany({ data: createEntryList });
   const createExportsList = [];
   exportsList.forEach((exportItem) => {
     if (locationMap.has(exportItem.donatedTo)) {
-      createExportsList.push({
-        userId: userMap.get(exportItem.name).id,
-        exportDate: new Date(exportItem.date),
-        weight: exportItem.weight,
-        categoryId: categoryMap.get(exportItem.category).id,
-        donatedTo: exportItem.donatedTo,
-        locationId: locationMap.get(exportItem.donatedTo).id,
-      });
+      if (rackMap.has(exportItem.rack)) {
+        createExportsList.push({
+          userId: userMap.get(exportItem.name).id,
+          exportDate: new Date(exportItem.date),
+          weight: exportItem.weight,
+          categoryId: categoryMap.get(exportItem.category).id,
+          donatedTo: exportItem.donatedTo,
+          locationId: locationMap.get(exportItem.donatedTo).id,
+          rackId: rackMap.get(exportItem.rack).id,
+        });
+      } else {
+        createExportsList.push({
+          userId: userMap.get(exportItem.name).id,
+          exportDate: new Date(exportItem.date),
+          weight: exportItem.weight,
+          categoryId: categoryMap.get(exportItem.category).id,
+          donatedTo: exportItem.donatedTo,
+          locationId: locationMap.get(exportItem.donatedTo).id,
+        });
+      }
     } else {
-      createExportsList.push({
-        userId: userMap.get(exportItem.name).id,
-        exportDate: new Date(exportItem.date),
-        weight: exportItem.weight,
-        categoryId: categoryMap.get(exportItem.category).id,
-        donatedTo: exportItem.donatedTo,
-      });
+      if (rackMap.has(exportItem.rack)) {
+        createExportsList.push({
+          userId: userMap.get(exportItem.name).id,
+          exportDate: new Date(exportItem.date),
+          weight: exportItem.weight,
+          categoryId: categoryMap.get(exportItem.category).id,
+          donatedTo: exportItem.donatedTo,
+          rackId: rackMap.get(exportItem.rack).id,
+        });
+      } else {
+        createExportsList.push({
+          userId: userMap.get(exportItem.name).id,
+          exportDate: new Date(exportItem.date),
+          weight: exportItem.weight,
+          categoryId: categoryMap.get(exportItem.category).id,
+          donatedTo: exportItem.donatedTo,
+        });
+      }
     }
   });
   const exports = await prisma.exportItem.createMany({
@@ -247,6 +290,7 @@ const generateFakeData = async () => {
     }
   });
   await prisma.shift.createMany({data: createShiftList});
+
 };
 
 try {
