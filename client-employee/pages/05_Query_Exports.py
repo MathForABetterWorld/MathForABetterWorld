@@ -50,10 +50,13 @@ sortedLocations = sorted(locations, key=lambda location: location["name"])
 categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
 sortedCategories = sorted(categories, key=lambda cat: cat["name"])
 
-allRacks = ["", 1, 2, 3, 4, 5, 6]
-rackRes = rackConnector.getRacks()
-if rackRes: 
-    allRacks = allRacks + rackRes["rack"]
+# allRacks = ["", 1, 2, 3, 4, 5, 6]
+# rackRes = rackConnector.getRacks()
+# if rackRes: 
+#     allRacks = allRacks + rackRes["rack"]
+
+racks = [{"id": -1, "location": "", "description": "", "weightLimit": ""}]  + rackConnector.getRacks()['rack']
+sortedRacks = sorted(racks, key=lambda rack: rack["location"])
 
 categorySelect = st.selectbox("Show all food of type", categories, format_func=lambda cat: f'{cat["name"]}')
 recSelect = st.selectbox("Show all food going to", sortedLocations, format_func=lambda loc: f'{loc["name"]}')
@@ -70,8 +73,14 @@ def getLocation(location):
         return "N/A"
     return location["name"]
 
+def getRack(rack):
+    if rack is None:
+        return "N/A"
+    return rack["location"]
+
 df["category"] = df.category.apply(getCategories)
 df["location"] = df.location.apply(getLocation)
+df["rack"] = df.rack.apply(getRack)
 # # Uncomment this when connected to backend 
 # df = df.sort_values(by=[sortByMap[sortBySelect]])
 # # Filter by distributor 
