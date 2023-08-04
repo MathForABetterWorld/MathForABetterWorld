@@ -712,34 +712,146 @@ export const distributorList = [
 ];
 
 export const donatedToList = [
-  "Baltimore Cease Fire [Nkenge]", // final
-  "BCF [Non Curbside]", // final
-  "BCF Curbside", // final
-  "Bowery", // final
-  "Crystal [Kingdom Worship Center]", // final
-  "Douglas Homes", // final
-  "Farmlink [Mauricio]", // final
-  "GBMC", // final
-  "Gilmore Homes", // final
-  "Greenmount West", // final
-  "Impact Hub", // final
-  "Individual", // final
-  "Janet Arce", // final
-  "Love and Cornbread", // final
-  "Love and Lunches", // final
-  "Other Organization", // final
-  "McCollouh Homes [Coach Dunkin]", // final
-  "Mike Foy [Emily Wall]", // final
-  "Morgan State University", // final
-  "New Beginnings Center Church", // final
-  "Other Organization", // final
-  "Pastor Young", // final
-  "Pedro", // final
-  "Sandtown", // final
-  "So What Else", // final
-  "Sunita [Delivery]", // final
-  "Whitebox", // final
-  "Women's Housing Coalition", // final
+  {
+    name: "Baltimore Cease Fire [Nkenge]",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "BCF [Non Curbside]",
+    latitude: "39.31654827746684",
+    longitude: "-76.62063478994395",
+  },
+  {
+    name: "BCF Curbside",
+    latitude: "39.316390",
+    longitude: "-76.620630",
+  },
+  {
+    name: "Bowery",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Crystal [Kingdom Worship Center]",
+    latitude: "39.374789084578985",
+    longitude: "-76.6091235052863",
+  },
+  {
+    name: "Douglas Homes",
+    latitude: "39.29453406059345",
+    longitude: "-76.59824160343634",
+  },
+  {
+    name: "Farmlink [Mauricio]",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "GBMC",
+    latitude: "39.390878740618675",
+    longitude: "-76.62505630699006",
+  },
+  {
+    name: "Gilmor Homes",
+    latitude: "39.30545911766231",
+    longitude: "-76.64401626110829",
+  },
+  {
+    name: "Greenmount West",
+    latitude: "39.311310",
+    longitude: "-76.612430",
+  },
+  {
+    name: "Impact Hub",
+    latitude: "39.31150741528994",
+    longitude: "-76.615682651531",
+  },  
+  {
+    name: "Individual",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Janet Arce",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Love & Cornbread",
+    latitude: "39.30995241015908",
+    longitude: "-76.6428625346888",
+  },
+  {
+    name: "Love and Lunches",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Other Organization",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "McCollouh Homes [Coach Dunkin]",
+    latitude: "39.30086548695787",
+    longitude: "-76.62766018898213",
+  },
+  {
+    name: "Mike Foy [Emily Wall]",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Morgan State University",
+    latitude: "39.340460",
+    longitude: "-76.587720",
+  },
+  {
+    name: "New Beginnings Center Church",
+    latitude: "39.34893230789649",
+    longitude: "-76.6762657692841",
+  },
+  {
+    name: "Other Organization",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Pastor Young",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Pedro",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Sandtown",
+    latitude: "39.304150",
+    longitude: "-76.643036",
+  },
+  {
+    name: "So What Else",
+    latitude: "39.28205808981843",
+    longitude: ", -76.65066306296282",
+  },
+  {
+    name: "Sunita [Delivery]",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Whitebox",
+    latitude: "39.1949133512776",
+    longitude: "-76.5524693515677",
+  },
+  {
+    name: "Women's Housing Coalition",
+    latitude: "39.31559094625292",
+    longitude: "-76.61900046975943",
+  },
 ];
 
 export const entries = [
@@ -18426,21 +18538,21 @@ export const exportsList = [
     name: "JC",
     weight: 753,
     category: "Meat [Raw]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-06 15:58:30.631000",
     name: "JC",
     weight: 821,
     category: "Produce",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-06 15:59:15.985000",
     name: "JC",
     weight: 172,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-06 16:00:23.176000",
@@ -18454,7 +18566,7 @@ export const exportsList = [
     name: "JC",
     weight: 730,
     category: "Frozen [Not Meat]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-06 16:01:30.765000",
@@ -19315,14 +19427,14 @@ export const exportsList = [
     name: "Jean",
     weight: 112,
     category: "Meat [Raw]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-13 15:24:34.236000",
     name: "Ausar",
     weight: 112,
     category: "Meat [Raw]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-13 16:06:30.428000",
@@ -19714,7 +19826,7 @@ export const exportsList = [
     name: "Ausar",
     weight: 69,
     category: "Meat [Raw]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-20 15:25:14.796000",
@@ -19728,7 +19840,7 @@ export const exportsList = [
     name: "Ausar",
     weight: 623,
     category: "Produce",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-20 15:27:06.959000",
@@ -20162,28 +20274,28 @@ export const exportsList = [
     name: "Ausar",
     weight: 545,
     category: "Baby Supplies",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-27 14:07:42.925000",
     name: "Ausar",
     weight: 560,
     category: "Frozen [Not Meat]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-27 14:08:14.745000",
     name: "Ausar",
     weight: 95,
     category: "Cleaning Supplies",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-27 14:09:58.913000",
     name: "Ausar",
     weight: 103,
     category: "Canned Goods",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-02-27 17:12:43.871000",
@@ -20596,7 +20708,7 @@ export const exportsList = [
     name: "Ausar",
     weight: 250,
     category: "Cleaning Supplies",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-06 13:06:46.788000",
@@ -20617,7 +20729,7 @@ export const exportsList = [
     name: "Ausar",
     weight: 150,
     category: "Canned Goods",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-06 16:02:37.106000",
@@ -20631,14 +20743,14 @@ export const exportsList = [
     name: "Ausar",
     weight: 50,
     category: "Other",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-06 16:03:53.106000",
     name: "Ausar",
     weight: 363,
     category: "Frozen [Not Meat]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-06 16:04:34.624000",
@@ -20981,21 +21093,21 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 190,
     category: "Dairy",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-13 14:49:10.661000",
     name: "Torey Wilkins",
     weight: 105,
     category: "Frozen [Not Meat]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-13 14:49:53.131000",
     name: "Torey Wilkins",
     weight: 84,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-13 14:50:23.598000",
@@ -21009,7 +21121,7 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 166,
     category: "Other",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-13 16:55:26.030000",
@@ -21415,7 +21527,7 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 309,
     category: "Meat [Raw]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-20 13:19:12.223000",
@@ -21436,7 +21548,7 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 197,
     category: "Cleaning Supplies",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-20 13:22:19.174000",
@@ -21842,21 +21954,21 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 20,
     category: "Personal Care",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-27 12:56:16.139000",
     name: "Torey Wilkins",
     weight: 35,
     category: "Snacks",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-27 12:56:49.655000",
     name: "Torey Wilkins",
     weight: 156,
     category: "Canned Goods",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-27 13:00:09.897000",
@@ -21870,21 +21982,21 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 288,
     category: "Meat [Raw]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-27 13:12:18.907000",
     name: "Torey Wilkins",
     weight: 245,
     category: "Other",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-27 13:25:47.074000",
     name: "Torey Wilkins",
     weight: 44,
     category: "Spices",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-03-27 16:05:32.690000",
@@ -22423,7 +22535,7 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 111,
     category: "Frozen [Not Meat]",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-04-10 13:56:59.354000",
@@ -22437,7 +22549,7 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 75,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-04-10 13:58:26.479000",
@@ -25776,14 +25888,14 @@ export const exportsList = [
     name: "Zoe",
     weight: 260,
     category: "Other",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-06-05 15:56:22.578000",
     name: "Zoe",
     weight: 326,
     category: "Other",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-06-05 16:53:34.507000",
@@ -26175,7 +26287,7 @@ export const exportsList = [
     name: "Zoe",
     weight: 210,
     category: "Other",
-    donatedTo: "Gilmore Homes",
+    donatedTo: "Gilmor Homes",
   },
   {
     date: "2022-06-12 15:41:16.016000",
@@ -36927,7 +37039,7 @@ export const exportsList = [
 		name: "Susan May",
 		weight: "338",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-02-11 00:00:00",
@@ -36969,7 +37081,7 @@ export const exportsList = [
 		name: "Susan May",
 		weight: "50",
 		category: "Produce",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-02-15 00:00:00",
@@ -37074,7 +37186,7 @@ export const exportsList = [
 		name: "Xiomara Rodriguez",
 		weight: "346",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-02-17 13:52:45",
@@ -37242,7 +37354,7 @@ export const exportsList = [
 		name: "Susan May",
 		weight: "128",
 		category: "Produce",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-02-19 14:55:49",
@@ -37396,7 +37508,7 @@ export const exportsList = [
 		name: "Nina Early",
 		weight: "295",
 		category: "Dole - Fruit Cups",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-02-24 13:59:07",
@@ -37613,7 +37725,7 @@ export const exportsList = [
 		name: "Susan May",
 		weight: "273",
 		category: "Dole - Fruit Cups",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-02-26 15:01:03",
@@ -37774,7 +37886,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "10",
 		category: "Produce",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-03-02 19:45:31",
@@ -37893,7 +38005,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "198",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-03-03 14:22:11",
@@ -38103,7 +38215,7 @@ export const exportsList = [
 		name: "Susan May",
 		weight: "29",
 		category: "Produce",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-03-05 15:15:09",
@@ -38292,7 +38404,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "397",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-03-10 14:01:05",
@@ -38642,7 +38754,7 @@ export const exportsList = [
 		name: "Susan May",
 		weight: "22",
 		category: "Produce",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-03-12 14:25:03",
@@ -38775,7 +38887,7 @@ export const exportsList = [
 		name: "Norma Kriger",
 		weight: "332",
 		category: "Produce",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-03-16 15:33:40",
@@ -39048,7 +39160,7 @@ export const exportsList = [
 		name: "Susan May",
 		weight: "7",
 		category: "Produce",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-03-19 15:24:13",
@@ -39153,7 +39265,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "263",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-03-23 00:00:00",
@@ -39545,14 +39657,14 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "324",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-03-31 13:56:25",
 		name: "Susan May",
 		weight: "23",
 		category: "Produce",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-03-31 16:47:50",
@@ -39944,7 +40056,7 @@ export const exportsList = [
 		name: "Juanita Chandler",
 		weight: "403",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-04-07 13:39:30",
@@ -40252,7 +40364,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "392",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-04-11 16:29:28",
@@ -40469,7 +40581,7 @@ export const exportsList = [
 		name: "Juanita Chandler",
 		weight: "114",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-04-14 14:34:13",
@@ -40784,7 +40896,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "126",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-04-18 17:18:23",
@@ -40896,7 +41008,7 @@ export const exportsList = [
 		name: "Juanita Chandler",
 		weight: "29",
 		category: "Produce",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-04-20 00:00:00",
@@ -40938,7 +41050,7 @@ export const exportsList = [
 		name: "Juanita Chandler",
 		weight: "206",
 		category: "Dole - Fruit Cups",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-04-21 14:45:52",
@@ -41344,14 +41456,14 @@ export const exportsList = [
 		name: "Juanita Chandler",
 		weight: "314",
 		category: "Dole - Fruit Cups",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-04-28 15:07:46",
 		name: "Juanita Chandler",
 		weight: "11",
 		category: "Dairy",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-04-29 00:00:00",
@@ -41372,7 +41484,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "403",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-05-05 17:02:00",
@@ -41512,7 +41624,7 @@ export const exportsList = [
 		name: "Juanita Chandler",
 		weight: "30",
 		category: "Produce",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-05-10 14:34:47",
@@ -41694,7 +41806,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "242",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-05-12 16:09:41",
@@ -42086,7 +42198,7 @@ export const exportsList = [
 		name: "Juanita Chandler",
 		weight: "47",
 		category: "Dairy",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-05-17 16:00:21",
@@ -42198,14 +42310,14 @@ export const exportsList = [
 		name: "Juanita Chandler",
 		weight: "153",
 		category: "Health & Beauty Products",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-05-19 13:58:48",
 		name: "Juanita Chandler",
 		weight: "276",
 		category: "Assorted Fridge",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-05-19 14:23:18",
@@ -42471,7 +42583,7 @@ export const exportsList = [
 		name: "Beverly Pinn",
 		weight: "16",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-05-24 09:59:13",
@@ -42625,7 +42737,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "558",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-05-25 13:56:48",
@@ -43199,14 +43311,14 @@ export const exportsList = [
 		name: "Juanita Chandler",
 		weight: "285",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-06-02 13:46:34",
 		name: "Juanita Chandler",
 		weight: "85",
 		category: "Assorted Fridge",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-06-02 13:48:56",
@@ -43584,7 +43696,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "52",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-06-07 15:34:01",
@@ -43619,7 +43731,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "389",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-06-09 09:13:58",
@@ -44305,7 +44417,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "334",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-06-17 16:03:10",
@@ -44550,7 +44662,7 @@ export const exportsList = [
 		name: "Barbara Zadek",
 		weight: "250",
 		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
+		donatedTo: "Love & Cornbread"
 	},
 	{
 		date: "2023-06-20 10:11:00",

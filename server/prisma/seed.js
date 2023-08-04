@@ -31,38 +31,49 @@ const generateFakeData = async () => {
   // await prisma.user.deleteMany();
   // await generateFakeUsers(3);
   const locationMap = new Map();
-  const sandtown = await prisma.DonationLocation.create({
-    data: {
-      name: "Sandtown",
-      latitude: "39.304150",
-      longitude: "-76.643036",
-    },
+  // const sandtown = await prisma.DonationLocation.create({
+  //   data: {
+  //     name: "Sandtown",
+  //     latitude: "39.304150",
+  //     longitude: "-76.643036",
+  //   },
+  // });
+  // const bcfCurbside = await prisma.DonationLocation.create({
+  //   data: {
+  //     name: "BCF Curbside",
+  //     latitude: "39.316390",
+  //     longitude: "-76.620630",
+  //   },
+  // });
+  // const greenmountWest = await prisma.DonationLocation.create({
+  //   data: {
+  //     name: "Greenmount West",
+  //     latitude: "39.311310",
+  //     longitude: "-76.612430",
+  //   },
+  // });
+  // const morganState = await prisma.DonationLocation.create({
+  //   data: {
+  //     name: "Morgan State University",
+  //     latitude: "39.340460",
+  //     longitude: "-76.587720",
+  //   },
+  // });
+  // locationMap.set("Sandtown", sandtown);
+  // locationMap.set("BCF Curbside", bcfCurbside);
+  // locationMap.set("Greenmount West", greenmountWest);
+  // locationMap.set("Morgan State University", morganState);
+  const createLocations = [];
+  const locationSet = new Set();
+  donatedToList.forEach((location) => {
+    if (!locationSet.has(location)) {
+      createLocations.push({ name: location.name, longitute: location.longitude, latitute: location.latitude});
+      locationSet.add(location);
+    }
   });
-  const bcfCurbside = await prisma.DonationLocation.create({
-    data: {
-      name: "BCF Curbside",
-      latitude: "39.316390",
-      longitude: "-76.620630",
-    },
-  });
-  const greenmountWest = await prisma.DonationLocation.create({
-    data: {
-      name: "Greenmount West",
-      latitude: "39.311310",
-      longitude: "-76.612430",
-    },
-  });
-  const morganState = await prisma.DonationLocation.create({
-    data: {
-      name: "Morgan State University",
-      latitude: "39.340460",
-      longitude: "-76.587720",
-    },
-  });
-  locationMap.set("Sandtown", sandtown);
-  locationMap.set("BCF Curbside", bcfCurbside);
-  locationMap.set("Greenmount West", greenmountWest);
-  locationMap.set("Morgan State University", morganState);
+  await prisma.location.createMany({ data: createLocations });
+  const locations = await prisma.location.findMany();
+  locations.forEach((loc) => locationMap.set(loc.name, loc));
   const userMap = new Map();
   const userSet = new Set();
   const createUsers = [];
@@ -98,7 +109,7 @@ const generateFakeData = async () => {
   const createRacks = [];
   const rackMap = new Map();
   rackList.forEach((rack) => {
-    createRacks.push({ name: rack, description: rack });
+    createRacks.push({ name: rack.location, description: rack.description });
   });
   await prisma.rack.createMany({ data: createRacks });
   const racks = await prisma.rack.findMany();
