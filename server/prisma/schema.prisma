@@ -74,6 +74,8 @@ model ExportItem {
   location   DonationLocation? @relation(fields: [locationId], references: [id])
   locationId Int?
   exportType ExportType        @default(Regular)
+  rack           Rack?       @relation(fields: [rackId], references: [id])
+  rackId         Int?
 }
 
 enum ExportType {
@@ -95,6 +97,7 @@ model Rack {
   description String
   weightLimit Float?
   pallet      Pallet[]
+  exportItem  ExportItem[]
 }
 
 model Category {
