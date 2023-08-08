@@ -8,7 +8,7 @@ import {
   entries,
   distributorList,
   exportsList,
-  volunteerList,
+  shiftList,
   donatedToList,
   rackList,
 } from "./data.js";
@@ -67,12 +67,12 @@ const generateFakeData = async () => {
   const locationSet = new Set();
   donatedToList.forEach((location) => {
     if (!locationSet.has(location)) {
-      createLocations.push({ name: location.name, longitute: location.longitude, latitute: location.latitude});
+      createLocations.push({ name: location.name, longitude: location.longitude, latitude: location.latitude});
       locationSet.add(location);
     }
   });
-  await prisma.location.createMany({ data: createLocations });
-  const locations = await prisma.location.findMany();
+  await prisma.donationLocation.createMany({ data: createLocations });
+  const locations = await prisma.donationLocation.findMany();
   locations.forEach((loc) => locationMap.set(loc.name, loc));
   const userMap = new Map();
   const userSet = new Set();
@@ -109,7 +109,7 @@ const generateFakeData = async () => {
   const createRacks = [];
   const rackMap = new Map();
   rackList.forEach((rack) => {
-    createRacks.push({ name: rack.location, description: rack.description });
+    createRacks.push({ location: rack.location, description: rack.description, weightLimit: rack.weightLimit });
   });
   await prisma.rack.createMany({ data: createRacks });
   const racks = await prisma.rack.findMany();
@@ -135,7 +135,7 @@ const generateFakeData = async () => {
       });  
     }
   });
-  const foodData = await prisma.pallet.createMany({ data: createEntryList });
+  await prisma.pallet.createMany({ data: createEntryList });
   const createExportsList = [];
   exportsList.forEach((exportItem) => {
     if (locationMap.has(exportItem.donatedTo)) {
@@ -145,7 +145,7 @@ const generateFakeData = async () => {
           exportDate: new Date(exportItem.date),
           weight: exportItem.weight,
           categoryId: categoryMap.get(exportItem.category).id,
-          donatedTo: exportItem.donatedTo,
+          donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
           locationId: locationMap.get(exportItem.donatedTo).id,
           rackId: rackMap.get(exportItem.rack).id,
         });
@@ -155,7 +155,7 @@ const generateFakeData = async () => {
           exportDate: new Date(exportItem.date),
           weight: exportItem.weight,
           categoryId: categoryMap.get(exportItem.category).id,
-          donatedTo: exportItem.donatedTo,
+          donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
           locationId: locationMap.get(exportItem.donatedTo).id,
         });
       }
@@ -166,7 +166,7 @@ const generateFakeData = async () => {
           exportDate: new Date(exportItem.date),
           weight: exportItem.weight,
           categoryId: categoryMap.get(exportItem.category).id,
-          donatedTo: exportItem.donatedTo,
+          donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
           rackId: rackMap.get(exportItem.rack).id,
         });
       } else {
@@ -175,12 +175,12 @@ const generateFakeData = async () => {
           exportDate: new Date(exportItem.date),
           weight: exportItem.weight,
           categoryId: categoryMap.get(exportItem.category).id,
-          donatedTo: exportItem.donatedTo,
+          donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
         });
       }
     }
   });
-  const exports = await prisma.exportItem.createMany({
+  await prisma.exportItem.createMany({
     data: createExportsList,
   });
   const chris = await prisma.user.create({
@@ -208,7 +208,7 @@ const generateFakeData = async () => {
     },
   });
 
-  const employee = await prisma.employee.createMany({
+  await prisma.employee.createMany({
     data: [
       {
         userId: chris.id,
@@ -289,15 +289,17 @@ const generateFakeData = async () => {
     },
   });
   const createShiftList = [];
-  volunteerList.forEach((entry) => {
-    if (userMap.get(entry.Name)) {
+  shiftList.forEach((entry) => {
+    if (userMap.get(entry.name)) {
       createShiftList.push({
-        userId: userMap.get(entry.Name).id,
-        start: new Date(entry.Timestamp),
-        end: new Date(entry.EndTime)
+        userId: userMap.get(entry.name).id,
+        start: new Date(entry.start),
+        end: new Date(entry.end),
+        regularFoodTaken: 0,
+        damagedFoodTaken: 0,
       });
     } else {
-      console.log(entry.Name)
+      console.log(entry.name)
     }
   });
   await prisma.shift.createMany({data: createShiftList});
