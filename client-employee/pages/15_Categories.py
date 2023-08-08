@@ -36,7 +36,7 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Categories Page</h1>", unsafe_allow_html=True)
 
 if 'token' in st.session_state:
-    editType = st.selectbox("Modification Type", ["", "New Category", "Update Category", "Delete Category"])
+    editType = st.selectbox("Modification Type (Add, Edit, Delete) (Select Below)", ["", "New Category", "Update Category", "Delete Category"])
     if editType == "New Category":
         with st.form("template_form"):
             left, right = st.columns(2)
