@@ -1,5 +1,4 @@
 import express from "express";
-import { checkToken } from "../util/middleware.js";
 import * as validator from "../util/exportsMiddleware.js";
 import * as controller from "../controller/exportsController.js";
 import * as express_validator from "express-validator";
