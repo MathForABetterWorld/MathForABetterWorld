@@ -14,9 +14,7 @@ export default router;
 
 router.post(
   "/",
-  body("weight", "Please include a positive weight exported!")
-    .notEmpty()
-    .isFloat({ gt: 0.0 }),
+  body("weight", "Please include a weight exported!").notEmpty().isFloat(),
   body("categoryId", "Please include the category of the export")
     .notEmpty()
     .isInt(),
@@ -28,19 +26,14 @@ router.post(
     .notEmpty()
     .isInt(),
   body("locationId", "LocationId must be an integer").optional().isInt(),
-  body("exportType", "exportType must be a valid export type").notEmpty().isIn(
-    [
-      "Regular",
-      "Recycle",
-      "Compost",
-      "Damaged",
-      "Return",
-    ],
-  ),
+  body("exportType", "exportType must be a valid export type")
+    .notEmpty()
+    .isIn(["Regular", "Recycle", "Compost", "Damaged", "Return"]),
   validator.isUserId,
   validator.isCategoryId,
   validator.isLocationIdOptional,
   validator.returnIsBCF,
+  validator.weightUsuallyPositive,
   controller.createExport
 );
 
@@ -70,20 +63,15 @@ router.post(
     .notEmpty()
     .isInt(),
   body("locationId", "LocationId must be an integer").optional().isInt(),
-  body("exportType", "exportType must be a valid export type").notEmpty().isIn(
-    [
-      "Regular",
-      "Recycle",
-      "Compost",
-      "Damaged",
-      "Return",
-    ],
-  ),
+  body("exportType", "exportType must be a valid export type")
+    .notEmpty()
+    .isIn(["Regular", "Recycle", "Compost", "Damaged", "Return"]),
   validator.isExportId,
   validator.isUserId,
   validator.isCategoryId,
   validator.isLocationIdOptional,
   validator.returnIsBCF,
+  validator.weightUsuallyPositive,
   controller.createExport
 );
 

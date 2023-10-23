@@ -6,7 +6,11 @@ export const createExport = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { weight, categoryId, donatedTo, userId, locationId, exportType } = req.body;
+  const { weight, categoryId, donatedTo, userId, locationId, exportType } =
+    req.body;
+  if (donatedTo == "BCF Curbside" && exportType == "Return") {
+    weight *= -1;
+  }
   const exportItem = await prisma.exportItem.create({
     data: {
       weight,
@@ -17,7 +21,6 @@ export const createExport = async (req, res) => {
       exportType,
     },
   });
-  // if donatedTo = BCF Curbside and exportType = return --> weight becomes negative???
   return res.status(StatusCodes.CREATED).json({ exportItem });
 };
 
@@ -26,7 +29,7 @@ export const getExports = async (req, res) => {
     return res;
   }
   const exports = await prisma.exportItem.findMany({
-    select: { 
+    select: {
       id,
       weight,
       exportDate,
@@ -34,18 +37,18 @@ export const getExports = async (req, res) => {
       user: {
         select: {
           name: true,
-        }
+        },
       },
       category: {
         select: {
           name: true,
-        }
-      }, 
+        },
+      },
       location: {
         select: {
           name: true,
-        }
-      }, 
+        },
+      },
       exportType,
     },
   });
@@ -65,7 +68,8 @@ export const editExport = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { weight, categoryId, donatedTo, userId, id, locationId, exportType } = req.body;
+  const { weight, categoryId, donatedTo, userId, id, locationId, exportType } =
+    req.body;
   const exportItem = await prisma.exportItem.update({
     where: {
       id,
