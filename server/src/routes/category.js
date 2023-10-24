@@ -20,8 +20,6 @@ router.post(
 
 router.get("/", controller.getCategory);
 
-router.get("/categoriesInWarehouse", controller.getCategoriesInWarehouse);
-
 router.delete(
   "/:id",
   param("id", "Must include id in the url params").notEmpty().isInt(),

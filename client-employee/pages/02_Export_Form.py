@@ -56,10 +56,10 @@ with st.form("template_form"):
 ### TODO:: update userID when sign in functionality is implemented
 if submit:
     categoryIndex = category["id"]
-    if weight == "" or donatedTo == "" or category['id'] == -1 or exportType[id] == -1 or exportedBy['id'] == -1:
+    if weight == "" or donatedTo == "" or categoryIndex == -1 or exportType == "" or exportedBy['id'] == -1:
         st.error('Please fill out the form')
     else:
-        r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, donatedTo, int(weight), location["id"], exportType["id"]))
+        r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, donatedTo, int(weight), location["id"], exportType))
         if "msg" not in r:
             st.balloons()
             st.success("🎉 Your export was generated!")
