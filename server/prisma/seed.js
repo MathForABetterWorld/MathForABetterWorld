@@ -100,7 +100,7 @@ const generateFakeData = async () => {
       entryUserId: userMap.get(entry.name).id,
       inputDate: new Date(entry.date),
       weight: entry.weight,
-      categoryIds: [categoryMap.get(entry.category).id],
+      categoryIds: categoryMap.get(entry.category).id,
       companyId: distributorMap.get(entry.distributor).id,
     });
   });
@@ -240,13 +240,13 @@ const generateFakeData = async () => {
       createShiftList.push({
         userId: userMap.get(entry.Name).id,
         start: new Date(entry.Timestamp),
-        end: new Date(entry.EndTime)
+        end: new Date(entry.EndTime),
       });
     } else {
-      console.log(entry.Name)
+      console.log(entry.Name);
     }
   });
-  await prisma.shift.createMany({data: createShiftList});
+  await prisma.shift.createMany({ data: createShiftList });
 };
 
 try {

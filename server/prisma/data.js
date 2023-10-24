@@ -306,9 +306,10 @@ export const distributorList = [
   "Alto Dale Farm", // final
   "Amazon", // final
   "BCF", // final
+  "Bowery", // final
   "Clemens Food Group", // final
   "Common Market", // final
-  "Dannon", // final
+  "Danone", // final
   "Dietz & Watson", // final
   "Dole", // final
   "Donation", // final
@@ -351,7 +352,7 @@ export const donatedToList = [
   "Sandtown", // final
   "So What Else", // final
   "Sunita [Delivery]", // final
-  "Whitebox", // final
+  "Other", // final
   "Women's Housing Coalition", // final
 ];
 
@@ -12086,91 +12087,91 @@ export const entries = [
     name: "Jean",
     weight: 462,
     category: "Dairy",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 14:27:52.817000",
     name: "Jean",
     weight: 2085,
     category: "Assorted Fridge",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 14:29:03.716000",
     name: "Jean",
     weight: 443,
     category: "Assorted Fridge",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 14:30:26.075000",
     name: "Jean",
     weight: 188,
     category: "Assorted Fridge",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 00:00:00",
     name: "Claire",
     weight: 2305,
     category: "Assorted Fridge",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 14:32:01.226000",
     name: "Jean",
     weight: 2144,
     category: "Assorted Fridge",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 14:33:20.723000",
     name: "Jean",
     weight: 1770,
     category: "Assorted Fridge",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 14:37:29.981000",
     name: "Jean",
     weight: 1801,
     category: "Assorted Fridge",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 00:00:00",
     name: "Claire",
     weight: 1098,
     category: "Dairy",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 14:54:27.635000",
     name: "Jean",
     weight: 2010,
     category: "Assorted Fridge",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 14:55:35.915000",
     name: "Jean",
     weight: 35,
     category: "Dairy",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 15:01:03.013000",
     name: "Jean",
     weight: 2023,
     category: "Assorted Fridge",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-27 15:28:27.004000",
     name: "Jean",
     weight: 2156,
     category: "Assorted Fridge",
-    distributor: "Dannon",
+    distributor: "Danone",
   },
   {
     date: "2022-12-28 15:17:26.720000",
@@ -12194,3953 +12195,3953 @@ export const entries = [
     distributor: "Donation",
   },
   {
-		date: "2023-01-01 12:59:08",
-		name: "Vincent Faulk",
-		weight: "106",
-		category: "Pet Supplies",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-01 12:59:41",
-		name: "Vincent Faulk",
-		weight: "498",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-01 13:00:24",
-		name: "Vincent Faulk",
-		weight: "203",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-01 13:01:25",
-		name: "Vincent Faulk",
-		weight: "177",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-01 13:02:45",
-		name: "Vincent Faulk",
-		weight: "620",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-10 00:00:00",
-		name: "Claire",
-		weight: "18805",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-10 11:59:13",
-		name: "Claire",
-		weight: "158",
-		category: "Assorted Dry",
-		distributor: "Homewood Friends"
-	},
-	{
-		date: "2023-01-11 20:52:07",
-		name: "Claire",
-		weight: "439",
-		category: "Dairy",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-11 20:52:29",
-		name: "Claire",
-		weight: "504",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-11 20:52:47",
-		name: "Claire",
-		weight: "554",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-11 20:53:17",
-		name: "Claire",
-		weight: "350",
-		category: "Frozen [Not Meat]",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-11 20:53:39",
-		name: "Claire",
-		weight: "864",
-		category: "Dairy",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-11 20:53:59",
-		name: "Claire",
-		weight: "1396",
-		category: "Meat [Raw]",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-11 20:54:39",
-		name: "Claire",
-		weight: "742",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-11 20:55:03",
-		name: "Claire",
-		weight: "2021",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:55:31",
-		name: "Claire",
-		weight: "2019",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:56:05",
-		name: "Claire",
-		weight: "2022",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:56:23",
-		name: "Claire",
-		weight: "2023",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:56:39",
-		name: "Claire",
-		weight: "2021",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:57:04",
-		name: "Claire",
-		weight: "2022",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:57:24",
-		name: "Claire",
-		weight: "2018",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:57:42",
-		name: "Claire",
-		weight: "2021",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:58:03",
-		name: "Claire",
-		weight: "2023",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:58:22",
-		name: "Claire",
-		weight: "2020",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:58:42",
-		name: "Claire",
-		weight: "2021",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-11 20:58:59",
-		name: "Claire",
-		weight: "673",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-01-17 11:42:07",
-		name: "Claire",
-		weight: "130",
-		category: "Produce",
-		distributor: "So What Else"
-	},
-	{
-		date: "2023-01-17 11:42:49",
-		name: "Claire",
-		weight: "563",
-		category: "Drinks [Dry]",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-17 11:43:16",
-		name: "Claire",
-		weight: "849",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-17 11:43:35",
-		name: "Claire",
-		weight: "665",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-17 11:43:57",
-		name: "Claire",
-		weight: "1217",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-17 11:44:18",
-		name: "Claire",
-		weight: "606",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-17 11:45:07",
-		name: "Claire",
-		weight: "199",
-		category: "Cleaning Supplies",
-		distributor: "Tubman house"
-	},
-	{
-		date: "2023-01-17 11:45:27",
-		name: "Claire",
-		weight: "13",
-		category: "Assorted Dry",
-		distributor: "Donation"
-	},
-	{
-		date: "2023-01-17 16:28:20",
-		name: "Claire",
-		weight: "97",
-		category: "Household",
-		distributor: "Walmart"
-	},
-	{
-		date: "2023-01-17 16:28:49",
-		name: "Claire",
-		weight: "131",
-		category: "Pet Supplies",
-		distributor: "Walmart"
-	},
-	{
-		date: "2023-01-17 16:29:12",
-		name: "Claire",
-		weight: "152",
-		category: "Pet Supplies",
-		distributor: "Walmart"
-	},
-	{
-		date: "2023-01-17 16:29:45",
-		name: "Claire",
-		weight: "574",
-		category: "Assorted Dry",
-		distributor: "Walmart"
-	},
-	{
-		date: "2023-01-19 14:11:08",
-		name: "Claire",
-		weight: "112",
-		category: "Assorted Dry",
-		distributor: "Donation"
-	},
-	{
-		date: "2023-01-24 12:06:07",
-		name: "Claire",
-		weight: "148",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-24 12:06:31",
-		name: "Claire",
-		weight: "380",
-		category: "Assorted Fridge",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-24 12:06:50",
-		name: "Claire",
-		weight: "372",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-24 12:07:15",
-		name: "Claire",
-		weight: "669",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-24 12:07:44",
-		name: "Claire",
-		weight: "44",
-		category: "Personal Care",
-		distributor: "Homewood Friends"
-	},
-	{
-		date: "2023-01-27 12:14:51",
-		name: "Claire",
-		weight: "1102",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 12:15:07",
-		name: "Claire",
-		weight: "1272",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 12:15:33",
-		name: "Claire",
-		weight: "1271",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 12:15:51",
-		name: "Claire",
-		weight: "1251",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 12:16:09",
-		name: "Claire",
-		weight: "1102",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 12:16:29",
-		name: "Claire",
-		weight: "1258",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 12:21:56",
-		name: "Claire",
-		weight: "1253",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 12:39:22",
-		name: "Claire",
-		weight: "1262",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 12:39:46",
-		name: "Claire",
-		weight: "1088",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 12:40:21",
-		name: "Claire",
-		weight: "1112",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 13:01:24",
-		name: "Claire",
-		weight: "1088",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 00:00:00",
-		name: "Claire",
-		weight: "1067",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 13:18:41",
-		name: "Claire",
-		weight: "1073",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 13:28:09",
-		name: "Claire",
-		weight: "1111",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 13:28:30",
-		name: "Claire",
-		weight: "1253",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 13:31:19",
-		name: "Claire",
-		weight: "1099",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 13:38:56",
-		name: "Claire",
-		weight: "1090",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 13:42:14",
-		name: "Claire",
-		weight: "1116",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 14:08:57",
-		name: "Nailah Bishop",
-		weight: "1069",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 14:09:47",
-		name: "Nailah Bishop",
-		weight: "565",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 14:15:12",
-		name: "Nailah Bishop",
-		weight: "1093",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 14:22:55",
-		name: "Nailah Bishop",
-		weight: "1082",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 14:34:43",
-		name: "Nailah Bishop",
-		weight: "1112",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 14:39:26",
-		name: "Nailah Bishop",
-		weight: "1120",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 14:45:37",
-		name: "Nailah Bishop",
-		weight: "1111",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 14:49:41",
-		name: "Nailah Bishop",
-		weight: "1101",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 14:58:21",
-		name: "Nailah Bishop",
-		weight: "1087",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 15:01:58",
-		name: "Nailah Bishop",
-		weight: "1090",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 15:05:56",
-		name: "Nailah Bishop",
-		weight: "1083",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 15:11:24",
-		name: "Nailah Bishop",
-		weight: "1111",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 15:29:55",
-		name: "Nailah Bishop",
-		weight: "1065",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 15:34:49",
-		name: "Nailah Bishop",
-		weight: "1091",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 15:39:54",
-		name: "Nailah Bishop",
-		weight: "1063",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 15:44:31",
-		name: "Nailah Bishop",
-		weight: "1057",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 16:19:38",
-		name: "Nailah Bishop",
-		weight: "1106",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 16:22:58",
-		name: "Nailah Bishop",
-		weight: "1121",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 16:31:16",
-		name: "Nailah Bishop",
-		weight: "1107",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-27 16:37:52",
-		name: "Nailah Bishop",
-		weight: "1089",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-01-31 12:39:38",
-		name: "Claire",
-		weight: "114",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-31 12:40:02",
-		name: "Claire",
-		weight: "805",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-31 12:40:25",
-		name: "Claire",
-		weight: "410",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-31 12:40:52",
-		name: "Claire",
-		weight: "464",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-01-31 12:41:21",
-		name: "Claire",
-		weight: "45",
-		category: "Baby Supplies",
-		distributor: "Homewood Friends"
-	},
-	{
-		date: "2023-02-03 15:21:47",
-		name: "Kamryn Brown",
-		weight: "225",
-		category: "Other",
-		distributor: "Walmart"
-	},
-	{
-		date: "2023-02-03 15:22:53",
-		name: "Kamryn Brown",
-		weight: "177",
-		category: "Other",
-		distributor: "Walmart"
-	},
-	{
-		date: "2023-02-03 15:23:32",
-		name: "Kamryn Brown",
-		weight: "307",
-		category: "Other",
-		distributor: "Walmart"
-	},
-	{
-		date: "2023-02-03 15:24:04",
-		name: "Kamryn Brown",
-		weight: "182",
-		category: "Pet Supplies",
-		distributor: "Walmart"
-	},
-	{
-		date: "2023-02-03 15:56:34",
-		name: "Kamryn Brown",
-		weight: "25817.20",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-02-03 15:57:03",
-		name: "Kamryn Brown",
-		weight: "36403.53",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-02-05 14:38:21",
-		name: "Juanita Chandler",
-		weight: "29",
-		category: "Health & Beauty Products",
-		distributor: "Homewood meeting "
-	},
-	{
-		date: "2023-02-05 14:39:21",
-		name: "Juanita Chandler",
-		weight: "594",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-05 14:40:21",
-		name: "Juanita Chandler",
-		weight: "568",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-05 14:41:37",
-		name: "Juanita Chandler",
-		weight: "381",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-05 14:43:48",
-		name: "Juanita Chandler",
-		weight: "385",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-07 12:05:28",
-		name: "Claire",
-		weight: "43145.33",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-02-07 12:06:08",
-		name: "Claire",
-		weight: "27248.15",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-02-09 17:09:00",
-		name: "Claire",
-		weight: "18675.44",
-		category: "Canned Goods",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-02-10 00:00:00",
-		name: "Claire",
-		weight: "14073.72",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-02-12 00:00:00",
-		name: "Juanita Chandler",
-		weight: "530",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-12 12:41:26",
-		name: "Juanita Chandler",
-		weight: "617",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-12 12:42:19",
-		name: "Juanita Chandler",
-		weight: "286",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-12 12:43:34",
-		name: "Juanita Chandler",
-		weight: "282",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-12 00:00:00",
-		name: "Claire",
-		weight: "13",
-		category: "Personal Care",
-		distributor: "Homewood Friends"
-	},
-	{
-		date: "2023-02-15 00:00:00",
-		name: "Claire",
-		weight: "14975",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-15 17:34:28",
-		name: "Claire",
-		weight: "654",
-		category: "Drinks [Fridge]",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-15 17:45:36",
-		name: "Tina Paquet",
-		weight: "1321",
-		category: "Drinks [Fridge]",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-15 17:46:04",
-		name: "Tina Paquet",
-		weight: "1726",
-		category: "Drinks [Fridge]",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-15 17:51:40",
-		name: "Tina Paquet",
-		weight: "1282",
-		category: "Assorted Fridge",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-15 17:55:01",
-		name: "Tina Paquet",
-		weight: "1608",
-		category: "Dairy",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-15 18:00:00",
-		name: "Tina Paquet",
-		weight: "2073",
-		category: "Drinks [Fridge]",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-15 18:02:37",
-		name: "Tina Paquet",
-		weight: "2105",
-		category: "Drinks [Fridge]",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-15 18:06:22",
-		name: "Tina Paquet",
-		weight: "2094",
-		category: "Drinks [Fridge]",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-15 18:10:49",
-		name: "Tina Paquet",
-		weight: "1137",
-		category: "Drinks [Fridge]",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-15 18:14:32",
-		name: "Tina Paquet",
-		weight: "1303",
-		category: "Drinks [Fridge]",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-17 13:57:39",
-		name: "Xiomara Rodriguez",
-		weight: "79",
-		category: "Household",
-		distributor: "Love and cornbread "
-	},
-	{
-		date: "2023-02-18 11:57:36",
-		name:  "Other",
-		weight: "130",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "Sysco"
-	},
-	{
-		date: "2023-02-19 12:06:05",
-		name: "Juanita Chandler",
-		weight: "608",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-19 12:08:45",
-		name: "Juanita Chandler",
-		weight: "421",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-19 12:09:59",
-		name: "Juanita Chandler",
-		weight: "819",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-19 12:12:37",
-		name: "Juanita Chandler",
-		weight: "441",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-19 13:58:19",
-		name: "Juanita Chandler",
-		weight: "46",
-		category: "Health & Beauty Products",
-		distributor: "Homewood Friends"
-	},
-	{
-		date: "2023-02-22 14:43:36",
-		name: "Juanita Chandler",
-		weight: "582",
-		category: "Danone - Yogurt",
-		distributor: "Dannon "
-	},
-	{
-		date: "2023-02-22 14:44:48",
-		name: "Juanita Chandler",
-		weight: "575",
-		category: "Danone - Yogurt",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-22 14:45:53",
-		name: "Juanita Chandler",
-		weight: "592",
-		category: "Danone - Yogurt",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-22 14:47:13",
-		name: "Juanita Chandler",
-		weight: "573",
-		category: "Danone - Yogurt",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-22 14:48:22",
-		name: "Juanita Chandler",
-		weight: "854",
-		category: "Danone - Yogurt",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-22 14:49:28",
-		name: "Juanita Chandler",
-		weight: "598",
-		category: "Danone - Yogurt",
-		distributor: "Dannon"
-	},
-	{
-		date: "2023-02-22 14:50:34",
-		name: "Juanita Chandler",
-		weight: "704",
-		category: "Household",
-		distributor: "Whitebox"
-	},
-	{
-		date: "2023-02-22 14:51:42",
-		name: "Juanita Chandler",
-		weight: "462",
-		category: "Household",
-		distributor: "Whitebox"
-	},
-	{
-		date: "2023-02-24 17:17:15",
-		name: "Juanita Chandler",
-		weight: "300",
-		category: "Produce",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-02-26 11:53:47",
-		name: "Juanita Chandler",
-		weight: "491",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-26 11:59:51",
-		name: "Juanita Chandler",
-		weight: "347",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-26 12:11:50",
-		name: "Juanita Chandler",
-		weight: "303",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-02-26 13:27:34",
-		name: "Juanita Chandler",
-		weight: "233",
-		category: "Household",
-		distributor: "Homewood Friends"
-	},
-	{
-		date: "2023-03-01 15:07:35",
-		name: "Juanita Chandler",
-		weight: "135",
-		category: "Meat [Raw]",
-		distributor: "Holly Poultry"
-	},
-	{
-		date: "2023-03-01 15:09:10",
-		name: "Juanita Chandler",
-		weight: "290",
-		category: "Produce",
-		distributor: "Gotham farm"
-	},
-	{
-		date: "2023-03-01 15:10:19",
-		name: "Juanita Chandler",
-		weight: "293",
-		category: "Produce",
-		distributor: "Gotham Farm"
-	},
-	{
-		date: "2023-03-01 15:11:41",
-		name: "Juanita Chandler",
-		weight: "369",
-		category: "Produce",
-		distributor: "Gotham Farm"
-	},
-	{
-		date: "2023-03-01 01:00:01",
-		name: "Safire Windley",
-		weight: "85",
-		category: "Health & Beauty Products",
-		distributor: "Love and cornbread "
-	},
-	{
-		date: "2023-03-01 17:39:27",
-		name: "Luke Mayhew",
-		weight: "26",
-		category: "Canned Goods",
-		distributor: "Homewood friends meeting"
-	},
-	{
-		date: "2023-03-02 15:31:39",
-		name: "Norma Kriger",
-		weight: "1790",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-02 15:44:43",
-		name: "Norma Kriger",
-		weight: "706",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-02 15:45:48",
-		name: "Norma Kriger",
-		weight: "406",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-02 15:49:48",
-		name: "Norma Kriger",
-		weight: "971",
-		category: "Canned Goods",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-02 15:54:25",
-		name: "Norma Kriger",
-		weight: "1885",
-		category: "Canned Goods",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-02 16:00:12",
-		name: "Norma Kriger",
-		weight: "714",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-02 16:03:41",
-		name: "Norma Kriger",
-		weight: "1547",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-02 16:10:36",
-		name: "Norma Kriger",
-		weight: "2020",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-02 16:15:46",
-		name: "Norma Kriger",
-		weight: "802",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-02 16:20:04",
-		name: "Norma Kriger",
-		weight: "1524",
-		category: "Spices",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-02 16:25:15",
-		name: "Norma Kriger",
-		weight: "1061",
-		category: "Condiments",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-03 16:14:57",
-		name: "Nastaran Keshmiri",
-		weight: "1865",
-		category: "Frozen [Not Meat]",
-		distributor: "So what else sysco "
-	},
-	{
-		date: "2023-03-03 16:19:39",
-		name: "Nastaran Keshmiri",
-		weight: "360",
-		category: "Meat [Raw]",
-		distributor: "So what else sysco "
-	},
-	{
-		date: "2023-03-03 16:21:21",
-		name: "Nastaran Keshmiri",
-		weight: "274",
-		category: "Produce",
-		distributor: "So what else sysco"
-	},
-	{
-		date: "2023-03-03 16:27:22",
-		name: "Nastaran Keshmiri",
-		weight: "1893",
-		category: "Frozen [Not Meat]",
-		distributor: "So what else sysco"
-	},
-	{
-		date: "2023-03-03 16:31:47",
-		name: "Nastaran Keshmiri",
-		weight: "1849",
-		category: "Frozen [Not Meat]",
-		distributor: "So what else sysco"
-	},
-	{
-		date: "2023-03-03 16:37:01",
-		name: "Nastaran Keshmiri",
-		weight: "1836",
-		category: "Frozen [Not Meat]",
-		distributor: "So what else Sysco"
-	},
-	{
-		date: "2023-03-03 16:40:49",
-		name: "Nastaran Keshmiri",
-		weight: "1864",
-		category: "Frozen [Not Meat]",
-		distributor: "So what else Sysco"
-	},
-	{
-		date: "2023-03-03 16:46:32",
-		name: "Nastaran Keshmiri",
-		weight: "1864",
-		category: "Frozen [Not Meat]",
-		distributor: "So what else Sysco"
-	},
-	{
-		date: "2023-03-05 23:09:20",
-		name: "Juanita Chandler",
-		weight: "102",
-		category: "Dairy",
-		distributor: "Bored COW"
-	},
-	{
-		date: "2023-03-05 23:11:43",
-		name: "Juanita Chandler",
-		weight: "62",
-		category: "Household",
-		distributor: "Homewood Friends"
-	},
-	{
-		date: "2023-03-05 23:18:33",
-		name: "Juanita Chandler",
-		weight: "238",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-05 23:20:06",
-		name: "Juanita Chandler",
-		weight: "534",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-05 23:21:04",
-		name: "Juanita Chandler",
-		weight: "653",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-05 23:21:45",
-		name: "Juanita Chandler",
-		weight: "95",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-07 15:45:38",
-		name: "Beverly Pinn",
-		weight: "721",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-07 15:46:42",
-		name: "Beverly Pinn",
-		weight: "918",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 10:32:12",
-		name: "Safire Windley",
-		weight: "1749",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 00:00:00",
-		name: "Safire Windley",
-		weight: "672",
-		category: "Snacks",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 11:02:33",
-		name: "Safire Windley",
-		weight: "1398",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 11:04:47",
-		name: "Safire Windley",
-		weight: "1083",
-		category: "Spices",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 11:22:07",
-		name: "Safire Windley",
-		weight: "807",
-		category: "Assorted Dry",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 11:23:49",
-		name: "Safire Windley",
-		weight: "748",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 11:26:27",
-		name: "Safire Windley",
-		weight: "806",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 11:53:04",
-		name: "Safire Windley",
-		weight: "1257",
-		category: "Assorted Dry",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 11:54:03",
-		name: "Safire Windley",
-		weight: "1949",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 11:54:45",
-		name: "Safire Windley",
-		weight: "1959",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-08 18:48:58",
-		name: "Tina Paquet",
-		weight: "1400",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 18:54:43",
-		name: "Tina Paquet",
-		weight: "1792",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:03:11",
-		name: "Tina Paquet",
-		weight: "2297",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:08:21",
-		name: "Tina Paquet",
-		weight: "1764",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:15:15",
-		name: "Tina Paquet",
-		weight: "1762",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:22:00",
-		name: "Tina Paquet",
-		weight: "1342",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:26:05",
-		name: "Tina Paquet",
-		weight: "1764",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:30:31",
-		name: "Tina Paquet",
-		weight: "1769",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:34:37",
-		name: "Tina Paquet",
-		weight: "697",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:39:07",
-		name: "Tina Paquet",
-		weight: "1768",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:43:41",
-		name: "Tina Paquet",
-		weight: "691",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:47:57",
-		name: "Tina Paquet",
-		weight: "1761",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:51:55",
-		name: "Tina Paquet",
-		weight: "687",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 19:56:47",
-		name: "Tina Paquet",
-		weight: "693",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 20:04:04",
-		name: "Tina Paquet",
-		weight: "694",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 20:08:34",
-		name: "Tina Paquet",
-		weight: "703",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 20:12:46",
-		name: "Tina Paquet",
-		weight: "685",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 20:16:14",
-		name: "Tina Paquet",
-		weight: "686",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 20:19:35",
-		name: "Tina Paquet",
-		weight: "685",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 20:25:02",
-		name: "Tina Paquet",
-		weight: "691",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 20:43:53",
-		name: "Tina Paquet",
-		weight: "1696",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 20:48:02",
-		name: "Tina Paquet",
-		weight: "1762",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 20:52:27",
-		name: "Tina Paquet",
-		weight: "336",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 20:57:00",
-		name: "Tina Paquet",
-		weight: "2278",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 21:01:34",
-		name: "Tina Paquet",
-		weight: "685",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 21:05:01",
-		name: "Tina Paquet",
-		weight: "1770",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 00:00:00",
-		name: "Claire",
-		weight: "1281",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 21:20:40",
-		name: "Tina Paquet",
-		weight: "660",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 21:24:58",
-		name: "Tina Paquet",
-		weight: "688",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-08 21:34:01",
-		name: "Tina Paquet",
-		weight: "802",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-09 00:00:00",
-		name: "Claire",
-		weight: "11936.00",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-10 16:53:27",
-		name: "Claire",
-		weight: "17166.44",
-		category: "Frozen [Not Meat]",
-		distributor: "Sysco-So What Else"
-	},
-	{
-		date: "2023-03-12 12:45:44",
-		name: "Juanita Chandler",
-		weight: "803",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-12 12:56:26",
-		name: "Juanita Chandler",
-		weight: "57",
-		category: "Health & Beauty Products",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-12 12:57:27",
-		name: "Juanita Chandler",
-		weight: "474",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-12 12:58:16",
-		name: "Juanita Chandler",
-		weight: "566",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-12 13:04:39",
-		name: "Juanita Chandler",
-		weight: "159",
-		category: "Assorted Dry",
-		distributor: "Truth to Power"
-	},
-	{
-		date: "2023-03-19 12:17:32",
-		name: "Juanita Chandler",
-		weight: "580",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-19 12:20:46",
-		name: "Juanita Chandler",
-		weight: "378",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-19 12:24:01",
-		name: "Juanita Chandler",
-		weight: "966",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-19 12:24:53",
-		name: "Juanita Chandler",
-		weight: "650",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-19 00:00:00",
-		name: "Claire",
-		weight: "650",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-19 13:07:58",
-		name: "Juanita Chandler",
-		weight: "45",
-		category: "Household",
-		distributor: "Homewood friends"
-	},
-	{
-		date: "2023-03-22 14:22:31",
-		name: "Juanita Chandler",
-		weight: "12",
-		category: "Household",
-		distributor: "Other Organization"
-	},
-	{
-		date: "2023-03-22 17:40:15",
-		name: "Juanita Chandler",
-		weight: "2221",
-		category: "Snacks",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 18:00:19",
-		name: "Juanita Chandler",
-		weight: "855",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 18:03:33",
-		name: "Juanita Chandler",
-		weight: "735",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 18:12:27",
-		name: "Juanita Chandler",
-		weight: "1352",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 18:20:15",
-		name: "Juanita Chandler",
-		weight: "1479",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 18:24:28",
-		name: "Juanita Chandler",
-		weight: "1212",
-		category: "Canned Goods",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 18:40:25",
-		name: "Juanita Chandler",
-		weight: "829",
-		category: "Canned Goods",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 18:45:20",
-		name: "Juanita Chandler",
-		weight: "323",
-		category: "Assorted Dry",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 18:50:38",
-		name: "Luke Mayhew",
-		weight: "921",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 19:05:47",
-		name: "Luke Mayhew",
-		weight: "930",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "Emd"
-	},
-	{
-		date: "2023-03-22 19:14:32",
-		name: "Luke Mayhew",
-		weight: "1969",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 19:17:32",
-		name: "Luke Mayhew",
-		weight: "495",
-		category: "Snacks",
-		distributor: "EMD "
-	},
-	{
-		date: "2023-03-22 19:21:27",
-		name: "Luke Mayhew",
-		weight: "711",
-		category: "Snacks",
-		distributor: "EMD "
-	},
-	{
-		date: "2023-03-22 19:25:52",
-		name: "Jonathan Shay",
-		weight: "1979",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 19:29:43",
-		name: "Jonathan Shay",
-		weight: "2138",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-22 19:36:45",
-		name: "Jonathan Shay",
-		weight: "913",
-		category: "Snacks",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-24 15:28:46",
-		name: "Juanita Chandler",
-		weight: "332",
-		category: "Produce",
-		distributor: "Bowery/so what else"
-	},
-	{
-		date: "2023-03-24 15:30:29",
-		name: "Juanita Chandler",
-		weight: "338",
-		category: "Produce",
-		distributor: "Bowery/so what else"
-	},
-	{
-		date: "2023-03-24 15:32:04",
-		name: "Juanita Chandler",
-		weight: "342",
-		category: "Produce",
-		distributor: "Bowery / so what else"
-	},
-	{
-		date: "2023-03-24 16:40:29",
-		name: "Juanita Chandler",
-		weight: "102",
-		category: "Produce",
-		distributor: "Bowery / so what else"
-	},
-	{
-		date: "2023-03-24 16:51:52",
-		name: "Juanita Chandler",
-		weight: "157",
-		category: "Produce",
-		distributor: "Bowery / so what else"
-	},
-	{
-		date: "2023-03-24 16:54:52",
-		name: "Juanita Chandler",
-		weight: "345",
-		category: "Produce",
-		distributor: "Bowery / so what else"
-	},
-	{
-		date: "2023-03-24 17:03:05",
-		name: "Juanita Chandler",
-		weight: "191",
-		category: "Produce",
-		distributor: "Bowery / so what else"
-	},
-	{
-		date: "2023-03-24 17:08:22",
-		name: "Juanita Chandler",
-		weight: "113",
-		category: "Produce",
-		distributor: "Bowery /so what else"
-	},
-	{
-		date: "2023-03-24 17:09:46",
-		name: "Juanita Chandler",
-		weight: "288",
-		category: "Produce",
-		distributor: "Bowery / so what else"
-	},
-	{
-		date: "2023-03-24 17:13:20",
-		name: "Juanita Chandler",
-		weight: "315",
-		category: "Produce",
-		distributor: "Browery / so what else"
-	},
-	{
-		date: "2023-03-26 12:07:36",
-		name: "Juanita Chandler",
-		weight: "359",
-		category: "Assorted Fridge",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-26 12:09:24",
-		name: "Juanita Chandler",
-		weight: "613",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-26 12:10:26",
-		name: "Juanita Chandler",
-		weight: "253",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-26 12:11:21",
-		name: "Juanita Chandler",
-		weight: "465",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-03-26 13:11:37",
-		name: "Juanita Chandler",
-		weight: "27",
-		category: "Health & Beauty Products",
-		distributor: "Homewood women"
-	},
-	{
-		date: "2023-03-29 13:04:30",
-		name: "Juanita Chandler",
-		weight: "910",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-29 13:12:01",
-		name: "Juanita Chandler",
-		weight: "1634",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-29 13:13:08",
-		name: "Juanita Chandler",
-		weight: "1713",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-29 13:15:02",
-		name: "Juanita Chandler",
-		weight: "1456",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-29 13:18:49",
-		name: "Juanita Chandler",
-		weight: "2639",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-29 13:26:43",
-		name: "Juanita Chandler",
-		weight: "572",
-		category: "Snacks",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-29 13:29:32",
-		name: "Juanita Chandler",
-		weight: "1951",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-29 13:43:05",
-		name: "Juanita Chandler",
-		weight: "620",
-		category: "Canned Goods",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-29 13:49:04",
-		name: "Juanita Chandler",
-		weight: "1916",
-		category: "Condiments",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-29 14:04:41",
-		name: "Juanita Chandler",
-		weight: "844",
-		category: "Condiments",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-29 14:06:25",
-		name: "Juanita Chandler",
-		weight: "1060",
-		category: "Canned Goods",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-03-30 00:00:00",
-		name: "Claire",
-		weight: "1785",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-30 00:00:00",
-		name: "Claire",
-		weight: "1581",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-30 00:00:00",
-		name: "Claire",
-		weight: "900",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-30 00:00:00",
-		name: "Claire",
-		weight: "1186",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-30 00:00:00",
-		name: "Claire",
-		weight: "1567",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-03-30 14:03:16",
-		name: "Norma Kriger",
-		weight: "685",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 00:00:00",
-		name: "Claire",
-		weight: "475",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 14:18:47",
-		name: "Norma Kriger",
-		weight: "1185",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 14:29:01",
-		name: "Norma Kriger",
-		weight: "1176",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 14:38:53",
-		name: "Norma Kriger",
-		weight: "1081",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 14:42:35",
-		name: "Norma Kriger",
-		weight: "1090",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 14:46:28",
-		name: "Norma Kriger",
-		weight: "1187",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 14:56:00",
-		name: "Norma Kriger",
-		weight: "1164",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 14:59:13",
-		name: "Norma Kriger",
-		weight: "1189",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 15:03:09",
-		name: "Norma Kriger",
-		weight: "1178",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 15:08:33",
-		name: "Norma Kriger",
-		weight: "1166",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 15:18:12",
-		name: "Norma Kriger",
-		weight: "1182",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 15:57:46",
-		name: "Norma Kriger",
-		weight: "837",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 16:03:59",
-		name: "Norma Kriger",
-		weight: "1523",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 16:49:12",
-		name: "Norma Kriger",
-		weight: "1855",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 16:50:14",
-		name: "Norma Kriger",
-		weight: "1181",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 17:04:22",
-		name: "Norma Kriger",
-		weight: "1179",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 17:23:26",
-		name: "Norma Kriger",
-		weight: "1178",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 17:28:03",
-		name: "Andrew Kolodziejczak",
-		weight: "1184",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 17:28:55",
-		name: "Andrew Kolodziejczak",
-		weight: "1177",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 17:30:15",
-		name: "Andrew Kolodziejczak",
-		weight: "1194",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 18:51:23",
-		name: "Lynnette Cromer",
-		weight: "1197",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 18:52:58",
-		name: "Lynnette Cromer",
-		weight: "1178",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 18:56:41",
-		name: "Lynnette Cromer",
-		weight: "1179",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 18:58:15",
-		name: "Lynnette Cromer",
-		weight: "1173",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 18:58:53",
-		name: "Lynnette Cromer",
-		weight: "1180",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 18:59:43",
-		name: "Lynnette Cromer",
-		weight: "1175",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 19:00:31",
-		name: "Lynnette Cromer",
-		weight: "1194",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 19:01:50",
-		name: "Lynnette Cromer",
-		weight: "1179",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 19:03:02",
-		name: "Lynnette Cromer",
-		weight: "1180",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 19:05:29",
-		name: "Lynnette Cromer",
-		weight: "1194",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 19:06:34",
-		name: "Lynnette Cromer",
-		weight: "1187",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 19:13:55",
-		name: "Lynnette Cromer",
-		weight: "1171",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 19:14:33",
-		name: "Lynnette Cromer",
-		weight: "1177",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 19:17:32",
-		name: "Lynnette Cromer",
-		weight: "1189",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 19:31:01",
-		name: "Lynnette Cromer",
-		weight: "1171",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-30 19:34:01",
-		name: "Lynnette Cromer",
-		weight: "1169",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 13:57:12",
-		name: "Juanita Chandler",
-		weight: "1185",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 13:58:19",
-		name: "Juanita Chandler",
-		weight: "1183",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 13:59:04",
-		name: "Juanita Chandler",
-		weight: "1279",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 13:59:53",
-		name: "Juanita Chandler",
-		weight: "1192",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 14:02:43",
-		name: "Juanita Chandler",
-		weight: "1157",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 14:30:33",
-		name: "Juanita Chandler",
-		weight: "1164",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 14:38:00",
-		name: "Juanita Chandler",
-		weight: "1172",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 15:55:09",
-		name: "Juanita Chandler",
-		weight: "1173",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 15:59:58",
-		name: "Juanita Chandler",
-		weight: "1205",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:11:33",
-		name: "Juanita Chandler",
-		weight: "1191",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:20:02",
-		name: "Juanita Chandler",
-		weight: "1188",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:20:48",
-		name: "Juanita Chandler",
-		weight: "1166",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:21:36",
-		name: "Juanita Chandler",
-		weight: "1066",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:22:19",
-		name: "Juanita Chandler",
-		weight: "1162",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:23:08",
-		name: "Juanita Chandler",
-		weight: "1692",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:24:36",
-		name: "Juanita Chandler",
-		weight: "1182",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:25:42",
-		name: "Juanita Chandler",
-		weight: "1152",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:26:45",
-		name: "Juanita Chandler",
-		weight: "1152",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:27:38",
-		name: "Juanita Chandler",
-		weight: "1145",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:28:22",
-		name: "Juanita Chandler",
-		weight: "1149",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:31:29",
-		name: "Juanita Chandler",
-		weight: "1148",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:32:17",
-		name: "Juanita Chandler",
-		weight: "1207",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:33:18",
-		name: "Juanita Chandler",
-		weight: "1159",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:36:26",
-		name: "Juanita Chandler",
-		weight: "1156",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:37:51",
-		name: "Juanita Chandler",
-		weight: "1186",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:40:51",
-		name: "Juanita Chandler",
-		weight: "1813",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:41:28",
-		name: "Juanita Chandler",
-		weight: "1166",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:49:03",
-		name: "Juanita Chandler",
-		weight: "1672",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:50:06",
-		name: "Juanita Chandler",
-		weight: "1175",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:52:33",
-		name: "Juanita Chandler",
-		weight: "1210",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:54:38",
-		name: "Juanita Chandler",
-		weight: "1176",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 16:58:43",
-		name: "Juanita Chandler",
-		weight: "1350",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 17:02:58",
-		name: "Juanita Chandler",
-		weight: "913",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-03-31 17:12:39",
-		name: "Juanita Chandler",
-		weight: "226",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-03-31 17:19:38",
-		name: "Juanita Chandler",
-		weight: "232",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-04-01 16:12:28",
-		name: "Juanita Chandler",
-		weight: "180",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-04-01 16:13:20",
-		name: "Juanita Chandler",
-		weight: "248",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-04-01 16:19:18",
-		name: "Juanita Chandler",
-		weight: "212",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-04-01 16:20:10",
-		name: "Juanita Chandler",
-		weight: "219",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-04-02 12:12:30",
-		name: "Juanita Chandler",
-		weight: "12",
-		category: "Health & Beauty Products",
-		distributor: "Homewood friends"
-	},
-	{
-		date: "2023-04-02 12:13:38",
-		name: "Juanita Chandler",
-		weight: "737",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-02 12:14:22",
-		name: "Juanita Chandler",
-		weight: "466",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-02 12:15:18",
-		name: "Juanita Chandler",
-		weight: "645",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-02 12:19:13",
-		name: "Juanita Chandler",
-		weight: "596",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-02 12:20:14",
-		name: "Juanita Chandler",
-		weight: "499",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-06 11:46:29",
-		name: "Claire",
-		weight: "36595",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-04-06 16:19:19",
-		name: "Claire",
-		weight: "39876",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-04-07 13:13:08",
-		name: "Juanita Chandler",
-		weight: "1122",
-		category: "Produce",
-		distributor: "Sweet seasons"
-	},
-	{
-		date: "2023-04-07 13:14:31",
-		name: "Juanita Chandler",
-		weight: "1401",
-		category: "Produce",
-		distributor: "Sweet Seasons"
-	},
-	{
-		date: "2023-04-07 13:15:36",
-		name: "Juanita Chandler",
-		weight: "942",
-		category: "Produce",
-		distributor: "Sweet Seasons"
-	},
-	{
-		date: "2023-04-07 13:16:38",
-		name: "Juanita Chandler",
-		weight: "599",
-		category: "Produce",
-		distributor: "Sweet Seasons"
-	},
-	{
-		date: "2023-04-07 13:18:10",
-		name: "Juanita Chandler",
-		weight: "1270",
-		category: "Produce",
-		distributor: "Sweet Seasons"
-	},
-	{
-		date: "2023-04-07 13:19:40",
-		name: "Juanita Chandler",
-		weight: "655",
-		category: "Produce",
-		distributor: "Sweet Seasons"
-	},
-	{
-		date: "2023-04-07 13:20:40",
-		name: "Juanita Chandler",
-		weight: "1134",
-		category: "Produce",
-		distributor: "Sweet Seasons"
-	},
-	{
-		date: "2023-04-07 13:21:50",
-		name: "Juanita Chandler",
-		weight: "1828",
-		category: "Produce",
-		distributor: "Sweet Seasons"
-	},
-	{
-		date: "2023-04-07 13:23:39",
-		name: "Juanita Chandler",
-		weight: "1462",
-		category: "Produce",
-		distributor: "Sweet Seasons"
-	},
-	{
-		date: "2023-04-07 15:47:28",
-		name: "Juanita Chandler",
-		weight: "1267",
-		category: "Produce",
-		distributor: "Sweet Seasones"
-	},
-	{
-		date: "2023-04-07 16:04:58",
-		name: "Claire",
-		weight: "42560",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-04-09 11:58:11",
-		name: "JC",
-		weight: "258",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-09 11:58:39",
-		name: "JC",
-		weight: "955",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-09 11:58:58",
-		name: "JC",
-		weight: "616",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-09 11:59:18",
-		name: "JC",
-		weight: "401",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-12 17:18:58",
-		name: "Juanita Chandler",
-		weight: "777",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 17:22:35",
-		name: "Juanita Chandler",
-		weight: "875",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 17:23:22",
-		name: "Juanita Chandler",
-		weight: "953",
-		category: "Danone - Coffee",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 17:24:06",
-		name: "Juanita Chandler",
-		weight: "793",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 17:27:12",
-		name: "Juanita Chandler",
-		weight: "2105",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 17:30:26",
-		name: "Juanita Chandler",
-		weight: "1667",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 17:40:53",
-		name: "Tina Paquet",
-		weight: "1144",
-		category: "Danone - Plant Based Drink",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 17:54:38",
-		name: "Tina Paquet",
-		weight: "2163",
-		category: "Danone - Plant Based Drink",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 17:55:03",
-		name: "Tina Paquet",
-		weight: "2023",
-		category: "Danone - Plant Based Drink",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 17:55:27",
-		name: "Tina Paquet",
-		weight: "2030",
-		category: "Danone - Plant Based Drink",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:01:08",
-		name: "Tina Paquet",
-		weight: "1022",
-		category: "Danone - Fruit Cups",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:03:59",
-		name: "Tina Paquet",
-		weight: "2027",
-		category: "Danone - Plant Based Drink",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:07:26",
-		name: "Tina Paquet",
-		weight: "2023",
-		category: "Danone - Plant Based Drink",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:11:06",
-		name: "Tina Paquet",
-		weight: "832",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:15:12",
-		name: "Tina Paquet",
-		weight: "2037",
-		category: "Danone - Plant Based Drink",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:19:40",
-		name: "Tina Paquet",
-		weight: "1024",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:25:55",
-		name: "Tina Paquet",
-		weight: "1260",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:31:58",
-		name: "Tina Paquet",
-		weight: "1679",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:39:45",
-		name: "Tina Paquet",
-		weight: "952",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:40:10",
-		name: "Tina Paquet",
-		weight: "394",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:45:36",
-		name: "Tina Paquet",
-		weight: "1098",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:49:36",
-		name: "Tina Paquet",
-		weight: "1611",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:55:19",
-		name: "Tina Paquet",
-		weight: "1611",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:55:44",
-		name: "Tina Paquet",
-		weight: "1625",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 18:59:42",
-		name: "Tina Paquet",
-		weight: "986",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 19:00:33",
-		name: "Tina Paquet",
-		weight: "2027",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 19:06:25",
-		name: "Tina Paquet",
-		weight: "1200",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-12 19:13:11",
-		name: "Tina Paquet",
-		weight: "1658",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-14 16:39:58",
-		name: "Claire",
-		weight: "27065",
-		category: "Meat [Raw]",
-		distributor: "Clemens Food Group"
-	},
-	{
-		date: "2023-04-13 00:00:00",
-		name: "Claire",
-		weight: "36622",
-		category: "Danone - Creamer",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-16 12:43:22",
-		name: "Dynashia Woodson",
-		weight: "354",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-16 12:48:45",
-		name: "Dynashia Woodson",
-		weight: "659",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-16 12:49:51",
-		name: "Dynashia Woodson",
-		weight: "405",
-		category: "Assorted Fridge",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-16 12:51:27",
-		name: "Dynashia Woodson",
-		weight: "599",
-		category: "Assorted Fridge",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-04-18 11:22:56",
-		name: "JC",
-		weight: "1522",
-		category: "Assorted Dry",
-		distributor: "Sysco"
-	},
-	{
-		date: "2023-04-18 14:09:23",
-		name: "Beverly Pinn",
-		weight: "264",
-		category: "Produce",
-		distributor: "So what else"
-	},
-	{
-		date: "2023-04-18 00:00:00",
-		name: "Safire Windley",
-		weight: "343",
-		category: "Produce",
-		distributor: "So what else"
-	},
-	{
-		date: "2023-04-18 00:00:00",
-		name: "Claire",
-		weight: "36534",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-19 13:10:19",
-		name: "Beverly Pinn",
-		weight: "25496",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-04-23 13:39:21",
-		name: "Juanita Chandler",
-		weight: "14",
-		category: "Health & Beauty Products",
-		distributor: "Homewood friends"
-	},
-	{
-		date: "2023-05-05 13:59:11",
-		name: "Vincent Faulk",
-		weight: "393",
-		category: "Meat [Raw]",
-		distributor: "Dietz & Watson"
-	},
-	{
-		date: "2023-05-07 13:03:12",
-		name: "Vincent Faulk",
-		weight: "167",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-07 13:04:17",
-		name: "Vincent Faulk",
-		weight: "154",
-		category: "Personal Care",
-		distributor: "Sandtown"
-	},
-	{
-		date: "2023-05-07 13:05:21",
-		name: "Vincent Faulk",
-		weight: "894",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-07 13:06:01",
-		name: "Vincent Faulk",
-		weight: "435",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-10 15:04:23",
-		name: "Juanita Chandler",
-		weight: "240",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-05-10 15:05:26",
-		name: "Juanita Chandler",
-		weight: "231",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-05-10 15:06:44",
-		name: "Juanita Chandler",
-		weight: "90",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-05-10 15:07:38",
-		name: "Juanita Chandler",
-		weight: "225",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-05-10 15:08:38",
-		name: "Juanita Chandler",
-		weight: "223",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-05-11 10:40:33",
-		name: "Safire Windley",
-		weight: "1988",
-		category: "Produce",
-		distributor: "Mauricio"
-	},
-	{
-		date: "2023-05-11 10:55:51",
-		name: "Safire Windley",
-		weight: "1855",
-		category: "Produce",
-		distributor: "Mauricio "
-	},
-	{
-		date: "2023-05-11 10:56:33",
-		name: "Safire Windley",
-		weight: "1983",
-		category: "Produce",
-		distributor: "Mauricio "
-	},
-	{
-		date: "2023-05-11 11:02:03",
-		name: "Safire Windley",
-		weight: "1912",
-		category: "Produce",
-		distributor: "Mauricio "
-	},
-	{
-		date: "2023-05-11 11:14:21",
-		name: "Safire Windley",
-		weight: "2003",
-		category: "Produce",
-		distributor: "Mauricio "
-	},
-	{
-		date: "2023-05-11 11:21:05",
-		name: "Safire Windley",
-		weight: "2021",
-		category: "Produce",
-		distributor: "Mauricio "
-	},
-	{
-		date: "2023-05-11 11:21:49",
-		name: "Safire Windley",
-		weight: "1262",
-		category: "Produce",
-		distributor: "Mauricio "
-	},
-	{
-		date: "2023-05-11 11:25:41",
-		name: "Safire Windley",
-		weight: "1262",
-		category: "Produce",
-		distributor: "Mauricio "
-	},
-	{
-		date: "2023-05-11 00:00:00",
-		name: "Claire",
-		weight: "2020",
-		category: "Produce",
-		distributor: "Mauricio [Farmlink]"
-	},
-	{
-		date: "2023-05-11 00:00:00",
-		name: "Claire",
-		weight: "1920",
-		category: "Produce",
-		distributor: "Mauricio [Farmlink]"
-	},
-	{
-		date: "2023-05-12 15:17:15",
-		name: "Juanita Chandler",
-		weight: "2025",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-12 15:18:26",
-		name: "Juanita Chandler",
-		weight: "2097",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-12 15:25:43",
-		name: "Juanita Chandler",
-		weight: "1746",
-		category: "Assorted Dry",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-12 15:26:47",
-		name: "Juanita Chandler",
-		weight: "2093",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-12 15:30:14",
-		name: "Juanita Chandler",
-		weight: "1752",
-		category: "Assorted Dry",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-12 15:37:42",
-		name: "Juanita Chandler",
-		weight: "933",
-		category: "Snacks",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-12 17:01:19",
-		name: "Mary Jo Gary",
-		weight: "3",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "Roland Park Bagels"
-	},
-	{
-		date: "2023-05-13 16:43:19",
-		name: "Juanita Chandler",
-		weight: "21",
-		category: "Assorted Dry",
-		distributor: "Personal Donation"
-	},
-	{
-		date: "2023-05-13 17:23:09",
-		name: "Juanita Chandler",
-		weight: "1375",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-13 17:24:03",
-		name: "Juanita Chandler",
-		weight: "2049",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-13 17:25:00",
-		name: "Juanita Chandler",
-		weight: "1934",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-13 17:26:57",
-		name: "Juanita Chandler",
-		weight: "1786",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-13 17:27:57",
-		name: "Juanita Chandler",
-		weight: "2116",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-14 12:41:43",
-		name: "Vincent Faulk",
-		weight: "847",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-14 12:42:11",
-		name: "Vincent Faulk",
-		weight: "848",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-14 12:42:44",
-		name: "Vincent Faulk",
-		weight: "575",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-14 12:43:51",
-		name: "Vincent Faulk",
-		weight: "708",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-15 14:08:23",
-		name: "Vincent Faulk",
-		weight: "1132",
-		category: "Assorted Dry",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-15 14:09:18",
-		name: "Vincent Faulk",
-		weight: "1231",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-15 14:11:50",
-		name: "Vincent Faulk",
-		weight: "1740",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-15 14:13:03",
-		name: "Vincent Faulk",
-		weight: "866",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-15 14:13:55",
-		name: "Vincent Faulk",
-		weight: "924",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-15 14:14:42",
-		name: "Vincent Faulk",
-		weight: "662",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-15 14:15:31",
-		name: "Vincent Faulk",
-		weight: "1958",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-15 14:16:15",
-		name: "Vincent Faulk",
-		weight: "1378",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-15 14:17:46",
-		name: "Vincent Faulk",
-		weight: "683",
-		category: "Assorted Dry",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-15 14:18:33",
-		name: "Vincent Faulk",
-		weight: "958",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-15 14:19:23",
-		name: "Vincent Faulk",
-		weight: "1149",
-		category: "Drinks [Dry]",
-		distributor: "EMD"
-	},
-	{
-		date: "2023-05-17 11:57:01",
-		name: "Vincent Faulk",
-		weight: "1569",
-		category: "Danone - Milk",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-17 11:57:29",
-		name: "Vincent Faulk",
-		weight: "1748",
-		category: "Danone - Milk",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-17 11:57:59",
-		name: "Vincent Faulk",
-		weight: "1765",
-		category: "Danone - Milk",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-17 16:11:10",
-		name: "Juanita Chandler",
-		weight: "11",
-		category: "Personal Care",
-		distributor: "U of MD"
-	},
-	{
-		date: "2023-05-17 17:43:00",
-		name: "Juanita Chandler",
-		weight: "468",
-		category: "Meat [Raw]",
-		distributor: "Holly Poultry"
-	},
-	{
-		date: "2023-05-21 12:39:56",
-		name: "Juanita Chandler",
-		weight: "550",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-21 12:41:38",
-		name: "Juanita Chandler",
-		weight: "234",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-21 12:42:53",
-		name: "Juanita Chandler",
-		weight: "227",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-21 12:43:52",
-		name: "Juanita Chandler",
-		weight: "848",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-21 12:44:26",
-		name: "Juanita Chandler",
-		weight: "489",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-21 15:55:21",
-		name: "Juanita Chandler",
-		weight: "53",
-		category: "Health & Beauty Products",
-		distributor: "Quaker "
-	},
-	{
-		date: "2023-05-23 14:32:18",
-		name: "Beverly Pinn",
-		weight: "1658",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-23 14:32:55",
-		name: "Beverly Pinn",
-		weight: "1544",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-23 14:40:38",
-		name: "Beverly Pinn",
-		weight: "1176",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-24 00:00:00",
-		name: "Claire",
-		weight: "25000",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-24 00:00:00",
-		name: "Claire",
-		weight: "25000",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-26 16:11:41",
-		name: "Claire",
-		weight: "12000",
-		category: "Dairy",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-28 12:20:25",
-		name: "Juanita Chandler",
-		weight: "232",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-28 12:44:09",
-		name: "Juanita Chandler",
-		weight: "284",
-		category: "Frozen [Not Meat]",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-28 12:44:51",
-		name: "Juanita Chandler",
-		weight: "796",
-		category: "Frozen [Not Meat]",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-28 12:45:24",
-		name: "Juanita Chandler",
-		weight: "605",
-		category: "Frozen [Not Meat]",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-28 12:47:12",
-		name: "Juanita Chandler",
-		weight: "545",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-28 12:47:44",
-		name: "Juanita Chandler",
-		weight: "446",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-28 14:09:10",
-		name: "Juanita Chandler",
-		weight: "327",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-28 14:09:45",
-		name: "Juanita Chandler",
-		weight: "964",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-05-28 16:13:49",
-		name: "Juanita Chandler",
-		weight: "475",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-28 16:19:56",
-		name: "Juanita Chandler",
-		weight: "427",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-28 16:20:53",
-		name: "Juanita Chandler",
-		weight: "836",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-28 16:24:53",
-		name: "Juanita Chandler",
-		weight: "1843",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-28 16:33:05",
-		name: "Juanita Chandler",
-		weight: "1840",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-05-30 14:32:13",
-		name: "Claire",
-		weight: "122",
-		category: "Assorted Dry",
-		distributor: "Personal Donation (AB)"
-	},
-	{
-		date: "2023-05-31 13:58:32",
-		name: "Juanita Chandler",
-		weight: "120",
-		category: "Produce",
-		distributor: "Bowery "
-	},
-	{
-		date: "2023-05-31 13:59:10",
-		name: "Juanita Chandler",
-		weight: "313",
-		category: "Produce",
-		distributor: "Bowery "
-	},
-	{
-		date: "2023-05-31 13:59:49",
-		name: "Juanita Chandler",
-		weight: "241",
-		category: "Produce",
-		distributor: "Bowery "
-	},
-	{
-		date: "2023-05-31 14:00:33",
-		name: "Juanita Chandler",
-		weight: "314",
-		category: "Produce",
-		distributor: "Bowery"
-	},
-	{
-		date: "2023-05-31 14:01:24",
-		name: "Juanita Chandler",
-		weight: "338",
-		category: "Produce",
-		distributor: "Bowery Farm"
-	},
-	{
-		date: "2023-05-31 14:03:07",
-		name: "Juanita Chandler",
-		weight: "327",
-		category: "Produce",
-		distributor: "Bowery Farm"
-	},
-	{
-		date: "2023-05-31 14:03:54",
-		name: "Juanita Chandler",
-		weight: "323",
-		category: "Produce",
-		distributor: "Bowery Farm"
-	},
-	{
-		date: "2023-05-31 14:08:30",
-		name: "Juanita Chandler",
-		weight: "326",
-		category: "Produce",
-		distributor: "Bowery Farm"
-	},
-	{
-		date: "2023-05-31 14:23:36",
-		name: "Juanita Chandler",
-		weight: "338",
-		category: "Produce",
-		distributor: "Bowery Farm "
-	},
-	{
-		date: "2023-05-31 14:25:04",
-		name: "Juanita Chandler",
-		weight: "337",
-		category: "Produce",
-		distributor: "Bowery Farm"
-	},
-	{
-		date: "2023-05-31 14:25:54",
-		name: "Juanita Chandler",
-		weight: "342",
-		category: "Produce",
-		distributor: "Bowery Farm"
-	},
-	{
-		date: "2023-06-02 09:12:23",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-02 09:14:31",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-02 09:15:45",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-02 09:16:49",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-02 09:18:13",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-02 09:19:20",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-02 16:30:13",
-		name: "Claire",
-		weight: "23228",
-		category: "Meat [Raw]",
-		distributor: "Clemens Food Group"
-	},
-	{
-		date: "2023-06-04 12:40:06",
-		name: "Juanita Chandler",
-		weight: "16",
-		category: "Health & Beauty Products",
-		distributor: "Quaker"
-	},
-	{
-		date: "2023-06-04 12:40:37",
-		name: "Juanita Chandler",
-		weight: "520",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-06-04 12:41:25",
-		name: "Juanita Chandler",
-		weight: "313",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-06-04 12:44:13",
-		name: "Juanita Chandler",
-		weight: "221",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-06-04 12:44:55",
-		name: "Juanita Chandler",
-		weight: "221",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-06-04 12:45:34",
-		name: "Juanita Chandler",
-		weight: "51",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-06-04 12:49:42",
-		name: "Juanita Chandler",
-		weight: "273",
-		category: "Produce",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-06-07 14:11:00",
-		name: "Sara B",
-		weight: "2384",
-		category: "Water",
-		distributor: "Wegmans"
-	},
-	{
-		date: "2023-06-07 14:13:24",
-		name: "Sara B",
-		weight: "2386",
-		category: "Water",
-		distributor: "Wegmans"
-	},
-	{
-		date: "2023-06-08 17:01:41",
-		name: "Claire",
-		weight: "40000",
-		category: "Produce",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-09 09:12:44",
-		name: "Claire",
-		weight: "40000",
-		category: "Drinks [Dry]",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-09 09:20:28",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-09 09:22:35",
-		name: "Claire",
-		weight: "40000",
-		category: "Drinks [Dry]",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-09 14:09:58",
-		name: "Claire",
-		weight: "40000",
-		category: "Assorted Dry",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-09 14:12:59",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-10 15:20:47",
-		name: "Beverly Pinn",
-		weight: "10",
-		category: "Assorted Dry",
-		distributor: "Donation "
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "33",
-		category: "Cleaning Supplies",
-		distributor: "Homewood friends"
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "397",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "781",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "541",
-		category: "Assorted Dry",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "1489",
-		category: "Drinks [Dry]",
-		distributor: "Amazon"
-	},
-	{
-		date: "2023-06-13 09:45:35",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-13 16:46:36",
-		name: "Claire",
-		weight: "26",
-		category: "Grains (rice, pasta, etc.)",
-		distributor: "Donation (community event)"
-	},
-	{
-		date: "2023-06-14 16:04:42",
-		name: "Karen Moore",
-		weight: "682",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:05:16",
-		name: "Karen Moore",
-		weight: "682",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:05:56",
-		name: "Karen Moore",
-		weight: "522",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:06:26",
-		name: "Karen Moore",
-		weight: "532",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:06:58",
-		name: "Karen Moore",
-		weight: "445",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:07:24",
-		name: "Karen Moore",
-		weight: "534",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:08:36",
-		name: "Karen Moore",
-		weight: "542",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:09:08",
-		name: "Karen Moore",
-		weight: "593",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:09:36",
-		name: "Karen Moore",
-		weight: "524",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:10:16",
-		name: "Karen Moore",
-		weight: "596",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:11:14",
-		name: "Karen Moore",
-		weight: "439",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-14 16:11:57",
-		name: "Karen Moore",
-		weight: "482",
-		category: "Produce",
-		distributor: "First Fruits Farm"
-	},
-	{
-		date: "2023-06-15 10:05:06",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-15 10:08:00",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-15 10:11:40",
-		name: "Claire",
-		weight: "40000",
-		category: "Drinks [Dry]",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-15 10:16:23",
-		name: "Claire",
-		weight: "42000",
-		category: "Drinks [Dry]",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-15 10:44:33",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-15 11:01:48",
-		name: "Claire",
-		weight: "42000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-15 11:29:44",
-		name: "Claire",
-		weight: "42000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-15 15:09:30",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-15 16:28:36",
-		name: "Norma Kriger",
-		weight: "749",
-		category: "Meat [Raw]",
-		distributor: "Dietz and Watson"
-	},
-	{
-		date: "2023-06-16 13:49:43",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-16 16:13:05",
-		name: "Claire",
-		weight: "36000",
-		category: "Produce",
-		distributor: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-16 17:16:02",
-		name: "Claire",
-		weight: "30000",
-		category: "Danone - Yogurt",
-		distributor: "Danone"
-	},
-	{
-		date: "2023-06-22 16:34:08",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-22 16:37:54",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-23 15:44:13",
-		name: "Claire",
-		weight: "30752",
-		category: "Water",
-		distributor: "Farmlink [Mauricio] & MEANS"
-	},
-	{
-		date: "2023-06-26 12:13:40",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-26 12:15:38",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		distributor: "Dole"
-	},
-	{
-		date: "2023-06-27 10:12:03",
-		name: "Claire",
-		weight: "22000",
-		category: "Drinks [Fridge]",
-		distributor: "Farmlink [Mauricio] & MEANS"
-	},
-	{
-		date: "2023-06-27 16:45:24",
-		name: "Claire",
-		weight: "13444",
-		category: "Paper Supplies",
-		distributor: "Farmlink [Mauricio] & MEANS"
-	},
-	{
-		date: "2023-06-29 14:37:26",
-		name: "Claire",
-		weight: "40000",
-		category: "Meat [Raw]",
-		distributor: "Clemens Food Group"
-	},
-	{
-		date: "2023-06-30 13:08:28",
-		name: "Claire",
-		weight: "40000",
-		category: "Drinks [Fridge]",
-		distributor: "Farmlink [Mauricio] &MEANS"
-	},
+    date: "2023-01-01 12:59:08",
+    name: "Vincent Faulk",
+    weight: 106,
+    category: "Pet Supplies",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-01 12:59:41",
+    name: "Vincent Faulk",
+    weight: 498,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-01 13:00:24",
+    name: "Vincent Faulk",
+    weight: 203,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-01 13:01:25",
+    name: "Vincent Faulk",
+    weight: 177,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-01 13:02:45",
+    name: "Vincent Faulk",
+    weight: 620,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-10 00:00:00",
+    name: "Claire",
+    weight: 18805,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-10 11:59:13",
+    name: "Claire",
+    weight: 158,
+    category: "Assorted Dry",
+    distributor: "Other",
+  },
+  {
+    date: "2023-01-11 20:52:07",
+    name: "Claire",
+    weight: 439,
+    category: "Dairy",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-11 20:52:29",
+    name: "Claire",
+    weight: 504,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-11 20:52:47",
+    name: "Claire",
+    weight: 554,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-11 20:53:17",
+    name: "Claire",
+    weight: 350,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-11 20:53:39",
+    name: "Claire",
+    weight: 864,
+    category: "Dairy",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-11 20:53:59",
+    name: "Claire",
+    weight: 1396,
+    category: "Meat [Raw]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-11 20:54:39",
+    name: "Claire",
+    weight: 742,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-11 20:55:03",
+    name: "Claire",
+    weight: 2021,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:55:31",
+    name: "Claire",
+    weight: 2019,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:56:05",
+    name: "Claire",
+    weight: 2022,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:56:23",
+    name: "Claire",
+    weight: 2023,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:56:39",
+    name: "Claire",
+    weight: 2021,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:57:04",
+    name: "Claire",
+    weight: 2022,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:57:24",
+    name: "Claire",
+    weight: 2018,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:57:42",
+    name: "Claire",
+    weight: 2021,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:58:03",
+    name: "Claire",
+    weight: 2023,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:58:22",
+    name: "Claire",
+    weight: 2020,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:58:42",
+    name: "Claire",
+    weight: 2021,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-11 20:58:59",
+    name: "Claire",
+    weight: 673,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-01-17 11:42:07",
+    name: "Claire",
+    weight: 130,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-01-17 11:42:49",
+    name: "Claire",
+    weight: 563,
+    category: "Drinks [Dry]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-17 11:43:16",
+    name: "Claire",
+    weight: 849,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-17 11:43:35",
+    name: "Claire",
+    weight: 665,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-17 11:43:57",
+    name: "Claire",
+    weight: 1217,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-17 11:44:18",
+    name: "Claire",
+    weight: 606,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-17 11:45:07",
+    name: "Claire",
+    weight: 199,
+    category: "Cleaning Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-01-17 11:45:27",
+    name: "Claire",
+    weight: 13,
+    category: "Assorted Dry",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-01-17 16:28:20",
+    name: "Claire",
+    weight: 97,
+    category: "Household",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-01-17 16:28:49",
+    name: "Claire",
+    weight: 131,
+    category: "Pet Supplies",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-01-17 16:29:12",
+    name: "Claire",
+    weight: 152,
+    category: "Pet Supplies",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-01-17 16:29:45",
+    name: "Claire",
+    weight: 574,
+    category: "Assorted Dry",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-01-19 14:11:08",
+    name: "Claire",
+    weight: 112,
+    category: "Assorted Dry",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-01-24 12:06:07",
+    name: "Claire",
+    weight: 148,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-24 12:06:31",
+    name: "Claire",
+    weight: 380,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-24 12:06:50",
+    name: "Claire",
+    weight: 372,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-24 12:07:15",
+    name: "Claire",
+    weight: 669,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-24 12:07:44",
+    name: "Claire",
+    weight: 44,
+    category: "Personal Care",
+    distributor: "Other",
+  },
+  {
+    date: "2023-01-27 12:14:51",
+    name: "Claire",
+    weight: 1102,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 12:15:07",
+    name: "Claire",
+    weight: 1272,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 12:15:33",
+    name: "Claire",
+    weight: 1271,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 12:15:51",
+    name: "Claire",
+    weight: 1251,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 12:16:09",
+    name: "Claire",
+    weight: 1102,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 12:16:29",
+    name: "Claire",
+    weight: 1258,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 12:21:56",
+    name: "Claire",
+    weight: 1253,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 12:39:22",
+    name: "Claire",
+    weight: 1262,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 12:39:46",
+    name: "Claire",
+    weight: 1088,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 12:40:21",
+    name: "Claire",
+    weight: 1112,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 13:01:24",
+    name: "Claire",
+    weight: 1088,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 00:00:00",
+    name: "Claire",
+    weight: 1067,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 13:18:41",
+    name: "Claire",
+    weight: 1073,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 13:28:09",
+    name: "Claire",
+    weight: 1111,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 13:28:30",
+    name: "Claire",
+    weight: 1253,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 13:31:19",
+    name: "Claire",
+    weight: 1099,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 13:38:56",
+    name: "Claire",
+    weight: 1090,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 13:42:14",
+    name: "Claire",
+    weight: 1116,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 14:08:57",
+    name: "Nailah Bishop",
+    weight: 1069,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 14:09:47",
+    name: "Nailah Bishop",
+    weight: 565,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 14:15:12",
+    name: "Nailah Bishop",
+    weight: 1093,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 14:22:55",
+    name: "Nailah Bishop",
+    weight: 1082,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 14:34:43",
+    name: "Nailah Bishop",
+    weight: 1112,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 14:39:26",
+    name: "Nailah Bishop",
+    weight: 1120,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 14:45:37",
+    name: "Nailah Bishop",
+    weight: 1111,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 14:49:41",
+    name: "Nailah Bishop",
+    weight: 1101,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 14:58:21",
+    name: "Nailah Bishop",
+    weight: 1087,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 15:01:58",
+    name: "Nailah Bishop",
+    weight: 1090,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 15:05:56",
+    name: "Nailah Bishop",
+    weight: 1083,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 15:11:24",
+    name: "Nailah Bishop",
+    weight: 1111,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 15:29:55",
+    name: "Nailah Bishop",
+    weight: 1065,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 15:34:49",
+    name: "Nailah Bishop",
+    weight: 1091,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 15:39:54",
+    name: "Nailah Bishop",
+    weight: 1063,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 15:44:31",
+    name: "Nailah Bishop",
+    weight: 1057,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 16:19:38",
+    name: "Nailah Bishop",
+    weight: 1106,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 16:22:58",
+    name: "Nailah Bishop",
+    weight: 1121,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 16:31:16",
+    name: "Nailah Bishop",
+    weight: 1107,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-27 16:37:52",
+    name: "Nailah Bishop",
+    weight: 1089,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-01-31 12:39:38",
+    name: "Claire",
+    weight: 114,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-31 12:40:02",
+    name: "Claire",
+    weight: 805,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-31 12:40:25",
+    name: "Claire",
+    weight: 410,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-31 12:40:52",
+    name: "Claire",
+    weight: 464,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-01-31 12:41:21",
+    name: "Claire",
+    weight: 45,
+    category: "Baby Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-02-03 15:21:47",
+    name: "Kamryn Brown",
+    weight: 225,
+    category: "Other",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-02-03 15:22:53",
+    name: "Kamryn Brown",
+    weight: 177,
+    category: "Other",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-02-03 15:23:32",
+    name: "Kamryn Brown",
+    weight: 307,
+    category: "Other",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-02-03 15:24:04",
+    name: "Kamryn Brown",
+    weight: 182,
+    category: "Pet Supplies",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-02-03 15:56:34",
+    name: "Kamryn Brown",
+    weight: 25817.2,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-02-03 15:57:03",
+    name: "Kamryn Brown",
+    weight: 36403.53,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-02-05 14:38:21",
+    name: "Juanita Chandler",
+    weight: 29,
+    category: "Health & Beauty Products",
+    distributor: "Other",
+  },
+  {
+    date: "2023-02-05 14:39:21",
+    name: "Juanita Chandler",
+    weight: 594,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-05 14:40:21",
+    name: "Juanita Chandler",
+    weight: 568,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-05 14:41:37",
+    name: "Juanita Chandler",
+    weight: 381,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-05 14:43:48",
+    name: "Juanita Chandler",
+    weight: 385,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-07 12:05:28",
+    name: "Claire",
+    weight: 43145.33,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-02-07 12:06:08",
+    name: "Claire",
+    weight: 27248.15,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-02-09 17:09:00",
+    name: "Claire",
+    weight: 18675.44,
+    category: "Canned Goods",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-02-10 00:00:00",
+    name: "Claire",
+    weight: 14073.72,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-02-12 00:00:00",
+    name: "Juanita Chandler",
+    weight: 530,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-12 12:41:26",
+    name: "Juanita Chandler",
+    weight: 617,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-12 12:42:19",
+    name: "Juanita Chandler",
+    weight: 286,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-12 12:43:34",
+    name: "Juanita Chandler",
+    weight: 282,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-12 00:00:00",
+    name: "Claire",
+    weight: 13,
+    category: "Personal Care",
+    distributor: "Other",
+  },
+  {
+    date: "2023-02-15 00:00:00",
+    name: "Claire",
+    weight: 14975,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-15 17:34:28",
+    name: "Claire",
+    weight: 654,
+    category: "Drinks [Fridge]",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-15 17:45:36",
+    name: "Tina Paquet",
+    weight: 1321,
+    category: "Drinks [Fridge]",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-15 17:46:04",
+    name: "Tina Paquet",
+    weight: 1726,
+    category: "Drinks [Fridge]",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-15 17:51:40",
+    name: "Tina Paquet",
+    weight: 1282,
+    category: "Assorted Fridge",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-15 17:55:01",
+    name: "Tina Paquet",
+    weight: 1608,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-15 18:00:00",
+    name: "Tina Paquet",
+    weight: 2073,
+    category: "Drinks [Fridge]",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-15 18:02:37",
+    name: "Tina Paquet",
+    weight: 2105,
+    category: "Drinks [Fridge]",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-15 18:06:22",
+    name: "Tina Paquet",
+    weight: 2094,
+    category: "Drinks [Fridge]",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-15 18:10:49",
+    name: "Tina Paquet",
+    weight: 1137,
+    category: "Drinks [Fridge]",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-15 18:14:32",
+    name: "Tina Paquet",
+    weight: 1303,
+    category: "Drinks [Fridge]",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-17 13:57:39",
+    name: "Xiomara Rodriguez",
+    weight: 79,
+    category: "Household",
+    distributor: "Other",
+  },
+  {
+    date: "2023-02-18 11:57:36",
+    name: "Other",
+    weight: 130,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "Other",
+  },
+  {
+    date: "2023-02-19 12:06:05",
+    name: "Juanita Chandler",
+    weight: 608,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-19 12:08:45",
+    name: "Juanita Chandler",
+    weight: 421,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-19 12:09:59",
+    name: "Juanita Chandler",
+    weight: 819,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-19 12:12:37",
+    name: "Juanita Chandler",
+    weight: 441,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-19 13:58:19",
+    name: "Juanita Chandler",
+    weight: 46,
+    category: "Health & Beauty Products",
+    distributor: "Other",
+  },
+  {
+    date: "2023-02-22 14:43:36",
+    name: "Juanita Chandler",
+    weight: 582,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-22 14:44:48",
+    name: "Juanita Chandler",
+    weight: 575,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-22 14:45:53",
+    name: "Juanita Chandler",
+    weight: 592,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-22 14:47:13",
+    name: "Juanita Chandler",
+    weight: 573,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-22 14:48:22",
+    name: "Juanita Chandler",
+    weight: 854,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-22 14:49:28",
+    name: "Juanita Chandler",
+    weight: 598,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-02-22 14:50:34",
+    name: "Juanita Chandler",
+    weight: 704,
+    category: "Household",
+    distributor: "Other",
+  },
+  {
+    date: "2023-02-22 14:51:42",
+    name: "Juanita Chandler",
+    weight: 462,
+    category: "Household",
+    distributor: "Other",
+  },
+  {
+    date: "2023-02-24 17:17:15",
+    name: "Juanita Chandler",
+    weight: 300,
+    category: "Produce",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-02-26 11:53:47",
+    name: "Juanita Chandler",
+    weight: 491,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-26 11:59:51",
+    name: "Juanita Chandler",
+    weight: 347,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-26 12:11:50",
+    name: "Juanita Chandler",
+    weight: 303,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-02-26 13:27:34",
+    name: "Juanita Chandler",
+    weight: 233,
+    category: "Household",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-01 15:07:35",
+    name: "Juanita Chandler",
+    weight: 135,
+    category: "Meat [Raw]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-01 15:09:10",
+    name: "Juanita Chandler",
+    weight: 290,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-01 15:10:19",
+    name: "Juanita Chandler",
+    weight: 293,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-01 15:11:41",
+    name: "Juanita Chandler",
+    weight: 369,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-01 01:00:01",
+    name: "Safire Windley",
+    weight: 85,
+    category: "Health & Beauty Products",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-01 17:39:27",
+    name: "Luke Mayhew",
+    weight: 26,
+    category: "Canned Goods",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-02 15:31:39",
+    name: "Norma Kriger",
+    weight: 1790,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-02 15:44:43",
+    name: "Norma Kriger",
+    weight: 706,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-02 15:45:48",
+    name: "Norma Kriger",
+    weight: 406,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-02 15:49:48",
+    name: "Norma Kriger",
+    weight: 971,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-02 15:54:25",
+    name: "Norma Kriger",
+    weight: 1885,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-02 16:00:12",
+    name: "Norma Kriger",
+    weight: 714,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-02 16:03:41",
+    name: "Norma Kriger",
+    weight: 1547,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-02 16:10:36",
+    name: "Norma Kriger",
+    weight: 2020,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-02 16:15:46",
+    name: "Norma Kriger",
+    weight: 802,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-02 16:20:04",
+    name: "Norma Kriger",
+    weight: 1524,
+    category: "Spices",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-02 16:25:15",
+    name: "Norma Kriger",
+    weight: 1061,
+    category: "Condiments",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-03 16:14:57",
+    name: "Nastaran Keshmiri",
+    weight: 1865,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-03 16:19:39",
+    name: "Nastaran Keshmiri",
+    weight: 360,
+    category: "Meat [Raw]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-03 16:21:21",
+    name: "Nastaran Keshmiri",
+    weight: 274,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-03 16:27:22",
+    name: "Nastaran Keshmiri",
+    weight: 1893,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-03 16:31:47",
+    name: "Nastaran Keshmiri",
+    weight: 1849,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-03 16:37:01",
+    name: "Nastaran Keshmiri",
+    weight: 1836,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-03 16:40:49",
+    name: "Nastaran Keshmiri",
+    weight: 1864,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-03 16:46:32",
+    name: "Nastaran Keshmiri",
+    weight: 1864,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-05 23:09:20",
+    name: "Juanita Chandler",
+    weight: 102,
+    category: "Dairy",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-05 23:11:43",
+    name: "Juanita Chandler",
+    weight: 62,
+    category: "Household",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-05 23:18:33",
+    name: "Juanita Chandler",
+    weight: 238,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-05 23:20:06",
+    name: "Juanita Chandler",
+    weight: 534,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-05 23:21:04",
+    name: "Juanita Chandler",
+    weight: 653,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-05 23:21:45",
+    name: "Juanita Chandler",
+    weight: 95,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-07 15:45:38",
+    name: "Beverly Pinn",
+    weight: 721,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-07 15:46:42",
+    name: "Beverly Pinn",
+    weight: 918,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 10:32:12",
+    name: "Safire Windley",
+    weight: 1749,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 00:00:00",
+    name: "Safire Windley",
+    weight: 672,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 11:02:33",
+    name: "Safire Windley",
+    weight: 1398,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 11:04:47",
+    name: "Safire Windley",
+    weight: 1083,
+    category: "Spices",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 11:22:07",
+    name: "Safire Windley",
+    weight: 807,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 11:23:49",
+    name: "Safire Windley",
+    weight: 748,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 11:26:27",
+    name: "Safire Windley",
+    weight: 806,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 11:53:04",
+    name: "Safire Windley",
+    weight: 1257,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 11:54:03",
+    name: "Safire Windley",
+    weight: 1949,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 11:54:45",
+    name: "Safire Windley",
+    weight: 1959,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-08 18:48:58",
+    name: "Tina Paquet",
+    weight: 1400,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 18:54:43",
+    name: "Tina Paquet",
+    weight: 1792,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:03:11",
+    name: "Tina Paquet",
+    weight: 2297,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:08:21",
+    name: "Tina Paquet",
+    weight: 1764,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:15:15",
+    name: "Tina Paquet",
+    weight: 1762,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:22:00",
+    name: "Tina Paquet",
+    weight: 1342,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:26:05",
+    name: "Tina Paquet",
+    weight: 1764,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:30:31",
+    name: "Tina Paquet",
+    weight: 1769,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:34:37",
+    name: "Tina Paquet",
+    weight: 697,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:39:07",
+    name: "Tina Paquet",
+    weight: 1768,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:43:41",
+    name: "Tina Paquet",
+    weight: 691,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:47:57",
+    name: "Tina Paquet",
+    weight: 1761,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:51:55",
+    name: "Tina Paquet",
+    weight: 687,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 19:56:47",
+    name: "Tina Paquet",
+    weight: 693,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 20:04:04",
+    name: "Tina Paquet",
+    weight: 694,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 20:08:34",
+    name: "Tina Paquet",
+    weight: 703,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 20:12:46",
+    name: "Tina Paquet",
+    weight: 685,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 20:16:14",
+    name: "Tina Paquet",
+    weight: 686,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 20:19:35",
+    name: "Tina Paquet",
+    weight: 685,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 20:25:02",
+    name: "Tina Paquet",
+    weight: 691,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 20:43:53",
+    name: "Tina Paquet",
+    weight: 1696,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 20:48:02",
+    name: "Tina Paquet",
+    weight: 1762,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 20:52:27",
+    name: "Tina Paquet",
+    weight: 336,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 20:57:00",
+    name: "Tina Paquet",
+    weight: 2278,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 21:01:34",
+    name: "Tina Paquet",
+    weight: 685,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 21:05:01",
+    name: "Tina Paquet",
+    weight: 1770,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 00:00:00",
+    name: "Claire",
+    weight: 1281,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 21:20:40",
+    name: "Tina Paquet",
+    weight: 660,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 21:24:58",
+    name: "Tina Paquet",
+    weight: 688,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-08 21:34:01",
+    name: "Tina Paquet",
+    weight: 802,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-09 00:00:00",
+    name: "Claire",
+    weight: 11936.0,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-10 16:53:27",
+    name: "Claire",
+    weight: 17166.44,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-12 12:45:44",
+    name: "Juanita Chandler",
+    weight: 803,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-12 12:56:26",
+    name: "Juanita Chandler",
+    weight: 57,
+    category: "Health & Beauty Products",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-12 12:57:27",
+    name: "Juanita Chandler",
+    weight: 474,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-12 12:58:16",
+    name: "Juanita Chandler",
+    weight: 566,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-12 13:04:39",
+    name: "Juanita Chandler",
+    weight: 159,
+    category: "Assorted Dry",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-19 12:17:32",
+    name: "Juanita Chandler",
+    weight: 580,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-19 12:20:46",
+    name: "Juanita Chandler",
+    weight: 378,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-19 12:24:01",
+    name: "Juanita Chandler",
+    weight: 966,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-19 12:24:53",
+    name: "Juanita Chandler",
+    weight: 650,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-19 00:00:00",
+    name: "Claire",
+    weight: 650,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-19 13:07:58",
+    name: "Juanita Chandler",
+    weight: 45,
+    category: "Household",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-22 14:22:31",
+    name: "Juanita Chandler",
+    weight: 12,
+    category: "Household",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-22 17:40:15",
+    name: "Juanita Chandler",
+    weight: 2221,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 18:00:19",
+    name: "Juanita Chandler",
+    weight: 855,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 18:03:33",
+    name: "Juanita Chandler",
+    weight: 735,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 18:12:27",
+    name: "Juanita Chandler",
+    weight: 1352,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 18:20:15",
+    name: "Juanita Chandler",
+    weight: 1479,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 18:24:28",
+    name: "Juanita Chandler",
+    weight: 1212,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 18:40:25",
+    name: "Juanita Chandler",
+    weight: 829,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 18:45:20",
+    name: "Juanita Chandler",
+    weight: 323,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 18:50:38",
+    name: "Luke Mayhew",
+    weight: 921,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 19:05:47",
+    name: "Luke Mayhew",
+    weight: 930,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 19:14:32",
+    name: "Luke Mayhew",
+    weight: 1969,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 19:17:32",
+    name: "Luke Mayhew",
+    weight: 495,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 19:21:27",
+    name: "Luke Mayhew",
+    weight: 711,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 19:25:52",
+    name: "Jonathan Shay",
+    weight: 1979,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 19:29:43",
+    name: "Jonathan Shay",
+    weight: 2138,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-22 19:36:45",
+    name: "Jonathan Shay",
+    weight: 913,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-24 15:28:46",
+    name: "Juanita Chandler",
+    weight: 332,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-24 15:30:29",
+    name: "Juanita Chandler",
+    weight: 338,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-24 15:32:04",
+    name: "Juanita Chandler",
+    weight: 342,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-24 16:40:29",
+    name: "Juanita Chandler",
+    weight: 102,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-24 16:51:52",
+    name: "Juanita Chandler",
+    weight: 157,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-24 16:54:52",
+    name: "Juanita Chandler",
+    weight: 345,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-24 17:03:05",
+    name: "Juanita Chandler",
+    weight: 191,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-24 17:08:22",
+    name: "Juanita Chandler",
+    weight: 113,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-24 17:09:46",
+    name: "Juanita Chandler",
+    weight: 288,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-24 17:13:20",
+    name: "Juanita Chandler",
+    weight: 315,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-03-26 12:07:36",
+    name: "Juanita Chandler",
+    weight: 359,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-26 12:09:24",
+    name: "Juanita Chandler",
+    weight: 613,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-26 12:10:26",
+    name: "Juanita Chandler",
+    weight: 253,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-26 12:11:21",
+    name: "Juanita Chandler",
+    weight: 465,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-03-26 13:11:37",
+    name: "Juanita Chandler",
+    weight: 27,
+    category: "Health & Beauty Products",
+    distributor: "Other",
+  },
+  {
+    date: "2023-03-29 13:04:30",
+    name: "Juanita Chandler",
+    weight: 910,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-29 13:12:01",
+    name: "Juanita Chandler",
+    weight: 1634,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-29 13:13:08",
+    name: "Juanita Chandler",
+    weight: 1713,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-29 13:15:02",
+    name: "Juanita Chandler",
+    weight: 1456,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-29 13:18:49",
+    name: "Juanita Chandler",
+    weight: 2639,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-29 13:26:43",
+    name: "Juanita Chandler",
+    weight: 572,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-29 13:29:32",
+    name: "Juanita Chandler",
+    weight: 1951,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-29 13:43:05",
+    name: "Juanita Chandler",
+    weight: 620,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-29 13:49:04",
+    name: "Juanita Chandler",
+    weight: 1916,
+    category: "Condiments",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-29 14:04:41",
+    name: "Juanita Chandler",
+    weight: 844,
+    category: "Condiments",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-29 14:06:25",
+    name: "Juanita Chandler",
+    weight: 1060,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-03-30 00:00:00",
+    name: "Claire",
+    weight: 1785,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-30 00:00:00",
+    name: "Claire",
+    weight: 1581,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-30 00:00:00",
+    name: "Claire",
+    weight: 900,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-30 00:00:00",
+    name: "Claire",
+    weight: 1186,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-30 00:00:00",
+    name: "Claire",
+    weight: 1567,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-03-30 14:03:16",
+    name: "Norma Kriger",
+    weight: 685,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 00:00:00",
+    name: "Claire",
+    weight: 475,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 14:18:47",
+    name: "Norma Kriger",
+    weight: 1185,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 14:29:01",
+    name: "Norma Kriger",
+    weight: 1176,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 14:38:53",
+    name: "Norma Kriger",
+    weight: 1081,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 14:42:35",
+    name: "Norma Kriger",
+    weight: 1090,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 14:46:28",
+    name: "Norma Kriger",
+    weight: 1187,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 14:56:00",
+    name: "Norma Kriger",
+    weight: 1164,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 14:59:13",
+    name: "Norma Kriger",
+    weight: 1189,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 15:03:09",
+    name: "Norma Kriger",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 15:08:33",
+    name: "Norma Kriger",
+    weight: 1166,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 15:18:12",
+    name: "Norma Kriger",
+    weight: 1182,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 15:57:46",
+    name: "Norma Kriger",
+    weight: 837,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 16:03:59",
+    name: "Norma Kriger",
+    weight: 1523,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 16:49:12",
+    name: "Norma Kriger",
+    weight: 1855,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 16:50:14",
+    name: "Norma Kriger",
+    weight: 1181,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 17:04:22",
+    name: "Norma Kriger",
+    weight: 1179,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 17:23:26",
+    name: "Norma Kriger",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 17:28:03",
+    name: "Andrew Kolodziejczak",
+    weight: 1184,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 17:28:55",
+    name: "Andrew Kolodziejczak",
+    weight: 1177,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 17:30:15",
+    name: "Andrew Kolodziejczak",
+    weight: 1194,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 18:51:23",
+    name: "Lynnette Cromer",
+    weight: 1197,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 18:52:58",
+    name: "Lynnette Cromer",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 18:56:41",
+    name: "Lynnette Cromer",
+    weight: 1179,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 18:58:15",
+    name: "Lynnette Cromer",
+    weight: 1173,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 18:58:53",
+    name: "Lynnette Cromer",
+    weight: 1180,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 18:59:43",
+    name: "Lynnette Cromer",
+    weight: 1175,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 19:00:31",
+    name: "Lynnette Cromer",
+    weight: 1194,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 19:01:50",
+    name: "Lynnette Cromer",
+    weight: 1179,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 19:03:02",
+    name: "Lynnette Cromer",
+    weight: 1180,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 19:05:29",
+    name: "Lynnette Cromer",
+    weight: 1194,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 19:06:34",
+    name: "Lynnette Cromer",
+    weight: 1187,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 19:13:55",
+    name: "Lynnette Cromer",
+    weight: 1171,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 19:14:33",
+    name: "Lynnette Cromer",
+    weight: 1177,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 19:17:32",
+    name: "Lynnette Cromer",
+    weight: 1189,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 19:31:01",
+    name: "Lynnette Cromer",
+    weight: 1171,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-30 19:34:01",
+    name: "Lynnette Cromer",
+    weight: 1169,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 13:57:12",
+    name: "Juanita Chandler",
+    weight: 1185,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 13:58:19",
+    name: "Juanita Chandler",
+    weight: 1183,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 13:59:04",
+    name: "Juanita Chandler",
+    weight: 1279,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 13:59:53",
+    name: "Juanita Chandler",
+    weight: 1192,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 14:02:43",
+    name: "Juanita Chandler",
+    weight: 1157,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 14:30:33",
+    name: "Juanita Chandler",
+    weight: 1164,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 14:38:00",
+    name: "Juanita Chandler",
+    weight: 1172,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 15:55:09",
+    name: "Juanita Chandler",
+    weight: 1173,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 15:59:58",
+    name: "Juanita Chandler",
+    weight: 1205,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:11:33",
+    name: "Juanita Chandler",
+    weight: 1191,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:20:02",
+    name: "Juanita Chandler",
+    weight: 1188,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:20:48",
+    name: "Juanita Chandler",
+    weight: 1166,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:21:36",
+    name: "Juanita Chandler",
+    weight: 1066,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:22:19",
+    name: "Juanita Chandler",
+    weight: 1162,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:23:08",
+    name: "Juanita Chandler",
+    weight: 1692,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:24:36",
+    name: "Juanita Chandler",
+    weight: 1182,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:25:42",
+    name: "Juanita Chandler",
+    weight: 1152,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:26:45",
+    name: "Juanita Chandler",
+    weight: 1152,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:27:38",
+    name: "Juanita Chandler",
+    weight: 1145,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:28:22",
+    name: "Juanita Chandler",
+    weight: 1149,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:31:29",
+    name: "Juanita Chandler",
+    weight: 1148,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:32:17",
+    name: "Juanita Chandler",
+    weight: 1207,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:33:18",
+    name: "Juanita Chandler",
+    weight: 1159,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:36:26",
+    name: "Juanita Chandler",
+    weight: 1156,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:37:51",
+    name: "Juanita Chandler",
+    weight: 1186,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:40:51",
+    name: "Juanita Chandler",
+    weight: 1813,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:41:28",
+    name: "Juanita Chandler",
+    weight: 1166,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:49:03",
+    name: "Juanita Chandler",
+    weight: 1672,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:50:06",
+    name: "Juanita Chandler",
+    weight: 1175,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:52:33",
+    name: "Juanita Chandler",
+    weight: 1210,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:54:38",
+    name: "Juanita Chandler",
+    weight: 1176,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 16:58:43",
+    name: "Juanita Chandler",
+    weight: 1350,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 17:02:58",
+    name: "Juanita Chandler",
+    weight: 913,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-03-31 17:12:39",
+    name: "Juanita Chandler",
+    weight: 226,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-03-31 17:19:38",
+    name: "Juanita Chandler",
+    weight: 232,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-04-01 16:12:28",
+    name: "Juanita Chandler",
+    weight: 180,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-04-01 16:13:20",
+    name: "Juanita Chandler",
+    weight: 248,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-04-01 16:19:18",
+    name: "Juanita Chandler",
+    weight: 212,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-04-01 16:20:10",
+    name: "Juanita Chandler",
+    weight: 219,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-04-02 12:12:30",
+    name: "Juanita Chandler",
+    weight: 12,
+    category: "Health & Beauty Products",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-02 12:13:38",
+    name: "Juanita Chandler",
+    weight: 737,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-02 12:14:22",
+    name: "Juanita Chandler",
+    weight: 466,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-02 12:15:18",
+    name: "Juanita Chandler",
+    weight: 645,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-02 12:19:13",
+    name: "Juanita Chandler",
+    weight: 596,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-02 12:20:14",
+    name: "Juanita Chandler",
+    weight: 499,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-06 11:46:29",
+    name: "Claire",
+    weight: 36595,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-04-06 16:19:19",
+    name: "Claire",
+    weight: 39876,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-04-07 13:13:08",
+    name: "Juanita Chandler",
+    weight: 1122,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-07 13:14:31",
+    name: "Juanita Chandler",
+    weight: 1401,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-07 13:15:36",
+    name: "Juanita Chandler",
+    weight: 942,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-07 13:16:38",
+    name: "Juanita Chandler",
+    weight: 599,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-07 13:18:10",
+    name: "Juanita Chandler",
+    weight: 1270,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-07 13:19:40",
+    name: "Juanita Chandler",
+    weight: 655,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-07 13:20:40",
+    name: "Juanita Chandler",
+    weight: 1134,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-07 13:21:50",
+    name: "Juanita Chandler",
+    weight: 1828,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-07 13:23:39",
+    name: "Juanita Chandler",
+    weight: 1462,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-07 15:47:28",
+    name: "Juanita Chandler",
+    weight: 1267,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-07 16:04:58",
+    name: "Claire",
+    weight: 42560,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-04-09 11:58:11",
+    name: "JC",
+    weight: 258,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-09 11:58:39",
+    name: "JC",
+    weight: 955,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-09 11:58:58",
+    name: "JC",
+    weight: 616,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-09 11:59:18",
+    name: "JC",
+    weight: 401,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-12 17:18:58",
+    name: "Juanita Chandler",
+    weight: 777,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 17:22:35",
+    name: "Juanita Chandler",
+    weight: 875,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 17:23:22",
+    name: "Juanita Chandler",
+    weight: 953,
+    category: "Danone - Coffee",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 17:24:06",
+    name: "Juanita Chandler",
+    weight: 793,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 17:27:12",
+    name: "Juanita Chandler",
+    weight: 2105,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 17:30:26",
+    name: "Juanita Chandler",
+    weight: 1667,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 17:40:53",
+    name: "Tina Paquet",
+    weight: 1144,
+    category: "Danone - Plant Based Drink",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 17:54:38",
+    name: "Tina Paquet",
+    weight: 2163,
+    category: "Danone - Plant Based Drink",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 17:55:03",
+    name: "Tina Paquet",
+    weight: 2023,
+    category: "Danone - Plant Based Drink",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 17:55:27",
+    name: "Tina Paquet",
+    weight: 2030,
+    category: "Danone - Plant Based Drink",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:01:08",
+    name: "Tina Paquet",
+    weight: 1022,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:03:59",
+    name: "Tina Paquet",
+    weight: 2027,
+    category: "Danone - Plant Based Drink",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:07:26",
+    name: "Tina Paquet",
+    weight: 2023,
+    category: "Danone - Plant Based Drink",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:11:06",
+    name: "Tina Paquet",
+    weight: 832,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:15:12",
+    name: "Tina Paquet",
+    weight: 2037,
+    category: "Danone - Plant Based Drink",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:19:40",
+    name: "Tina Paquet",
+    weight: 1024,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:25:55",
+    name: "Tina Paquet",
+    weight: 1260,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:31:58",
+    name: "Tina Paquet",
+    weight: 1679,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:39:45",
+    name: "Tina Paquet",
+    weight: 952,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:40:10",
+    name: "Tina Paquet",
+    weight: 394,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:45:36",
+    name: "Tina Paquet",
+    weight: 1098,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:49:36",
+    name: "Tina Paquet",
+    weight: 1611,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:55:19",
+    name: "Tina Paquet",
+    weight: 1611,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:55:44",
+    name: "Tina Paquet",
+    weight: 1625,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 18:59:42",
+    name: "Tina Paquet",
+    weight: 986,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 19:00:33",
+    name: "Tina Paquet",
+    weight: 2027,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 19:06:25",
+    name: "Tina Paquet",
+    weight: 1200,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-12 19:13:11",
+    name: "Tina Paquet",
+    weight: 1658,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-14 16:39:58",
+    name: "Claire",
+    weight: 27065,
+    category: "Meat [Raw]",
+    distributor: "Clemens Food Group",
+  },
+  {
+    date: "2023-04-13 00:00:00",
+    name: "Claire",
+    weight: 36622,
+    category: "Danone - Creamer",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-16 12:43:22",
+    name: "Dynashia Woodson",
+    weight: 354,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-16 12:48:45",
+    name: "Dynashia Woodson",
+    weight: 659,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-16 12:49:51",
+    name: "Dynashia Woodson",
+    weight: 405,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-16 12:51:27",
+    name: "Dynashia Woodson",
+    weight: 599,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-04-18 11:22:56",
+    name: "JC",
+    weight: 1522,
+    category: "Assorted Dry",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-18 14:09:23",
+    name: "Beverly Pinn",
+    weight: 264,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-18 00:00:00",
+    name: "Safire Windley",
+    weight: 343,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-04-18 00:00:00",
+    name: "Claire",
+    weight: 36534,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-19 13:10:19",
+    name: "Beverly Pinn",
+    weight: 25496,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-04-23 13:39:21",
+    name: "Juanita Chandler",
+    weight: 14,
+    category: "Health & Beauty Products",
+    distributor: "Other",
+  },
+  {
+    date: "2023-05-05 13:59:11",
+    name: "Vincent Faulk",
+    weight: 393,
+    category: "Meat [Raw]",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-05-07 13:03:12",
+    name: "Vincent Faulk",
+    weight: 167,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-07 13:04:17",
+    name: "Vincent Faulk",
+    weight: 154,
+    category: "Personal Care",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-05-07 13:05:21",
+    name: "Vincent Faulk",
+    weight: 894,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-07 13:06:01",
+    name: "Vincent Faulk",
+    weight: 435,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-10 15:04:23",
+    name: "Juanita Chandler",
+    weight: 240,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-10 15:05:26",
+    name: "Juanita Chandler",
+    weight: 231,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-10 15:06:44",
+    name: "Juanita Chandler",
+    weight: 90,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-10 15:07:38",
+    name: "Juanita Chandler",
+    weight: 225,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-10 15:08:38",
+    name: "Juanita Chandler",
+    weight: 223,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-11 10:40:33",
+    name: "Safire Windley",
+    weight: 1988,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-11 10:55:51",
+    name: "Safire Windley",
+    weight: 1855,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-11 10:56:33",
+    name: "Safire Windley",
+    weight: 1983,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-11 11:02:03",
+    name: "Safire Windley",
+    weight: 1912,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-11 11:14:21",
+    name: "Safire Windley",
+    weight: 2003,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-11 11:21:05",
+    name: "Safire Windley",
+    weight: 2021,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-11 11:21:49",
+    name: "Safire Windley",
+    weight: 1262,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-11 11:25:41",
+    name: "Safire Windley",
+    weight: 1262,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-11 00:00:00",
+    name: "Claire",
+    weight: 2020,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-11 00:00:00",
+    name: "Claire",
+    weight: 1920,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-12 15:17:15",
+    name: "Juanita Chandler",
+    weight: 2025,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-12 15:18:26",
+    name: "Juanita Chandler",
+    weight: 2097,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-12 15:25:43",
+    name: "Juanita Chandler",
+    weight: 1746,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-12 15:26:47",
+    name: "Juanita Chandler",
+    weight: 2093,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-12 15:30:14",
+    name: "Juanita Chandler",
+    weight: 1752,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-12 15:37:42",
+    name: "Juanita Chandler",
+    weight: 933,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-12 17:01:19",
+    name: "Mary Jo Gary",
+    weight: 3,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "Other",
+  },
+  {
+    date: "2023-05-13 16:43:19",
+    name: "Juanita Chandler",
+    weight: 21,
+    category: "Assorted Dry",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-05-13 17:23:09",
+    name: "Juanita Chandler",
+    weight: 1375,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-13 17:24:03",
+    name: "Juanita Chandler",
+    weight: 2049,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-13 17:25:00",
+    name: "Juanita Chandler",
+    weight: 1934,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-13 17:26:57",
+    name: "Juanita Chandler",
+    weight: 1786,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-13 17:27:57",
+    name: "Juanita Chandler",
+    weight: 2116,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-14 12:41:43",
+    name: "Vincent Faulk",
+    weight: 847,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-14 12:42:11",
+    name: "Vincent Faulk",
+    weight: 848,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-14 12:42:44",
+    name: "Vincent Faulk",
+    weight: 575,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-14 12:43:51",
+    name: "Vincent Faulk",
+    weight: 708,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-15 14:08:23",
+    name: "Vincent Faulk",
+    weight: 1132,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-15 14:09:18",
+    name: "Vincent Faulk",
+    weight: 1231,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-15 14:11:50",
+    name: "Vincent Faulk",
+    weight: 1740,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-15 14:13:03",
+    name: "Vincent Faulk",
+    weight: 866,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-15 14:13:55",
+    name: "Vincent Faulk",
+    weight: 924,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-15 14:14:42",
+    name: "Vincent Faulk",
+    weight: 662,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-15 14:15:31",
+    name: "Vincent Faulk",
+    weight: 1958,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-15 14:16:15",
+    name: "Vincent Faulk",
+    weight: 1378,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-15 14:17:46",
+    name: "Vincent Faulk",
+    weight: 683,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-15 14:18:33",
+    name: "Vincent Faulk",
+    weight: 958,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-15 14:19:23",
+    name: "Vincent Faulk",
+    weight: 1149,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-05-17 11:57:01",
+    name: "Vincent Faulk",
+    weight: 1569,
+    category: "Danone - Milk",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-17 11:57:29",
+    name: "Vincent Faulk",
+    weight: 1748,
+    category: "Danone - Milk",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-17 11:57:59",
+    name: "Vincent Faulk",
+    weight: 1765,
+    category: "Danone - Milk",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-17 16:11:10",
+    name: "Juanita Chandler",
+    weight: 11,
+    category: "Personal Care",
+    distributor: "Other",
+  },
+  {
+    date: "2023-05-17 17:43:00",
+    name: "Juanita Chandler",
+    weight: 468,
+    category: "Meat [Raw]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-05-21 12:39:56",
+    name: "Juanita Chandler",
+    weight: 550,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-21 12:41:38",
+    name: "Juanita Chandler",
+    weight: 234,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-21 12:42:53",
+    name: "Juanita Chandler",
+    weight: 227,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-21 12:43:52",
+    name: "Juanita Chandler",
+    weight: 848,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-21 12:44:26",
+    name: "Juanita Chandler",
+    weight: 489,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-21 15:55:21",
+    name: "Juanita Chandler",
+    weight: 53,
+    category: "Health & Beauty Products",
+    distributor: "Other",
+  },
+  {
+    date: "2023-05-23 14:32:18",
+    name: "Beverly Pinn",
+    weight: 1658,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-23 14:32:55",
+    name: "Beverly Pinn",
+    weight: 1544,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-23 14:40:38",
+    name: "Beverly Pinn",
+    weight: 1176,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-24 00:00:00",
+    name: "Claire",
+    weight: 25000,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-24 00:00:00",
+    name: "Claire",
+    weight: 25000,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-26 16:11:41",
+    name: "Claire",
+    weight: 12000,
+    category: "Dairy",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-28 12:20:25",
+    name: "Juanita Chandler",
+    weight: 232,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-28 12:44:09",
+    name: "Juanita Chandler",
+    weight: 284,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-28 12:44:51",
+    name: "Juanita Chandler",
+    weight: 796,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-28 12:45:24",
+    name: "Juanita Chandler",
+    weight: 605,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-28 12:47:12",
+    name: "Juanita Chandler",
+    weight: 545,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-28 12:47:44",
+    name: "Juanita Chandler",
+    weight: 446,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-28 14:09:10",
+    name: "Juanita Chandler",
+    weight: 327,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-28 14:09:45",
+    name: "Juanita Chandler",
+    weight: 964,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-05-28 16:13:49",
+    name: "Juanita Chandler",
+    weight: 475,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-28 16:19:56",
+    name: "Juanita Chandler",
+    weight: 427,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-28 16:20:53",
+    name: "Juanita Chandler",
+    weight: 836,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-28 16:24:53",
+    name: "Juanita Chandler",
+    weight: 1843,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-28 16:33:05",
+    name: "Juanita Chandler",
+    weight: 1840,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-05-30 14:32:13",
+    name: "Claire",
+    weight: 122,
+    category: "Assorted Dry",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-05-31 13:58:32",
+    name: "Juanita Chandler",
+    weight: 120,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-31 13:59:10",
+    name: "Juanita Chandler",
+    weight: 313,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-31 13:59:49",
+    name: "Juanita Chandler",
+    weight: 241,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-31 14:00:33",
+    name: "Juanita Chandler",
+    weight: 314,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-31 14:01:24",
+    name: "Juanita Chandler",
+    weight: 338,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-31 14:03:07",
+    name: "Juanita Chandler",
+    weight: 327,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-31 14:03:54",
+    name: "Juanita Chandler",
+    weight: 323,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-31 14:08:30",
+    name: "Juanita Chandler",
+    weight: 326,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-31 14:23:36",
+    name: "Juanita Chandler",
+    weight: 338,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-31 14:25:04",
+    name: "Juanita Chandler",
+    weight: 337,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-05-31 14:25:54",
+    name: "Juanita Chandler",
+    weight: 342,
+    category: "Produce",
+    distributor: "Bowery",
+  },
+  {
+    date: "2023-06-02 09:12:23",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-02 09:14:31",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-02 09:15:45",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-02 09:16:49",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-02 09:18:13",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-02 09:19:20",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-02 16:30:13",
+    name: "Claire",
+    weight: 23228,
+    category: "Meat [Raw]",
+    distributor: "Clemens Food Group",
+  },
+  {
+    date: "2023-06-04 12:40:06",
+    name: "Juanita Chandler",
+    weight: 16,
+    category: "Health & Beauty Products",
+    distributor: "Other",
+  },
+  {
+    date: "2023-06-04 12:40:37",
+    name: "Juanita Chandler",
+    weight: 520,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-06-04 12:41:25",
+    name: "Juanita Chandler",
+    weight: 313,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-06-04 12:44:13",
+    name: "Juanita Chandler",
+    weight: 221,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-06-04 12:44:55",
+    name: "Juanita Chandler",
+    weight: 221,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-06-04 12:45:34",
+    name: "Juanita Chandler",
+    weight: 51,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-06-04 12:49:42",
+    name: "Juanita Chandler",
+    weight: 273,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-06-07 14:11:00",
+    name: "Sara B",
+    weight: 2384,
+    category: "Water",
+    distributor: "Other",
+  },
+  {
+    date: "2023-06-07 14:13:24",
+    name: "Sara B",
+    weight: 2386,
+    category: "Water",
+    distributor: "Other",
+  },
+  {
+    date: "2023-06-08 17:01:41",
+    name: "Claire",
+    weight: 40000,
+    category: "Produce",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-09 09:12:44",
+    name: "Claire",
+    weight: 40000,
+    category: "Drinks [Dry]",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-09 09:20:28",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-09 09:22:35",
+    name: "Claire",
+    weight: 40000,
+    category: "Drinks [Dry]",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-09 14:09:58",
+    name: "Claire",
+    weight: 40000,
+    category: "Assorted Dry",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-09 14:12:59",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-10 15:20:47",
+    name: "Beverly Pinn",
+    weight: 10,
+    category: "Assorted Dry",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 33,
+    category: "Cleaning Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 397,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 781,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 541,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 1489,
+    category: "Drinks [Dry]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-06-13 09:45:35",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-13 16:46:36",
+    name: "Claire",
+    weight: 26,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-06-14 16:04:42",
+    name: "Karen Moore",
+    weight: 682,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:05:16",
+    name: "Karen Moore",
+    weight: 682,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:05:56",
+    name: "Karen Moore",
+    weight: 522,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:06:26",
+    name: "Karen Moore",
+    weight: 532,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:06:58",
+    name: "Karen Moore",
+    weight: 445,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:07:24",
+    name: "Karen Moore",
+    weight: 534,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:08:36",
+    name: "Karen Moore",
+    weight: 542,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:09:08",
+    name: "Karen Moore",
+    weight: 593,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:09:36",
+    name: "Karen Moore",
+    weight: 524,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:10:16",
+    name: "Karen Moore",
+    weight: 596,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:11:14",
+    name: "Karen Moore",
+    weight: 439,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-14 16:11:57",
+    name: "Karen Moore",
+    weight: 482,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-06-15 10:05:06",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-15 10:08:00",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-15 10:11:40",
+    name: "Claire",
+    weight: 40000,
+    category: "Drinks [Dry]",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-15 10:16:23",
+    name: "Claire",
+    weight: 42000,
+    category: "Drinks [Dry]",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-15 10:44:33",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-15 11:01:48",
+    name: "Claire",
+    weight: 42000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-15 11:29:44",
+    name: "Claire",
+    weight: 42000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-15 15:09:30",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-15 16:28:36",
+    name: "Norma Kriger",
+    weight: 749,
+    category: "Meat [Raw]",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-06-16 13:49:43",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-16 16:13:05",
+    name: "Claire",
+    weight: 36000,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-16 17:16:02",
+    name: "Claire",
+    weight: 30000,
+    category: "Danone - Yogurt",
+    distributor: "Danone",
+  },
+  {
+    date: "2023-06-22 16:34:08",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-22 16:37:54",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-23 15:44:13",
+    name: "Claire",
+    weight: 30752,
+    category: "Water",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-26 12:13:40",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-26 12:15:38",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-06-27 10:12:03",
+    name: "Claire",
+    weight: 22000,
+    category: "Drinks [Fridge]",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-27 16:45:24",
+    name: "Claire",
+    weight: 13444,
+    category: "Paper Supplies",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-29 14:37:26",
+    name: "Claire",
+    weight: 40000,
+    category: "Meat [Raw]",
+    distributor: "Clemens Food Group",
+  },
+  {
+    date: "2023-06-30 13:08:28",
+    name: "Claire",
+    weight: 40000,
+    category: "Drinks [Fridge]",
+    distributor: "Farmlink [Mauricio]",
+  },
 ];
 
 export const exportsList = [
@@ -16205,7 +16206,7 @@ export const exportsList = [
     name: "Coach Dunkin",
     weight: 248,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-06 15:02:58.839000",
@@ -16219,7 +16220,7 @@ export const exportsList = [
     name: "Teia",
     weight: 715,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-06 15:04:31.546000",
@@ -16233,7 +16234,7 @@ export const exportsList = [
     name: "Teia",
     weight: 162,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-06 16:28:11.982000",
@@ -16366,14 +16367,14 @@ export const exportsList = [
     name: "JC",
     weight: 812,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-07 00:00:00",
     name: "JC",
     weight: 734,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-07 17:05:03.815000",
@@ -16492,56 +16493,56 @@ export const exportsList = [
     name: "JC",
     weight: 1607,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-13 12:15:53.756000",
     name: "JC",
     weight: 714,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-13 12:16:15.336000",
     name: "JC",
     weight: 509,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-13 12:17:41.685000",
     name: "JC",
     weight: 1162,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-13 12:27:02.578000",
     name: "JC",
     weight: 445,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-13 12:28:58.317000",
     name: "JC",
     weight: 266,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-13 14:10:05.234000",
     name: "Ausar",
     weight: 266,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-13 14:10:27.410000",
     name: "Ausar",
     weight: 42,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-13 14:11:10.110000",
@@ -16555,7 +16556,7 @@ export const exportsList = [
     name: "Ausar",
     weight: 2,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-15 16:31:54.689000",
@@ -16716,56 +16717,56 @@ export const exportsList = [
     name: "Ausar",
     weight: 628,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-20 12:30:01.908000",
     name: "Ausar",
     weight: 401,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-20 12:30:23.514000",
     name: "Ausar",
     weight: 368,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-20 12:30:42.510000",
     name: "Ausar",
     weight: 303,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-20 12:31:02.048000",
     name: "Ausar",
     weight: 693,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-20 12:31:29.727000",
     name: "Ausar",
     weight: 444,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-20 12:31:51.362000",
     name: "Ausar",
     weight: 61,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-20 12:32:14.113000",
     name: "Ausar",
     weight: 162,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-20 13:15:21.267000",
@@ -17024,7 +17025,7 @@ export const exportsList = [
     name: "Other",
     weight: 1143,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-23 13:24:08.886000",
@@ -17066,28 +17067,28 @@ export const exportsList = [
     name: "Other",
     weight: 443,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-23 13:46:10.925000",
     name: "Other",
     weight: 1374,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-23 13:51:07.119000",
     name: "Other",
     weight: 306,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-23 13:52:51.821000",
     name: "Other",
     weight: 327,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-23 14:46:56.607000",
@@ -17178,42 +17179,42 @@ export const exportsList = [
     name: "Ausar",
     weight: 427,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-26 15:33:25.028000",
     name: "Ausar",
     weight: 446,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-26 15:33:45.883000",
     name: "Ausar",
     weight: 440,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-26 15:34:03.077000",
     name: "Ausar",
     weight: 290,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-26 15:34:25.199000",
     name: "Ausar",
     weight: 506,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-26 15:34:53.169000",
     name: "Ausar",
     weight: 564,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-27 13:15:55.844000",
@@ -17395,7 +17396,7 @@ export const exportsList = [
     name: "Other",
     weight: 966,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 12:58:55.216000",
@@ -17409,21 +17410,21 @@ export const exportsList = [
     name: "Other",
     weight: 306,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 12:59:29.750000",
     name: "Other",
     weight: 825,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 12:59:42.690000",
     name: "Other",
     weight: 252,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 13:00:12.539000",
@@ -17451,84 +17452,84 @@ export const exportsList = [
     name: "Ausar",
     weight: 627,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:48:35.956000",
     name: "Ausar",
     weight: 998,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:49:07.780000",
     name: "Ausar",
     weight: 667,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:49:28.070000",
     name: "Ausar",
     weight: 743,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:50:12.546000",
     name: "Ausar",
     weight: 821,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:50:32.137000",
     name: "Ausar",
     weight: 991,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:50:48.138000",
     name: "Ausar",
     weight: 865,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:51:11.712000",
     name: "Ausar",
     weight: 743,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:51:32.121000",
     name: "Ausar",
     weight: 865,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:51:46.629000",
     name: "Ausar",
     weight: 340,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:52:13.327000",
     name: "Ausar",
     weight: 763,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:52:31.905000",
     name: "Ausar",
     weight: 633,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-30 14:53:10.452000",
@@ -17612,7 +17613,7 @@ export const exportsList = [
     name: "Alexia Lilly",
     weight: 293,
     category: "Snacks",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-02 19:09:20.122000",
@@ -17626,35 +17627,35 @@ export const exportsList = [
     name: "Alexia Lilly",
     weight: 665,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-02 19:09:43.808000",
     name: "Adeola Sulaiman",
     weight: 541,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-02 19:09:59.180000",
     name: "Alexia Lilly",
     weight: 323,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-02 19:10:09.941000",
     name: "Adeola Sulaiman",
     weight: 400,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-02 19:10:20.803000",
     name: "Alexia Lilly",
     weight: 750,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-03 13:37:09.786000",
@@ -17675,21 +17676,21 @@ export const exportsList = [
     name: "Ausar",
     weight: 2105,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-03 15:51:35.484000",
     name: "Ausar",
     weight: 446,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-03 15:52:43.548000",
     name: "Ausar",
     weight: 2105,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-03 15:53:23.508000",
@@ -17766,105 +17767,105 @@ export const exportsList = [
     name: "Adriana Hill",
     weight: 2390,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-03 17:40:36.227000",
     name: "Adriana Hill",
     weight: 629,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-03 17:40:56.068000",
     name: "Adriana Hill",
     weight: 521,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-03 17:41:34.864000",
     name: "Adriana Hill",
     weight: 1213,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-03 17:43:30.679000",
     name: "Adriana Hill",
     weight: 953,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-03 17:44:18.469000",
     name: "Adriana Hill",
     weight: 1108,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-03 17:44:47.724000",
     name: "Adriana Hill",
     weight: 300,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-04 13:53:14.607000",
     name: "JC",
     weight: 1486,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-04 13:53:50.482000",
     name: "JC",
     weight: 1254,
     category: "Other",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-04 13:54:39.388000",
     name: "JC",
     weight: 1087,
     category: "Other",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-04 13:55:03.531000",
     name: "JC",
     weight: 2107,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-04 13:55:24.730000",
     name: "JC",
     weight: 863,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-04 13:55:51.349000",
     name: "JC",
     weight: 323,
     category: "Baby Supplies",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-04 14:25:48.951000",
     name: "JC",
     weight: 615,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-04 16:40:06.297000",
     name: "Ausar",
     weight: 36,
     category: "Other",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-04 16:40:30.264000",
@@ -18025,14 +18026,14 @@ export const exportsList = [
     name: "JC",
     weight: 342,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-06 15:57:41.427000",
     name: "JC",
     weight: 717,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-06 15:58:09.160000",
@@ -18060,7 +18061,7 @@ export const exportsList = [
     name: "JC",
     weight: 400,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-06 16:00:45.687000",
@@ -18074,7 +18075,7 @@ export const exportsList = [
     name: "JC",
     weight: 874,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-06 16:07:16.785000",
@@ -18123,7 +18124,7 @@ export const exportsList = [
     name: "Anna Nicosia",
     weight: 723,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-06 16:10:44.214000",
@@ -18137,28 +18138,28 @@ export const exportsList = [
     name: "Anna Nicosia",
     weight: 2138,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-06 16:11:43.499000",
     name: "Anna Nicosia",
     weight: 540,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-06 16:12:03.186000",
     name: "Anna Nicosia",
     weight: 1689,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-06 16:12:31.869000",
     name: "Anna Nicosia",
     weight: 425,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-06 16:13:13.784000",
@@ -18368,21 +18369,21 @@ export const exportsList = [
     name: "Alexia Lilly",
     weight: 1106,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-09 19:21:39.749000",
     name: "Alexia Lilly",
     weight: 850,
     category: "Other",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-09 19:21:59.568000",
     name: "Alexia Lilly",
     weight: 283,
     category: "Other",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-10 14:09:40.101000",
@@ -18459,42 +18460,42 @@ export const exportsList = [
     name: "Seth Crawford",
     weight: 1811,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-10 18:51:33.408000",
     name: "Seth Crawford",
     weight: 1823,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-10 18:51:58.681000",
     name: "Seth Crawford",
     weight: 1486,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-10 18:52:15.599000",
     name: "Seth Crawford",
     weight: 1907,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-10 18:52:43.665000",
     name: "Seth Crawford",
     weight: 1370,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-10 18:54:00.190000",
     name: "Seth Crawford",
     weight: 1490,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-10 18:55:29.690000",
@@ -18865,28 +18866,28 @@ export const exportsList = [
     name: "Jean",
     weight: 948,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-13 13:33:27.549000",
     name: "Jean",
     weight: 1740,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-13 13:37:36.494000",
     name: "Jean",
     weight: 1590,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-13 13:44:25.331000",
     name: "Coach Dunkin",
     weight: 729,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-13 13:45:25.839000",
@@ -18900,7 +18901,7 @@ export const exportsList = [
     name: "Jean",
     weight: 988,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-13 14:02:40.717000",
@@ -18914,7 +18915,7 @@ export const exportsList = [
     name: "Jean",
     weight: 947,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-13 14:05:16.753000",
@@ -18956,7 +18957,7 @@ export const exportsList = [
     name: "Jean",
     weight: 414,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-16 14:00:29.027000",
@@ -18998,42 +18999,42 @@ export const exportsList = [
     name: "Dorja",
     weight: 728,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-16 15:19:06.981000",
     name: "Dorja",
     weight: 1754,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-16 15:20:47.624000",
     name: "Dorja",
     weight: 664,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-16 15:24:10.258000",
     name: "Dorja",
     weight: 1076,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-16 15:27:32.803000",
     name: "Dorja",
     weight: 285,
     category: "Snacks",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-16 15:40:10.388000",
     name: "Dorja",
     weight: 658,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-16 16:59:52.838000",
@@ -19488,7 +19489,7 @@ export const exportsList = [
     name: "JC",
     weight: 1484,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-23 15:24:14.332000",
@@ -19502,14 +19503,14 @@ export const exportsList = [
     name: "JC",
     weight: 660,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-23 20:41:30.696000",
     name: "Ausar",
     weight: 255,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-02-24 13:42:57.830000",
@@ -19817,7 +19818,7 @@ export const exportsList = [
     name: "Ausar",
     weight: 1544,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-02 17:31:14.234000",
@@ -19866,28 +19867,28 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 372,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-03 13:19:12.532000",
     name: "Vincent Faulk",
     weight: 2031,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-03 13:19:44.770000",
     name: "Vincent Faulk",
     weight: 626,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-03 13:20:07.950000",
     name: "Vincent Faulk",
     weight: 1412,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-03 14:00:19.796000",
@@ -19922,35 +19923,35 @@ export const exportsList = [
     name: "Monah Perry",
     weight: 1072,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-04 14:52:43.092000",
     name: "Monah Perry",
     weight: 2375,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-04 14:53:16.705000",
     name: "Monah Perry",
     weight: 3413,
     category: "Water",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-04 14:53:57.516000",
     name: "Monah Perry",
     weight: 300,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-04 14:54:49.128000",
     name: "Monah Perry",
     weight: 409,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-04 14:56:21.380000",
@@ -20692,42 +20693,42 @@ export const exportsList = [
     name: "Karen Moore",
     weight: 886,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-16 16:15:05.614000",
     name: "Karen Moore",
     weight: 222,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-16 16:15:31.132000",
     name: "Karen Moore",
     weight: 267,
     category: "Snacks",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-16 16:16:07.014000",
     name: "Karen Moore",
     weight: 52,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-16 16:16:35.182000",
     name: "Karen Moore",
     weight: 561,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-16 16:16:54.739000",
     name: "Karen Moore",
     weight: 846,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-17 15:45:52.983000",
@@ -20839,35 +20840,35 @@ export const exportsList = [
     name: "Ausar",
     weight: 202,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-18 20:51:07.512000",
     name: "Ausar",
     weight: 1066,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-18 20:51:42.954000",
     name: "Ausar",
     weight: 998,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-18 20:52:03.558000",
     name: "Ausar",
     weight: 202,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-18 20:52:42.129000",
     name: "Ausar",
     weight: 202,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-19 13:44:50.097000",
@@ -21105,35 +21106,35 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 153,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-23 16:09:34.760000",
     name: "Torey Wilkins",
     weight: 587,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-23 16:10:10.610000",
     name: "Torey Wilkins",
     weight: 321,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-23 16:10:47.836000",
     name: "Torey Wilkins",
     weight: 209,
     category: "Snacks",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-23 16:11:22.039000",
     name: "Torey Wilkins",
     weight: 860,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-23 17:08:32.804000",
@@ -21196,7 +21197,7 @@ export const exportsList = [
     name: "Ausar",
     weight: 506,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-25 17:57:02.599000",
@@ -21532,7 +21533,7 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 1128,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-29 14:09:42.640000",
@@ -21567,21 +21568,21 @@ export const exportsList = [
     name: "Alexia Lilly",
     weight: 659,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-30 21:33:46.545000",
     name: "Ausar",
     weight: 434,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-30 21:41:38.846000",
     name: "Ausar",
     weight: 713,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-03-31 13:25:54.290000",
@@ -21854,21 +21855,21 @@ export const exportsList = [
     name: "Ausar",
     weight: 635,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-06 22:19:38.073000",
     name: "Ausar",
     weight: 448,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-06 22:19:54.909000",
     name: "Ausar",
     weight: 532,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-07 20:50:38.034000",
@@ -22120,21 +22121,21 @@ export const exportsList = [
     name: "Monah Perry",
     weight: 788,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-13 16:09:34.850000",
     name: "Monah Perry",
     weight: 468,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-13 18:55:35.406000",
     name: "Ausar",
     weight: 520,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-13 19:50:01.732000",
@@ -22701,14 +22702,14 @@ export const exportsList = [
     name: "Norma Kriger",
     weight: 162,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-21 16:25:32.938000",
     name: "Norma Kriger",
     weight: 627,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-21 16:27:53.158000",
@@ -22771,7 +22772,7 @@ export const exportsList = [
     name: "Ausar",
     weight: 627,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-23 11:41:45.019000",
@@ -23093,14 +23094,14 @@ export const exportsList = [
     name: "GG",
     weight: 787,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-27 18:39:50.870000",
     name: "GG",
     weight: 199,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-04-27 20:42:01.301000",
@@ -23450,14 +23451,14 @@ export const exportsList = [
     name: "Claire",
     weight: 340,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-04 00:00:00",
     name: "Claire",
     weight: 544,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-05 13:14:47.226000",
@@ -23793,7 +23794,7 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 487,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-11 15:06:51.298000",
@@ -23807,21 +23808,21 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 368,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-11 20:58:48.402000",
     name: "Ausar",
     weight: 12,
     category: "Other",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-11 21:00:04.987000",
     name: "Ausar",
     weight: 487,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-12 13:16:14.204000",
@@ -24178,28 +24179,28 @@ export const exportsList = [
     name: "Ausar",
     weight: 151,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-18 15:56:18.141000",
     name: "Ausar",
     weight: 235,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-18 16:04:45.584000",
     name: "Ausar",
     weight: 288,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-19 11:38:39.963000",
     name: "Ausar",
     weight: 58,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-19 13:39:55.948000",
@@ -24248,7 +24249,7 @@ export const exportsList = [
     name: "Ausar",
     weight: 153,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-20 15:39:56.194000",
@@ -24626,21 +24627,21 @@ export const exportsList = [
     name: "Jean",
     weight: 331,
     category: "Snacks",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-26 13:59:01.764000",
     name: "Jean",
     weight: 394,
     category: "Other",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-26 13:59:43.416000",
     name: "Jean",
     weight: 478,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-26 14:01:10.484000",
@@ -24675,21 +24676,21 @@ export const exportsList = [
     name: "Jean",
     weight: 646,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-26 14:05:27.647000",
     name: "Jean",
     weight: 652,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-26 14:08:08.306000",
     name: "Jean",
     weight: 271,
     category: "Meat [Raw]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-05-26 14:46:11.278000",
@@ -25725,42 +25726,42 @@ export const exportsList = [
     name: "Claire",
     weight: 180,
     category: "Snacks",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-06-11 00:00:00",
     name: "Claire",
     weight: 640,
     category: "Drinks [Dry]",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-06-11 00:00:00",
     name: "Claire",
     weight: 322,
     category: "Grains (rice, pasta, etc.)",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-06-11 00:00:00",
     name: "Claire",
     weight: 143,
     category: "Cleaning Supplies",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-06-11 00:00:00",
     name: "Claire",
     weight: 281,
     category: "Paper Supplies",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-06-11 00:00:00",
     name: "Claire",
     weight: 193,
     category: "Meat [Raw]",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-06-11 00:00:00",
@@ -25830,21 +25831,21 @@ export const exportsList = [
     name: "Ausar",
     weight: 501,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-06-15 15:31:38.854000",
     name: "Ausar",
     weight: 333,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-06-15 15:33:10.497000",
     name: "Ausar",
     weight: 482,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-06-15 16:13:24.894000",
@@ -25893,7 +25894,7 @@ export const exportsList = [
     name: "Sheneil Black",
     weight: 655,
     category: "Drinks [Dry]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-06-17 16:48:20.339000",
@@ -27076,28 +27077,28 @@ export const exportsList = [
     name: "Ausar",
     weight: 455,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-07-06 15:47:01.555000",
     name: "Ausar",
     weight: 26,
     category: "Produce",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-07-06 15:47:42.593000",
     name: "Ausar",
     weight: 630,
     category: "Dairy",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-07-06 15:48:35.490000",
     name: "Ausar",
     weight: 358,
     category: "Paper Supplies",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-07-07 19:24:26.062000",
@@ -27517,7 +27518,7 @@ export const exportsList = [
     name: "Claire",
     weight: 339,
     category: "Cleaning Supplies",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-07-15 16:59:08.040000",
@@ -27601,28 +27602,28 @@ export const exportsList = [
     name: "Claire",
     weight: 925,
     category: "Other",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-07-15 17:33:15.874000",
     name: "Claire",
     weight: 308,
     category: "Paper Supplies",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-07-15 17:33:42.834000",
     name: "Claire",
     weight: 187,
     category: "Assorted Dry",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-07-15 17:34:07.551000",
     name: "Claire",
     weight: 930,
     category: "Other",
-    donatedTo: "Marion",
+    donatedTo: "Individual",
   },
   {
     date: "2022-07-16 12:13:31.358000",
@@ -27937,14 +27938,14 @@ export const exportsList = [
     name: "Ausar",
     weight: 521,
     category: "Other",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-07-20 16:16:23.335000",
     name: "Ausar",
     weight: 484,
     category: "Other",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-07-20 16:17:41.910000",
@@ -28567,14 +28568,14 @@ export const exportsList = [
     name: "Claire",
     weight: 532,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-08-02 17:01:38.536000",
     name: "Claire",
     weight: 362,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-08-03 15:18:43.597000",
@@ -34314,42 +34315,42 @@ export const exportsList = [
     name: "JC",
     weight: 357,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-12-05 16:54:17.948000",
     name: "JC",
     weight: 450,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-12-05 16:54:57.218000",
     name: "JC",
     weight: 374,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-12-05 16:55:29.481000",
     name: "JC",
     weight: 980,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-12-05 16:55:56.986000",
     name: "JC",
     weight: 749,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-12-05 16:56:23.753000",
     name: "JC",
     weight: 698,
     category: "Frozen [Not Meat]",
-    donatedTo: "Coach Dunkin",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-12-09 13:31:40.374000",
@@ -34811,84 +34812,84 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1002,
     category: "Dole - Fruit Cups",
-    donatedTo: "So what Else Can We DO",
+    donatedTo: "So What Else",
   },
   {
     date: "2022-12-21 15:18:57.652000",
     name: "Juanita Chandler",
     weight: 1017,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We Do",
+    donatedTo: "So What Else",
   },
   {
     date: "2022-12-21 15:20:52.915000",
     name: "Juanita Chandler",
     weight: 1022,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We Do",
+    donatedTo: "So What Else",
   },
   {
     date: "2022-12-21 15:23:24.984000",
     name: "Juanita Chandler",
     weight: 1070,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We Do",
+    donatedTo: "So What Else",
   },
   {
     date: "2022-12-21 15:24:33.058000",
     name: "Juanita Chandler",
     weight: 1011,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We Do",
+    donatedTo: "So What Else",
   },
   {
     date: "2022-12-21 15:26:43.739000",
     name: "Juanita Chandler",
     weight: 1015,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We DO ",
+    donatedTo: "So What Else ",
   },
   {
     date: "2022-12-21 15:27:42.067000",
     name: "Juanita Chandler",
     weight: 984,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We DO ",
+    donatedTo: "So What Else ",
   },
   {
     date: "2022-12-21 15:34:08.477000",
     name: "Juanita Chandler",
     weight: 1014,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We DO ",
+    donatedTo: "So What Else ",
   },
   {
     date: "2022-12-21 15:35:11.574000",
     name: "Juanita Chandler",
     weight: 1050,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We DO ",
+    donatedTo: "So What Else ",
   },
   {
     date: "2022-12-21 15:36:02.516000",
     name: "Juanita Chandler",
     weight: 1025,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We Do ",
+    donatedTo: "So What Else ",
   },
   {
     date: "2022-12-21 15:37:05.143000",
     name: "Juanita Chandler",
     weight: 755,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We DO ",
+    donatedTo: "So What Else ",
   },
   {
     date: "2022-12-21 15:41:13.627000",
     name: "Juanita Chandler",
     weight: 1012,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We DO ",
+    donatedTo: "So What Else ",
   },
   {
     date: "2022-12-21 15:42:15.536000",
@@ -34916,28 +34917,28 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 846,
     category: "Dole - Fruit Cups",
-    donatedTo: "  So What Else can We DO ",
+    donatedTo: "  So What Else ",
   },
   {
     date: "2022-12-21 16:38:21.438000",
     name: "Juanita Chandler",
     weight: 1101,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We DO ",
+    donatedTo: "So What Else ",
   },
   {
     date: "2022-12-21 16:39:29.843000",
     name: "Juanita Chandler",
     weight: 1378,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We DO ",
+    donatedTo: "So What Else ",
   },
   {
     date: "2022-12-21 16:40:40.203000",
     name: "Juanita Chandler",
     weight: 1045,
     category: "Dole - Fruit Cups",
-    donatedTo: "So What Else Can We DO ",
+    donatedTo: "So What Else ",
   },
   {
     date: "2022-12-27 12:31:27.111000",
@@ -35340,10039 +35341,13719 @@ export const exportsList = [
   },
   {
     date: "2023-01-01 13:05:46",
-		name: "Vincent Faulk",
-		weight: "224",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-01-06 15:40:18",
-		name: "Juanita Chandler",
-		weight: "507",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-01-06 15:41:27",
-		name: "Juanita Chandler",
-		weight: "665",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-01-06 15:43:46",
-		name: "Juanita Chandler",
-		weight: "181",
-		category: "Spices",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-06 15:44:31",
-		name: "Juanita Chandler",
-		weight: "713",
-		category: "Household",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-06 15:45:39",
-		name: "Juanita Chandler",
-		weight: "232",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-01-06 15:50:11",
-		name: "Juanita Chandler",
-		weight: "61",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-06 15:51:34",
-		name: "Juanita Chandler",
-		weight: "220",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-06 15:52:10",
-		name: "Juanita Chandler",
-		weight: "455",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-06 15:53:19",
-		name: "Juanita Chandler",
-		weight: "48",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-01-06 16:23:41",
-		name: "Juanita Chandler",
-		weight: "204",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2023-01-06 16:25:07",
-		name: "Juanita Chandler",
-		weight: "253",
-		category: "Assorted Fridge",
-		donatedTo: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2023-01-06 16:54:09",
-		name: "Sunita Pathik",
-		weight: "150",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-01-07 12:58:59",
-		name: "Juanita Chandler",
-		weight: "360",
-		category: "Health & Beauty Products",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 12:59:50",
-		name: "Juanita Chandler",
-		weight: "683",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 13:00:37",
-		name: "Juanita Chandler",
-		weight: "978",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 13:01:26",
-		name: "Juanita Chandler",
-		weight: "146",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 13:03:15",
-		name: "Juanita Chandler",
-		weight: "624",
-		category: "Pet Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 13:03:58",
-		name: "Juanita Chandler",
-		weight: "131",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 13:05:13",
-		name: "Juanita Chandler",
-		weight: "1125",
-		category: "Drinks [Fridge]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 13:06:08",
-		name: "Juanita Chandler",
-		weight: "1071",
-		category: "Drinks [Fridge]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 13:08:38",
-		name: "Juanita Chandler",
-		weight: "184",
-		category: "Assorted Fridge",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 13:41:57",
-		name: "Juanita Chandler",
-		weight: "690",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 00:00:00",
-		name: "Claire",
-		weight: "480",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 00:00:00",
-		name: "Claire",
-		weight: "334",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 00:00:00",
-		name: "Claire",
-		weight: "125",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 15:59:45",
-		name: "Juanita Chandler",
-		weight: "-62",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 16:00:19",
-		name: "Juanita Chandler",
-		weight: "-548",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 16:10:35",
-		name: "Juanita Chandler",
-		weight: "-499",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 16:11:24",
-		name: "Juanita Chandler",
-		weight: "-529",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 16:15:42",
-		name: "Juanita Chandler",
-		weight: "-693",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 16:20:31",
-		name: "Juanita Chandler",
-		weight: "-172",
-		category: "Assorted Fridge",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 16:23:32",
-		name: "Juanita Chandler",
-		weight: "-83",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 16:26:09",
-		name: "Juanita Chandler",
-		weight: "-254",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 16:28:59",
-		name: "Juanita Chandler",
-		weight: "-75",
-		category: "Health & Beauty Products",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-07 16:33:42",
-		name: "Juanita Chandler",
-		weight: "-277",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-08 15:00:48",
-		name: "Zoe",
-		weight: "1604",
-		category: "Assorted Fridge",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-01-10 00:00:00",
-		name: "Claire",
-		weight: "18805",
-		category: "Dairy",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-10 11:55:31",
-		name: "Claire",
-		weight: "381",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-01-10 11:55:59",
-		name: "Claire",
-		weight: "432",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-10 11:56:33",
-		name: "Claire",
-		weight: "904",
-		category: "Dairy",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-10 11:57:00",
-		name: "Claire",
-		weight: "143",
-		category: "Frozen [Not Meat]",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-10 11:57:22",
-		name: "Claire",
-		weight: "87",
-		category: "Assorted Dry",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-10 11:57:50",
-		name: "Claire",
-		weight: "190",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-01-10 11:58:15",
-		name: "Claire",
-		weight: "-253",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-13 16:27:53",
-		name: "Sunita Pathik",
-		weight: "197",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-01-13 00:00:00",
-		name: "Claire",
-		weight: "2019",
-		category: "Dairy",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-13 00:00:00",
-		name: "Claire",
-		weight: "2025",
-		category: "Dairy",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-13 00:00:00",
-		name: "Claire",
-		weight: "2222",
-		category: "Dairy",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-13 00:00:00",
-		name: "Claire",
-		weight: "2221",
-		category: "Dairy",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-13 00:00:00",
-		name: "Claire",
-		weight: "2018",
-		category: "Dairy",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-13 00:00:00",
-		name: "Claire",
-		weight: "2223",
-		category: "Dairy",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-13 00:00:00",
-		name: "Claire",
-		weight: "1186",
-		category: "Assorted Fridge",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-01-13 00:00:00",
-		name: "Claire",
-		weight: "1187",
-		category: "Assorted Fridge",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-01-13 00:00:00",
-		name: "Claire",
-		weight: "139",
-		category: "Produce",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-01-13 00:00:00",
-		name: "Claire",
-		weight: "168",
-		category: "Produce",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "1579",
-		category: "Drinks [Fridge]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "1024",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "496",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "544",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "312",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "1663",
-		category: "Drinks [Fridge]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "265",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "673",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "162",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "1299",
-		category: "Health & Beauty Products",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "-739",
-		category: "Health & Beauty Products",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "-28",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "-918",
-		category: "Drinks [Fridge]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "-640",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "-1499",
-		category: "Drinks [Fridge]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "-129",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "-130",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-14 00:00:00",
-		name: "Claire",
-		weight: "-58",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-15 00:00:00",
-		name: "Claire",
-		weight: "377",
-		category: "Produce",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-15 00:00:00",
-		name: "Claire",
-		weight: "196",
-		category: "Produce",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-15 00:00:00",
-		name: "Claire",
-		weight: "381",
-		category: "Drinks [Fridge]",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-15 00:00:00",
-		name: "Claire",
-		weight: "222",
-		category: "Dairy",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-15 00:00:00",
-		name: "Claire",
-		weight: "389",
-		category: "Drinks [Fridge]",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-15 00:00:00",
-		name: "Claire",
-		weight: "166",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-01-15 15:42:19",
-		name: "Opeyemi Faleye",
-		weight: "1817",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-01-20 16:46:10",
-		name: "Claire",
-		weight: "1058",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-20 16:47:05",
-		name: "Claire",
-		weight: "650",
-		category: "Dairy",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-20 16:47:36",
-		name: "Claire",
-		weight: "1506",
-		category: "Health & Beauty Products",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-20 16:48:08",
-		name: "Claire",
-		weight: "890",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-20 16:48:33",
-		name: "Claire",
-		weight: "645",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-01-20 16:48:55",
-		name: "Claire",
-		weight: "1155",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-01-20 16:49:16",
-		name: "Claire",
-		weight: "230",
-		category: "Assorted Fridge",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-01-20 16:49:36",
-		name: "Claire",
-		weight: "1147",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-01-20 16:49:56",
-		name: "Claire",
-		weight: "276",
-		category: "Assorted Fridge",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-01-21 15:32:51",
-		name: "Juanita Chandler",
-		weight: "51",
-		category: "Household",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:34:28",
-		name: "Juanita Chandler",
-		weight: "1051",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:35:07",
-		name: "Juanita Chandler",
-		weight: "1337",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:36:25",
-		name: "Juanita Chandler",
-		weight: "1301",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:39:17",
-		name: "Juanita Chandler",
-		weight: "413",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:40:25",
-		name: "Juanita Chandler",
-		weight: "235",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:42:19",
-		name: "Juanita Chandler",
-		weight: "245",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:43:22",
-		name: "Juanita Chandler",
-		weight: "356",
-		category: "Health & Beauty Products",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:46:10",
-		name: "Juanita Chandler",
-		weight: "131",
-		category: "Pet Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:48:05",
-		name: "Juanita Chandler",
-		weight: "1329",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:49:01",
-		name: "Juanita Chandler",
-		weight: "184",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:49:44",
-		name: "Juanita Chandler",
-		weight: "320",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:51:05",
-		name: "Juanita Chandler",
-		weight: "972",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:52:18",
-		name: "Juanita Chandler",
-		weight: "135",
-		category: "Pet Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:54:00",
-		name: "Juanita Chandler",
-		weight: "-402",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:54:43",
-		name: "Juanita Chandler",
-		weight: "-749",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:55:58",
-		name: "Juanita Chandler",
-		weight: "-736",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:56:48",
-		name: "Juanita Chandler",
-		weight: "-1098",
-		category: "Dairy",
-		donatedTo: "BCF [Non Curbside]"
-	},
-	{
-		date: "2023-01-21 15:57:27",
-		name: "Juanita Chandler",
-		weight: "-299",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 15:59:22",
-		name: "Juanita Chandler",
-		weight: "-167",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 16:02:06",
-		name: "Juanita Chandler",
-		weight: "-106",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 16:05:18",
-		name: "Juanita Chandler",
-		weight: "-173",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 16:14:41",
-		name: "Juanita Chandler",
-		weight: "-84",
-		category: "Pet Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-21 16:15:46",
-		name: "Juanita Chandler",
-		weight: "-129",
-		category: "Health & Beauty Products",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-22 00:00:00",
-		name: "Claire",
-		weight: "515",
-		category: "Assorted Fridge",
-		donatedTo: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2023-01-22 00:00:00",
-		name: "Claire",
-		weight: "453",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-01-22 16:17:49",
-		name: "Opeyemi Faleye",
-		weight: "1827",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-01-26 11:22:16",
-		name: "Claire",
-		weight: "171",
-		category: "Assorted Dry",
-		donatedTo: "Impact Hub"
-	},
-	{
-		date: "2023-01-27 00:00:00",
-		name: "Claire",
-		weight: "103",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-01-27 16:58:52",
-		name: "Sunita Pathik",
-		weight: "182",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-01-27 17:42:45",
-		name: "Perry Faulk",
-		weight: "18",
-		category: "Assorted Fridge",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-01-28 15:58:46",
-		name: "Juanita Chandler",
-		weight: "352",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:00:12",
-		name: "Juanita Chandler",
-		weight: "304",
-		category: "Health & Beauty Products",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:01:16",
-		name: "Juanita Chandler",
-		weight: "255",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:02:17",
-		name: "Juanita Chandler",
-		weight: "1061",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:05:00",
-		name: "Juanita Chandler",
-		weight: "66",
-		category: "Household",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:05:50",
-		name: "Juanita Chandler",
-		weight: "1098",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:06:40",
-		name: "Juanita Chandler",
-		weight: "1111",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:07:16",
-		name: "Juanita Chandler",
-		weight: "841",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:08:10",
-		name: "Juanita Chandler",
-		weight: "905",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:08:59",
-		name: "Juanita Chandler",
-		weight: "626",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:12:58",
-		name: "Juanita Chandler",
-		weight: "307",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:14:01",
-		name: "Juanita Chandler",
-		weight: "158",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:14:37",
-		name: "Juanita Chandler",
-		weight: "178",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:15:35",
-		name: "Juanita Chandler",
-		weight: "505",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 00:00:00",
-		name: "Claire",
-		weight: "352",
-		category: "Drinks [Fridge]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:17:54",
-		name: "Juanita Chandler",
-		weight: "-55",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:19:33",
-		name: "Juanita Chandler",
-		weight: "-175",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:20:18",
-		name: "Juanita Chandler",
-		weight: "-1108",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-28 16:21:13",
-		name: "Juanita Chandler",
-		weight: "-763",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-01-29 14:50:21",
-		name: "Zoe",
-		weight: "935",
-		category: "Produce",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-29 14:51:10",
-		name: "Zoe",
-		weight: "154",
-		category: "Assorted Dry",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-29 14:52:07",
-		name: "Zoe",
-		weight: "156",
-		category: "Produce",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-29 14:52:52",
-		name: "Zoe",
-		weight: "439",
-		category: "Dairy",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-01-29 14:53:35",
-		name: "Zoe",
-		weight: "136",
-		category: "Assorted Fridge",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-01-29 14:54:01",
-		name: "Zoe",
-		weight: "1332",
-		category: "Assorted Fridge",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-02-02 17:57:44",
-		name: "Aziza",
-		weight: "1112",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-02-02 17:58:02",
-		name: "Aziza",
-		weight: "1090",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-02-02 17:58:27",
-		name: "Aziza",
-		weight: "1102",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-02-02 17:59:06",
-		name: "Aziza",
-		weight: "2020",
-		category: "Dairy",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-02-03 16:53:50",
-		name: "Sunita Pathik",
-		weight: "200",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-02-03 00:00:00",
-		name: "Claire",
-		weight: "25817.20",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-02-03 00:00:00",
-		name: "Claire",
-		weight: "36403.53",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-02-04 15:55:41",
-		name: "Juanita Chandler",
-		weight: "369",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 15:59:23",
-		name: "Juanita Chandler",
-		weight: "1876",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:02:13",
-		name: "Juanita Chandler",
-		weight: "1108",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:03:21",
-		name: "Juanita Chandler",
-		weight: "117",
-		category: "Household",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:04:42",
-		name: "Juanita Chandler",
-		weight: "130",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:06:34",
-		name: "Juanita Chandler",
-		weight: "129",
-		category: "Assorted Fridge",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:08:16",
-		name: "Juanita Chandler",
-		weight: "204",
-		category: "Cleaning Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:09:08",
-		name: "Juanita Chandler",
-		weight: "56",
-		category: "Paper Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:10:34",
-		name: "Juanita Chandler",
-		weight: "411",
-		category: "Canned Goods",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:12:51",
-		name: "Juanita Chandler",
-		weight: "181",
-		category: "Pet Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:14:41",
-		name: "Juanita Chandler",
-		weight: "313",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:15:23",
-		name: "Juanita Chandler",
-		weight: "150",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:16:33",
-		name: "Juanita Chandler",
-		weight: "-76",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:20:39",
-		name: "Juanita Chandler",
-		weight: "-97",
-		category: "Pet Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 16:21:44",
-		name: "Juanita Chandler",
-		weight: "-47",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-04 00:00:00",
-		name: "Claire",
-		weight: "-143",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-05 14:31:42",
-		name: "Juanita Chandler",
-		weight: "198",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-02-05 15:14:49",
-		name: "Opeyemi Faleye",
-		weight: "962",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-02-10 16:02:32",
-		name: "Susan May",
-		weight: "338",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-02-11 00:00:00",
-		name: "Claire",
-		weight: "61",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-02-11 15:00:22",
-		name: "Claire Kim",
-		weight: "3",
-		category: "Drinks [Fridge]",
-		donatedTo:"Individual"
-	},
-	{
-		date: "2023-02-12 14:44:38",
-		name: "Zoe",
-		weight: "419",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-02-12 14:47:36",
-		name: "Zoe",
-		weight: "75",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-02-12 14:48:13",
-		name: "Zoe",
-		weight: "134",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-02-12 14:54:54",
-		name: "Susan May",
-		weight: "50",
-		category: "Produce",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-02-15 00:00:00",
-		name: "Claire",
-		weight: "14974.55",
-		category: "Dairy",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-02-16 14:59:02",
-		name: "Perry Faulk",
-		weight: "34",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-02-16 15:59:18",
-		name: "Jean",
-		weight: "1071",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-02-16 16:00:21",
-		name: "Jean",
-		weight: "1479",
-		category: "Dairy",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-02-16 16:02:23",
-		name: "Jean",
-		weight: "16",
-		category: "Dairy",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-02-16 16:04:17",
-		name: "Jean",
-		weight: "1087",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-17 13:29:35",
-		name: "Xiomara Rodriguez",
-		weight: "1524",
-		category: "Dairy",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-02-17 13:30:15",
-		name: "Xiomara Rodriguez",
-		weight: "1251",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-02-17 13:30:56",
-		name: "Xiomara Rodriguez",
-		weight: "1094",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-02-17 13:31:20",
-		name: "Xiomara Rodriguez",
-		weight: "1247",
-		category: "Dairy",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-02-17 13:48:23",
-		name: "Xiomara Rodriguez",
-		weight: "1260",
-		category: "Dairy",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-02-17 13:48:55",
-		name: "Xiomara Rodriguez",
-		weight: "912",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-02-17 13:50:20",
-		name: "Xiomara Rodriguez",
-		weight: "1289",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-02-17 13:50:51",
-		name: "Xiomara Rodriguez",
-		weight: "1082",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-02-17 13:51:49",
-		name: "Xiomara Rodriguez",
-		weight: "346",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-02-17 13:52:45",
-		name: "Xiomara Rodriguez",
-		weight: "1107",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-17 13:54:34",
-		name: "Xiomara Rodriguez",
-		weight: "1088",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-17 13:58:26",
-		name: "Xiomara Rodriguez",
-		weight: "1262",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-17 16:44:31",
-		name: "Sunita Pathik",
-		weight: "164",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-02-18 11:56:08",
-		name: "Beverly Pinn",
-		weight: "130",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 12:04:48",
-		name: "Beverly Pinn",
-		weight: "1856",
-		category: "Canned Goods",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 12:08:07",
-		name: "Beverly Pinn",
-		weight: "102",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 12:13:04",
-		name: "Beverly Pinn",
-		weight: "143",
-		category: "Cleaning Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 12:16:13",
-		name: "Beverly Pinn",
-		weight: "94",
-		category: "Household",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 12:38:01",
-		name: "Cameron Minor",
-		weight: "799",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 12:38:54",
-		name: "Cameron Minor",
-		weight: "331",
-		category: "Drinks [Fridge]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 12:39:36",
-		name: "Cameron Minor",
-		weight: "766",
-		category: "Drinks [Fridge]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 12:40:06",
-		name: "Cameron Minor",
-		weight: "399",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 12:44:41",
-		name: "Cameron Minor",
-		weight: "616",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 12:54:37",
-		name: "JC",
-		weight: "1895",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 13:28:22",
-		name: "Juanita Chandler",
-		weight: "1053",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 13:29:17",
-		name: "Juanita Chandler",
-		weight: "157",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 00:00:00",
-		name: "Claire",
-		weight: "-12",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 00:00:00",
-		name: "Claire",
-		weight: "-435",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 00:00:00",
-		name: "Claire",
-		weight: "-1042",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 00:00:00",
-		name: "Claire",
-		weight: "-181",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-18 00:00:00",
-		name: "Claire",
-		weight: "-32",
-		category: "Household",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-19 13:09:55",
-		name: "Juanita Chandler",
-		weight: "214",
-		category: "Assorted Fridge",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-02-19 13:21:05",
-		name: "Susan May",
-		weight: "128",
-		category: "Produce",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-02-19 14:55:49",
-		name: "Juanita Chandler",
-		weight: "184",
-		category: "Assorted Dry",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-19 15:01:11",
-		name: "Juanita Chandler",
-		weight: "2",
-		category: "Produce",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-19 15:18:01",
-		name: "Lynnette Cromer",
-		weight: "35",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-19 16:00:01",
-		name: "Zoe",
-		weight: "907",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-02-22 14:14:22",
-		name: "Other",
-		weight: "760",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-22 15:33:07",
-		name: "Juanita Chandler",
-		weight: "1312",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-02-22 15:34:11",
-		name: "Juanita Chandler",
-		weight: "1317",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-02-22 15:35:05",
-		name: "Juanita Chandler",
-		weight: "1288",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-02-22 15:36:08",
-		name: "Juanita Chandler",
-		weight: "1087",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-02-23 13:23:13",
-		name: "Claire",
-		weight: "575",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-02-23 13:23:30",
-		name: "Claire",
-		weight: "592",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-02-23 13:36:00",
-		name: "Norma Kriger",
-		weight: "1404",
-		category: "Dairy",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-02-23 13:48:28",
-		name: "Norma Kriger",
-		weight: "215",
-		category: "Dairy",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-23 13:55:13",
-		name: "Norma Kriger",
-		weight: "1301",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-23 13:56:22",
-		name: "Norma Kriger",
-		weight: "1079",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-23 14:14:07",
-		name: "Norma Kriger",
-		weight: "1282",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-23 14:16:26",
-		name: "Norma Kriger",
-		weight: "1088",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-23 00:00:00",
-		name: "Safire Windley",
-		weight: "1159",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-23 19:51:36",
-		name: "Lynnette Cromer",
-		weight: "37",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-02-24 13:23:43",
-		name: "Juanita Chandler",
-		weight: "1066",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-02-24 13:30:19",
-		name: "Juanita Chandler",
-		weight: "1061",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-02-24 13:41:59",
-		name: "Nina Early",
-		weight: "295",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-02-24 13:59:07",
-		name: "Juanita Chandler",
-		weight: "723",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-02-24 14:00:59",
-		name: "Juanita Chandler",
-		weight: "667",
-		category: "Danone - Coffee",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-02-24 14:02:54",
-		name: "Juanita Chandler",
-		weight: "1045",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-02-24 14:05:49",
-		name: "Juanita Chandler",
-		weight: "1251",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-02-24 14:07:37",
-		name: "Juanita Chandler",
-		weight: "1256",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-02-24 14:11:47",
-		name: "Juanita Chandler",
-		weight: "312",
-		category: "Produce",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-02-24 16:45:45",
-		name: "Sunita Pathik",
-		weight: "226",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-02-25 12:36:02",
-		name: "Juanita Chandler",
-		weight: "175",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 12:37:15",
-		name: "Juanita Chandler",
-		weight: "1867",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 12:38:25",
-		name: "Juanita Chandler",
-		weight: "14",
-		category: "Health & Beauty Products",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 13:23:34",
-		name: "Juanita Chandler",
-		weight: "2073",
-		category: "Danone - Milk",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 13:24:39",
-		name: "Juanita Chandler",
-		weight: "132",
-		category: "Household",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 13:26:10",
-		name: "Juanita Chandler",
-		weight: "1595",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 13:27:03",
-		name: "Juanita Chandler",
-		weight: "619",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 13:28:11",
-		name: "Juanita Chandler",
-		weight: "360",
-		category: "Danone - Yogurt",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 13:28:50",
-		name: "Juanita Chandler",
-		weight: "172",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 15:33:22",
-		name: "Juanita Chandler",
-		weight: "-9",
-		category: "Household",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 15:35:30",
-		name: "Juanita Chandler",
-		weight: "224",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 15:37:59",
-		name: "Juanita Chandler",
-		weight: "-297",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 15:38:54",
-		name: "Juanita Chandler",
-		weight: "-1264",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 15:41:00",
-		name: "Juanita Chandler",
-		weight: "-210",
-		category: "Assorted Fridge",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 15:41:41",
-		name: "Juanita Chandler",
-		weight: "-265",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 15:42:44",
-		name: "Juanita Chandler",
-		weight: "-157",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 15:47:25",
-		name: "Juanita Chandler",
-		weight: "-1417",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-25 15:50:17",
-		name: "Juanita Chandler",
-		weight: "-1563",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-02-26 12:32:03",
-		name: "Juanita Chandler",
-		weight: "1066",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-02-26 12:34:24",
-		name: "Juanita Chandler",
-		weight: "1259",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-02-26 12:49:36",
-		name: "Juanita Chandler",
-		weight: "1104",
-		category: "Dairy",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-02-26 12:59:43",
-		name: "Juanita Chandler",
-		weight: "161",
-		category: "Produce",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-02-26 13:25:28",
-		name: "Juanita Chandler",
-		weight: "253",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-02-26 13:53:41",
-		name: "Susan May",
-		weight: "273",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-02-26 15:01:03",
-		name: "Opeyemi Faleye",
-		weight: "1574",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-02-28 13:26:15",
-		name: "Beverly Pinn",
-		weight: "1204",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-02-28 13:26:52",
-		name: "Beverly Pinn",
-		weight: "1106",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-02-28 13:27:53",
-		name: "Beverly Pinn",
-		weight: "1063",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-02-28 00:00:00",
-		name: "Claire",
-		weight: "1057",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-02-28 13:28:53",
-		name: "Beverly Pinn",
-		weight: "1112",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-02-28 13:29:30",
-		name: "Beverly Pinn",
-		weight: "1083",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-02-28 13:30:14",
-		name: "Beverly Pinn",
-		weight: "1089",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-02-28 13:30:46",
-		name: "Beverly Pinn",
-		weight: "1269",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-03-01 13:18:23",
-		name: "Tishea Lester",
-		weight: "485",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-01 13:34:11",
-		name: "Charmika Burton",
-		weight: "627",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-01 13:37:12",
-		name: "Elizabeth Rehn",
-		weight: "1090",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-01 14:02:13",
-		name: "Juanita Chandler",
-		weight: "1111",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-01 14:03:04",
-		name: "Juanita Chandler",
-		weight: "1101",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-01 14:03:54",
-		name: "Juanita Chandler",
-		weight: "1091",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-01 14:05:07",
-		name: "Juanita Chandler",
-		weight: "1065",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-01 14:08:25",
-		name: "Juanita Chandler",
-		weight: "1087",
-		category: "Frozen [Not Meat]",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-01 14:10:20",
-		name: "Juanita Chandler",
-		weight: "1069",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-01 14:13:33",
-		name: "Juanita Chandler",
-		weight: "871",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-01 14:14:49",
-		name: "Juanita Chandler",
-		weight: "1446",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-01 14:15:24",
-		name: "Juanita Chandler",
-		weight: "530",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-01 15:30:49",
-		name: "Gabriel C",
-		weight: "152",
-		category: "Assorted Fridge",
-		donatedTo: "Impact Hub"
-	},
-	{
-		date: "2023-03-01 17:07:17",
-		name: "Barbara Zadek",
-		weight: "10",
-		category: "Produce",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-03-02 19:45:31",
-		name: "Norma Kriger",
-		weight: "939",
-		category: "Assorted Dry",
-		donatedTo: "Baltimore Cease Fire [Nkenge]"
-	},
-	{
-		date: "2023-03-02 19:47:05",
-		name: "Norma Kriger",
-		weight: "1102",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Baltimore Cease Fire [Nkenge]"
-	},
-	{
-		date: "2023-03-02 19:48:40",
-		name: "Norma Kriger",
-		weight: "490",
-		category: "Dairy",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-03-02 19:49:56",
-		name: "Norma Kriger",
-		weight: "521",
-		category: "Dairy",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-02 19:51:05",
-		name: "Norma Kriger",
-		weight: "272",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-02 19:51:59",
-		name: "Norma Kriger",
-		weight: "276",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-03-02 00:00:00",
-		name: "Norma Kriger",
-		weight: "211",
-		category: "Produce",
-		donatedTo: "Baltimore Cease Fire [Nkenge]"
-	},
-	{
-		date: "2023-03-03 13:12:34",
-		name: "Phillip Blackwell",
-		weight: "1298",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 13:14:15",
-		name: "Phillip Blackwell",
-		weight: "11",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 13:49:42",
-		name: "Juanita Chandler",
-		weight: "1238",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 13:51:39",
-		name: "Juanita Chandler",
-		weight: "373",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 13:53:53",
-		name: "Juanita Chandler",
-		weight: "1271",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 13:55:06",
-		name: "Juanita Chandler",
-		weight: "1253",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 13:57:59",
-		name: "Juanita Chandler",
-		weight: "1163",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 14:08:45",
-		name: "Juanita Chandler",
-		weight: "1272",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 14:15:36",
-		name: "Juanita Chandler",
-		weight: "1768",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 14:16:47",
-		name: "Barbara Zadek",
-		weight: "198",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-03-03 14:22:11",
-		name: "Juanita Chandler",
-		weight: "1253",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 14:23:39",
-		name: "Juanita Chandler",
-		weight: "1949",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-03 14:24:37",
-		name: "Juanita Chandler",
-		weight: "1251",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-04 11:54:00",
-		name: "Beverly Pinn",
-		weight: "1175",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 12:16:36",
-		name: "Beverly Pinn",
-		weight: "624",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 12:17:12",
-		name: "Beverly Pinn",
-		weight: "1093",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-04 12:17:53",
-		name: "Beverly Pinn",
-		weight: "583",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 12:19:05",
-		name: "Beverly Pinn",
-		weight: "621",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-04 12:20:11",
-		name: "Beverly Pinn",
-		weight: "463",
-		category: "Assorted Fridge",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-04 12:22:19",
-		name: "Beverly Pinn",
-		weight: "223",
-		category: "Produce",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-04 12:29:15",
-		name: "Beverly Pinn",
-		weight: "389",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 12:42:10",
-		name: "Beverly Pinn",
-		weight: "417",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 13:40:13",
-		name: "Beverly Pinn",
-		weight: "945",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 13:40:52",
-		name: "Beverly Pinn",
-		weight: "641",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 13:42:50",
-		name: "Beverly Pinn",
-		weight: "507",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 13:43:38",
-		name: "Beverly Pinn",
-		weight: "581",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 13:44:42",
-		name: "Beverly Pinn",
-		weight: "1175",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 13:45:33",
-		name: "Beverly Pinn",
-		weight: "1263",
-		category: "Danone - Milk",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 13:46:21",
-		name: "Beverly Pinn",
-		weight: "1065",
-		category: "Condiments",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 13:46:48",
-		name: "Beverly Pinn",
-		weight: "519",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 13:57:56",
-		name: "Beverly Pinn",
-		weight: "1598",
-		category: "Canned Goods",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 15:41:31",
-		name: "Juanita Chandler",
-		weight: "-486",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 15:47:51",
-		name: "Juanita Chandler",
-		weight: "-47",
-		category: "Household",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 15:48:47",
-		name: "Juanita Chandler",
-		weight: "-717",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 15:51:31",
-		name: "Juanita Chandler",
-		weight: "-23",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 15:55:50",
-		name: "Juanita Chandler",
-		weight: "-1210",
-		category: "Canned Goods",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 15:59:14",
-		name: "Juanita Chandler",
-		weight: "-282",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF [Non Curbside]"
-	},
-	{
-		date: "2023-03-04 16:00:19",
-		name: "Juanita Chandler",
-		weight: "-155",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-04 16:01:37",
-		name: "Juanita Chandler",
-		weight: "-880",
-		category: "Condiments",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-05 13:44:10",
-		name: "Susan May",
-		weight: "29",
-		category: "Produce",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-03-05 15:15:09",
-		name: "Juanita Chandler",
-		weight: "118",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-05 15:18:37",
-		name: "Juanita Chandler",
-		weight: "95",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-05 15:26:26",
-		name: "Zoe",
-		weight: "1419",
-		category: "Assorted Fridge",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-03-05 23:30:16",
-		name: "Juanita Chandler",
-		weight: "203",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-05 23:32:45",
-		name: "Juanita Chandler",
-		weight: "16",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-08 13:02:25",
-		name: "Juanita Chandler",
-		weight: "1098",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-08 13:03:07",
-		name: "Juanita Chandler",
-		weight: "1212",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-08 13:03:52",
-		name: "Juanita Chandler",
-		weight: "1272",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-08 13:15:32",
-		name: "Juanita Chandler",
-		weight: "411",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-08 13:27:11",
-		name: "Juanita Chandler",
-		weight: "1355",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-08 13:32:43",
-		name: "Juanita Chandler",
-		weight: "1250",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-08 13:38:34",
-		name: "Juanita Chandler",
-		weight: "1959",
-		category: "Drinks [Dry]",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-08 13:52:26",
-		name: "Juanita Chandler",
-		weight: "651",
-		category: "Assorted Dry",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-08 13:54:58",
-		name: "Juanita Chandler",
-		weight: "570",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-08 00:00:00",
-		name: "Safire Windley",
-		weight: "502",
-		category: "Assorted Dry",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-03-08 00:00:00",
-		name: "Safire Windley",
-		weight: "1293",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-03-08 00:00:00",
-		name: "Safire Windley",
-		weight: "1050",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-03-09 13:23:51",
-		name: "Norma Kriger",
-		weight: "1084",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-09 14:37:13",
-		name: "Norma Kriger",
-		weight: "660",
-		category: "Dairy",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-03-09 14:38:40",
-		name: "Norma Kriger",
-		weight: "685",
-		category: "Dairy",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-03-09 14:41:13",
-		name: "Norma Kriger",
-		weight: "2078",
-		category: "Dairy",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-03-09 14:42:13",
-		name: "Norma Kriger",
-		weight: "1014",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-03-09 14:43:16",
-		name: "Norma Kriger",
-		weight: "1100",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-03-09 14:53:04",
-		name: "Norma Kriger",
-		weight: "612",
-		category: "Assorted Dry",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-03-09 14:56:42",
-		name: "Norma Kriger",
-		weight: "1069",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morgan State University"
-	},
-	{
-		date: "2023-03-09 00:00:00",
-		name: "Claire",
-		weight: "11936",
-		category: "Dairy",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-03-10 13:55:45",
-		name: "Barbara Zadek",
-		weight: "397",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-03-10 14:01:05",
-		name: "Elizabeth Rehn",
-		weight: "346",
-		category: "Danone - Creamer",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 00:00:00",
-		name: "Claire",
-		weight: "499",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 00:00:00",
-		name: "Claire",
-		weight: "688",
-		category: "Danone - Creamer",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 14:09:33",
-		name: "Juanita Chandler",
-		weight: "132",
-		category: "Assorted Dry",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 14:10:50",
-		name: "Juanita Chandler",
-		weight: "146",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 14:15:48",
-		name: "Juanita Chandler",
-		weight: "346",
-		category: "Danone - Creamer",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 14:17:42",
-		name: "Juanita Chandler",
-		weight: "499",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 14:19:57",
-		name: "Juanita Chandler",
-		weight: "-294",
-		category: "Danone - Creamer",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 15:09:05",
-		name: "Juanita Chandler",
-		weight: "297",
-		category: "Danone - Creamer",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 15:10:38",
-		name: "Juanita Chandler",
-		weight: "1189",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 15:13:42",
-		name: "Juanita Chandler",
-		weight: "1294",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 16:19:19",
-		name: "Phillip Blackwell",
-		weight: "231",
-		category: "Danone - Creamer",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-10 16:54:36",
-		name: "Sunita Pathik",
-		weight: "103",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-03-11 11:45:06",
-		name: "Beverly Pinn",
-		weight: "694",
-		category: "Danone - Creamer",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-11 12:06:54",
-		name: "Beverly Pinn",
-		weight: "691",
-		category: "Danone - Creamer",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-11 12:07:38",
-		name: "Beverly Pinn",
-		weight: "1067",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-11 12:08:57",
-		name: "Beverly Pinn",
-		weight: "962",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-11 12:09:49",
-		name: "Beverly Pinn",
-		weight: "749",
-		category: "Drinks [Dry]",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-11 12:10:31",
-		name: "Beverly Pinn",
-		weight: "564",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-03-11 12:11:10",
-		name: "Beverly Pinn",
-		weight: "912",
-		category: "Drinks [Dry]",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-11 12:13:18",
-		name: "Beverly Pinn",
-		weight: "1762",
-		category: "Danone - Creamer",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-11 12:15:24",
-		name: "Beverly Pinn",
-		weight: "1098",
-		category: "Danone - Creamer",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-11 12:28:36",
-		name: "Beverly Pinn",
-		weight: "1728",
-		category: "Frozen [Not Meat]",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-11 12:49:38",
-		name: "Beverly Pinn",
-		weight: "1826",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 12:50:25",
-		name: "Beverly Pinn",
-		weight: "1281",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 12:58:35",
-		name: "Beverly Pinn",
-		weight: "1949",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 13:18:55",
-		name: "Juanita Chandler",
-		weight: "185",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 13:21:40",
-		name: "Juanita Chandler",
-		weight: "1342",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 13:22:32",
-		name: "Juanita Chandler",
-		weight: "1155",
-		category: "Drinks [Fridge]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 13:28:03",
-		name: "Juanita Chandler",
-		weight: "492",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 13:36:17",
-		name: "Juanita Chandler",
-		weight: "1570",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 13:46:40",
-		name: "Juanita Chandler",
-		weight: "534",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 13:53:13",
-		name: "Juanita Chandler",
-		weight: "430",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 13:58:33",
-		name: "Juanita Chandler",
-		weight: "831",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 14:02:52",
-		name: "Juanita Chandler",
-		weight: "340",
-		category: "Meat [Raw]",
-		donatedTo: "BCF [Non Curbside]"
-	},
-	{
-		date: "2023-03-11 15:11:20",
-		name: "Beverly Pinn",
-		weight: "1087",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 15:41:37",
-		name: "Juanita Chandler",
-		weight: "-534",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 15:48:22",
-		name: "Juanita Chandler",
-		weight: "1271",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 15:50:32",
-		name: "Juanita Chandler",
-		weight: "-1485",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 15:51:13",
-		name: "Juanita Chandler",
-		weight: "-713",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 15:52:19",
-		name: "Juanita Chandler",
-		weight: "-1483",
-		category: "Assorted Fridge",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 16:03:49",
-		name: "Juanita Chandler",
-		weight: "-415",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 16:05:38",
-		name: "Juanita Chandler",
-		weight: "-1052",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 16:11:36",
-		name: "Juanita Chandler",
-		weight: "-119",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-11 16:12:26",
-		name: "Juanita Chandler",
-		weight: "-287",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-12 12:25:29",
-		name: "Juanita Chandler",
-		weight: "688",
-		category: "Assorted Dry",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-03-12 12:33:19",
-		name: "Juanita Chandler",
-		weight: "1489",
-		category: "Danone - Creamer",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-03-12 13:10:11",
-		name: "Juanita Chandler",
-		weight: "140",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-12 13:40:21",
-		name: "Phillip Blackwell",
-		weight: "997",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-12 13:56:15",
-		name: "Susan May",
-		weight: "22",
-		category: "Produce",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-03-12 14:25:03",
-		name: "Juanita Chandler",
-		weight: "138",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-03-12 14:26:00",
-		name: "Juanita Chandler",
-		weight: "120",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-12 15:31:36",
-		name: "Opeyemi Faleye",
-		weight: "1322",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-03-15 13:51:09",
-		name: "Juanita Chandler",
-		weight: "28",
-		category: "Danone - Creamer",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-15 13:52:56",
-		name: "Juanita Chandler",
-		weight: "1254",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-15 14:22:50",
-		name: "Juanita Chandler",
-		weight: "1629",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-15 14:59:38",
-		name: "Juanita Chandler",
-		weight: "28",
-		category: "Danone - Creamer",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-15 15:05:25",
-		name: "Juanita Chandler",
-		weight: "1608",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-15 15:10:09",
-		name: "Juanita Chandler",
-		weight: "1153",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-15 15:11:14",
-		name: "Juanita Chandler",
-		weight: "703",
-		category: "Danone - Creamer",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-15 15:16:37",
-		name: "Juanita Chandler",
-		weight: "1761",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-15 15:17:19",
-		name: "Juanita Chandler",
-		weight: "252",
-		category: "Assorted Dry",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-15 15:23:25",
-		name: "Juanita Chandler",
-		weight: "1432",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-15 15:25:31",
-		name: "Juanita Chandler",
-		weight: "1493",
-		category: "Health & Beauty Products",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-15 15:29:17",
-		name: "Juanita Chandler",
-		weight: "1447",
-		category: "Health & Beauty Products",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-15 15:36:59",
-		name: "Juanita Chandler",
-		weight: "1194",
-		category: "Danone - Creamer",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-15 15:41:58",
-		name: "Juanita Chandler",
-		weight: "1438",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-15 15:46:07",
-		name: "Juanita Chandler",
-		weight: "685",
-		category: "Danone - Creamer",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-16 13:53:28",
-		name: "Norma Kriger",
-		weight: "332",
-		category: "Produce",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-03-16 15:33:40",
-		name: "Norma Kriger",
-		weight: "1049",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-16 15:56:01",
-		name: "Norma Kriger",
-		weight: "525",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-17 14:29:06",
-		name: "Juanita Chandler",
-		weight: "617",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-03-17 14:37:25",
-		name: "Juanita Chandler",
-		weight: "1013",
-		category: "Assorted Fridge",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-03-17 00:00:00",
-		name: "Safire Windley",
-		weight: "664",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-03-17 14:45:09",
-		name: "Juanita Chandler",
-		weight: "640",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-17 14:47:46",
-		name: "Juanita Chandler",
-		weight: "993",
-		category: "Assorted Fridge",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-17 15:18:08",
-		name: "Juanita Chandler",
-		weight: "697",
-		category: "Danone - Creamer",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-03-17 15:23:23",
-		name: "Juanita Chandler",
-		weight: "1138",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-03-17 15:31:06",
-		name: "Juanita Chandler",
-		weight: "349",
-		category: "Assorted Dry",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-03-17 16:48:08",
-		name: "Sunita Pathik",
-		weight: "152",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-03-18 11:54:24",
-		name: "Beverly Pinn",
-		weight: "685",
-		category: "Danone - Creamer",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-18 11:55:06",
-		name: "Beverly Pinn",
-		weight: "1792",
-		category: "Danone - Creamer",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-18 11:55:43",
-		name: "Beverly Pinn",
-		weight: "1418",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-18 12:46:06",
-		name: "Juanita Chandler",
-		weight: "1049",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 12:49:21",
-		name: "Juanita Chandler",
-		weight: "1398",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 12:56:05",
-		name: "Juanita Chandler",
-		weight: "1394",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 13:06:26",
-		name: "Juanita Chandler",
-		weight: "1023",
-		category: "Danone - Creamer",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 13:15:03",
-		name: "Juanita Chandler",
-		weight: "1764",
-		category: "Danone - Creamer",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 13:22:11",
-		name: "Juanita Chandler",
-		weight: "218",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 00:00:00",
-		name: "Claire",
-		weight: "200",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 13:23:05",
-		name: "Juanita Chandler",
-		weight: "287",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 13:36:24",
-		name: "Juanita Chandler",
-		weight: "150",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:34:11",
-		name: "Juanita Chandler",
-		weight: "-1475",
-		category: "Danone - Creamer",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:39:21",
-		name: "Juanita Chandler",
-		weight: "1877",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:41:43",
-		name: "Juanita Chandler",
-		weight: "43",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 00:00:00",
-		name: "Safire Windley",
-		weight: "1475",
-		category: "Danone - Creamer",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:43:25",
-		name: "Juanita Chandler",
-		weight: "-768",
-		category: "Danone - Creamer",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:45:25",
-		name: "Juanita Chandler",
-		weight: "-1091",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:46:17",
-		name: "Juanita Chandler",
-		weight: "-163",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:48:01",
-		name: "Juanita Chandler",
-		weight: "607",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:49:13",
-		name: "Juanita Chandler",
-		weight: "-748",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:53:36",
-		name: "Juanita Chandler",
-		weight: "-717",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:55:53",
-		name: "Juanita Chandler",
-		weight: "-369",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-18 15:57:52",
-		name: "Juanita Chandler",
-		weight: "-149",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-19 13:22:22",
-		name: "Phillip Blackwell",
-		weight: "682",
-		category: "Drinks [Dry]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-19 13:28:37",
-		name: "Juanita Chandler",
-		weight: "306",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-03-19 13:30:11",
-		name: "Juanita Chandler",
-		weight: "671",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-19 13:59:59",
-		name: "Susan May",
-		weight: "7",
-		category: "Produce",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-03-19 15:24:13",
-		name: "Opeyemi Faleye",
-		weight: "1343",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-03-22 13:08:21",
-		name: "Juanita Chandler",
-		weight: "687",
-		category: "Danone - Creamer",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-22 13:09:54",
-		name: "Juanita Chandler",
-		weight: "1361",
-		category: "Danone - Creamer",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-22 00:00:00",
-		name: "Safire Windley",
-		weight: "1120",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-22 13:15:29",
-		name: "Elizabeth Rehn",
-		weight: "1250",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-22 13:17:02",
-		name: "Juanita Chandler",
-		weight: "1258",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-22 13:20:15",
-		name: "Juanita Chandler",
-		weight: "984",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-22 13:31:45",
-		name: "Juanita Chandler",
-		weight: "134",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-22 13:32:29",
-		name: "Juanita Chandler",
-		weight: "601",
-		category: "Danone - Creamer",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-22 13:45:30",
-		name: "Juanita Chandler",
-		weight: "973",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-22 13:46:56",
-		name: "Juanita Chandler",
-		weight: "1769",
-		category: "Danone - Creamer",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-22 13:51:01",
-		name: "Juanita Chandler",
-		weight: "1120",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-22 13:51:41",
-		name: "Juanita Chandler",
-		weight: "255",
-		category: "Assorted Dry",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-22 14:15:15",
-		name: "Juanita Chandler",
-		weight: "206",
-		category: "Danone - Creamer",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-23 13:51:36",
-		name: "Barbara Zadek",
-		weight: "263",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-03-23 00:00:00",
-		name: "Claire",
-		weight: "415",
-		category: "Assorted Dry",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-23 00:00:00",
-		name: "Claire",
-		weight: "1082",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-23 00:00:00",
-		name: "Claire",
-		weight: "372",
-		category: "Assorted Fridge",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-24 15:11:39",
-		name: "Juanita Chandler",
-		weight: "1040",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-03-24 15:12:45",
-		name: "Juanita Chandler",
-		weight: "628",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-03-24 15:14:53",
-		name: "Juanita Chandler",
-		weight: "732",
-		category: "Assorted Fridge",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-24 15:16:19",
-		name: "Juanita Chandler",
-		weight: "12",
-		category: "Produce",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-25 12:23:27",
-		name: "Jasmine Rose",
-		weight: "187",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-03-25 12:25:18",
-		name: "Jasmine Rose",
-		weight: "314",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-03-25 12:32:14",
-		name: "Jasmine Rose",
-		weight: "1082",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-03-25 12:34:57",
-		name: "Jasmine Rose",
-		weight: "1548",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-03-25 13:30:58",
-		name: "Juanita Chandler",
-		weight: "1134",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 00:00:00",
-		name: "Safire Windley",
-		weight: "513",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 13:39:18",
-		name: "Juanita Chandler",
-		weight: "162",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 13:46:35",
-		name: "Juanita Chandler",
-		weight: "1937",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 13:47:32",
-		name: "Juanita Chandler",
-		weight: "282",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 13:48:23",
-		name: "Juanita Chandler",
-		weight: "587",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 13:55:06",
-		name: "Juanita Chandler",
-		weight: "281",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 13:58:39",
-		name: "Juanita Chandler",
-		weight: "239",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 14:00:55",
-		name: "Juanita Chandler",
-		weight: "70",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 14:04:18",
-		name: "Juanita Chandler",
-		weight: "124",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 14:07:36",
-		name: "Juanita Chandler",
-		weight: "695",
-		category: "Condiments",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 00:00:00",
-		name: "Safire Windley",
-		weight: "201",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 14:12:22",
-		name: "Juanita Chandler",
-		weight: "1501",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 15:44:44",
-		name: "Juanita Chandler",
-		weight: "336",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 15:47:37",
-		name: "Juanita Chandler",
-		weight: "-213",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 15:48:36",
-		name: "Juanita Chandler",
-		weight: "-24",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 15:51:15",
-		name: "Juanita Chandler",
-		weight: "-1379",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 15:56:52",
-		name: "Juanita Chandler",
-		weight: "-147",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 15:59:30",
-		name: "Juanita Chandler",
-		weight: "-496",
-		category: "Condiments",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 16:01:39",
-		name: "Juanita Chandler",
-		weight: "-760",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 16:06:16",
-		name: "Juanita Chandler",
-		weight: "-535",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 16:11:30",
-		name: "Juanita Chandler",
-		weight: "-365",
-		category: "Assorted Fridge",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-25 16:22:07",
-		name: "Juanita Chandler",
-		weight: "-316",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-03-26 12:28:58",
-		name: "Juanita Chandler",
-		weight: "523",
-		category: "Assorted Dry",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-03-26 13:06:02",
-		name: "Juanita Chandler",
-		weight: "-419",
-		category: "Assorted Dry",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-03-26 13:07:08",
-		name: "Juanita Chandler",
-		weight: "212",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-03-26 13:09:53",
-		name: "Juanita Chandler",
-		weight: "230",
-		category: "Assorted Dry",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-03-26 13:23:45",
-		name: "Juanita Chandler",
-		weight: "8",
-		category: "Meat [Raw]",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-03-26 13:24:25",
-		name: "Juanita Chandler",
-		weight: "247",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-03-26 00:00:00",
-		name: "Safire Windley",
-		weight: "61",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-26 00:00:00",
-		name: "Safire Windley",
-		weight: "32",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-26 16:24:42",
-		name: "Opeyemi Faleye",
-		weight: "919",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-03-28 16:48:05",
-		name: "Beverly Pinn",
-		weight: "150",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-29 14:14:42",
-		name: "Juanita Chandler",
-		weight: "1141",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Morrell pk Elem. and Middle schho"
-	},
-	{
-		date: "2023-03-29 14:24:53",
-		name: "Juanita Chandler",
-		weight: "1951",
-		category: "Drinks [Dry]",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-29 14:26:11",
-		name: "Juanita Chandler",
-		weight: "1776",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-29 14:28:37",
-		name: "Juanita Chandler",
-		weight: "1297",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-29 14:29:30",
-		name: "Juanita Chandler",
-		weight: "327",
-		category: "Produce",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-29 14:30:19",
-		name: "Juanita Chandler",
-		weight: "918",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-29 14:32:15",
-		name: "Juanita Chandler",
-		weight: "1072",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-03-29 14:33:46",
-		name: "Juanita Chandler",
-		weight: "1057",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-29 14:35:10",
-		name: "Juanita Chandler",
-		weight: "191",
-		category: "Produce",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-29 14:40:27",
-		name: "Juanita Chandler",
-		weight: "1466",
-		category: "Health & Beauty Products",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-03-30 00:00:00",
-		name: "Claire",
-		weight: "52",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-03-30 13:39:53",
-		name: "Barbara Zadek",
-		weight: "324",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-03-31 13:56:25",
-		name: "Susan May",
-		weight: "23",
-		category: "Produce",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-03-31 16:47:50",
-		name: "Sunita Pathik",
-		weight: "225",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-03-31 00:00:00",
-		name: "Juanita Chandler",
-		weight: "767",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-31 00:00:00",
-		name: "Juanita Chandler",
-		weight: "347",
-		category: "Produce",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-03-31 00:00:00",
-		name: "Juanita Chandler",
-		weight: "341",
-		category: "Produce",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-03-31 00:00:00",
-		name: "Juanita Chandler",
-		weight: "874",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-03-31 00:00:00",
-		name: "Juanita Chandler",
-		weight: "778",
-		category: "Drinks [Dry]",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-04-01 12:23:14",
-		name: "Juanita Chandler",
-		weight: "392",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-01 12:29:50",
-		name: "Juanita Chandler",
-		weight: "1850",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-01 12:30:56",
-		name: "Juanita Chandler",
-		weight: "1189",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-01 12:49:07",
-		name: "Juanita Chandler",
-		weight: "1796",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-01 12:50:54",
-		name: "Juanita Chandler",
-		weight: "325",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-01 13:12:13",
-		name: "Juanita Chandler",
-		weight: "1184",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:21:34",
-		name: "Juanita Chandler",
-		weight: "804",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:22:18",
-		name: "Juanita Chandler",
-		weight: "256",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:24:30",
-		name: "Juanita Chandler",
-		weight: "1171",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:31:20",
-		name: "Juanita Chandler",
-		weight: "443",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:35:24",
-		name: "Juanita Chandler",
-		weight: "113",
-		category: "Other",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:37:30",
-		name: "Juanita Chandler",
-		weight: "240",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:39:53",
-		name: "Juanita Chandler",
-		weight: "571",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:47:21",
-		name: "Juanita Chandler",
-		weight: "1658",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:51:45",
-		name: "Juanita Chandler",
-		weight: "1849",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:54:18",
-		name: "Juanita Chandler",
-		weight: "513",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 13:56:40",
-		name: "Juanita Chandler",
-		weight: "147",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 14:51:12",
-		name: "Beverly Pinn",
-		weight: "190",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 14:51:38",
-		name: "Beverly Pinn",
-		weight: "151",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 14:52:17",
-		name: "Beverly Pinn",
-		weight: "685",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 15:11:13",
-		name: "Beverly Pinn",
-		weight: "333",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 15:38:39",
-		name: "Juanita Chandler",
-		weight: "-331",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 15:46:50",
-		name: "Juanita Chandler",
-		weight: "-927",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 15:47:54",
-		name: "Juanita Chandler",
-		weight: "-69",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 15:49:47",
-		name: "Juanita Chandler",
-		weight: "-1428",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 16:02:15",
-		name: "Juanita Chandler",
-		weight: "-131",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 16:03:33",
-		name: "Juanita Chandler",
-		weight: "-611",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-01 01:00:01",
-		name: "Claire",
-		weight: "196",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-02 13:11:57",
-		name: "Phillip Blackwell",
-		weight: "1523",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-02 13:14:11",
-		name: "Juanita Chandler",
-		weight: "360",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-04-02 15:09:33",
-		name: "Juanita Chandler",
-		weight: "151",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-02 15:10:17",
-		name: "Zoe",
-		weight: "1345",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-04-02 15:11:07",
-		name: "Juanita Chandler",
-		weight: "90",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-05 13:08:45",
-		name: "Juanita Chandler",
-		weight: "1067",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-05 13:11:40",
-		name: "Juanita Chandler",
-		weight: "561",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-05 14:37:35",
-		name: "Juanita Chandler",
-		weight: "223",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-05 15:21:51",
-		name: "Juanita Chandler",
-		weight: "1174",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-05 15:22:41",
-		name: "Juanita Chandler",
-		weight: "206",
-		category: "Produce",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-05 15:25:19",
-		name: "Juanita Chandler",
-		weight: "459",
-		category: "Assorted Fridge",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-05 15:28:47",
-		name: "Juanita Chandler",
-		weight: "1192",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-05 15:30:23",
-		name: "Juanita Chandler",
-		weight: "313",
-		category: "Assorted Fridge",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-05 15:41:44",
-		name: "Juanita Chandler",
-		weight: "-313",
-		category: "Assorted Fridge",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-05 15:43:39",
-		name: "Juanita Chandler",
-		weight: "313",
-		category: "Assorted Fridge",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-06 14:26:03",
-		name: "Norma Kriger",
-		weight: "200",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-06 00:00:00",
-		name: "Safire Windley",
-		weight: "1184",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-06 00:00:00",
-		name: "Safire Windley",
-		weight: "1194",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-06 14:37:19",
-		name: "Norma Kriger",
-		weight: "856",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-06 14:38:03",
-		name: "Norma Kriger",
-		weight: "241",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-06 14:42:14",
-		name: "Norma Kriger",
-		weight: "606",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-07 13:38:23",
-		name: "Juanita Chandler",
-		weight: "403",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-04-07 13:39:30",
-		name: "Juanita Chandler",
-		weight: "230",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-07 13:41:18",
-		name: "Juanita Chandler",
-		weight: "128",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-07 15:28:37",
-		name: "Juanita Chandler",
-		weight: "280",
-		category: "Produce",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-04-07 15:32:27",
-		name: "Juanita Chandler",
-		weight: "1015",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-04-07 15:35:20",
-		name: "Juanita Chandler",
-		weight: "253",
-		category: "Produce",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-04-07 15:38:57",
-		name: "Juanita Chandler",
-		weight: "1022",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-04-07 15:44:56",
-		name: "Juanita Chandler",
-		weight: "524",
-		category: "Drinks [Dry]",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-04-07 16:56:15",
-		name: "Sunita Pathik",
-		weight: "206",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-04-08 13:00:34",
-		name: "Juanita Chandler",
-		weight: "619",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-08 13:01:37",
-		name: "Juanita Chandler",
-		weight: "1176",
-		category: "Canned Goods",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-08 13:04:18",
-		name: "Juanita Chandler",
-		weight: "943",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-08 13:10:37",
-		name: "Juanita Chandler",
-		weight: "1895",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-08 13:15:27",
-		name: "Juanita Chandler",
-		weight: "776",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 13:17:15",
-		name: "Juanita Chandler",
-		weight: "1189",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-08 13:18:21",
-		name: "Juanita Chandler",
-		weight: "1192",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-08 13:19:26",
-		name: "Juanita Chandler",
-		weight: "1228",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 13:20:42",
-		name: "Juanita Chandler",
-		weight: "1164",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 13:22:15",
-		name: "Juanita Chandler",
-		weight: "1920",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 13:25:18",
-		name: "Juanita Chandler",
-		weight: "1276",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 13:37:59",
-		name: "Juanita Chandler",
-		weight: "967",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 13:38:55",
-		name: "Juanita Chandler",
-		weight: "128",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 13:42:51",
-		name: "Juanita Chandler",
-		weight: "1116",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 13:50:20",
-		name: "Juanita Chandler",
-		weight: "565",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 13:51:04",
-		name: "Juanita Chandler",
-		weight: "222",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 13:52:16",
-		name: "Juanita Chandler",
-		weight: "1270",
-		category: "Danone - Yogurt",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 15:25:41",
-		name: "Opeyemi Faleye",
-		weight: "309",
-		category: "Snacks",
-		donatedTo: "BCF [Non Curbside]"
-	},
-	{
-		date: "2023-04-08 15:26:12",
-		name: "Opeyemi Faleye",
-		weight: "1713",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF [Non Curbside]"
-	},
-	{
-		date: "2023-04-08 15:28:35",
-		name: "Opeyemi Faleye",
-		weight: "1369",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-04-08 16:35:30",
-		name: "Juanita Chandler",
-		weight: "1429",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 16:41:58",
-		name: "Juanita Chandler",
-		weight: "-149",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 16:42:50",
-		name: "Juanita Chandler",
-		weight: "-296",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 16:43:54",
-		name: "Juanita Chandler",
-		weight: "-532",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 16:57:45",
-		name: "Juanita Chandler",
-		weight: "-763",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 17:20:58",
-		name: "Juanita Chandler",
-		weight: "-342",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 17:22:01",
-		name: "Juanita Chandler",
-		weight: "-1663",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 17:23:01",
-		name: "Juanita Chandler",
-		weight: "-1558",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-08 17:24:25",
-		name: "Juanita Chandler",
-		weight: "-389",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-09 15:17:05",
-		name: "JC",
-		weight: "1175",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-09 15:18:01",
-		name: "JC",
-		weight: "879",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-09 15:18:41",
-		name: "JC",
-		weight: "682",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-09 15:19:12",
-		name: "JC",
-		weight: "1152",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-09 15:19:45",
-		name: "JC",
-		weight: "1066",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-09 15:20:17",
-		name: "JC",
-		weight: "532",
-		category: "Danone - Yogurt",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-11 14:21:45",
-		name: "Barbara Zadek",
-		weight: "392",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-04-11 16:29:28",
-		name: "Beverly Pinn",
-		weight: "1920",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-04-11 16:30:03",
-		name: "Beverly Pinn",
-		weight: "545",
-		category: "Assorted Fridge",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-04-12 13:14:32",
-		name: "Juanita Chandler",
-		weight: "581",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-12 13:15:41",
-		name: "Juanita Chandler",
-		weight: "621",
-		category: "Produce",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-12 13:18:42",
-		name: "Juanita Chandler",
-		weight: "1254",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-12 13:19:49",
-		name: "Juanita Chandler",
-		weight: "1692",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-12 13:26:35",
-		name: "Juanita Chandler",
-		weight: "1090",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-12 13:27:12",
-		name: "Juanita Chandler",
-		weight: "1220",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-12 13:28:17",
-		name: "Juanita Chandler",
-		weight: "1932",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-12 13:30:15",
-		name: "Juanita Chandler",
-		weight: "1106",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-12 13:36:56",
-		name: "Juanita Chandler",
-		weight: "439",
-		category: "Dairy",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-12 13:44:56",
-		name: "Juanita Chandler",
-		weight: "968",
-		category: "Assorted Fridge",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-12 13:46:36",
-		name: "Juanita Chandler",
-		weight: "784",
-		category: "Assorted Dry",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-12 13:49:48",
-		name: "Juanita Chandler",
-		weight: "322",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-12 14:20:37",
-		name: "Juanita Chandler",
-		weight: "1845",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-12 14:39:36",
-		name: "Juanita Chandler",
-		weight: "-1845",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-12 14:41:06",
-		name: "Juanita Chandler",
-		weight: "1084",
-		category: "Assorted Fridge",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-12 14:47:00",
-		name: "Juanita Chandler",
-		weight: "581",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-13 13:59:16",
-		name: "Norma Kriger",
-		weight: "1260",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-13 14:01:18",
-		name: "Norma Kriger",
-		weight: "1185",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-13 14:12:36",
-		name: "Norma Kriger",
-		weight: "1145",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-13 14:24:43",
-		name: "Norma Kriger",
-		weight: "562",
-		category: "Other",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-13 14:29:32",
-		name: "Norma Kriger",
-		weight: "2221",
-		category: "Other",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-13 14:45:47",
-		name: "Norma Kriger",
-		weight: "1147",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-04-13 14:46:30",
-		name: "Norma Kriger",
-		weight: "1126",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-14 00:00:00",
-		name: "Claire",
-		weight: "36622",
-		category: "Danone - Creamer",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-04-14 13:44:02",
-		name: "Juanita Chandler",
-		weight: "67",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-14 13:45:22",
-		name: "Juanita Chandler",
-		weight: "14",
-		category: "Snacks",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-14 13:46:33",
-		name: "Juanita Chandler",
-		weight: "1182",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-04-14 13:47:25",
-		name: "Juanita Chandler",
-		weight: "1178",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-04-14 14:20:52",
-		name: "Juanita Chandler",
-		weight: "114",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-04-14 14:34:13",
-		name: "Juanita Chandler",
-		weight: "1146",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-04-14 14:35:08",
-		name: "Juanita Chandler",
-		weight: "209",
-		category: "Produce",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-04-14 14:43:47",
-		name: "Juanita Chandler",
-		weight: "1197",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-04-14 14:45:19",
-		name: "Juanita Chandler",
-		weight: "1202",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-04-14 14:46:27",
-		name: "Juanita Chandler",
-		weight: "183",
-		category: "Produce",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-04-14 14:47:48",
-		name: "Juanita Chandler",
-		weight: "1902",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-04-14 15:50:12",
-		name: "Juanita Chandler",
-		weight: "1899",
-		category: "Snacks",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-14 15:58:41",
-		name: "Juanita Chandler",
-		weight: "901",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-14 16:00:00",
-		name: "Juanita Chandler",
-		weight: "1185",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-14 16:01:38",
-		name: "Juanita Chandler",
-		weight: "1854",
-		category: "Frozen [Not Meat]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-14 16:02:34",
-		name: "Juanita Chandler",
-		weight: "1260",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-14 16:09:56",
-		name: "Juanita Chandler",
-		weight: "1040",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-14 16:46:49",
-		name: "Juanita Chandler",
-		weight: "2030",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-15 12:10:03",
-		name: "Beverly Pinn",
-		weight: "1014",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-15 12:20:37",
-		name: "Beverly Pinn",
-		weight: "1639",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-15 12:21:02",
-		name: "Beverly Pinn",
-		weight: "1611",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-15 12:30:57",
-		name: "Beverly Pinn",
-		weight: "2037",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-15 12:32:06",
-		name: "Beverly Pinn",
-		weight: "1713",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-15 12:34:14",
-		name: "Beverly Pinn",
-		weight: "1537",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-15 12:34:50",
-		name: "Beverly Pinn",
-		weight: "953",
-		category: "Danone - Coffee",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-15 12:38:04",
-		name: "Beverly Pinn",
-		weight: "793",
-		category: "Danone - Creamer",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-15 12:47:02",
-		name: "Beverly Pinn",
-		weight: "1456",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-15 13:20:32",
-		name: "Juanita Chandler",
-		weight: "381",
-		category: "Canned Goods",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-15 13:21:46",
-		name: "Juanita Chandler",
-		weight: "1679",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-15 14:11:59",
-		name: "Juanita Chandler",
-		weight: "443",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-15 15:27:01",
-		name: "Juanita Chandler",
-		weight: "25",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-15 15:27:39",
-		name: "Juanita Chandler",
-		weight: "30",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-15 17:01:51",
-		name: "Juanita Chandler",
-		weight: "-153",
-		category: "Canned Goods",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-15 17:08:05",
-		name: "Juanita Chandler",
-		weight: "-1173",
-		category: "Condiments",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-16 16:27:52",
-		name: "Opeyemi Faleye",
-		weight: "2222",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-04-17 12:30:14",
-		name: "JC",
-		weight: "223",
-		category: "Other",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-17 12:31:04",
-		name: "JC",
-		weight: "322",
-		category: "Other",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-17 12:31:41",
-		name: "JC",
-		weight: "1176",
-		category: "Other",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-17 12:32:08",
-		name: "JC",
-		weight: "1679",
-		category: "Other",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-17 12:32:46",
-		name: "JC",
-		weight: "1268",
-		category: "Other",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-17 12:33:25",
-		name: "JC",
-		weight: "328",
-		category: "Other",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-17 12:33:53",
-		name: "JC",
-		weight: "320",
-		category: "Other",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-18 00:00:00",
-		name: "Claire",
-		weight: "36534",
-		category: "Dairy",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-04-18 14:27:12",
-		name: "Beverly Pinn",
-		weight: "922",
-		category: "Danone - Yogurt",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-18 14:29:19",
-		name: "Beverly Pinn",
-		weight: "2149",
-		category: "Danone - Milk",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-18 14:29:57",
-		name: "Beverly Pinn",
-		weight: "1157",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-18 14:32:32",
-		name: "Beverly Pinn",
-		weight: "1243",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-18 14:38:49",
-		name: "Beverly Pinn",
-		weight: "334",
-		category: "Drinks [Fridge]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-18 14:44:31",
-		name: "Beverly Pinn",
-		weight: "2023",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-18 16:03:03",
-		name: "Barbara Zadek",
-		weight: "126",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-04-18 17:18:23",
-		name: "Beverly Pinn",
-		weight: "917",
-		category: "Danone - Yogurt",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-18 17:20:58",
-		name: "Beverly Pinn",
-		weight: "491",
-		category: "Assorted Fridge",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-19 12:35:32",
-		name: "Vincent Faulk",
-		weight: "1913",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-19 12:38:08",
-		name: "Vincent Faulk",
-		weight: "1182",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-19 12:39:33",
-		name: "Vincent Faulk",
-		weight: "1098",
-		category: "Danone - Creamer",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-19 12:52:16",
-		name: "Vincent Faulk",
-		weight: "456",
-		category: "Condiments",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-19 14:09:29",
-		name: "Juanita Chandler",
-		weight: "1179",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-19 14:10:55",
-		name: "Juanita Chandler",
-		weight: "1185",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-19 14:17:03",
-		name: "Juanita Chandler",
-		weight: "590",
-		category: "Assorted Fridge",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-19 14:18:05",
-		name: "Juanita Chandler",
-		weight: "331",
-		category: "Dairy",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-19 14:19:19",
-		name: "Juanita Chandler",
-		weight: "233",
-		category: "Dairy",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-19 14:22:11",
-		name: "Juanita Chandler",
-		weight: "779",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-19 14:23:01",
-		name: "Juanita Chandler",
-		weight: "1053",
-		category: "Assorted Dry",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-19 14:26:24",
-		name: "Juanita Chandler",
-		weight: "985",
-		category: "Assorted Dry",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-04-19 14:52:11",
-		name: "Juanita Chandler",
-		weight: "912",
-		category: "Assorted Dry",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-19 14:53:27",
-		name: "Juanita Chandler",
-		weight: "29",
-		category: "Produce",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-04-20 00:00:00",
-		name: "Claire",
-		weight: "934",
-		category: "Other",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-04-20 00:00:00",
-		name: "Claire",
-		weight: "976",
-		category: "Other",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-04-20 00:00:00",
-		name: "Claire",
-		weight: "905",
-		category: "Other",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-04-21 13:21:54",
-		name: "Juanita Chandler",
-		weight: "-939",
-		category: "Assorted Dry",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-04-21 13:22:43",
-		name: "Juanita Chandler",
-		weight: "-944",
-		category: "Assorted Dry",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-04-21 14:42:45",
-		name: "Juanita Chandler",
-		weight: "206",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-04-21 14:45:52",
-		name: "Juanita Chandler",
-		weight: "1180",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-04-21 14:46:47",
-		name: "Juanita Chandler",
-		weight: "1194",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-04-21 15:33:04",
-		name: "Juanita Chandler",
-		weight: "1360",
-		category: "Dairy",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-04-21 15:33:52",
-		name: "Juanita Chandler",
-		weight: "1371",
-		category: "Dairy",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-04-21 15:37:35",
-		name: "Juanita Chandler",
-		weight: "421",
-		category: "Meat [Raw]",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-04-21 15:45:38",
-		name: "Juanita Chandler",
-		weight: "430",
-		category: "Meat [Raw]",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-04-21 16:06:32",
-		name: "Juanita Chandler",
-		weight: "500",
-		category: "Assorted Fridge",
-		donatedTo: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2023-04-21 16:43:52",
-		name: "Sunita Pathik",
-		weight: "101",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-04-22 12:00:07",
-		name: "Beverly Pinn",
-		weight: "1888",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-22 12:00:51",
-		name: "Beverly Pinn",
-		weight: "1616",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-22 12:01:34",
-		name: "Beverly Pinn",
-		weight: "1249",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-22 12:11:09",
-		name: "Beverly Pinn",
-		weight: "2138",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 12:11:45",
-		name: "Beverly Pinn",
-		weight: "286",
-		category: "Pet Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 12:12:53",
-		name: "Beverly Pinn",
-		weight: "249",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 12:13:29",
-		name: "Beverly Pinn",
-		weight: "1907",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 12:19:09",
-		name: "Beverly Pinn",
-		weight: "257",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 12:20:46",
-		name: "Beverly Pinn",
-		weight: "240",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 12:21:15",
-		name: "Beverly Pinn",
-		weight: "98",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 12:43:10",
-		name: "Beverly Pinn",
-		weight: "2017",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-22 12:43:58",
-		name: "Beverly Pinn",
-		weight: "947",
-		category: "Other",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 12:46:13",
-		name: "Beverly Pinn",
-		weight: "970",
-		category: "Other",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 13:47:54",
-		name: "Juanita Chandler",
-		weight: "2423",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 13:53:24",
-		name: "Juanita Chandler",
-		weight: "784",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-04-22 14:18:24",
-		name: "Juanita Chandler",
-		weight: "2447",
-		category: "Danone - Creamer",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 14:19:00",
-		name: "Juanita Chandler",
-		weight: "196",
-		category: "Assorted Fridge",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 14:20:08",
-		name: "Juanita Chandler",
-		weight: "1992",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 14:21:04",
-		name: "Juanita Chandler",
-		weight: "-163",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 15:13:40",
-		name: "Juanita Chandler",
-		weight: "1857",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 15:15:04",
-		name: "Juanita Chandler",
-		weight: "163",
-		category: "Dairy",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-22 16:01:52",
-		name: "Juanita Chandler",
-		weight: "-249",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 16:10:10",
-		name: "Juanita Chandler",
-		weight: "1393",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 16:12:05",
-		name: "Juanita Chandler",
-		weight: "-522",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 16:13:14",
-		name: "Juanita Chandler",
-		weight: "-112",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 16:15:42",
-		name: "Juanita Chandler",
-		weight: "-2138",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 16:16:29",
-		name: "Juanita Chandler",
-		weight: "-108",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 16:18:46",
-		name: "Juanita Chandler",
-		weight: "-224",
-		category: "Pet Supplies",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 16:19:40",
-		name: "Juanita Chandler",
-		weight: "-1724",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-22 16:35:57",
-		name: "Juanita Chandler",
-		weight: "-300",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-04-23 13:18:57",
-		name: "Juanita Chandler",
-		weight: "1586",
-		category: "Assorted Dry",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-04-23 13:19:40",
-		name: "Juanita Chandler",
-		weight: "381",
-		category: "Drinks [Dry]",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-04-23 13:21:44",
-		name: "Juanita Chandler",
-		weight: "1896",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-04-23 13:30:39",
-		name: "Juanita Chandler",
-		weight: "35",
-		category: "Produce",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-04-23 13:37:46",
-		name: "Juanita Chandler",
-		weight: "316",
-		category: "Assorted Fridge",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-04-23 13:42:38",
-		name: "Juanita Chandler",
-		weight: "86",
-		category: "Meat [Raw]",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-04-23 15:09:43",
-		name: "Opeyemi Faleye",
-		weight: "952",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-04-25 13:54:44",
-		name: "Beverly Pinn",
-		weight: "177",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-25 00:00:00",
-		name: "Claire",
-		weight: "1916",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-25 00:00:00",
-		name: "Claire",
-		weight: "1183",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-25 00:00:00",
-		name: "Claire",
-		weight: "500",
-		category: "Meat [Raw]",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-25 00:00:00",
-		name: "Claire",
-		weight: "1113",
-		category: "Danone - Creamer",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-04-26 14:50:00",
-		name: "Karen Moore",
-		weight: "1180",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-28 14:58:25",
-		name: "Juanita Chandler",
-		weight: "1173",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-28 14:59:22",
-		name: "Juanita Chandler",
-		weight: "1164",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-28 15:01:51",
-		name: "Juanita Chandler",
-		weight: "1183",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-28 15:02:48",
-		name: "Juanita Chandler",
-		weight: "1185",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-28 15:03:34",
-		name: "Juanita Chandler",
-		weight: "1120",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-28 15:04:29",
-		name: "Juanita Chandler",
-		weight: "580",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-04-28 15:06:21",
-		name: "Juanita Chandler",
-		weight: "314",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-04-28 15:07:46",
-		name: "Juanita Chandler",
-		weight: "11",
-		category: "Dairy",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-04-29 00:00:00",
-		name: "Safire Windley",
-		weight: "1961",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-04-29 00:00:00",
-		name: "Safire Windley",
-		weight: "100",
-		category: "Assorted Dry",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-05 14:03:45",
-		name: "Barbara Zadek",
-		weight: "403",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-05-05 17:02:00",
-		name: "Vincent Faulk",
-		weight: "887",
-		category: "Danone - Creamer",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-05-05 17:06:31",
-		name: "Sunita Pathik",
-		weight: "111",
-		category: "Assorted Dry",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-05-05 00:00:00",
-		name: "Safire Windley",
-		weight: "1172",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-07 13:12:04",
-		name: "Vincent Faulk",
-		weight: "887",
-		category: "Danone - Creamer",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-05-07 13:13:10",
-		name: "Vincent Faulk",
-		weight: "1735",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-07 13:14:31",
-		name: "Vincent Faulk",
-		weight: "2027",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-07 13:15:50",
-		name: "Vincent Faulk",
-		weight: "2016",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-07 13:16:46",
-		name: "Vincent Faulk",
-		weight: "1213",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-07 13:18:08",
-		name: "Vincent Faulk",
-		weight: "1297",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-07 15:46:50",
-		name: "Zoe",
-		weight: "1163",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-05-07 00:00:00",
-		name: "Claire",
-		weight: "95",
-		category: "Assorted Dry",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-10 14:13:50",
-		name: "Juanita Chandler",
-		weight: "1918",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-10 14:14:50",
-		name: "Juanita Chandler",
-		weight: "1926",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-10 14:17:03",
-		name: "Juanita Chandler",
-		weight: "1927",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-10 14:17:56",
-		name: "Juanita Chandler",
-		weight: "1180",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-10 14:19:36",
-		name: "Juanita Chandler",
-		weight: "1820",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-10 14:20:36",
-		name: "Juanita Chandler",
-		weight: "353",
-		category: "Meat [Raw]",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-10 14:21:24",
-		name: "Juanita Chandler",
-		weight: "1156",
-		category: "Meat [Raw]",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-10 14:23:31",
-		name: "Juanita Chandler",
-		weight: "1172",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-10 14:29:45",
-		name: "Juanita Chandler",
-		weight: "30",
-		category: "Produce",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-05-10 14:34:47",
-		name: "Juanita Chandler",
-		weight: "782",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-05-10 14:35:38",
-		name: "Juanita Chandler",
-		weight: "570",
-		category: "Drinks [Dry]",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-05-10 14:37:29",
-		name: "Juanita Chandler",
-		weight: "1220",
-		category: "Danone - Creamer",
-		donatedTo: "Pastor Young"
-	},
-	{
-		date: "2023-05-10 14:39:24",
-		name: "Juanita Chandler",
-		weight: "1813",
-		category: "Dairy",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-10 14:41:43",
-		name: "Juanita Chandler",
-		weight: "240",
-		category: "Produce",
-		donatedTo: "Bowery"
-	},
-	{
-		date: "2023-05-10 14:42:44",
-		name: "Juanita Chandler",
-		weight: "231",
-		category: "Produce",
-		donatedTo: "Bowery"
-	},
-	{
-		date: "2023-05-10 14:44:01",
-		name: "Juanita Chandler",
-		weight: "90",
-		category: "Produce",
-		donatedTo: "Bowery"
-	},
-	{
-		date: "2023-05-10 14:44:56",
-		name: "Juanita Chandler",
-		weight: "225",
-		category: "Produce",
-		donatedTo: "Bowery"
-	},
-	{
-		date: "2023-05-10 14:45:53",
-		name: "Juanita Chandler",
-		weight: "223",
-		category: "Produce",
-		donatedTo: "Bowery"
-	},
-	{
-		date: "2023-05-10 14:48:21",
-		name: "Juanita Chandler",
-		weight: "160",
-		category: "Produce",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-10 14:49:53",
-		name: "Juanita Chandler",
-		weight: "65",
-		category: "Produce",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-10 14:51:48",
-		name: "Juanita Chandler",
-		weight: "1961",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-05-10 14:54:04",
-		name: "Juanita Chandler",
-		weight: "100",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-10 14:56:01",
-		name: "Juanita Chandler",
-		weight: "-240",
-		category: "Produce",
-		donatedTo: "Bowery"
-	},
-	{
-		date: "2023-05-10 14:57:12",
-		name: "Juanita Chandler",
-		weight: "-231",
-		category: "Produce",
-		donatedTo: "Bowery"
-	},
-	{
-		date: "2023-05-10 14:58:01",
-		name: "Juanita Chandler",
-		weight: "90",
-		category: "Produce",
-		donatedTo: "Bowery"
-	},
-	{
-		date: "2023-05-10 14:58:51",
-		name: "Juanita Chandler",
-		weight: "-225",
-		category: "Produce",
-		donatedTo: "Bowery"
-	},
-	{
-		date: "2023-05-10 14:59:46",
-		name: "Juanita Chandler",
-		weight: "-223",
-		category: "Produce",
-		donatedTo: "Bowery"
-	},
-	{
-		date: "2023-05-10 15:13:31",
-		name: "Juanita Chandler",
-		weight: "-740",
-		category: "Dairy",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-11 14:46:44",
-		name: "Vincent Faulk",
-		weight: "1925",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-11 14:47:26",
-		name: "Vincent Faulk",
-		weight: "2069",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-11 14:48:01",
-		name: "Vincent Faulk",
-		weight: "2010",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-11 14:48:38",
-		name: "Vincent Faulk",
-		weight: "2020",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-11 14:49:20",
-		name: "Vincent Faulk",
-		weight: "1923",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-11 14:50:01",
-		name: "Vincent Faulk",
-		weight: "1922",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-12 13:18:14",
-		name: "Barbara Zadek",
-		weight: "242",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-05-12 16:09:41",
-		name: "Juanita Chandler",
-		weight: "127",
-		category: "Drinks [Dry]",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-12 16:10:22",
-		name: "Juanita Chandler",
-		weight: "28",
-		category: "Assorted Fridge",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-12 16:11:34",
-		name: "Juanita Chandler",
-		weight: "1926",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-05-12 16:12:47",
-		name: "Juanita Chandler",
-		weight: "1187",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-05-12 16:13:40",
-		name: "Juanita Chandler",
-		weight: "536",
-		category: "Assorted Fridge",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-05-12 16:15:07",
-		name: "Juanita Chandler",
-		weight: "118",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-12 16:15:42",
-		name: "Juanita Chandler",
-		weight: "520",
-		category: "Assorted Fridge",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-05-12 16:17:16",
-		name: "Juanita Chandler",
-		weight: "141",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-12 16:18:15",
-		name: "Juanita Chandler",
-		weight: "1988",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-12 16:23:50",
-		name: "Juanita Chandler",
-		weight: "1667",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-12 16:50:25",
-		name: "Sunita Pathik",
-		weight: "87",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-05-12 16:57:14",
-		name: "Mary Jo Gary",
-		weight: "1988",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-12 16:58:22",
-		name: "Mary Jo Gary",
-		weight: "1066",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-12 16:58:58",
-		name: "Mary Jo Gary",
-		weight: "1255",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-12 16:59:37",
-		name: "Mary Jo Gary",
-		weight: "1249",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-13 11:55:53",
-		name: "Beverly Pinn",
-		weight: "1912",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-13 11:59:04",
-		name: "Beverly Pinn",
-		weight: "1100",
-		category: "Drinks [Dry]",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-05-13 00:00:00",
-		name: "Claire",
-		weight: "2000",
-		category: "Drinks [Dry]",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-05-13 12:00:06",
-		name: "Beverly Pinn",
-		weight: "635",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-13 12:00:51",
-		name: "Beverly Pinn",
-		weight: "991",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-13 13:36:53",
-		name: "Juanita Chandler",
-		weight: "139",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 13:37:29",
-		name: "Juanita Chandler",
-		weight: "878",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 13:38:22",
-		name: "Juanita Chandler",
-		weight: "1675",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 13:39:30",
-		name: "Juanita Chandler",
-		weight: "1454",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 13:40:12",
-		name: "Juanita Chandler",
-		weight: "1221",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 13:41:16",
-		name: "Juanita Chandler",
-		weight: "1868",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-13 13:42:11",
-		name: "Juanita Chandler",
-		weight: "356",
-		category: "Assorted Fridge",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-05-13 13:42:58",
-		name: "Juanita Chandler",
-		weight: "1107",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-13 13:44:53",
-		name: "Juanita Chandler",
-		weight: "2030",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 00:00:00",
-		name: "Claire",
-		weight: "288",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:31:22",
-		name: "Juanita Chandler",
-		weight: "-50",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:33:06",
-		name: "Juanita Chandler",
-		weight: "-1660",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:34:30",
-		name: "Juanita Chandler",
-		weight: "-658",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:35:12",
-		name: "Juanita Chandler",
-		weight: "-666",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:36:00",
-		name: "Juanita Chandler",
-		weight: "-1174",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:37:09",
-		name: "Juanita Chandler",
-		weight: "356",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:37:43",
-		name: "Juanita Chandler",
-		weight: "2159",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:39:00",
-		name: "Juanita Chandler",
-		weight: "415",
-		category: "Spices",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:39:37",
-		name: "Juanita Chandler",
-		weight: "425",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:41:03",
-		name: "Juanita Chandler",
-		weight: "435",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 16:41:51",
-		name: "Juanita Chandler",
-		weight: "-136",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-13 00:00:00",
-		name: "Claire",
-		weight: "-356",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-16 15:31:31",
-		name: "Beverly Pinn",
-		weight: "136",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-16 00:00:00",
-		name: "Safire Windley",
-		weight: "1929",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-16 15:32:28",
-		name: "Beverly Pinn",
-		weight: "1241",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-16 15:33:45",
-		name: "Beverly Pinn",
-		weight: "1327",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-16 15:34:33",
-		name: "Beverly Pinn",
-		weight: "1071",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-16 15:35:24",
-		name: "Beverly Pinn",
-		weight: "1895",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-16 15:36:28",
-		name: "Beverly Pinn",
-		weight: "1356",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-16 12:02:06",
-		name: "Vincent Faulk",
-		weight: "104",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-17 14:48:33",
-		name: "Juanita Chandler",
-		weight: "1145",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-17 14:49:31",
-		name: "Juanita Chandler",
-		weight: "180",
-		category: "Dairy",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-17 14:50:36",
-		name: "Juanita Chandler",
-		weight: "140",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-17 14:52:53",
-		name: "Juanita Chandler",
-		weight: "1305",
-		category: "Assorted Dry",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-17 14:55:36",
-		name: "Juanita Chandler",
-		weight: "1168",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-17 15:59:02",
-		name: "Juanita Chandler",
-		weight: "47",
-		category: "Dairy",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-05-17 16:00:21",
-		name: "Juanita Chandler",
-		weight: "29",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-17 17:44:43",
-		name: "Juanita Chandler",
-		weight: "274",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-18 13:14:05",
-		name: "Norma Kriger",
-		weight: "1248",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-18 13:15:54",
-		name: "Norma Kriger",
-		weight: "1167",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-18 13:17:38",
-		name: "Norma Kriger",
-		weight: "423",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-18 13:18:58",
-		name: "Norma Kriger",
-		weight: "1919",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-18 13:19:47",
-		name: "Norma Kriger",
-		weight: "1244",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-05-18 13:24:23",
-		name: "Norma Kriger",
-		weight: "1219",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-05-18 13:25:12",
-		name: "Norma Kriger",
-		weight: "1250",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-05-18 13:38:03",
-		name: "Norma Kriger",
-		weight: "1149",
-		category: "Drinks [Dry]",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-05-18 13:39:32",
-		name: "Norma Kriger",
-		weight: "1916",
-		category: "Dole - Fruit Cups",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-05-18 13:40:10",
-		name: "Norma Kriger",
-		weight: "794",
-		category: "Danone - Creamer",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-05-18 13:40:44",
-		name: "Norma Kriger",
-		weight: "1350",
-		category: "Danone - Creamer",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-05-19 13:53:31",
-		name: "Mary Jo Gary",
-		weight: "588",
-		category: "Meat [Raw]",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-05-19 13:54:15",
-		name: "Mary Jo Gary",
-		weight: "688",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-05-19 13:57:26",
-		name: "Juanita Chandler",
-		weight: "153",
-		category: "Health & Beauty Products",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-05-19 13:58:48",
-		name: "Juanita Chandler",
-		weight: "276",
-		category: "Assorted Fridge",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-05-19 14:23:18",
-		name: "Juanita Chandler",
-		weight: "625",
-		category: "Meat [Raw]",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-05-19 14:39:25",
-		name: "Juanita Chandler",
-		weight: "720",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-05-19 14:39:58",
-		name: "Juanita Chandler",
-		weight: "1934",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-05-19 14:44:57",
-		name: "Juanita Chandler",
-		weight: "1929",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-05-20 11:54:27",
-		name: "Beverly Pinn",
-		weight: "1350",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 12:01:29",
-		name: "Beverly Pinn",
-		weight: "1796",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 12:04:08",
-		name: "Beverly Pinn",
-		weight: "348",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 12:36:24",
-		name: "Beverly Pinn",
-		weight: "1689",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 12:49:32",
-		name: "Juanita Chandler",
-		weight: "1906",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 13:11:28",
-		name: "Juanita Chandler",
-		weight: "476",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 13:23:40",
-		name: "Juanita Chandler",
-		weight: "960",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 13:33:44",
-		name: "Juanita Chandler",
-		weight: "Xx",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 13:48:16",
-		name: "Juanita Chandler",
-		weight: "186",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 13:48:52",
-		name: "Juanita Chandler",
-		weight: "135",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 13:58:11",
-		name: "Juanita Chandler",
-		weight: "1523",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:03:42",
-		name: "Juanita Chandler",
-		weight: "698",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:04:24",
-		name: "Juanita Chandler",
-		weight: "-1028",
-		category: "Dairy",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:05:00",
-		name: "Juanita Chandler",
-		weight: "-1310",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:05:46",
-		name: "Juanita Chandler",
-		weight: "-91",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:16:56",
-		name: "Juanita Chandler",
-		weight: "-736",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:17:33",
-		name: "Juanita Chandler",
-		weight: "-711",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:23:17",
-		name: "Juanita Chandler",
-		weight: "-1646",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:25:10",
-		name: "Juanita Chandler",
-		weight: "-293",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:29:57",
-		name: "Juanita Chandler",
-		weight: "-392",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:31:58",
-		name: "Juanita Chandler",
-		weight: "-1563",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-20 16:36:20",
-		name: "Juanita Chandler",
-		weight: "-82",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-21 15:45:30",
-		name: "Juanita Chandler",
-		weight: "222",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-05-21 15:46:08",
-		name: "Juanita Chandler",
-		weight: "84",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-21 15:47:05",
-		name: "Juanita Chandler",
-		weight: "1748",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-21 15:47:49",
-		name: "Juanita Chandler",
-		weight: "1244",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-21 15:48:37",
-		name: "Juanita Chandler",
-		weight: "198",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-21 15:50:01",
-		name: "Juanita Chandler",
-		weight: "1765",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-21 15:50:55",
-		name: "Juanita Chandler",
-		weight: "81",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-21 15:51:48",
-		name: "Juanita Chandler",
-		weight: "211",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-21 15:52:45",
-		name: "Juanita Chandler",
-		weight: "1254",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-21 15:53:43",
-		name: "Juanita Chandler",
-		weight: "1252",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-21 16:27:49",
-		name: "Opeyemi Faleye",
-		weight: "1873",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-05-23 14:14:51",
-		name: "Beverly Pinn",
-		weight: "16",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-05-24 09:59:13",
-		name: "JC",
-		weight: "294",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-24 09:59:48",
-		name: "JC",
-		weight: "1187",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-24 10:00:31",
-		name: "JC",
-		weight: "1907",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-24 10:01:00",
-		name: "JC",
-		weight: "707",
-		category: "Danone - Yogurt",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-24 14:21:59",
-		name: "Juanita Chandler",
-		weight: "1911",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-24 14:23:01",
-		name: "Juanita Chandler",
-		weight: "1169",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-24 14:25:29",
-		name: "Juanita Chandler",
-		weight: "1184",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-24 14:29:47",
-		name: "Juanita Chandler",
-		weight: "1452",
-		category: "Assorted Dry",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-24 14:31:04",
-		name: "Juanita Chandler",
-		weight: "629",
-		category: "Assorted Fridge",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-24 15:20:32",
-		name: "Juanita Chandler",
-		weight: "1176",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-24 15:27:30",
-		name: "Juanita Chandler",
-		weight: "1378",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-24 15:28:15",
-		name: "Juanita Chandler",
-		weight: "1916",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-24 00:00:00",
-		name: "Safire Windley",
-		weight: "1176",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-24 15:29:53",
-		name: "Juanita Chandler",
-		weight: "730",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-24 15:33:15",
-		name: "Juanita Chandler",
-		weight: "1364",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-24 15:35:54",
-		name: "Juanita Chandler",
-		weight: "1212",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-24 15:40:21",
-		name: "Juanita Chandler",
-		weight: "657",
-		category: "Assorted Fridge",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-24 15:58:58",
-		name: "Juanita Chandler",
-		weight: "188",
-		category: "Other",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-24 15:59:47",
-		name: "Juanita Chandler",
-		weight: "745",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-24 00:00:00",
-		name: "Claire",
-		weight: "25000",
-		category: "Dairy",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-05-24 00:00:00",
-		name: "Claire",
-		weight: "25000",
-		category: "Dairy",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-05-25 13:25:15",
-		name: "Barbara Zadek",
-		weight: "558",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-05-25 13:56:48",
-		name: "Norma Kriger",
-		weight: "1658",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-25 14:17:30",
-		name: "Norma Kriger",
-		weight: "1178",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-25 14:18:12",
-		name: "Norma Kriger",
-		weight: "1164",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-25 14:22:59",
-		name: "Norma Kriger",
-		weight: "1162",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-25 14:58:19",
-		name: "Sharon",
-		weight: "1555",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-26 14:23:48",
-		name: "Juanita Chandler",
-		weight: "986",
-		category: "Danone - Creamer",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-26 14:24:46",
-		name: "Juanita Chandler",
-		weight: "659",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-26 15:30:11",
-		name: "Juanita Chandler",
-		weight: "1175",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-05-26 15:31:00",
-		name: "Juanita Chandler",
-		weight: "1187",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-05-26 15:33:47",
-		name: "Juanita Chandler",
-		weight: "1042",
-		category: "Assorted Dry",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-05-26 15:34:42",
-		name: "Juanita Chandler",
-		weight: "1084",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-05-26 16:57:56",
-		name: "Sunita Pathik",
-		weight: "110",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-05-27 12:17:29",
-		name: "Beverly Pinn",
-		weight: "666",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 12:18:04",
-		name: "Beverly Pinn",
-		weight: "250",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 12:18:45",
-		name: "Beverly Pinn",
-		weight: "1046",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 12:19:22",
-		name: "Beverly Pinn",
-		weight: "1179",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 12:36:30",
-		name: "Beverly Pinn",
-		weight: "1934",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 13:46:40",
-		name: "Juanita Chandler",
-		weight: "949",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 14:15:21",
-		name: "Juanita Chandler",
-		weight: "1576",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 14:16:07",
-		name: "Juanita Chandler",
-		weight: "607",
-		category: "Danone - Coffee",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 14:16:37",
-		name: "Juanita Chandler",
-		weight: "297",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 15:56:32",
-		name: "Juanita Chandler",
-		weight: "-907",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 15:58:01",
-		name: "Juanita Chandler",
-		weight: "-321",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 15:58:54",
-		name: "Juanita Chandler",
-		weight: "-1356",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 15:59:40",
-		name: "Juanita Chandler",
-		weight: "-185",
-		category: "Snacks",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 16:07:23",
-		name: "Juanita Chandler",
-		weight: "-586",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 16:07:58",
-		name: "Juanita Chandler",
-		weight: "-849",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 16:12:12",
-		name: "Juanita Chandler",
-		weight: "340",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 16:12:57",
-		name: "Juanita Chandler",
-		weight: "-117",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 16:17:15",
-		name: "Juanita Chandler",
-		weight: "-768",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-27 16:19:22",
-		name: "Juanita Chandler",
-		weight: "-408",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-05-28 14:10:34",
-		name: "Juanita Chandler",
-		weight: "136",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-05-28 14:11:46",
-		name: "Juanita Chandler",
-		weight: "189",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-05-28 14:12:56",
-		name: "Juanita Chandler",
-		weight: "289",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-28 14:13:42",
-		name: "Juanita Chandler",
-		weight: "406",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-28 14:14:28",
-		name: "Juanita Chandler",
-		weight: "147",
-		category: "Assorted Dry",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-28 14:17:35",
-		name: "Juanita Chandler",
-		weight: "1184",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-28 15:28:52",
-		name: "Juanita Chandler",
-		weight: "1243",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-28 15:29:46",
-		name: "Juanita Chandler",
-		weight: "1227",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-28 15:30:32",
-		name: "Juanita Chandler",
-		weight: "1247",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-28 15:31:09",
-		name: "Juanita Chandler",
-		weight: "502",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-28 15:32:09",
-		name: "Juanita Chandler",
-		weight: "1874",
-		category: "Assorted Dry",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-28 15:32:58",
-		name: "Juanita Chandler",
-		weight: "1406",
-		category: "Danone - Creamer",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-28 15:59:09",
-		name: "Opeyemi Faleye",
-		weight: "1555",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-05-28 16:07:37",
-		name: "Juanita Chandler",
-		weight: "1577",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-05-30 11:33:52",
-		name: "Claire",
-		weight: "1156",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-30 11:34:23",
-		name: "Claire",
-		weight: "648",
-		category: "Danone - Yogurt",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-30 11:34:45",
-		name: "Claire",
-		weight: "1178",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-30 11:35:09",
-		name: "Claire",
-		weight: "2116",
-		category: "Drinks [Dry]",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-05-31 14:28:14",
-		name: "Juanita Chandler",
-		weight: "1148",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-31 14:35:23",
-		name: "Juanita Chandler",
-		weight: "1171",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-31 14:38:04",
-		name: "Juanita Chandler",
-		weight: "967",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-05-31 14:38:54",
-		name: "Juanita Chandler",
-		weight: "342",
-		category: "Produce",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-31 14:39:47",
-		name: "Juanita Chandler",
-		weight: "1228",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-31 15:28:47",
-		name: "Juanita Chandler",
-		weight: "1816",
-		category: "Danone - Yogurt",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-05-31 15:29:27",
-		name: "Juanita Chandler",
-		weight: "875",
-		category: "Meat [Raw]",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-06-01 15:11:01",
-		name: "Claire",
-		weight: "1333",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-01 15:11:57",
-		name: "Claire",
-		weight: "1209",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-01 16:09:17",
-		name: "Claire",
-		weight: "648",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-01 16:09:55",
-		name: "Claire",
-		weight: "452",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-01 16:10:33",
-		name: "Claire",
-		weight: "854",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-01 16:11:01",
-		name: "Claire",
-		weight: "831",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-01 16:12:42",
-		name: "Claire",
-		weight: "1530",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-01 16:13:06",
-		name: "Claire",
-		weight: "59",
-		category: "Assorted Fridge",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:29:48",
-		name: "Aziza",
-		weight: "1518",
-		category: "Health & Beauty Products",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:30:10",
-		name: "Aziza",
-		weight: "1534",
-		category: "Health & Beauty Products",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:30:34",
-		name: "Aziza",
-		weight: "717",
-		category: "Health & Beauty Products",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:30:53",
-		name: "Aziza",
-		weight: "1464",
-		category: "Health & Beauty Products",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:31:28",
-		name: "Aziza",
-		weight: "1510",
-		category: "Health & Beauty Products",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:32:38",
-		name: "Aziza",
-		weight: "1153",
-		category: "Danone - Coffee",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:33:04",
-		name: "Aziza",
-		weight: "1047",
-		category: "Danone - Coffee",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:33:26",
-		name: "Aziza",
-		weight: "1490",
-		category: "Danone - Coffee",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:34:43",
-		name: "Aziza",
-		weight: "1387",
-		category: "Danone - Coffee",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:35:38",
-		name: "Aziza",
-		weight: "1220",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:35:59",
-		name: "Aziza",
-		weight: "1244",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-01 19:36:36",
-		name: "Aziza",
-		weight: "1227",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-02 09:13:30",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-02 09:15:16",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-02 09:16:19",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		donatedTo: "So What Else"
-	},
-	{
-		date: "2023-06-02 09:17:39",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-02 09:18:51",
-		name: "Claire",
-		weight: "40560",
-		category: "Drinks [Dry]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-02 13:44:17",
-		name: "Juanita Chandler",
-		weight: "285",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-06-02 13:46:34",
-		name: "Juanita Chandler",
-		weight: "85",
-		category: "Assorted Fridge",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-06-02 13:48:56",
-		name: "Juanita Chandler",
-		weight: "1175",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-06-02 13:49:29",
-		name: "Juanita Chandler",
-		weight: "1153",
-		category: "Dole - Fruit Cups",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-06-02 15:03:01",
-		name: "Juanita Chandler",
-		weight: "460",
-		category: "Assorted Fridge",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-06-02 15:04:19",
-		name: "Juanita Chandler",
-		weight: "862",
-		category: "Meat [Raw]",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-06-02 15:20:43",
-		name: "Juanita Chandler",
-		weight: "397",
-		category: "Assorted Fridge",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-06-02 15:21:34",
-		name: "Juanita Chandler",
-		weight: "1002",
-		category: "Meat [Raw]",
-		donatedTo: "Greenmount West"
-	},
-	{
-		date: "2023-06-02 16:42:34",
-		name: "Juanita Chandler",
-		weight: "1028",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-02 16:43:27",
-		name: "Juanita Chandler",
-		weight: "1130",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-02 16:44:07",
-		name: "Juanita Chandler",
-		weight: "1122",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-02 16:45:51",
-		name: "Juanita Chandler",
-		weight: "999",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-02 16:55:09",
-		name: "Juanita Chandler",
-		weight: "281",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-02 17:05:01",
-		name: "Juanita Chandler",
-		weight: "318",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-02 17:22:47",
-		name: "Juanita Chandler",
-		weight: "1026",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-03 13:38:44",
-		name: "Other",
-		weight: "171",
-		category: "Assorted Fridge",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 13:53:26",
-		name: "Rawan Elshobaky",
-		weight: "1822",
-		category: "Danone - Yogurt",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 13:59:21",
-		name: "Rawan Elshobaky",
-		weight: "766",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 14:05:30",
-		name: "Rawan Elshobaky",
-		weight: "605",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 14:07:10",
-		name: "Rawan Elshobaky",
-		weight: "1207",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 14:21:11",
-		name: "Juanita Chandler",
-		weight: "1533",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 14:30:10",
-		name: "Juanita Chandler",
-		weight: "2361",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 15:58:55",
-		name: "Juanita Chandler",
-		weight: "-104",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 16:00:36",
-		name: "Juanita Chandler",
-		weight: "-10",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 16:09:24",
-		name: "Juanita Chandler",
-		weight: "-1286",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 16:10:03",
-		name: "Juanita Chandler",
-		weight: "78",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 16:13:09",
-		name: "Juanita Chandler",
-		weight: "-1444",
-		category: "Danone - Yogurt",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 16:30:18",
-		name: "Juanita Chandler",
-		weight: "-496",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 17:06:24",
-		name: "Juanita Chandler",
-		weight: "-104",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 17:07:13",
-		name: "Juanita Chandler",
-		weight: "-1326",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-03 00:00:00",
-		name: "Claire",
-		weight: "1003",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-03 00:00:00",
-		name: "Claire",
-		weight: "1244",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-04 13:00:06",
-		name: "Juanita Chandler",
-		weight: "137",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-04 13:01:01",
-		name: "Juanita Chandler",
-		weight: "156",
-		category: "Drinks [Dry]",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-04 13:02:03",
-		name: "Juanita Chandler",
-		weight: "163",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-04 13:33:29",
-		name: "Juanita Chandler",
-		weight: "311",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-04 13:35:06",
-		name: "Juanita Chandler",
-		weight: "296",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-04 13:43:22",
-		name: "Juanita Chandler",
-		weight: "830",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-06-04 13:46:19",
-		name: "Juanita Chandler",
-		weight: "519",
-		category: "Assorted Fridge",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-04 14:03:26",
-		name: "Juanita Chandler",
-		weight: "541",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-04 14:04:07",
-		name: "Juanita Chandler",
-		weight: "307",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-04 16:01:28",
-		name: "Opeyemi Faleye",
-		weight: "1321",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-06-04 16:16:05",
-		name: "Juanita Chandler",
-		weight: "34",
-		category: "Snacks",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-04 16:50:27",
-		name: "Juanita Chandler",
-		weight: "1283",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-06 00:00:00",
-		name: "Claire",
-		weight: "2004",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-06 00:00:00",
-		name: "Claire",
-		weight: "2035",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-06 00:00:00",
-		name: "Claire",
-		weight: "2028",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-06 00:00:00",
-		name: "Claire",
-		weight: "2011",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-06 00:00:00",
-		name: "Claire",
-		weight: "2032",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-06 00:00:00",
-		name: "Claire",
-		weight: "2020",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-06 13:14:33",
-		name: "Claire",
-		weight: "1166",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-06 13:22:52",
-		name: "Claire",
-		weight: "1363",
-		category: "Drinks [Dry]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-06 00:00:00",
-		name: "Claire",
-		weight: "1437",
-		category: "Danone - Yogurt",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-06 13:23:33",
-		name: "Claire",
-		weight: "1371",
-		category: "Meat [Raw]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-06 13:24:02",
-		name: "Claire",
-		weight: "357",
-		category: "Produce",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-06 13:33:22",
-		name: "Barbara Zadek",
-		weight: "52",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-06-07 15:34:01",
-		name: "Sara B",
-		weight: "1310",
-		category: "Assorted Dry",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-06-07 15:35:35",
-		name: "Sara B",
-		weight: "1544",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-06-07 15:49:27",
-		name: "Sara B",
-		weight: "292",
-		category: "Produce",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-06-07 15:51:28",
-		name: "Sara B",
-		weight: "528",
-		category: "Snacks",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-06-08 14:49:24",
-		name: "Barbara Zadek",
-		weight: "389",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-06-09 09:13:58",
-		name: "Claire",
-		weight: "40000",
-		category: "Drinks [Dry]",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-09 14:11:15",
-		name: "Claire",
-		weight: "40000",
-		category: "Assorted Dry",
-		donatedTo: "Individual"
-	},
-	{
-		date: "2023-06-09 14:13:45",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-09 15:07:56",
-		name: "Mary Jo Gary",
-		weight: "577",
-		category: "Produce",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-06-09 15:15:02",
-		name: "David Ondande",
-		weight: "1277",
-		category: "Assorted Dry",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-06-09 15:15:34",
-		name: "David Ondande",
-		weight: "410",
-		category: "Meat [Raw]",
-		donatedTo: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2023-06-09 16:11:36",
-		name: "Mary Jo Gary",
-		weight: "200",
-		category: "Meat [Raw]",
-		donatedTo: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2023-06-09 16:12:21",
-		name: "Mary Jo Gary",
-		weight: "51",
-		category: "Dairy",
-		donatedTo: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2023-06-09 16:13:01",
-		name: "Mary Jo Gary",
-		weight: "251",
-		category: "Assorted Fridge",
-		donatedTo: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2023-06-09 16:46:10",
-		name: "Sunita Pathik",
-		weight: "59",
-		category: "Assorted Fridge",
-		donatedTo: "Sunita [Delivery]"
-	},
-	{
-		date: "2023-06-09 17:11:09",
-		name: "Mary Jo Gary",
-		weight: "481",
-		category: "Assorted Dry",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-10 11:57:45",
-		name: "Beverly Pinn",
-		weight: "1806",
-		category: "Dole - Juice",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 12:23:39",
-		name: "Beverly Pinn",
-		weight: "750",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 12:47:52",
-		name: "Claire",
-		weight: "1800",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 12:48:19",
-		name: "Claire",
-		weight: "1816",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 12:48:43",
-		name: "Claire",
-		weight: "1820",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 12:49:10",
-		name: "Claire",
-		weight: "1812",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 12:49:53",
-		name: "Claire",
-		weight: "1816",
-		category: "Drinks [Dry]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 13:38:38",
-		name: "Beverly Pinn",
-		weight: "329",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 13:48:42",
-		name: "Beverly Pinn",
-		weight: "343",
-		category: "Danone - Yogurt",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 13:49:37",
-		name: "Beverly Pinn",
-		weight: "331",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 14:01:40",
-		name: "Beverly Pinn",
-		weight: "231",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 14:07:49",
-		name: "Beverly Pinn",
-		weight: "951",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 14:19:47",
-		name: "Beverly Pinn",
-		weight: "743",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 14:26:06",
-		name: "Beverly Pinn",
-		weight: "1151",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 14:26:38",
-		name: "Beverly Pinn",
-		weight: "532",
-		category: "Frozen [Not Meat]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 14:30:03",
-		name: "Beverly Pinn",
-		weight: "281",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 14:31:06",
-		name: "Beverly Pinn",
-		weight: "1187",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 14:31:45",
-		name: "Beverly Pinn",
-		weight: "1181",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 14:34:40",
-		name: "Beverly Pinn",
-		weight: "1830",
-		category: "Dole - Juice",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 14:35:13",
-		name: "Beverly Pinn",
-		weight: "1167",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-10 14:35:53",
-		name: "Beverly Pinn",
-		weight: "1166",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 16:37:04",
-		name: "Beverly Pinn",
-		weight: "-91",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 16:37:37",
-		name: "Beverly Pinn",
-		weight: "-237",
-		category: "Danone - Yogurt",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 16:38:06",
-		name: "Beverly Pinn",
-		weight: "-864",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 16:38:49",
-		name: "Beverly Pinn",
-		weight: "-501",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-10 16:39:21",
-		name: "Beverly Pinn",
-		weight: "-394",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-11 16:42:54",
-		name: "Opeyemi Faleye",
-		weight: "1855",
-		category: "Assorted Dry",
-		donatedTo: "Sandtown"
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "167",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "129",
-		category: "Assorted Fridge",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "84",
-		category: "Drinks [Dry]",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "14",
-		category: "Assorted Dry",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "12",
-		category: "Grains (rice, pasta, etc.)",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-11 00:00:00",
-		name: "Claire",
-		weight: "16",
-		category: "Produce",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-13 11:14:59",
-		name: "Claire",
-		weight: "1177",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-13 11:17:32",
-		name: "Claire",
-		weight: "2006",
-		category: "Drinks [Dry]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-13 11:17:57",
-		name: "Claire",
-		weight: "1803",
-		category: "Drinks [Dry]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-13 11:18:36",
-		name: "Claire",
-		weight: "1873",
-		category: "Meat [Raw]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-13 14:42:44",
-		name: "Beverly Pinn",
-		weight: "1054",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-13 14:43:21",
-		name: "Beverly Pinn",
-		weight: "1055",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-13 14:43:59",
-		name: "Beverly Pinn",
-		weight: "1056",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-13 14:44:30",
-		name: "Beverly Pinn",
-		weight: "1056",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-13 16:44:54",
-		name: "Claire",
-		weight: "1058",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-13 16:45:36",
-		name: "Claire",
-		weight: "1059",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-14 15:09:14",
-		name: "Claire",
-		weight: "1517",
-		category: "Health & Beauty Products",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:09:51",
-		name: "Claire",
-		weight: "1518",
-		category: "Health & Beauty Products",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:10:15",
-		name: "Claire",
-		weight: "1469",
-		category: "Health & Beauty Products",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:10:38",
-		name: "Claire",
-		weight: "1510",
-		category: "Health & Beauty Products",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:11:16",
-		name: "Claire",
-		weight: "1153",
-		category: "Danone - Creamer",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:11:41",
-		name: "Claire",
-		weight: "1387",
-		category: "Danone - Creamer",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:12:31",
-		name: "Claire",
-		weight: "1490",
-		category: "Danone - Creamer",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:13:30",
-		name: "Claire",
-		weight: "1220",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:13:55",
-		name: "Claire",
-		weight: "1388",
-		category: "Danone - Creamer",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:14:14",
-		name: "Claire",
-		weight: "1389",
-		category: "Danone - Creamer",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:14:53",
-		name: "Claire",
-		weight: "1032",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:15:15",
-		name: "Claire",
-		weight: "1433",
-		category: "Danone - Creamer",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 00:00:00",
-		name: "Claire",
-		weight: "1269",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:15:44",
-		name: "Claire",
-		weight: "1246",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:16:14",
-		name: "Claire",
-		weight: "1263",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:16:36",
-		name: "Claire",
-		weight: "1203",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:16:57",
-		name: "Claire",
-		weight: "1206",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:17:21",
-		name: "Claire",
-		weight: "1264",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:17:49",
-		name: "Claire",
-		weight: "1227",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:18:10",
-		name: "Claire",
-		weight: "1121",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-14 15:55:32",
-		name: "Karen Moore",
-		weight: "595",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-14 15:56:04",
-		name: "Karen Moore",
-		weight: "682",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-14 15:56:37",
-		name: "Karen Moore",
-		weight: "522",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-14 15:57:09",
-		name: "Karen Moore",
-		weight: "532",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-14 15:58:32",
-		name: "Karen Moore",
-		weight: "733",
-		category: "Spices",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-14 15:59:16",
-		name: "Karen Moore",
-		weight: "448",
-		category: "Meat [Raw]",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-06-14 15:59:54",
-		name: "Karen Moore",
-		weight: "679",
-		category: "Snacks",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-06-14 16:01:00",
-		name: "Karen Moore",
-		weight: "1324",
-		category: "Drinks [Dry]",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-06-14 16:01:25",
-		name: "Karen Moore",
-		weight: "1250",
-		category: "Snacks",
-		donatedTo: "Douglas Homes"
-	},
-	{
-		date: "2023-06-15 10:06:03",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-15 10:09:00",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-15 10:12:38",
-		name: "Claire",
-		weight: "40000",
-		category: "Drinks [Dry]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-15 10:30:09",
-		name: "GBMC",
-		weight: "1124",
-		category: "Other",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-06-15 10:31:15",
-		name: "GBMC",
-		weight: "1101",
-		category: "Other",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-06-15 10:32:52",
-		name: "GBMC",
-		weight: "970",
-		category: "Other",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-06-15 10:36:02",
-		name: "Claire",
-		weight: "115",
-		category: "Other",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-06-15 10:42:58",
-		name: "Claire",
-		weight: "42000",
-		category: "Drinks [Dry]",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-15 10:45:20",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-15 11:03:40",
-		name: "Claire",
-		weight: "42000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-15 11:30:41",
-		name: "Claire",
-		weight: "42000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-15 13:41:57",
-		name: "Norma Kriger",
-		weight: "1047",
-		category: "Assorted Dry",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-06-15 15:10:07",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-16 13:50:47",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-16 14:00:21",
-		name: "Barbara Zadek",
-		weight: "334",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-06-17 16:03:10",
-		name: "Beverly Pinn",
-		weight: "131",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 16:03:48",
-		name: "Beverly Pinn",
-		weight: "901",
-		category: "Dole - Fruit Cups",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 16:04:25",
-		name: "Beverly Pinn",
-		weight: "1524",
-		category: "Drinks [Dry]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 16:05:20",
-		name: "Beverly Pinn",
-		weight: "532",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 16:06:00",
-		name: "Beverly Pinn",
-		weight: "404",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 16:06:41",
-		name: "Beverly Pinn",
-		weight: "1427",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 16:07:28",
-		name: "Beverly Pinn",
-		weight: "1471",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 16:08:06",
-		name: "Beverly Pinn",
-		weight: "885",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 16:08:58",
-		name: "Beverly Pinn",
-		weight: "1378",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 16:09:36",
-		name: "Beverly Pinn",
-		weight: "918",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 16:10:35",
-		name: "Beverly Pinn",
-		weight: "1363",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 16:11:13",
-		name: "Beverly Pinn",
-		weight: "563",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 16:11:48",
-		name: "Beverly Pinn",
-		weight: "1267",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 16:12:31",
-		name: "Beverly Pinn",
-		weight: "748",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 16:13:23",
-		name: "Beverly Pinn",
-		weight: "1065",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 16:14:07",
-		name: "Beverly Pinn",
-		weight: "1067",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 16:14:43",
-		name: "Beverly Pinn",
-		weight: "1086",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 16:15:28",
-		name: "Beverly Pinn",
-		weight: "1056",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 16:16:06",
-		name: "Beverly Pinn",
-		weight: "1073",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-17 17:14:13",
-		name: "Claire",
-		weight: "1567",
-		category: "Drinks [Dry]",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-06-17 17:14:50",
-		name: "Claire",
-		weight: "1080",
-		category: "Dole - Fruit Cups",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-06-17 17:15:29",
-		name: "Claire",
-		weight: "1032",
-		category: "Dole - Fruit Cups",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-06-17 00:00:00",
-		name: "Claire",
-		weight: "764",
-		category: "Dole - Fruit Cups",
-		donatedTo: "GBMC"
-	},
-	{
-		date: "2023-06-17 18:09:00",
-		name: "Claire",
-		weight: "-705",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 18:09:24",
-		name: "Claire",
-		weight: "-178",
-		category: "Meat [Raw]",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 18:09:44",
-		name: "Claire",
-		weight: "-1082",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 18:10:26",
-		name: "Claire",
-		weight: "-437",
-		category: "Produce",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 18:12:15",
-		name: "Claire",
-		weight: "-603",
-		category: "Assorted Fridge",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-17 18:16:16",
-		name: "Claire",
-		weight: "-1532",
-		category: "Assorted Dry",
-		donatedTo: "BCF Curbside"
-	},
-	{
-		date: "2023-06-20 00:00:00",
-		name: "Claire",
-		weight: "603",
-		category: "Assorted Fridge",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-20 00:00:00",
-		name: "Claire",
-		weight: "1346",
-		category: "Produce",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-20 00:00:00",
-		name: "Claire",
-		weight: "1091",
-		category: "Produce",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-20 00:00:00",
-		name: "Claire",
-		weight: "972",
-		category: "Produce",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-20 00:00:00",
-		name: "Claire",
-		weight: "30000",
-		category: "Danone - Yogurt",
-		donatedTo: "Janet Arce"
-	},
-	{
-		date: "2023-06-20 10:10:41",
-		name: "Barbara Zadek",
-		weight: "250",
-		category: "Assorted Dry",
-		donatedTo: "Love and Cornbread"
-	},
-	{
-		date: "2023-06-20 10:11:00",
-		name: "Claire",
-		weight: "2012",
-		category: "Dole - Juice",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-20 10:11:21",
-		name: "Claire",
-		weight: "1812",
-		category: "Dole - Juice",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-20 10:20:23",
-		name: "Claire",
-		weight: "1076",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-20 10:34:21",
-		name: "Claire",
-		weight: "732",
-		category: "Produce",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-20 10:37:45",
-		name: "Claire",
-		weight: "631",
-		category: "Produce",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-20 10:45:32",
-		name: "Claire",
-		weight: "691",
-		category: "Assorted Dry",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-21 18:50:37",
-		name: "Claire",
-		weight: "1388",
-		category: "Danone - Creamer",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-21 18:51:14",
-		name: "Claire",
-		weight: "1389",
-		category: "Danone - Creamer",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-21 18:51:38",
-		name: "Claire",
-		weight: "1067",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-21 18:52:02",
-		name: "Claire",
-		weight: "1808",
-		category: "Dole - Juice",
-		donatedTo: "Farmlink [Mauricio]"
-	},
-	{
-		date: "2023-06-22 16:34:47",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-23 15:44:48",
-		name: "Claire",
-		weight: "2009",
-		category: "Water",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-23 15:45:33",
-		name: "Claire",
-		weight: "1999",
-		category: "Water",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-23 15:45:59",
-		name: "Claire",
-		weight: "430",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-23 15:46:36",
-		name: "Claire",
-		weight: "677",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-23 15:47:18",
-		name: "Claire",
-		weight: "1155",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-23 15:47:38",
-		name: "Claire",
-		weight: "1166",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-26 12:14:43",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-26 12:16:27",
-		name: "Claire",
-		weight: "40000",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-27 14:15:10",
-		name: "Claire",
-		weight: "2566",
-		category: "Drinks [Fridge]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-27 18:45:23",
-		name: "Claire",
-		weight: "2413",
-		category: "Drinks [Fridge]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-27 18:50:03",
-		name: "Claire",
-		weight: "1501",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-27 18:50:20",
-		name: "Claire",
-		weight: "1502",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-27 18:50:42",
-		name: "Claire",
-		weight: "1503",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-27 18:50:59",
-		name: "Claire",
-		weight: "1504",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-27 18:51:13",
-		name: "Claire",
-		weight: "1505",
-		category: "Produce",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-29 12:22:34",
-		name: "Claire",
-		weight: "579",
-		category: "Paper Supplies",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-29 12:22:53",
-		name: "Claire",
-		weight: "1140",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-29 12:23:17",
-		name: "Claire",
-		weight: "1639",
-		category: "Water",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-29 12:23:42",
-		name: "Claire",
-		weight: "1814",
-		category: "Dole - Juice",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-29 12:24:04",
-		name: "Claire",
-		weight: "1164",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-29 12:24:23",
-		name: "Claire",
-		weight: "1057",
-		category: "Dole - Fruit Cups",
-		donatedTo: "Other Organization"
-	},
-	{
-		date: "2023-06-29 20:03:48",
-		name: "Claire",
-		weight: "862",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-29 20:04:07",
-		name: "Claire",
-		weight: "1395",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-29 20:04:25",
-		name: "Claire",
-		weight: "1424",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-29 20:04:43",
-		name: "Claire",
-		weight: "1048",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-29 20:04:57",
-		name: "Claire",
-		weight: "1210",
-		category: "Meat [Raw]",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-30 14:16:38",
-		name: "Claire",
-		weight: "2193",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-30 14:17:00",
-		name: "Claire",
-		weight: "2197",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-30 14:17:20",
-		name: "Claire",
-		weight: "2192",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
-	{
-		date: "2023-06-30 14:17:54",
-		name: "Claire",
-		weight: "2202",
-		category: "Dairy",
-		donatedTo: "Pedro"
-	},
+    name: "Vincent Faulk",
+    weight: 224,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-01-06 15:40:18",
+    name: "Juanita Chandler",
+    weight: 507,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-01-06 15:41:27",
+    name: "Juanita Chandler",
+    weight: 665,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-01-06 15:43:46",
+    name: "Juanita Chandler",
+    weight: 181,
+    category: "Spices",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-06 15:44:31",
+    name: "Juanita Chandler",
+    weight: 713,
+    category: "Household",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-06 15:45:39",
+    name: "Juanita Chandler",
+    weight: 232,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-01-06 15:50:11",
+    name: "Juanita Chandler",
+    weight: 61,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-06 15:51:34",
+    name: "Juanita Chandler",
+    weight: 220,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-06 15:52:10",
+    name: "Juanita Chandler",
+    weight: 455,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-06 15:53:19",
+    name: "Juanita Chandler",
+    weight: 48,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-01-06 16:23:41",
+    name: "Juanita Chandler",
+    weight: 204,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-01-06 16:25:07",
+    name: "Juanita Chandler",
+    weight: 253,
+    category: "Assorted Fridge",
+    donatedTo: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-01-06 16:54:09",
+    name: "Sunita Pathik",
+    weight: 150,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-01-07 12:58:59",
+    name: "Juanita Chandler",
+    weight: 360,
+    category: "Health & Beauty Products",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 12:59:50",
+    name: "Juanita Chandler",
+    weight: 683,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 13:00:37",
+    name: "Juanita Chandler",
+    weight: 978,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 13:01:26",
+    name: "Juanita Chandler",
+    weight: 146,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 13:03:15",
+    name: "Juanita Chandler",
+    weight: 624,
+    category: "Pet Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 13:03:58",
+    name: "Juanita Chandler",
+    weight: 131,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 13:05:13",
+    name: "Juanita Chandler",
+    weight: 1125,
+    category: "Drinks [Fridge]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 13:06:08",
+    name: "Juanita Chandler",
+    weight: 1071,
+    category: "Drinks [Fridge]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 13:08:38",
+    name: "Juanita Chandler",
+    weight: 184,
+    category: "Assorted Fridge",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 13:41:57",
+    name: "Juanita Chandler",
+    weight: 690,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 00:00:00",
+    name: "Claire",
+    weight: 480,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 00:00:00",
+    name: "Claire",
+    weight: 334,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 00:00:00",
+    name: "Claire",
+    weight: 125,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 15:59:45",
+    name: "Juanita Chandler",
+    weight: -62,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 16:00:19",
+    name: "Juanita Chandler",
+    weight: -548,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 16:10:35",
+    name: "Juanita Chandler",
+    weight: -499,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 16:11:24",
+    name: "Juanita Chandler",
+    weight: -529,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 16:15:42",
+    name: "Juanita Chandler",
+    weight: -693,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 16:20:31",
+    name: "Juanita Chandler",
+    weight: -172,
+    category: "Assorted Fridge",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 16:23:32",
+    name: "Juanita Chandler",
+    weight: -83,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 16:26:09",
+    name: "Juanita Chandler",
+    weight: -254,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 16:28:59",
+    name: "Juanita Chandler",
+    weight: -75,
+    category: "Health & Beauty Products",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-07 16:33:42",
+    name: "Juanita Chandler",
+    weight: -277,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-08 15:00:48",
+    name: "Zoe",
+    weight: 1604,
+    category: "Assorted Fridge",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-01-10 00:00:00",
+    name: "Claire",
+    weight: 18805,
+    category: "Dairy",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-10 11:55:31",
+    name: "Claire",
+    weight: 381,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-01-10 11:55:59",
+    name: "Claire",
+    weight: 432,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-10 11:56:33",
+    name: "Claire",
+    weight: 904,
+    category: "Dairy",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-10 11:57:00",
+    name: "Claire",
+    weight: 143,
+    category: "Frozen [Not Meat]",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-10 11:57:22",
+    name: "Claire",
+    weight: 87,
+    category: "Assorted Dry",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-10 11:57:50",
+    name: "Claire",
+    weight: 190,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-01-10 11:58:15",
+    name: "Claire",
+    weight: -253,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-13 16:27:53",
+    name: "Sunita Pathik",
+    weight: 197,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-01-13 00:00:00",
+    name: "Claire",
+    weight: 2019,
+    category: "Dairy",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-13 00:00:00",
+    name: "Claire",
+    weight: 2025,
+    category: "Dairy",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-13 00:00:00",
+    name: "Claire",
+    weight: 2222,
+    category: "Dairy",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-13 00:00:00",
+    name: "Claire",
+    weight: 2221,
+    category: "Dairy",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-13 00:00:00",
+    name: "Claire",
+    weight: 2018,
+    category: "Dairy",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-13 00:00:00",
+    name: "Claire",
+    weight: 2223,
+    category: "Dairy",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-13 00:00:00",
+    name: "Claire",
+    weight: 1186,
+    category: "Assorted Fridge",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-01-13 00:00:00",
+    name: "Claire",
+    weight: 1187,
+    category: "Assorted Fridge",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-01-13 00:00:00",
+    name: "Claire",
+    weight: 139,
+    category: "Produce",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-01-13 00:00:00",
+    name: "Claire",
+    weight: 168,
+    category: "Produce",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: 1579,
+    category: "Drinks [Fridge]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: 1024,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: 496,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: 544,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: 312,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: 1663,
+    category: "Drinks [Fridge]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: 265,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: 673,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: 162,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: 1299,
+    category: "Health & Beauty Products",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: -739,
+    category: "Health & Beauty Products",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: -28,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: -918,
+    category: "Drinks [Fridge]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: -640,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: -1499,
+    category: "Drinks [Fridge]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: -129,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: -130,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-14 00:00:00",
+    name: "Claire",
+    weight: -58,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-15 00:00:00",
+    name: "Claire",
+    weight: 377,
+    category: "Produce",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-15 00:00:00",
+    name: "Claire",
+    weight: 196,
+    category: "Produce",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-15 00:00:00",
+    name: "Claire",
+    weight: 381,
+    category: "Drinks [Fridge]",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-15 00:00:00",
+    name: "Claire",
+    weight: 222,
+    category: "Dairy",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-15 00:00:00",
+    name: "Claire",
+    weight: 389,
+    category: "Drinks [Fridge]",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-15 00:00:00",
+    name: "Claire",
+    weight: 166,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-01-15 15:42:19",
+    name: "Opeyemi Faleye",
+    weight: 1817,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-01-20 16:46:10",
+    name: "Claire",
+    weight: 1058,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-20 16:47:05",
+    name: "Claire",
+    weight: 650,
+    category: "Dairy",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-20 16:47:36",
+    name: "Claire",
+    weight: 1506,
+    category: "Health & Beauty Products",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-20 16:48:08",
+    name: "Claire",
+    weight: 890,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-20 16:48:33",
+    name: "Claire",
+    weight: 645,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-01-20 16:48:55",
+    name: "Claire",
+    weight: 1155,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-01-20 16:49:16",
+    name: "Claire",
+    weight: 230,
+    category: "Assorted Fridge",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-01-20 16:49:36",
+    name: "Claire",
+    weight: 1147,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-01-20 16:49:56",
+    name: "Claire",
+    weight: 276,
+    category: "Assorted Fridge",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-01-21 15:32:51",
+    name: "Juanita Chandler",
+    weight: 51,
+    category: "Household",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:34:28",
+    name: "Juanita Chandler",
+    weight: 1051,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:35:07",
+    name: "Juanita Chandler",
+    weight: 1337,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:36:25",
+    name: "Juanita Chandler",
+    weight: 1301,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:39:17",
+    name: "Juanita Chandler",
+    weight: 413,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:40:25",
+    name: "Juanita Chandler",
+    weight: 235,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:42:19",
+    name: "Juanita Chandler",
+    weight: 245,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:43:22",
+    name: "Juanita Chandler",
+    weight: 356,
+    category: "Health & Beauty Products",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:46:10",
+    name: "Juanita Chandler",
+    weight: 131,
+    category: "Pet Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:48:05",
+    name: "Juanita Chandler",
+    weight: 1329,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:49:01",
+    name: "Juanita Chandler",
+    weight: 184,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:49:44",
+    name: "Juanita Chandler",
+    weight: 320,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:51:05",
+    name: "Juanita Chandler",
+    weight: 972,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:52:18",
+    name: "Juanita Chandler",
+    weight: 135,
+    category: "Pet Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:54:00",
+    name: "Juanita Chandler",
+    weight: -402,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:54:43",
+    name: "Juanita Chandler",
+    weight: -749,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:55:58",
+    name: "Juanita Chandler",
+    weight: -736,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:56:48",
+    name: "Juanita Chandler",
+    weight: -1098,
+    category: "Dairy",
+    donatedTo: "BCF [Non Curbside]",
+  },
+  {
+    date: "2023-01-21 15:57:27",
+    name: "Juanita Chandler",
+    weight: -299,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 15:59:22",
+    name: "Juanita Chandler",
+    weight: -167,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 16:02:06",
+    name: "Juanita Chandler",
+    weight: -106,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 16:05:18",
+    name: "Juanita Chandler",
+    weight: -173,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 16:14:41",
+    name: "Juanita Chandler",
+    weight: -84,
+    category: "Pet Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-21 16:15:46",
+    name: "Juanita Chandler",
+    weight: -129,
+    category: "Health & Beauty Products",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-22 00:00:00",
+    name: "Claire",
+    weight: 515,
+    category: "Assorted Fridge",
+    donatedTo: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-01-22 00:00:00",
+    name: "Claire",
+    weight: 453,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-01-22 16:17:49",
+    name: "Opeyemi Faleye",
+    weight: 1827,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-01-26 11:22:16",
+    name: "Claire",
+    weight: 171,
+    category: "Assorted Dry",
+    donatedTo: "Impact Hub",
+  },
+  {
+    date: "2023-01-27 00:00:00",
+    name: "Claire",
+    weight: 103,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-01-27 16:58:52",
+    name: "Sunita Pathik",
+    weight: 182,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-01-27 17:42:45",
+    name: "Perry Faulk",
+    weight: 18,
+    category: "Assorted Fridge",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-01-28 15:58:46",
+    name: "Juanita Chandler",
+    weight: 352,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:00:12",
+    name: "Juanita Chandler",
+    weight: 304,
+    category: "Health & Beauty Products",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:01:16",
+    name: "Juanita Chandler",
+    weight: 255,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:02:17",
+    name: "Juanita Chandler",
+    weight: 1061,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:05:00",
+    name: "Juanita Chandler",
+    weight: 66,
+    category: "Household",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:05:50",
+    name: "Juanita Chandler",
+    weight: 1098,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:06:40",
+    name: "Juanita Chandler",
+    weight: 1111,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:07:16",
+    name: "Juanita Chandler",
+    weight: 841,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:08:10",
+    name: "Juanita Chandler",
+    weight: 905,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:08:59",
+    name: "Juanita Chandler",
+    weight: 626,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:12:58",
+    name: "Juanita Chandler",
+    weight: 307,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:14:01",
+    name: "Juanita Chandler",
+    weight: 158,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:14:37",
+    name: "Juanita Chandler",
+    weight: 178,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:15:35",
+    name: "Juanita Chandler",
+    weight: 505,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 00:00:00",
+    name: "Claire",
+    weight: 352,
+    category: "Drinks [Fridge]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:17:54",
+    name: "Juanita Chandler",
+    weight: -55,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:19:33",
+    name: "Juanita Chandler",
+    weight: -175,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:20:18",
+    name: "Juanita Chandler",
+    weight: -1108,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-28 16:21:13",
+    name: "Juanita Chandler",
+    weight: -763,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-01-29 14:50:21",
+    name: "Zoe",
+    weight: 935,
+    category: "Produce",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-29 14:51:10",
+    name: "Zoe",
+    weight: 154,
+    category: "Assorted Dry",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-29 14:52:07",
+    name: "Zoe",
+    weight: 156,
+    category: "Produce",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-29 14:52:52",
+    name: "Zoe",
+    weight: 439,
+    category: "Dairy",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-01-29 14:53:35",
+    name: "Zoe",
+    weight: 136,
+    category: "Assorted Fridge",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-01-29 14:54:01",
+    name: "Zoe",
+    weight: 1332,
+    category: "Assorted Fridge",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-02-02 17:57:44",
+    name: "Aziza",
+    weight: 1112,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-02-02 17:58:02",
+    name: "Aziza",
+    weight: 1090,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-02-02 17:58:27",
+    name: "Aziza",
+    weight: 1102,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-02-02 17:59:06",
+    name: "Aziza",
+    weight: 2020,
+    category: "Dairy",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-02-03 16:53:50",
+    name: "Sunita Pathik",
+    weight: 200,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-02-03 00:00:00",
+    name: "Claire",
+    weight: 25817.2,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-02-03 00:00:00",
+    name: "Claire",
+    weight: 36403.53,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-02-04 15:55:41",
+    name: "Juanita Chandler",
+    weight: 369,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 15:59:23",
+    name: "Juanita Chandler",
+    weight: 1876,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:02:13",
+    name: "Juanita Chandler",
+    weight: 1108,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:03:21",
+    name: "Juanita Chandler",
+    weight: 117,
+    category: "Household",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:04:42",
+    name: "Juanita Chandler",
+    weight: 130,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:06:34",
+    name: "Juanita Chandler",
+    weight: 129,
+    category: "Assorted Fridge",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:08:16",
+    name: "Juanita Chandler",
+    weight: 204,
+    category: "Cleaning Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:09:08",
+    name: "Juanita Chandler",
+    weight: 56,
+    category: "Paper Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:10:34",
+    name: "Juanita Chandler",
+    weight: 411,
+    category: "Canned Goods",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:12:51",
+    name: "Juanita Chandler",
+    weight: 181,
+    category: "Pet Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:14:41",
+    name: "Juanita Chandler",
+    weight: 313,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:15:23",
+    name: "Juanita Chandler",
+    weight: 150,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:16:33",
+    name: "Juanita Chandler",
+    weight: -76,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:20:39",
+    name: "Juanita Chandler",
+    weight: -97,
+    category: "Pet Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 16:21:44",
+    name: "Juanita Chandler",
+    weight: -47,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-04 00:00:00",
+    name: "Claire",
+    weight: -143,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-05 14:31:42",
+    name: "Juanita Chandler",
+    weight: 198,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-02-05 15:14:49",
+    name: "Opeyemi Faleye",
+    weight: 962,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-02-10 16:02:32",
+    name: "Susan May",
+    weight: 338,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-02-11 00:00:00",
+    name: "Claire",
+    weight: 61,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-02-11 15:00:22",
+    name: "Claire Kim",
+    weight: 3,
+    category: "Drinks [Fridge]",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-02-12 14:44:38",
+    name: "Zoe",
+    weight: 419,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-02-12 14:47:36",
+    name: "Zoe",
+    weight: 75,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-02-12 14:48:13",
+    name: "Zoe",
+    weight: 134,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-02-12 14:54:54",
+    name: "Susan May",
+    weight: 50,
+    category: "Produce",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-02-15 00:00:00",
+    name: "Claire",
+    weight: 14974.55,
+    category: "Dairy",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-02-16 14:59:02",
+    name: "Perry Faulk",
+    weight: 34,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-02-16 15:59:18",
+    name: "Jean",
+    weight: 1071,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-02-16 16:00:21",
+    name: "Jean",
+    weight: 1479,
+    category: "Dairy",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-02-16 16:02:23",
+    name: "Jean",
+    weight: 16,
+    category: "Dairy",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-02-16 16:04:17",
+    name: "Jean",
+    weight: 1087,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-17 13:29:35",
+    name: "Xiomara Rodriguez",
+    weight: 1524,
+    category: "Dairy",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-02-17 13:30:15",
+    name: "Xiomara Rodriguez",
+    weight: 1251,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-02-17 13:30:56",
+    name: "Xiomara Rodriguez",
+    weight: 1094,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-02-17 13:31:20",
+    name: "Xiomara Rodriguez",
+    weight: 1247,
+    category: "Dairy",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-02-17 13:48:23",
+    name: "Xiomara Rodriguez",
+    weight: 1260,
+    category: "Dairy",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-02-17 13:48:55",
+    name: "Xiomara Rodriguez",
+    weight: 912,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-02-17 13:50:20",
+    name: "Xiomara Rodriguez",
+    weight: 1289,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-02-17 13:50:51",
+    name: "Xiomara Rodriguez",
+    weight: 1082,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-02-17 13:51:49",
+    name: "Xiomara Rodriguez",
+    weight: 346,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-02-17 13:52:45",
+    name: "Xiomara Rodriguez",
+    weight: 1107,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-17 13:54:34",
+    name: "Xiomara Rodriguez",
+    weight: 1088,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-17 13:58:26",
+    name: "Xiomara Rodriguez",
+    weight: 1262,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-17 16:44:31",
+    name: "Sunita Pathik",
+    weight: 164,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-02-18 11:56:08",
+    name: "Beverly Pinn",
+    weight: 130,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 12:04:48",
+    name: "Beverly Pinn",
+    weight: 1856,
+    category: "Canned Goods",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 12:08:07",
+    name: "Beverly Pinn",
+    weight: 102,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 12:13:04",
+    name: "Beverly Pinn",
+    weight: 143,
+    category: "Cleaning Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 12:16:13",
+    name: "Beverly Pinn",
+    weight: 94,
+    category: "Household",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 12:38:01",
+    name: "Cameron Minor",
+    weight: 799,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 12:38:54",
+    name: "Cameron Minor",
+    weight: 331,
+    category: "Drinks [Fridge]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 12:39:36",
+    name: "Cameron Minor",
+    weight: 766,
+    category: "Drinks [Fridge]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 12:40:06",
+    name: "Cameron Minor",
+    weight: 399,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 12:44:41",
+    name: "Cameron Minor",
+    weight: 616,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 12:54:37",
+    name: "JC",
+    weight: 1895,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 13:28:22",
+    name: "Juanita Chandler",
+    weight: 1053,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 13:29:17",
+    name: "Juanita Chandler",
+    weight: 157,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 00:00:00",
+    name: "Claire",
+    weight: -12,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 00:00:00",
+    name: "Claire",
+    weight: -435,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 00:00:00",
+    name: "Claire",
+    weight: -1042,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 00:00:00",
+    name: "Claire",
+    weight: -181,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-18 00:00:00",
+    name: "Claire",
+    weight: -32,
+    category: "Household",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-19 13:09:55",
+    name: "Juanita Chandler",
+    weight: 214,
+    category: "Assorted Fridge",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-02-19 13:21:05",
+    name: "Susan May",
+    weight: 128,
+    category: "Produce",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-02-19 14:55:49",
+    name: "Juanita Chandler",
+    weight: 184,
+    category: "Assorted Dry",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-19 15:01:11",
+    name: "Juanita Chandler",
+    weight: 2,
+    category: "Produce",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-19 15:18:01",
+    name: "Lynnette Cromer",
+    weight: 35,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-19 16:00:01",
+    name: "Zoe",
+    weight: 907,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-02-22 14:14:22",
+    name: "Other",
+    weight: 760,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-22 15:33:07",
+    name: "Juanita Chandler",
+    weight: 1312,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-02-22 15:34:11",
+    name: "Juanita Chandler",
+    weight: 1317,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-02-22 15:35:05",
+    name: "Juanita Chandler",
+    weight: 1288,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-02-22 15:36:08",
+    name: "Juanita Chandler",
+    weight: 1087,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-02-23 13:23:13",
+    name: "Claire",
+    weight: 575,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-02-23 13:23:30",
+    name: "Claire",
+    weight: 592,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-02-23 13:36:00",
+    name: "Norma Kriger",
+    weight: 1404,
+    category: "Dairy",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-02-23 13:48:28",
+    name: "Norma Kriger",
+    weight: 215,
+    category: "Dairy",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-23 13:55:13",
+    name: "Norma Kriger",
+    weight: 1301,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-23 13:56:22",
+    name: "Norma Kriger",
+    weight: 1079,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-23 14:14:07",
+    name: "Norma Kriger",
+    weight: 1282,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-23 14:16:26",
+    name: "Norma Kriger",
+    weight: 1088,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-23 00:00:00",
+    name: "Safire Windley",
+    weight: 1159,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-23 19:51:36",
+    name: "Lynnette Cromer",
+    weight: 37,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-02-24 13:23:43",
+    name: "Juanita Chandler",
+    weight: 1066,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-02-24 13:30:19",
+    name: "Juanita Chandler",
+    weight: 1061,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-02-24 13:41:59",
+    name: "Nina Early",
+    weight: 295,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-02-24 13:59:07",
+    name: "Juanita Chandler",
+    weight: 723,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-02-24 14:00:59",
+    name: "Juanita Chandler",
+    weight: 667,
+    category: "Danone - Coffee",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-02-24 14:02:54",
+    name: "Juanita Chandler",
+    weight: 1045,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-02-24 14:05:49",
+    name: "Juanita Chandler",
+    weight: 1251,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-02-24 14:07:37",
+    name: "Juanita Chandler",
+    weight: 1256,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-02-24 14:11:47",
+    name: "Juanita Chandler",
+    weight: 312,
+    category: "Produce",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-02-24 16:45:45",
+    name: "Sunita Pathik",
+    weight: 226,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-02-25 12:36:02",
+    name: "Juanita Chandler",
+    weight: 175,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 12:37:15",
+    name: "Juanita Chandler",
+    weight: 1867,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 12:38:25",
+    name: "Juanita Chandler",
+    weight: 14,
+    category: "Health & Beauty Products",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 13:23:34",
+    name: "Juanita Chandler",
+    weight: 2073,
+    category: "Danone - Milk",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 13:24:39",
+    name: "Juanita Chandler",
+    weight: 132,
+    category: "Household",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 13:26:10",
+    name: "Juanita Chandler",
+    weight: 1595,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 13:27:03",
+    name: "Juanita Chandler",
+    weight: 619,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 13:28:11",
+    name: "Juanita Chandler",
+    weight: 360,
+    category: "Danone - Yogurt",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 13:28:50",
+    name: "Juanita Chandler",
+    weight: 172,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 15:33:22",
+    name: "Juanita Chandler",
+    weight: -9,
+    category: "Household",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 15:35:30",
+    name: "Juanita Chandler",
+    weight: 224,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 15:37:59",
+    name: "Juanita Chandler",
+    weight: -297,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 15:38:54",
+    name: "Juanita Chandler",
+    weight: -1264,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 15:41:00",
+    name: "Juanita Chandler",
+    weight: -210,
+    category: "Assorted Fridge",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 15:41:41",
+    name: "Juanita Chandler",
+    weight: -265,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 15:42:44",
+    name: "Juanita Chandler",
+    weight: -157,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 15:47:25",
+    name: "Juanita Chandler",
+    weight: -1417,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-25 15:50:17",
+    name: "Juanita Chandler",
+    weight: -1563,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-02-26 12:32:03",
+    name: "Juanita Chandler",
+    weight: 1066,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-02-26 12:34:24",
+    name: "Juanita Chandler",
+    weight: 1259,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-02-26 12:49:36",
+    name: "Juanita Chandler",
+    weight: 1104,
+    category: "Dairy",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-02-26 12:59:43",
+    name: "Juanita Chandler",
+    weight: 161,
+    category: "Produce",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-02-26 13:25:28",
+    name: "Juanita Chandler",
+    weight: 253,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-02-26 13:53:41",
+    name: "Susan May",
+    weight: 273,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-02-26 15:01:03",
+    name: "Opeyemi Faleye",
+    weight: 1574,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-02-28 13:26:15",
+    name: "Beverly Pinn",
+    weight: 1204,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-02-28 13:26:52",
+    name: "Beverly Pinn",
+    weight: 1106,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-02-28 13:27:53",
+    name: "Beverly Pinn",
+    weight: 1063,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-02-28 00:00:00",
+    name: "Claire",
+    weight: 1057,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-02-28 13:28:53",
+    name: "Beverly Pinn",
+    weight: 1112,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-02-28 13:29:30",
+    name: "Beverly Pinn",
+    weight: 1083,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-02-28 13:30:14",
+    name: "Beverly Pinn",
+    weight: 1089,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-02-28 13:30:46",
+    name: "Beverly Pinn",
+    weight: 1269,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-03-01 13:18:23",
+    name: "Tishea Lester",
+    weight: 485,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-01 13:34:11",
+    name: "Charmika Burton",
+    weight: 627,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-01 13:37:12",
+    name: "Elizabeth Rehn",
+    weight: 1090,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-01 14:02:13",
+    name: "Juanita Chandler",
+    weight: 1111,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-01 14:03:04",
+    name: "Juanita Chandler",
+    weight: 1101,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-01 14:03:54",
+    name: "Juanita Chandler",
+    weight: 1091,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-01 14:05:07",
+    name: "Juanita Chandler",
+    weight: 1065,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-01 14:08:25",
+    name: "Juanita Chandler",
+    weight: 1087,
+    category: "Frozen [Not Meat]",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-01 14:10:20",
+    name: "Juanita Chandler",
+    weight: 1069,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-01 14:13:33",
+    name: "Juanita Chandler",
+    weight: 871,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-01 14:14:49",
+    name: "Juanita Chandler",
+    weight: 1446,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-01 14:15:24",
+    name: "Juanita Chandler",
+    weight: 530,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-01 15:30:49",
+    name: "Gabriel C",
+    weight: 152,
+    category: "Assorted Fridge",
+    donatedTo: "Impact Hub",
+  },
+  {
+    date: "2023-03-01 17:07:17",
+    name: "Barbara Zadek",
+    weight: 10,
+    category: "Produce",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-03-02 19:45:31",
+    name: "Norma Kriger",
+    weight: 939,
+    category: "Assorted Dry",
+    donatedTo: "Baltimore Cease Fire [Nkenge]",
+  },
+  {
+    date: "2023-03-02 19:47:05",
+    name: "Norma Kriger",
+    weight: 1102,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Baltimore Cease Fire [Nkenge]",
+  },
+  {
+    date: "2023-03-02 19:48:40",
+    name: "Norma Kriger",
+    weight: 490,
+    category: "Dairy",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-03-02 19:49:56",
+    name: "Norma Kriger",
+    weight: 521,
+    category: "Dairy",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-02 19:51:05",
+    name: "Norma Kriger",
+    weight: 272,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-02 19:51:59",
+    name: "Norma Kriger",
+    weight: 276,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-03-02 00:00:00",
+    name: "Norma Kriger",
+    weight: 211,
+    category: "Produce",
+    donatedTo: "Baltimore Cease Fire [Nkenge]",
+  },
+  {
+    date: "2023-03-03 13:12:34",
+    name: "Phillip Blackwell",
+    weight: 1298,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 13:14:15",
+    name: "Phillip Blackwell",
+    weight: 11,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 13:49:42",
+    name: "Juanita Chandler",
+    weight: 1238,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 13:51:39",
+    name: "Juanita Chandler",
+    weight: 373,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 13:53:53",
+    name: "Juanita Chandler",
+    weight: 1271,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 13:55:06",
+    name: "Juanita Chandler",
+    weight: 1253,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 13:57:59",
+    name: "Juanita Chandler",
+    weight: 1163,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 14:08:45",
+    name: "Juanita Chandler",
+    weight: 1272,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 14:15:36",
+    name: "Juanita Chandler",
+    weight: 1768,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 14:16:47",
+    name: "Barbara Zadek",
+    weight: 198,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-03-03 14:22:11",
+    name: "Juanita Chandler",
+    weight: 1253,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 14:23:39",
+    name: "Juanita Chandler",
+    weight: 1949,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-03 14:24:37",
+    name: "Juanita Chandler",
+    weight: 1251,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-04 11:54:00",
+    name: "Beverly Pinn",
+    weight: 1175,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 12:16:36",
+    name: "Beverly Pinn",
+    weight: 624,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 12:17:12",
+    name: "Beverly Pinn",
+    weight: 1093,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-04 12:17:53",
+    name: "Beverly Pinn",
+    weight: 583,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 12:19:05",
+    name: "Beverly Pinn",
+    weight: 621,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-04 12:20:11",
+    name: "Beverly Pinn",
+    weight: 463,
+    category: "Assorted Fridge",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-04 12:22:19",
+    name: "Beverly Pinn",
+    weight: 223,
+    category: "Produce",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-04 12:29:15",
+    name: "Beverly Pinn",
+    weight: 389,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 12:42:10",
+    name: "Beverly Pinn",
+    weight: 417,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 13:40:13",
+    name: "Beverly Pinn",
+    weight: 945,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 13:40:52",
+    name: "Beverly Pinn",
+    weight: 641,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 13:42:50",
+    name: "Beverly Pinn",
+    weight: 507,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 13:43:38",
+    name: "Beverly Pinn",
+    weight: 581,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 13:44:42",
+    name: "Beverly Pinn",
+    weight: 1175,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 13:45:33",
+    name: "Beverly Pinn",
+    weight: 1263,
+    category: "Danone - Milk",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 13:46:21",
+    name: "Beverly Pinn",
+    weight: 1065,
+    category: "Condiments",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 13:46:48",
+    name: "Beverly Pinn",
+    weight: 519,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 13:57:56",
+    name: "Beverly Pinn",
+    weight: 1598,
+    category: "Canned Goods",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 15:41:31",
+    name: "Juanita Chandler",
+    weight: -486,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 15:47:51",
+    name: "Juanita Chandler",
+    weight: -47,
+    category: "Household",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 15:48:47",
+    name: "Juanita Chandler",
+    weight: -717,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 15:51:31",
+    name: "Juanita Chandler",
+    weight: -23,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 15:55:50",
+    name: "Juanita Chandler",
+    weight: -1210,
+    category: "Canned Goods",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 15:59:14",
+    name: "Juanita Chandler",
+    weight: -282,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF [Non Curbside]",
+  },
+  {
+    date: "2023-03-04 16:00:19",
+    name: "Juanita Chandler",
+    weight: -155,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-04 16:01:37",
+    name: "Juanita Chandler",
+    weight: -880,
+    category: "Condiments",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-05 13:44:10",
+    name: "Susan May",
+    weight: 29,
+    category: "Produce",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-03-05 15:15:09",
+    name: "Juanita Chandler",
+    weight: 118,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-05 15:18:37",
+    name: "Juanita Chandler",
+    weight: 95,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-05 15:26:26",
+    name: "Zoe",
+    weight: 1419,
+    category: "Assorted Fridge",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-03-05 23:30:16",
+    name: "Juanita Chandler",
+    weight: 203,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-05 23:32:45",
+    name: "Juanita Chandler",
+    weight: 16,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-08 13:02:25",
+    name: "Juanita Chandler",
+    weight: 1098,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-08 13:03:07",
+    name: "Juanita Chandler",
+    weight: 1212,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-08 13:03:52",
+    name: "Juanita Chandler",
+    weight: 1272,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-08 13:15:32",
+    name: "Juanita Chandler",
+    weight: 411,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-08 13:27:11",
+    name: "Juanita Chandler",
+    weight: 1355,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-08 13:32:43",
+    name: "Juanita Chandler",
+    weight: 1250,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-08 13:38:34",
+    name: "Juanita Chandler",
+    weight: 1959,
+    category: "Drinks [Dry]",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-08 13:52:26",
+    name: "Juanita Chandler",
+    weight: 651,
+    category: "Assorted Dry",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-08 13:54:58",
+    name: "Juanita Chandler",
+    weight: 570,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-08 00:00:00",
+    name: "Safire Windley",
+    weight: 502,
+    category: "Assorted Dry",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-03-08 00:00:00",
+    name: "Safire Windley",
+    weight: 1293,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-03-08 00:00:00",
+    name: "Safire Windley",
+    weight: 1050,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-03-09 13:23:51",
+    name: "Norma Kriger",
+    weight: 1084,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-09 14:37:13",
+    name: "Norma Kriger",
+    weight: 660,
+    category: "Dairy",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-03-09 14:38:40",
+    name: "Norma Kriger",
+    weight: 685,
+    category: "Dairy",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-03-09 14:41:13",
+    name: "Norma Kriger",
+    weight: 2078,
+    category: "Dairy",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-03-09 14:42:13",
+    name: "Norma Kriger",
+    weight: 1014,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-03-09 14:43:16",
+    name: "Norma Kriger",
+    weight: 1100,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-03-09 14:53:04",
+    name: "Norma Kriger",
+    weight: 612,
+    category: "Assorted Dry",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-03-09 14:56:42",
+    name: "Norma Kriger",
+    weight: 1069,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morgan State University",
+  },
+  {
+    date: "2023-03-09 00:00:00",
+    name: "Claire",
+    weight: 11936,
+    category: "Dairy",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-03-10 13:55:45",
+    name: "Barbara Zadek",
+    weight: 397,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-03-10 14:01:05",
+    name: "Elizabeth Rehn",
+    weight: 346,
+    category: "Danone - Creamer",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 00:00:00",
+    name: "Claire",
+    weight: 499,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 00:00:00",
+    name: "Claire",
+    weight: 688,
+    category: "Danone - Creamer",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 14:09:33",
+    name: "Juanita Chandler",
+    weight: 132,
+    category: "Assorted Dry",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 14:10:50",
+    name: "Juanita Chandler",
+    weight: 146,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 14:15:48",
+    name: "Juanita Chandler",
+    weight: 346,
+    category: "Danone - Creamer",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 14:17:42",
+    name: "Juanita Chandler",
+    weight: 499,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 14:19:57",
+    name: "Juanita Chandler",
+    weight: -294,
+    category: "Danone - Creamer",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 15:09:05",
+    name: "Juanita Chandler",
+    weight: 297,
+    category: "Danone - Creamer",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 15:10:38",
+    name: "Juanita Chandler",
+    weight: 1189,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 15:13:42",
+    name: "Juanita Chandler",
+    weight: 1294,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 16:19:19",
+    name: "Phillip Blackwell",
+    weight: 231,
+    category: "Danone - Creamer",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-10 16:54:36",
+    name: "Sunita Pathik",
+    weight: 103,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-03-11 11:45:06",
+    name: "Beverly Pinn",
+    weight: 694,
+    category: "Danone - Creamer",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-11 12:06:54",
+    name: "Beverly Pinn",
+    weight: 691,
+    category: "Danone - Creamer",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-11 12:07:38",
+    name: "Beverly Pinn",
+    weight: 1067,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-11 12:08:57",
+    name: "Beverly Pinn",
+    weight: 962,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-11 12:09:49",
+    name: "Beverly Pinn",
+    weight: 749,
+    category: "Drinks [Dry]",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-11 12:10:31",
+    name: "Beverly Pinn",
+    weight: 564,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-03-11 12:11:10",
+    name: "Beverly Pinn",
+    weight: 912,
+    category: "Drinks [Dry]",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-11 12:13:18",
+    name: "Beverly Pinn",
+    weight: 1762,
+    category: "Danone - Creamer",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-11 12:15:24",
+    name: "Beverly Pinn",
+    weight: 1098,
+    category: "Danone - Creamer",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-11 12:28:36",
+    name: "Beverly Pinn",
+    weight: 1728,
+    category: "Frozen [Not Meat]",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-11 12:49:38",
+    name: "Beverly Pinn",
+    weight: 1826,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 12:50:25",
+    name: "Beverly Pinn",
+    weight: 1281,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 12:58:35",
+    name: "Beverly Pinn",
+    weight: 1949,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 13:18:55",
+    name: "Juanita Chandler",
+    weight: 185,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 13:21:40",
+    name: "Juanita Chandler",
+    weight: 1342,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 13:22:32",
+    name: "Juanita Chandler",
+    weight: 1155,
+    category: "Drinks [Fridge]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 13:28:03",
+    name: "Juanita Chandler",
+    weight: 492,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 13:36:17",
+    name: "Juanita Chandler",
+    weight: 1570,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 13:46:40",
+    name: "Juanita Chandler",
+    weight: 534,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 13:53:13",
+    name: "Juanita Chandler",
+    weight: 430,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 13:58:33",
+    name: "Juanita Chandler",
+    weight: 831,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 14:02:52",
+    name: "Juanita Chandler",
+    weight: 340,
+    category: "Meat [Raw]",
+    donatedTo: "BCF [Non Curbside]",
+  },
+  {
+    date: "2023-03-11 15:11:20",
+    name: "Beverly Pinn",
+    weight: 1087,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 15:41:37",
+    name: "Juanita Chandler",
+    weight: -534,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 15:48:22",
+    name: "Juanita Chandler",
+    weight: 1271,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 15:50:32",
+    name: "Juanita Chandler",
+    weight: -1485,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 15:51:13",
+    name: "Juanita Chandler",
+    weight: -713,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 15:52:19",
+    name: "Juanita Chandler",
+    weight: -1483,
+    category: "Assorted Fridge",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 16:03:49",
+    name: "Juanita Chandler",
+    weight: -415,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 16:05:38",
+    name: "Juanita Chandler",
+    weight: -1052,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 16:11:36",
+    name: "Juanita Chandler",
+    weight: -119,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-11 16:12:26",
+    name: "Juanita Chandler",
+    weight: -287,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-12 12:25:29",
+    name: "Juanita Chandler",
+    weight: 688,
+    category: "Assorted Dry",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-03-12 12:33:19",
+    name: "Juanita Chandler",
+    weight: 1489,
+    category: "Danone - Creamer",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-03-12 13:10:11",
+    name: "Juanita Chandler",
+    weight: 140,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-12 13:40:21",
+    name: "Phillip Blackwell",
+    weight: 997,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-12 13:56:15",
+    name: "Susan May",
+    weight: 22,
+    category: "Produce",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-03-12 14:25:03",
+    name: "Juanita Chandler",
+    weight: 138,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-03-12 14:26:00",
+    name: "Juanita Chandler",
+    weight: 120,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-12 15:31:36",
+    name: "Opeyemi Faleye",
+    weight: 1322,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-03-15 13:51:09",
+    name: "Juanita Chandler",
+    weight: 28,
+    category: "Danone - Creamer",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-15 13:52:56",
+    name: "Juanita Chandler",
+    weight: 1254,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-15 14:22:50",
+    name: "Juanita Chandler",
+    weight: 1629,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-15 14:59:38",
+    name: "Juanita Chandler",
+    weight: 28,
+    category: "Danone - Creamer",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-15 15:05:25",
+    name: "Juanita Chandler",
+    weight: 1608,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-15 15:10:09",
+    name: "Juanita Chandler",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-15 15:11:14",
+    name: "Juanita Chandler",
+    weight: 703,
+    category: "Danone - Creamer",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-15 15:16:37",
+    name: "Juanita Chandler",
+    weight: 1761,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-15 15:17:19",
+    name: "Juanita Chandler",
+    weight: 252,
+    category: "Assorted Dry",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-15 15:23:25",
+    name: "Juanita Chandler",
+    weight: 1432,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-15 15:25:31",
+    name: "Juanita Chandler",
+    weight: 1493,
+    category: "Health & Beauty Products",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-15 15:29:17",
+    name: "Juanita Chandler",
+    weight: 1447,
+    category: "Health & Beauty Products",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-15 15:36:59",
+    name: "Juanita Chandler",
+    weight: 1194,
+    category: "Danone - Creamer",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-15 15:41:58",
+    name: "Juanita Chandler",
+    weight: 1438,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-15 15:46:07",
+    name: "Juanita Chandler",
+    weight: 685,
+    category: "Danone - Creamer",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-16 13:53:28",
+    name: "Norma Kriger",
+    weight: 332,
+    category: "Produce",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-03-16 15:33:40",
+    name: "Norma Kriger",
+    weight: 1049,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-16 15:56:01",
+    name: "Norma Kriger",
+    weight: 525,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-17 14:29:06",
+    name: "Juanita Chandler",
+    weight: 617,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-03-17 14:37:25",
+    name: "Juanita Chandler",
+    weight: 1013,
+    category: "Assorted Fridge",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-03-17 00:00:00",
+    name: "Safire Windley",
+    weight: 664,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-03-17 14:45:09",
+    name: "Juanita Chandler",
+    weight: 640,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-17 14:47:46",
+    name: "Juanita Chandler",
+    weight: 993,
+    category: "Assorted Fridge",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-17 15:18:08",
+    name: "Juanita Chandler",
+    weight: 697,
+    category: "Danone - Creamer",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-03-17 15:23:23",
+    name: "Juanita Chandler",
+    weight: 1138,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-03-17 15:31:06",
+    name: "Juanita Chandler",
+    weight: 349,
+    category: "Assorted Dry",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-03-17 16:48:08",
+    name: "Sunita Pathik",
+    weight: 152,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-03-18 11:54:24",
+    name: "Beverly Pinn",
+    weight: 685,
+    category: "Danone - Creamer",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-18 11:55:06",
+    name: "Beverly Pinn",
+    weight: 1792,
+    category: "Danone - Creamer",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-18 11:55:43",
+    name: "Beverly Pinn",
+    weight: 1418,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-18 12:46:06",
+    name: "Juanita Chandler",
+    weight: 1049,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 12:49:21",
+    name: "Juanita Chandler",
+    weight: 1398,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 12:56:05",
+    name: "Juanita Chandler",
+    weight: 1394,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 13:06:26",
+    name: "Juanita Chandler",
+    weight: 1023,
+    category: "Danone - Creamer",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 13:15:03",
+    name: "Juanita Chandler",
+    weight: 1764,
+    category: "Danone - Creamer",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 13:22:11",
+    name: "Juanita Chandler",
+    weight: 218,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 00:00:00",
+    name: "Claire",
+    weight: 200,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 13:23:05",
+    name: "Juanita Chandler",
+    weight: 287,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 13:36:24",
+    name: "Juanita Chandler",
+    weight: 150,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:34:11",
+    name: "Juanita Chandler",
+    weight: -1475,
+    category: "Danone - Creamer",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:39:21",
+    name: "Juanita Chandler",
+    weight: 1877,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:41:43",
+    name: "Juanita Chandler",
+    weight: 43,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 00:00:00",
+    name: "Safire Windley",
+    weight: 1475,
+    category: "Danone - Creamer",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:43:25",
+    name: "Juanita Chandler",
+    weight: -768,
+    category: "Danone - Creamer",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:45:25",
+    name: "Juanita Chandler",
+    weight: -1091,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:46:17",
+    name: "Juanita Chandler",
+    weight: -163,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:48:01",
+    name: "Juanita Chandler",
+    weight: 607,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:49:13",
+    name: "Juanita Chandler",
+    weight: -748,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:53:36",
+    name: "Juanita Chandler",
+    weight: -717,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:55:53",
+    name: "Juanita Chandler",
+    weight: -369,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-18 15:57:52",
+    name: "Juanita Chandler",
+    weight: -149,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-19 13:22:22",
+    name: "Phillip Blackwell",
+    weight: 682,
+    category: "Drinks [Dry]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-19 13:28:37",
+    name: "Juanita Chandler",
+    weight: 306,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-03-19 13:30:11",
+    name: "Juanita Chandler",
+    weight: 671,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-19 13:59:59",
+    name: "Susan May",
+    weight: 7,
+    category: "Produce",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-03-19 15:24:13",
+    name: "Opeyemi Faleye",
+    weight: 1343,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-03-22 13:08:21",
+    name: "Juanita Chandler",
+    weight: 687,
+    category: "Danone - Creamer",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-22 13:09:54",
+    name: "Juanita Chandler",
+    weight: 1361,
+    category: "Danone - Creamer",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-22 00:00:00",
+    name: "Safire Windley",
+    weight: 1120,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-22 13:15:29",
+    name: "Elizabeth Rehn",
+    weight: 1250,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-22 13:17:02",
+    name: "Juanita Chandler",
+    weight: 1258,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-22 13:20:15",
+    name: "Juanita Chandler",
+    weight: 984,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-22 13:31:45",
+    name: "Juanita Chandler",
+    weight: 134,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-22 13:32:29",
+    name: "Juanita Chandler",
+    weight: 601,
+    category: "Danone - Creamer",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-22 13:45:30",
+    name: "Juanita Chandler",
+    weight: 973,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-22 13:46:56",
+    name: "Juanita Chandler",
+    weight: 1769,
+    category: "Danone - Creamer",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-22 13:51:01",
+    name: "Juanita Chandler",
+    weight: 1120,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-22 13:51:41",
+    name: "Juanita Chandler",
+    weight: 255,
+    category: "Assorted Dry",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-22 14:15:15",
+    name: "Juanita Chandler",
+    weight: 206,
+    category: "Danone - Creamer",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-23 13:51:36",
+    name: "Barbara Zadek",
+    weight: 263,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-03-23 00:00:00",
+    name: "Claire",
+    weight: 415,
+    category: "Assorted Dry",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-23 00:00:00",
+    name: "Claire",
+    weight: 1082,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-23 00:00:00",
+    name: "Claire",
+    weight: 372,
+    category: "Assorted Fridge",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-24 15:11:39",
+    name: "Juanita Chandler",
+    weight: 1040,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-03-24 15:12:45",
+    name: "Juanita Chandler",
+    weight: 628,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-03-24 15:14:53",
+    name: "Juanita Chandler",
+    weight: 732,
+    category: "Assorted Fridge",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-24 15:16:19",
+    name: "Juanita Chandler",
+    weight: 12,
+    category: "Produce",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-25 12:23:27",
+    name: "Jasmine Rose",
+    weight: 187,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-03-25 12:25:18",
+    name: "Jasmine Rose",
+    weight: 314,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-03-25 12:32:14",
+    name: "Jasmine Rose",
+    weight: 1082,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-03-25 12:34:57",
+    name: "Jasmine Rose",
+    weight: 1548,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-03-25 13:30:58",
+    name: "Juanita Chandler",
+    weight: 1134,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 00:00:00",
+    name: "Safire Windley",
+    weight: 513,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 13:39:18",
+    name: "Juanita Chandler",
+    weight: 162,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 13:46:35",
+    name: "Juanita Chandler",
+    weight: 1937,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 13:47:32",
+    name: "Juanita Chandler",
+    weight: 282,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 13:48:23",
+    name: "Juanita Chandler",
+    weight: 587,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 13:55:06",
+    name: "Juanita Chandler",
+    weight: 281,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 13:58:39",
+    name: "Juanita Chandler",
+    weight: 239,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 14:00:55",
+    name: "Juanita Chandler",
+    weight: 70,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 14:04:18",
+    name: "Juanita Chandler",
+    weight: 124,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 14:07:36",
+    name: "Juanita Chandler",
+    weight: 695,
+    category: "Condiments",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 00:00:00",
+    name: "Safire Windley",
+    weight: 201,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 14:12:22",
+    name: "Juanita Chandler",
+    weight: 1501,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 15:44:44",
+    name: "Juanita Chandler",
+    weight: 336,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 15:47:37",
+    name: "Juanita Chandler",
+    weight: -213,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 15:48:36",
+    name: "Juanita Chandler",
+    weight: -24,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 15:51:15",
+    name: "Juanita Chandler",
+    weight: -1379,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 15:56:52",
+    name: "Juanita Chandler",
+    weight: -147,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 15:59:30",
+    name: "Juanita Chandler",
+    weight: -496,
+    category: "Condiments",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 16:01:39",
+    name: "Juanita Chandler",
+    weight: -760,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 16:06:16",
+    name: "Juanita Chandler",
+    weight: -535,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 16:11:30",
+    name: "Juanita Chandler",
+    weight: -365,
+    category: "Assorted Fridge",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-25 16:22:07",
+    name: "Juanita Chandler",
+    weight: -316,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-03-26 12:28:58",
+    name: "Juanita Chandler",
+    weight: 523,
+    category: "Assorted Dry",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-03-26 13:06:02",
+    name: "Juanita Chandler",
+    weight: -419,
+    category: "Assorted Dry",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-03-26 13:07:08",
+    name: "Juanita Chandler",
+    weight: 212,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-03-26 13:09:53",
+    name: "Juanita Chandler",
+    weight: 230,
+    category: "Assorted Dry",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-03-26 13:23:45",
+    name: "Juanita Chandler",
+    weight: 8,
+    category: "Meat [Raw]",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-03-26 13:24:25",
+    name: "Juanita Chandler",
+    weight: 247,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-03-26 00:00:00",
+    name: "Safire Windley",
+    weight: 61,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-26 00:00:00",
+    name: "Safire Windley",
+    weight: 32,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-26 16:24:42",
+    name: "Opeyemi Faleye",
+    weight: 919,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-03-28 16:48:05",
+    name: "Beverly Pinn",
+    weight: 150,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-29 14:14:42",
+    name: "Juanita Chandler",
+    weight: 1141,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Morrell pk Elem. and Middle schho",
+  },
+  {
+    date: "2023-03-29 14:24:53",
+    name: "Juanita Chandler",
+    weight: 1951,
+    category: "Drinks [Dry]",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-29 14:26:11",
+    name: "Juanita Chandler",
+    weight: 1776,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-29 14:28:37",
+    name: "Juanita Chandler",
+    weight: 1297,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-29 14:29:30",
+    name: "Juanita Chandler",
+    weight: 327,
+    category: "Produce",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-29 14:30:19",
+    name: "Juanita Chandler",
+    weight: 918,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-29 14:32:15",
+    name: "Juanita Chandler",
+    weight: 1072,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-03-29 14:33:46",
+    name: "Juanita Chandler",
+    weight: 1057,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-29 14:35:10",
+    name: "Juanita Chandler",
+    weight: 191,
+    category: "Produce",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-29 14:40:27",
+    name: "Juanita Chandler",
+    weight: 1466,
+    category: "Health & Beauty Products",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-03-30 00:00:00",
+    name: "Claire",
+    weight: 52,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-03-30 13:39:53",
+    name: "Barbara Zadek",
+    weight: 324,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-03-31 13:56:25",
+    name: "Susan May",
+    weight: 23,
+    category: "Produce",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-03-31 16:47:50",
+    name: "Sunita Pathik",
+    weight: 225,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-03-31 00:00:00",
+    name: "Juanita Chandler",
+    weight: 767,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-31 00:00:00",
+    name: "Juanita Chandler",
+    weight: 347,
+    category: "Produce",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-03-31 00:00:00",
+    name: "Juanita Chandler",
+    weight: 341,
+    category: "Produce",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-03-31 00:00:00",
+    name: "Juanita Chandler",
+    weight: 874,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-03-31 00:00:00",
+    name: "Juanita Chandler",
+    weight: 778,
+    category: "Drinks [Dry]",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-04-01 12:23:14",
+    name: "Juanita Chandler",
+    weight: 392,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-01 12:29:50",
+    name: "Juanita Chandler",
+    weight: 1850,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-01 12:30:56",
+    name: "Juanita Chandler",
+    weight: 1189,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-01 12:49:07",
+    name: "Juanita Chandler",
+    weight: 1796,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-01 12:50:54",
+    name: "Juanita Chandler",
+    weight: 325,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-01 13:12:13",
+    name: "Juanita Chandler",
+    weight: 1184,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:21:34",
+    name: "Juanita Chandler",
+    weight: 804,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:22:18",
+    name: "Juanita Chandler",
+    weight: 256,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:24:30",
+    name: "Juanita Chandler",
+    weight: 1171,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:31:20",
+    name: "Juanita Chandler",
+    weight: 443,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:35:24",
+    name: "Juanita Chandler",
+    weight: 113,
+    category: "Other",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:37:30",
+    name: "Juanita Chandler",
+    weight: 240,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:39:53",
+    name: "Juanita Chandler",
+    weight: 571,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:47:21",
+    name: "Juanita Chandler",
+    weight: 1658,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:51:45",
+    name: "Juanita Chandler",
+    weight: 1849,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:54:18",
+    name: "Juanita Chandler",
+    weight: 513,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 13:56:40",
+    name: "Juanita Chandler",
+    weight: 147,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 14:51:12",
+    name: "Beverly Pinn",
+    weight: 190,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 14:51:38",
+    name: "Beverly Pinn",
+    weight: 151,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 14:52:17",
+    name: "Beverly Pinn",
+    weight: 685,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 15:11:13",
+    name: "Beverly Pinn",
+    weight: 333,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 15:38:39",
+    name: "Juanita Chandler",
+    weight: -331,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 15:46:50",
+    name: "Juanita Chandler",
+    weight: -927,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 15:47:54",
+    name: "Juanita Chandler",
+    weight: -69,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 15:49:47",
+    name: "Juanita Chandler",
+    weight: -1428,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 16:02:15",
+    name: "Juanita Chandler",
+    weight: -131,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 16:03:33",
+    name: "Juanita Chandler",
+    weight: -611,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-01 01:00:01",
+    name: "Claire",
+    weight: 196,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-02 13:11:57",
+    name: "Phillip Blackwell",
+    weight: 1523,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-02 13:14:11",
+    name: "Juanita Chandler",
+    weight: 360,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-04-02 15:09:33",
+    name: "Juanita Chandler",
+    weight: 151,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-02 15:10:17",
+    name: "Zoe",
+    weight: 1345,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-04-02 15:11:07",
+    name: "Juanita Chandler",
+    weight: 90,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-05 13:08:45",
+    name: "Juanita Chandler",
+    weight: 1067,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-05 13:11:40",
+    name: "Juanita Chandler",
+    weight: 561,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-05 14:37:35",
+    name: "Juanita Chandler",
+    weight: 223,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-05 15:21:51",
+    name: "Juanita Chandler",
+    weight: 1174,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-05 15:22:41",
+    name: "Juanita Chandler",
+    weight: 206,
+    category: "Produce",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-05 15:25:19",
+    name: "Juanita Chandler",
+    weight: 459,
+    category: "Assorted Fridge",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-05 15:28:47",
+    name: "Juanita Chandler",
+    weight: 1192,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-05 15:30:23",
+    name: "Juanita Chandler",
+    weight: 313,
+    category: "Assorted Fridge",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-05 15:41:44",
+    name: "Juanita Chandler",
+    weight: -313,
+    category: "Assorted Fridge",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-05 15:43:39",
+    name: "Juanita Chandler",
+    weight: 313,
+    category: "Assorted Fridge",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-06 14:26:03",
+    name: "Norma Kriger",
+    weight: 200,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-06 00:00:00",
+    name: "Safire Windley",
+    weight: 1184,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-06 00:00:00",
+    name: "Safire Windley",
+    weight: 1194,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-06 14:37:19",
+    name: "Norma Kriger",
+    weight: 856,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-06 14:38:03",
+    name: "Norma Kriger",
+    weight: 241,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-06 14:42:14",
+    name: "Norma Kriger",
+    weight: 606,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-07 13:38:23",
+    name: "Juanita Chandler",
+    weight: 403,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-04-07 13:39:30",
+    name: "Juanita Chandler",
+    weight: 230,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-07 13:41:18",
+    name: "Juanita Chandler",
+    weight: 128,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-07 15:28:37",
+    name: "Juanita Chandler",
+    weight: 280,
+    category: "Produce",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-04-07 15:32:27",
+    name: "Juanita Chandler",
+    weight: 1015,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-04-07 15:35:20",
+    name: "Juanita Chandler",
+    weight: 253,
+    category: "Produce",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-04-07 15:38:57",
+    name: "Juanita Chandler",
+    weight: 1022,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-04-07 15:44:56",
+    name: "Juanita Chandler",
+    weight: 524,
+    category: "Drinks [Dry]",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-04-07 16:56:15",
+    name: "Sunita Pathik",
+    weight: 206,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-04-08 13:00:34",
+    name: "Juanita Chandler",
+    weight: 619,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-08 13:01:37",
+    name: "Juanita Chandler",
+    weight: 1176,
+    category: "Canned Goods",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-08 13:04:18",
+    name: "Juanita Chandler",
+    weight: 943,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-08 13:10:37",
+    name: "Juanita Chandler",
+    weight: 1895,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-08 13:15:27",
+    name: "Juanita Chandler",
+    weight: 776,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 13:17:15",
+    name: "Juanita Chandler",
+    weight: 1189,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-08 13:18:21",
+    name: "Juanita Chandler",
+    weight: 1192,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-08 13:19:26",
+    name: "Juanita Chandler",
+    weight: 1228,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 13:20:42",
+    name: "Juanita Chandler",
+    weight: 1164,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 13:22:15",
+    name: "Juanita Chandler",
+    weight: 1920,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 13:25:18",
+    name: "Juanita Chandler",
+    weight: 1276,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 13:37:59",
+    name: "Juanita Chandler",
+    weight: 967,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 13:38:55",
+    name: "Juanita Chandler",
+    weight: 128,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 13:42:51",
+    name: "Juanita Chandler",
+    weight: 1116,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 13:50:20",
+    name: "Juanita Chandler",
+    weight: 565,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 13:51:04",
+    name: "Juanita Chandler",
+    weight: 222,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 13:52:16",
+    name: "Juanita Chandler",
+    weight: 1270,
+    category: "Danone - Yogurt",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 15:25:41",
+    name: "Opeyemi Faleye",
+    weight: 309,
+    category: "Snacks",
+    donatedTo: "BCF [Non Curbside]",
+  },
+  {
+    date: "2023-04-08 15:26:12",
+    name: "Opeyemi Faleye",
+    weight: 1713,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF [Non Curbside]",
+  },
+  {
+    date: "2023-04-08 15:28:35",
+    name: "Opeyemi Faleye",
+    weight: 1369,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-04-08 16:35:30",
+    name: "Juanita Chandler",
+    weight: 1429,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 16:41:58",
+    name: "Juanita Chandler",
+    weight: -149,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 16:42:50",
+    name: "Juanita Chandler",
+    weight: -296,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 16:43:54",
+    name: "Juanita Chandler",
+    weight: -532,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 16:57:45",
+    name: "Juanita Chandler",
+    weight: -763,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 17:20:58",
+    name: "Juanita Chandler",
+    weight: -342,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 17:22:01",
+    name: "Juanita Chandler",
+    weight: -1663,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 17:23:01",
+    name: "Juanita Chandler",
+    weight: -1558,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-08 17:24:25",
+    name: "Juanita Chandler",
+    weight: -389,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-09 15:17:05",
+    name: "JC",
+    weight: 1175,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-09 15:18:01",
+    name: "JC",
+    weight: 879,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-09 15:18:41",
+    name: "JC",
+    weight: 682,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-09 15:19:12",
+    name: "JC",
+    weight: 1152,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-09 15:19:45",
+    name: "JC",
+    weight: 1066,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-09 15:20:17",
+    name: "JC",
+    weight: 532,
+    category: "Danone - Yogurt",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-11 14:21:45",
+    name: "Barbara Zadek",
+    weight: 392,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-04-11 16:29:28",
+    name: "Beverly Pinn",
+    weight: 1920,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-04-11 16:30:03",
+    name: "Beverly Pinn",
+    weight: 545,
+    category: "Assorted Fridge",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-04-12 13:14:32",
+    name: "Juanita Chandler",
+    weight: 581,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-12 13:15:41",
+    name: "Juanita Chandler",
+    weight: 621,
+    category: "Produce",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-12 13:18:42",
+    name: "Juanita Chandler",
+    weight: 1254,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-12 13:19:49",
+    name: "Juanita Chandler",
+    weight: 1692,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-12 13:26:35",
+    name: "Juanita Chandler",
+    weight: 1090,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-12 13:27:12",
+    name: "Juanita Chandler",
+    weight: 1220,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-12 13:28:17",
+    name: "Juanita Chandler",
+    weight: 1932,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-12 13:30:15",
+    name: "Juanita Chandler",
+    weight: 1106,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-12 13:36:56",
+    name: "Juanita Chandler",
+    weight: 439,
+    category: "Dairy",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-12 13:44:56",
+    name: "Juanita Chandler",
+    weight: 968,
+    category: "Assorted Fridge",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-12 13:46:36",
+    name: "Juanita Chandler",
+    weight: 784,
+    category: "Assorted Dry",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-12 13:49:48",
+    name: "Juanita Chandler",
+    weight: 322,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-12 14:20:37",
+    name: "Juanita Chandler",
+    weight: 1845,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-12 14:39:36",
+    name: "Juanita Chandler",
+    weight: -1845,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-12 14:41:06",
+    name: "Juanita Chandler",
+    weight: 1084,
+    category: "Assorted Fridge",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-12 14:47:00",
+    name: "Juanita Chandler",
+    weight: 581,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-13 13:59:16",
+    name: "Norma Kriger",
+    weight: 1260,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-13 14:01:18",
+    name: "Norma Kriger",
+    weight: 1185,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-13 14:12:36",
+    name: "Norma Kriger",
+    weight: 1145,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-13 14:24:43",
+    name: "Norma Kriger",
+    weight: 562,
+    category: "Other",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-13 14:29:32",
+    name: "Norma Kriger",
+    weight: 2221,
+    category: "Other",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-13 14:45:47",
+    name: "Norma Kriger",
+    weight: 1147,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-04-13 14:46:30",
+    name: "Norma Kriger",
+    weight: 1126,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-14 00:00:00",
+    name: "Claire",
+    weight: 36622,
+    category: "Danone - Creamer",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-04-14 13:44:02",
+    name: "Juanita Chandler",
+    weight: 67,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-14 13:45:22",
+    name: "Juanita Chandler",
+    weight: 14,
+    category: "Snacks",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-14 13:46:33",
+    name: "Juanita Chandler",
+    weight: 1182,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-04-14 13:47:25",
+    name: "Juanita Chandler",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-04-14 14:20:52",
+    name: "Juanita Chandler",
+    weight: 114,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-04-14 14:34:13",
+    name: "Juanita Chandler",
+    weight: 1146,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-04-14 14:35:08",
+    name: "Juanita Chandler",
+    weight: 209,
+    category: "Produce",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-04-14 14:43:47",
+    name: "Juanita Chandler",
+    weight: 1197,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-04-14 14:45:19",
+    name: "Juanita Chandler",
+    weight: 1202,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-04-14 14:46:27",
+    name: "Juanita Chandler",
+    weight: 183,
+    category: "Produce",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-04-14 14:47:48",
+    name: "Juanita Chandler",
+    weight: 1902,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-04-14 15:50:12",
+    name: "Juanita Chandler",
+    weight: 1899,
+    category: "Snacks",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-14 15:58:41",
+    name: "Juanita Chandler",
+    weight: 901,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-14 16:00:00",
+    name: "Juanita Chandler",
+    weight: 1185,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-14 16:01:38",
+    name: "Juanita Chandler",
+    weight: 1854,
+    category: "Frozen [Not Meat]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-14 16:02:34",
+    name: "Juanita Chandler",
+    weight: 1260,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-14 16:09:56",
+    name: "Juanita Chandler",
+    weight: 1040,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-14 16:46:49",
+    name: "Juanita Chandler",
+    weight: 2030,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-15 12:10:03",
+    name: "Beverly Pinn",
+    weight: 1014,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-15 12:20:37",
+    name: "Beverly Pinn",
+    weight: 1639,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-15 12:21:02",
+    name: "Beverly Pinn",
+    weight: 1611,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-15 12:30:57",
+    name: "Beverly Pinn",
+    weight: 2037,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-15 12:32:06",
+    name: "Beverly Pinn",
+    weight: 1713,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-15 12:34:14",
+    name: "Beverly Pinn",
+    weight: 1537,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-15 12:34:50",
+    name: "Beverly Pinn",
+    weight: 953,
+    category: "Danone - Coffee",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-15 12:38:04",
+    name: "Beverly Pinn",
+    weight: 793,
+    category: "Danone - Creamer",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-15 12:47:02",
+    name: "Beverly Pinn",
+    weight: 1456,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-15 13:20:32",
+    name: "Juanita Chandler",
+    weight: 381,
+    category: "Canned Goods",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-15 13:21:46",
+    name: "Juanita Chandler",
+    weight: 1679,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-15 14:11:59",
+    name: "Juanita Chandler",
+    weight: 443,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-15 15:27:01",
+    name: "Juanita Chandler",
+    weight: 25,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-15 15:27:39",
+    name: "Juanita Chandler",
+    weight: 30,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-15 17:01:51",
+    name: "Juanita Chandler",
+    weight: -153,
+    category: "Canned Goods",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-15 17:08:05",
+    name: "Juanita Chandler",
+    weight: -1173,
+    category: "Condiments",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-16 16:27:52",
+    name: "Opeyemi Faleye",
+    weight: 2222,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-04-17 12:30:14",
+    name: "JC",
+    weight: 223,
+    category: "Other",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-17 12:31:04",
+    name: "JC",
+    weight: 322,
+    category: "Other",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-17 12:31:41",
+    name: "JC",
+    weight: 1176,
+    category: "Other",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-17 12:32:08",
+    name: "JC",
+    weight: 1679,
+    category: "Other",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-17 12:32:46",
+    name: "JC",
+    weight: 1268,
+    category: "Other",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-17 12:33:25",
+    name: "JC",
+    weight: 328,
+    category: "Other",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-17 12:33:53",
+    name: "JC",
+    weight: 320,
+    category: "Other",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-18 00:00:00",
+    name: "Claire",
+    weight: 36534,
+    category: "Dairy",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-04-18 14:27:12",
+    name: "Beverly Pinn",
+    weight: 922,
+    category: "Danone - Yogurt",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-18 14:29:19",
+    name: "Beverly Pinn",
+    weight: 2149,
+    category: "Danone - Milk",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-18 14:29:57",
+    name: "Beverly Pinn",
+    weight: 1157,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-18 14:32:32",
+    name: "Beverly Pinn",
+    weight: 1243,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-18 14:38:49",
+    name: "Beverly Pinn",
+    weight: 334,
+    category: "Drinks [Fridge]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-18 14:44:31",
+    name: "Beverly Pinn",
+    weight: 2023,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-18 16:03:03",
+    name: "Barbara Zadek",
+    weight: 126,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-04-18 17:18:23",
+    name: "Beverly Pinn",
+    weight: 917,
+    category: "Danone - Yogurt",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-18 17:20:58",
+    name: "Beverly Pinn",
+    weight: 491,
+    category: "Assorted Fridge",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-19 12:35:32",
+    name: "Vincent Faulk",
+    weight: 1913,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-19 12:38:08",
+    name: "Vincent Faulk",
+    weight: 1182,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-19 12:39:33",
+    name: "Vincent Faulk",
+    weight: 1098,
+    category: "Danone - Creamer",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-19 12:52:16",
+    name: "Vincent Faulk",
+    weight: 456,
+    category: "Condiments",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-19 14:09:29",
+    name: "Juanita Chandler",
+    weight: 1179,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-19 14:10:55",
+    name: "Juanita Chandler",
+    weight: 1185,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-19 14:17:03",
+    name: "Juanita Chandler",
+    weight: 590,
+    category: "Assorted Fridge",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-19 14:18:05",
+    name: "Juanita Chandler",
+    weight: 331,
+    category: "Dairy",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-19 14:19:19",
+    name: "Juanita Chandler",
+    weight: 233,
+    category: "Dairy",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-19 14:22:11",
+    name: "Juanita Chandler",
+    weight: 779,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-19 14:23:01",
+    name: "Juanita Chandler",
+    weight: 1053,
+    category: "Assorted Dry",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-19 14:26:24",
+    name: "Juanita Chandler",
+    weight: 985,
+    category: "Assorted Dry",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-04-19 14:52:11",
+    name: "Juanita Chandler",
+    weight: 912,
+    category: "Assorted Dry",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-19 14:53:27",
+    name: "Juanita Chandler",
+    weight: 29,
+    category: "Produce",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-04-20 00:00:00",
+    name: "Claire",
+    weight: 934,
+    category: "Other",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-04-20 00:00:00",
+    name: "Claire",
+    weight: 976,
+    category: "Other",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-04-20 00:00:00",
+    name: "Claire",
+    weight: 905,
+    category: "Other",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-04-21 13:21:54",
+    name: "Juanita Chandler",
+    weight: -939,
+    category: "Assorted Dry",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-04-21 13:22:43",
+    name: "Juanita Chandler",
+    weight: -944,
+    category: "Assorted Dry",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-04-21 14:42:45",
+    name: "Juanita Chandler",
+    weight: 206,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-04-21 14:45:52",
+    name: "Juanita Chandler",
+    weight: 1180,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-04-21 14:46:47",
+    name: "Juanita Chandler",
+    weight: 1194,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-04-21 15:33:04",
+    name: "Juanita Chandler",
+    weight: 1360,
+    category: "Dairy",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-04-21 15:33:52",
+    name: "Juanita Chandler",
+    weight: 1371,
+    category: "Dairy",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-04-21 15:37:35",
+    name: "Juanita Chandler",
+    weight: 421,
+    category: "Meat [Raw]",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-04-21 15:45:38",
+    name: "Juanita Chandler",
+    weight: 430,
+    category: "Meat [Raw]",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-04-21 16:06:32",
+    name: "Juanita Chandler",
+    weight: 500,
+    category: "Assorted Fridge",
+    donatedTo: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-04-21 16:43:52",
+    name: "Sunita Pathik",
+    weight: 101,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-04-22 12:00:07",
+    name: "Beverly Pinn",
+    weight: 1888,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-22 12:00:51",
+    name: "Beverly Pinn",
+    weight: 1616,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-22 12:01:34",
+    name: "Beverly Pinn",
+    weight: 1249,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-22 12:11:09",
+    name: "Beverly Pinn",
+    weight: 2138,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 12:11:45",
+    name: "Beverly Pinn",
+    weight: 286,
+    category: "Pet Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 12:12:53",
+    name: "Beverly Pinn",
+    weight: 249,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 12:13:29",
+    name: "Beverly Pinn",
+    weight: 1907,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 12:19:09",
+    name: "Beverly Pinn",
+    weight: 257,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 12:20:46",
+    name: "Beverly Pinn",
+    weight: 240,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 12:21:15",
+    name: "Beverly Pinn",
+    weight: 98,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 12:43:10",
+    name: "Beverly Pinn",
+    weight: 2017,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-22 12:43:58",
+    name: "Beverly Pinn",
+    weight: 947,
+    category: "Other",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 12:46:13",
+    name: "Beverly Pinn",
+    weight: 970,
+    category: "Other",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 13:47:54",
+    name: "Juanita Chandler",
+    weight: 2423,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 13:53:24",
+    name: "Juanita Chandler",
+    weight: 784,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-04-22 14:18:24",
+    name: "Juanita Chandler",
+    weight: 2447,
+    category: "Danone - Creamer",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 14:19:00",
+    name: "Juanita Chandler",
+    weight: 196,
+    category: "Assorted Fridge",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 14:20:08",
+    name: "Juanita Chandler",
+    weight: 1992,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 14:21:04",
+    name: "Juanita Chandler",
+    weight: -163,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 15:13:40",
+    name: "Juanita Chandler",
+    weight: 1857,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 15:15:04",
+    name: "Juanita Chandler",
+    weight: 163,
+    category: "Dairy",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-22 16:01:52",
+    name: "Juanita Chandler",
+    weight: -249,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 16:10:10",
+    name: "Juanita Chandler",
+    weight: 1393,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 16:12:05",
+    name: "Juanita Chandler",
+    weight: -522,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 16:13:14",
+    name: "Juanita Chandler",
+    weight: -112,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 16:15:42",
+    name: "Juanita Chandler",
+    weight: -2138,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 16:16:29",
+    name: "Juanita Chandler",
+    weight: -108,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 16:18:46",
+    name: "Juanita Chandler",
+    weight: -224,
+    category: "Pet Supplies",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 16:19:40",
+    name: "Juanita Chandler",
+    weight: -1724,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-22 16:35:57",
+    name: "Juanita Chandler",
+    weight: -300,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-04-23 13:18:57",
+    name: "Juanita Chandler",
+    weight: 1586,
+    category: "Assorted Dry",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-04-23 13:19:40",
+    name: "Juanita Chandler",
+    weight: 381,
+    category: "Drinks [Dry]",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-04-23 13:21:44",
+    name: "Juanita Chandler",
+    weight: 1896,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-04-23 13:30:39",
+    name: "Juanita Chandler",
+    weight: 35,
+    category: "Produce",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-04-23 13:37:46",
+    name: "Juanita Chandler",
+    weight: 316,
+    category: "Assorted Fridge",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-04-23 13:42:38",
+    name: "Juanita Chandler",
+    weight: 86,
+    category: "Meat [Raw]",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-04-23 15:09:43",
+    name: "Opeyemi Faleye",
+    weight: 952,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-04-25 13:54:44",
+    name: "Beverly Pinn",
+    weight: 177,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-25 00:00:00",
+    name: "Claire",
+    weight: 1916,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-25 00:00:00",
+    name: "Claire",
+    weight: 1183,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-25 00:00:00",
+    name: "Claire",
+    weight: 500,
+    category: "Meat [Raw]",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-25 00:00:00",
+    name: "Claire",
+    weight: 1113,
+    category: "Danone - Creamer",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-04-26 14:50:00",
+    name: "Karen Moore",
+    weight: 1180,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-28 14:58:25",
+    name: "Juanita Chandler",
+    weight: 1173,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-28 14:59:22",
+    name: "Juanita Chandler",
+    weight: 1164,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-28 15:01:51",
+    name: "Juanita Chandler",
+    weight: 1183,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-28 15:02:48",
+    name: "Juanita Chandler",
+    weight: 1185,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-28 15:03:34",
+    name: "Juanita Chandler",
+    weight: 1120,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-28 15:04:29",
+    name: "Juanita Chandler",
+    weight: 580,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-04-28 15:06:21",
+    name: "Juanita Chandler",
+    weight: 314,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-04-28 15:07:46",
+    name: "Juanita Chandler",
+    weight: 11,
+    category: "Dairy",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-04-29 00:00:00",
+    name: "Safire Windley",
+    weight: 1961,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-04-29 00:00:00",
+    name: "Safire Windley",
+    weight: 100,
+    category: "Assorted Dry",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-05 14:03:45",
+    name: "Barbara Zadek",
+    weight: 403,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-05-05 17:02:00",
+    name: "Vincent Faulk",
+    weight: 887,
+    category: "Danone - Creamer",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-05-05 17:06:31",
+    name: "Sunita Pathik",
+    weight: 111,
+    category: "Assorted Dry",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-05-05 00:00:00",
+    name: "Safire Windley",
+    weight: 1172,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-07 13:12:04",
+    name: "Vincent Faulk",
+    weight: 887,
+    category: "Danone - Creamer",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-05-07 13:13:10",
+    name: "Vincent Faulk",
+    weight: 1735,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-07 13:14:31",
+    name: "Vincent Faulk",
+    weight: 2027,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-07 13:15:50",
+    name: "Vincent Faulk",
+    weight: 2016,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-07 13:16:46",
+    name: "Vincent Faulk",
+    weight: 1213,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-07 13:18:08",
+    name: "Vincent Faulk",
+    weight: 1297,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-07 15:46:50",
+    name: "Zoe",
+    weight: 1163,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-05-07 00:00:00",
+    name: "Claire",
+    weight: 95,
+    category: "Assorted Dry",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-10 14:13:50",
+    name: "Juanita Chandler",
+    weight: 1918,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-10 14:14:50",
+    name: "Juanita Chandler",
+    weight: 1926,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-10 14:17:03",
+    name: "Juanita Chandler",
+    weight: 1927,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-10 14:17:56",
+    name: "Juanita Chandler",
+    weight: 1180,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-10 14:19:36",
+    name: "Juanita Chandler",
+    weight: 1820,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-10 14:20:36",
+    name: "Juanita Chandler",
+    weight: 353,
+    category: "Meat [Raw]",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-10 14:21:24",
+    name: "Juanita Chandler",
+    weight: 1156,
+    category: "Meat [Raw]",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-10 14:23:31",
+    name: "Juanita Chandler",
+    weight: 1172,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-10 14:29:45",
+    name: "Juanita Chandler",
+    weight: 30,
+    category: "Produce",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-05-10 14:34:47",
+    name: "Juanita Chandler",
+    weight: 782,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-05-10 14:35:38",
+    name: "Juanita Chandler",
+    weight: 570,
+    category: "Drinks [Dry]",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-05-10 14:37:29",
+    name: "Juanita Chandler",
+    weight: 1220,
+    category: "Danone - Creamer",
+    donatedTo: "Pastor Young",
+  },
+  {
+    date: "2023-05-10 14:39:24",
+    name: "Juanita Chandler",
+    weight: 1813,
+    category: "Dairy",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-10 14:41:43",
+    name: "Juanita Chandler",
+    weight: 240,
+    category: "Produce",
+    donatedTo: "Bowery",
+  },
+  {
+    date: "2023-05-10 14:42:44",
+    name: "Juanita Chandler",
+    weight: 231,
+    category: "Produce",
+    donatedTo: "Bowery",
+  },
+  {
+    date: "2023-05-10 14:44:01",
+    name: "Juanita Chandler",
+    weight: 90,
+    category: "Produce",
+    donatedTo: "Bowery",
+  },
+  {
+    date: "2023-05-10 14:44:56",
+    name: "Juanita Chandler",
+    weight: 225,
+    category: "Produce",
+    donatedTo: "Bowery",
+  },
+  {
+    date: "2023-05-10 14:45:53",
+    name: "Juanita Chandler",
+    weight: 223,
+    category: "Produce",
+    donatedTo: "Bowery",
+  },
+  {
+    date: "2023-05-10 14:48:21",
+    name: "Juanita Chandler",
+    weight: 160,
+    category: "Produce",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-10 14:49:53",
+    name: "Juanita Chandler",
+    weight: 65,
+    category: "Produce",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-10 14:51:48",
+    name: "Juanita Chandler",
+    weight: 1961,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-05-10 14:54:04",
+    name: "Juanita Chandler",
+    weight: 100,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-10 14:56:01",
+    name: "Juanita Chandler",
+    weight: -240,
+    category: "Produce",
+    donatedTo: "Bowery",
+  },
+  {
+    date: "2023-05-10 14:57:12",
+    name: "Juanita Chandler",
+    weight: -231,
+    category: "Produce",
+    donatedTo: "Bowery",
+  },
+  {
+    date: "2023-05-10 14:58:01",
+    name: "Juanita Chandler",
+    weight: 90,
+    category: "Produce",
+    donatedTo: "Bowery",
+  },
+  {
+    date: "2023-05-10 14:58:51",
+    name: "Juanita Chandler",
+    weight: -225,
+    category: "Produce",
+    donatedTo: "Bowery",
+  },
+  {
+    date: "2023-05-10 14:59:46",
+    name: "Juanita Chandler",
+    weight: -223,
+    category: "Produce",
+    donatedTo: "Bowery",
+  },
+  {
+    date: "2023-05-10 15:13:31",
+    name: "Juanita Chandler",
+    weight: -740,
+    category: "Dairy",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-11 14:46:44",
+    name: "Vincent Faulk",
+    weight: 1925,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-11 14:47:26",
+    name: "Vincent Faulk",
+    weight: 2069,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-11 14:48:01",
+    name: "Vincent Faulk",
+    weight: 2010,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-11 14:48:38",
+    name: "Vincent Faulk",
+    weight: 2020,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-11 14:49:20",
+    name: "Vincent Faulk",
+    weight: 1923,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-11 14:50:01",
+    name: "Vincent Faulk",
+    weight: 1922,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-12 13:18:14",
+    name: "Barbara Zadek",
+    weight: 242,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-05-12 16:09:41",
+    name: "Juanita Chandler",
+    weight: 127,
+    category: "Drinks [Dry]",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-12 16:10:22",
+    name: "Juanita Chandler",
+    weight: 28,
+    category: "Assorted Fridge",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-12 16:11:34",
+    name: "Juanita Chandler",
+    weight: 1926,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-05-12 16:12:47",
+    name: "Juanita Chandler",
+    weight: 1187,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-05-12 16:13:40",
+    name: "Juanita Chandler",
+    weight: 536,
+    category: "Assorted Fridge",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-05-12 16:15:07",
+    name: "Juanita Chandler",
+    weight: 118,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-12 16:15:42",
+    name: "Juanita Chandler",
+    weight: 520,
+    category: "Assorted Fridge",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-05-12 16:17:16",
+    name: "Juanita Chandler",
+    weight: 141,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-12 16:18:15",
+    name: "Juanita Chandler",
+    weight: 1988,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-12 16:23:50",
+    name: "Juanita Chandler",
+    weight: 1667,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-12 16:50:25",
+    name: "Sunita Pathik",
+    weight: 87,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-05-12 16:57:14",
+    name: "Mary Jo Gary",
+    weight: 1988,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-12 16:58:22",
+    name: "Mary Jo Gary",
+    weight: 1066,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-12 16:58:58",
+    name: "Mary Jo Gary",
+    weight: 1255,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-12 16:59:37",
+    name: "Mary Jo Gary",
+    weight: 1249,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-13 11:55:53",
+    name: "Beverly Pinn",
+    weight: 1912,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-13 11:59:04",
+    name: "Beverly Pinn",
+    weight: 1100,
+    category: "Drinks [Dry]",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-05-13 00:00:00",
+    name: "Claire",
+    weight: 2000,
+    category: "Drinks [Dry]",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-05-13 12:00:06",
+    name: "Beverly Pinn",
+    weight: 635,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-13 12:00:51",
+    name: "Beverly Pinn",
+    weight: 991,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-13 13:36:53",
+    name: "Juanita Chandler",
+    weight: 139,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 13:37:29",
+    name: "Juanita Chandler",
+    weight: 878,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 13:38:22",
+    name: "Juanita Chandler",
+    weight: 1675,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 13:39:30",
+    name: "Juanita Chandler",
+    weight: 1454,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 13:40:12",
+    name: "Juanita Chandler",
+    weight: 1221,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 13:41:16",
+    name: "Juanita Chandler",
+    weight: 1868,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-13 13:42:11",
+    name: "Juanita Chandler",
+    weight: 356,
+    category: "Assorted Fridge",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-05-13 13:42:58",
+    name: "Juanita Chandler",
+    weight: 1107,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-13 13:44:53",
+    name: "Juanita Chandler",
+    weight: 2030,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 00:00:00",
+    name: "Claire",
+    weight: 288,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:31:22",
+    name: "Juanita Chandler",
+    weight: -50,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:33:06",
+    name: "Juanita Chandler",
+    weight: -1660,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:34:30",
+    name: "Juanita Chandler",
+    weight: -658,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:35:12",
+    name: "Juanita Chandler",
+    weight: -666,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:36:00",
+    name: "Juanita Chandler",
+    weight: -1174,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:37:09",
+    name: "Juanita Chandler",
+    weight: 356,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:37:43",
+    name: "Juanita Chandler",
+    weight: 2159,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:39:00",
+    name: "Juanita Chandler",
+    weight: 415,
+    category: "Spices",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:39:37",
+    name: "Juanita Chandler",
+    weight: 425,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:41:03",
+    name: "Juanita Chandler",
+    weight: 435,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 16:41:51",
+    name: "Juanita Chandler",
+    weight: -136,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-13 00:00:00",
+    name: "Claire",
+    weight: -356,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-16 15:31:31",
+    name: "Beverly Pinn",
+    weight: 136,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-16 00:00:00",
+    name: "Safire Windley",
+    weight: 1929,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-16 15:32:28",
+    name: "Beverly Pinn",
+    weight: 1241,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-16 15:33:45",
+    name: "Beverly Pinn",
+    weight: 1327,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-16 15:34:33",
+    name: "Beverly Pinn",
+    weight: 1071,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-16 15:35:24",
+    name: "Beverly Pinn",
+    weight: 1895,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-16 15:36:28",
+    name: "Beverly Pinn",
+    weight: 1356,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-16 12:02:06",
+    name: "Vincent Faulk",
+    weight: 104,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-17 14:48:33",
+    name: "Juanita Chandler",
+    weight: 1145,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-17 14:49:31",
+    name: "Juanita Chandler",
+    weight: 180,
+    category: "Dairy",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-17 14:50:36",
+    name: "Juanita Chandler",
+    weight: 140,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-17 14:52:53",
+    name: "Juanita Chandler",
+    weight: 1305,
+    category: "Assorted Dry",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-17 14:55:36",
+    name: "Juanita Chandler",
+    weight: 1168,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-17 15:59:02",
+    name: "Juanita Chandler",
+    weight: 47,
+    category: "Dairy",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-05-17 16:00:21",
+    name: "Juanita Chandler",
+    weight: 29,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-17 17:44:43",
+    name: "Juanita Chandler",
+    weight: 274,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-18 13:14:05",
+    name: "Norma Kriger",
+    weight: 1248,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-18 13:15:54",
+    name: "Norma Kriger",
+    weight: 1167,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-18 13:17:38",
+    name: "Norma Kriger",
+    weight: 423,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-18 13:18:58",
+    name: "Norma Kriger",
+    weight: 1919,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-18 13:19:47",
+    name: "Norma Kriger",
+    weight: 1244,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-05-18 13:24:23",
+    name: "Norma Kriger",
+    weight: 1219,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-05-18 13:25:12",
+    name: "Norma Kriger",
+    weight: 1250,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-05-18 13:38:03",
+    name: "Norma Kriger",
+    weight: 1149,
+    category: "Drinks [Dry]",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-05-18 13:39:32",
+    name: "Norma Kriger",
+    weight: 1916,
+    category: "Dole - Fruit Cups",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-05-18 13:40:10",
+    name: "Norma Kriger",
+    weight: 794,
+    category: "Danone - Creamer",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-05-18 13:40:44",
+    name: "Norma Kriger",
+    weight: 1350,
+    category: "Danone - Creamer",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-05-19 13:53:31",
+    name: "Mary Jo Gary",
+    weight: 588,
+    category: "Meat [Raw]",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-05-19 13:54:15",
+    name: "Mary Jo Gary",
+    weight: 688,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-05-19 13:57:26",
+    name: "Juanita Chandler",
+    weight: 153,
+    category: "Health & Beauty Products",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-05-19 13:58:48",
+    name: "Juanita Chandler",
+    weight: 276,
+    category: "Assorted Fridge",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-05-19 14:23:18",
+    name: "Juanita Chandler",
+    weight: 625,
+    category: "Meat [Raw]",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-05-19 14:39:25",
+    name: "Juanita Chandler",
+    weight: 720,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-05-19 14:39:58",
+    name: "Juanita Chandler",
+    weight: 1934,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-05-19 14:44:57",
+    name: "Juanita Chandler",
+    weight: 1929,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-05-20 11:54:27",
+    name: "Beverly Pinn",
+    weight: 1350,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 12:01:29",
+    name: "Beverly Pinn",
+    weight: 1796,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 12:04:08",
+    name: "Beverly Pinn",
+    weight: 348,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 12:36:24",
+    name: "Beverly Pinn",
+    weight: 1689,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 12:49:32",
+    name: "Juanita Chandler",
+    weight: 1906,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 13:11:28",
+    name: "Juanita Chandler",
+    weight: 476,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 13:23:40",
+    name: "Juanita Chandler",
+    weight: 960,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 13:33:44",
+    name: "Juanita Chandler",
+    weight: 0,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 13:48:16",
+    name: "Juanita Chandler",
+    weight: 186,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 13:48:52",
+    name: "Juanita Chandler",
+    weight: 135,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 13:58:11",
+    name: "Juanita Chandler",
+    weight: 1523,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:03:42",
+    name: "Juanita Chandler",
+    weight: 698,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:04:24",
+    name: "Juanita Chandler",
+    weight: -1028,
+    category: "Dairy",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:05:00",
+    name: "Juanita Chandler",
+    weight: -1310,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:05:46",
+    name: "Juanita Chandler",
+    weight: -91,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:16:56",
+    name: "Juanita Chandler",
+    weight: -736,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:17:33",
+    name: "Juanita Chandler",
+    weight: -711,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:23:17",
+    name: "Juanita Chandler",
+    weight: -1646,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:25:10",
+    name: "Juanita Chandler",
+    weight: -293,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:29:57",
+    name: "Juanita Chandler",
+    weight: -392,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:31:58",
+    name: "Juanita Chandler",
+    weight: -1563,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-20 16:36:20",
+    name: "Juanita Chandler",
+    weight: -82,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-21 15:45:30",
+    name: "Juanita Chandler",
+    weight: 222,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-05-21 15:46:08",
+    name: "Juanita Chandler",
+    weight: 84,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-21 15:47:05",
+    name: "Juanita Chandler",
+    weight: 1748,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-21 15:47:49",
+    name: "Juanita Chandler",
+    weight: 1244,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-21 15:48:37",
+    name: "Juanita Chandler",
+    weight: 198,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-21 15:50:01",
+    name: "Juanita Chandler",
+    weight: 1765,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-21 15:50:55",
+    name: "Juanita Chandler",
+    weight: 81,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-21 15:51:48",
+    name: "Juanita Chandler",
+    weight: 211,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-21 15:52:45",
+    name: "Juanita Chandler",
+    weight: 1254,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-21 15:53:43",
+    name: "Juanita Chandler",
+    weight: 1252,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-21 16:27:49",
+    name: "Opeyemi Faleye",
+    weight: 1873,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-05-23 14:14:51",
+    name: "Beverly Pinn",
+    weight: 16,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-05-24 09:59:13",
+    name: "JC",
+    weight: 294,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-24 09:59:48",
+    name: "JC",
+    weight: 1187,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-24 10:00:31",
+    name: "JC",
+    weight: 1907,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-24 10:01:00",
+    name: "JC",
+    weight: 707,
+    category: "Danone - Yogurt",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-24 14:21:59",
+    name: "Juanita Chandler",
+    weight: 1911,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-24 14:23:01",
+    name: "Juanita Chandler",
+    weight: 1169,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-24 14:25:29",
+    name: "Juanita Chandler",
+    weight: 1184,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-24 14:29:47",
+    name: "Juanita Chandler",
+    weight: 1452,
+    category: "Assorted Dry",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-24 14:31:04",
+    name: "Juanita Chandler",
+    weight: 629,
+    category: "Assorted Fridge",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-24 15:20:32",
+    name: "Juanita Chandler",
+    weight: 1176,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-24 15:27:30",
+    name: "Juanita Chandler",
+    weight: 1378,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-24 15:28:15",
+    name: "Juanita Chandler",
+    weight: 1916,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-24 00:00:00",
+    name: "Safire Windley",
+    weight: 1176,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-24 15:29:53",
+    name: "Juanita Chandler",
+    weight: 730,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-24 15:33:15",
+    name: "Juanita Chandler",
+    weight: 1364,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-24 15:35:54",
+    name: "Juanita Chandler",
+    weight: 1212,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-24 15:40:21",
+    name: "Juanita Chandler",
+    weight: 657,
+    category: "Assorted Fridge",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-24 15:58:58",
+    name: "Juanita Chandler",
+    weight: 188,
+    category: "Other",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-24 15:59:47",
+    name: "Juanita Chandler",
+    weight: 745,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-24 00:00:00",
+    name: "Claire",
+    weight: 25000,
+    category: "Dairy",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-24 00:00:00",
+    name: "Claire",
+    weight: 25000,
+    category: "Dairy",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-05-25 13:25:15",
+    name: "Barbara Zadek",
+    weight: 558,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-05-25 13:56:48",
+    name: "Norma Kriger",
+    weight: 1658,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-25 14:17:30",
+    name: "Norma Kriger",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-25 14:18:12",
+    name: "Norma Kriger",
+    weight: 1164,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-25 14:22:59",
+    name: "Norma Kriger",
+    weight: 1162,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-25 14:58:19",
+    name: "Sharon",
+    weight: 1555,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-26 14:23:48",
+    name: "Juanita Chandler",
+    weight: 986,
+    category: "Danone - Creamer",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-26 14:24:46",
+    name: "Juanita Chandler",
+    weight: 659,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-26 15:30:11",
+    name: "Juanita Chandler",
+    weight: 1175,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-05-26 15:31:00",
+    name: "Juanita Chandler",
+    weight: 1187,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-05-26 15:33:47",
+    name: "Juanita Chandler",
+    weight: 1042,
+    category: "Assorted Dry",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-05-26 15:34:42",
+    name: "Juanita Chandler",
+    weight: 1084,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-05-26 16:57:56",
+    name: "Sunita Pathik",
+    weight: 110,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-05-27 12:17:29",
+    name: "Beverly Pinn",
+    weight: 666,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 12:18:04",
+    name: "Beverly Pinn",
+    weight: 250,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 12:18:45",
+    name: "Beverly Pinn",
+    weight: 1046,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 12:19:22",
+    name: "Beverly Pinn",
+    weight: 1179,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 12:36:30",
+    name: "Beverly Pinn",
+    weight: 1934,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 13:46:40",
+    name: "Juanita Chandler",
+    weight: 949,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 14:15:21",
+    name: "Juanita Chandler",
+    weight: 1576,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 14:16:07",
+    name: "Juanita Chandler",
+    weight: 607,
+    category: "Danone - Coffee",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 14:16:37",
+    name: "Juanita Chandler",
+    weight: 297,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 15:56:32",
+    name: "Juanita Chandler",
+    weight: -907,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 15:58:01",
+    name: "Juanita Chandler",
+    weight: -321,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 15:58:54",
+    name: "Juanita Chandler",
+    weight: -1356,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 15:59:40",
+    name: "Juanita Chandler",
+    weight: -185,
+    category: "Snacks",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 16:07:23",
+    name: "Juanita Chandler",
+    weight: -586,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 16:07:58",
+    name: "Juanita Chandler",
+    weight: -849,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 16:12:12",
+    name: "Juanita Chandler",
+    weight: 340,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 16:12:57",
+    name: "Juanita Chandler",
+    weight: -117,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 16:17:15",
+    name: "Juanita Chandler",
+    weight: -768,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-27 16:19:22",
+    name: "Juanita Chandler",
+    weight: -408,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-05-28 14:10:34",
+    name: "Juanita Chandler",
+    weight: 136,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-05-28 14:11:46",
+    name: "Juanita Chandler",
+    weight: 189,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-05-28 14:12:56",
+    name: "Juanita Chandler",
+    weight: 289,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-28 14:13:42",
+    name: "Juanita Chandler",
+    weight: 406,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-28 14:14:28",
+    name: "Juanita Chandler",
+    weight: 147,
+    category: "Assorted Dry",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-28 14:17:35",
+    name: "Juanita Chandler",
+    weight: 1184,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-28 15:28:52",
+    name: "Juanita Chandler",
+    weight: 1243,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-28 15:29:46",
+    name: "Juanita Chandler",
+    weight: 1227,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-28 15:30:32",
+    name: "Juanita Chandler",
+    weight: 1247,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-28 15:31:09",
+    name: "Juanita Chandler",
+    weight: 502,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-28 15:32:09",
+    name: "Juanita Chandler",
+    weight: 1874,
+    category: "Assorted Dry",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-28 15:32:58",
+    name: "Juanita Chandler",
+    weight: 1406,
+    category: "Danone - Creamer",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-28 15:59:09",
+    name: "Opeyemi Faleye",
+    weight: 1555,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-05-28 16:07:37",
+    name: "Juanita Chandler",
+    weight: 1577,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-05-30 11:33:52",
+    name: "Claire",
+    weight: 1156,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-30 11:34:23",
+    name: "Claire",
+    weight: 648,
+    category: "Danone - Yogurt",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-30 11:34:45",
+    name: "Claire",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-30 11:35:09",
+    name: "Claire",
+    weight: 2116,
+    category: "Drinks [Dry]",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-05-31 14:28:14",
+    name: "Juanita Chandler",
+    weight: 1148,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-31 14:35:23",
+    name: "Juanita Chandler",
+    weight: 1171,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-31 14:38:04",
+    name: "Juanita Chandler",
+    weight: 967,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-05-31 14:38:54",
+    name: "Juanita Chandler",
+    weight: 342,
+    category: "Produce",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-31 14:39:47",
+    name: "Juanita Chandler",
+    weight: 1228,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-31 15:28:47",
+    name: "Juanita Chandler",
+    weight: 1816,
+    category: "Danone - Yogurt",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-05-31 15:29:27",
+    name: "Juanita Chandler",
+    weight: 875,
+    category: "Meat [Raw]",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-06-01 15:11:01",
+    name: "Claire",
+    weight: 1333,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-01 15:11:57",
+    name: "Claire",
+    weight: 1209,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-01 16:09:17",
+    name: "Claire",
+    weight: 648,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-01 16:09:55",
+    name: "Claire",
+    weight: 452,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-01 16:10:33",
+    name: "Claire",
+    weight: 854,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-01 16:11:01",
+    name: "Claire",
+    weight: 831,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-01 16:12:42",
+    name: "Claire",
+    weight: 1530,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-01 16:13:06",
+    name: "Claire",
+    weight: 59,
+    category: "Assorted Fridge",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:29:48",
+    name: "Aziza",
+    weight: 1518,
+    category: "Health & Beauty Products",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:30:10",
+    name: "Aziza",
+    weight: 1534,
+    category: "Health & Beauty Products",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:30:34",
+    name: "Aziza",
+    weight: 717,
+    category: "Health & Beauty Products",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:30:53",
+    name: "Aziza",
+    weight: 1464,
+    category: "Health & Beauty Products",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:31:28",
+    name: "Aziza",
+    weight: 1510,
+    category: "Health & Beauty Products",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:32:38",
+    name: "Aziza",
+    weight: 1153,
+    category: "Danone - Coffee",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:33:04",
+    name: "Aziza",
+    weight: 1047,
+    category: "Danone - Coffee",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:33:26",
+    name: "Aziza",
+    weight: 1490,
+    category: "Danone - Coffee",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:34:43",
+    name: "Aziza",
+    weight: 1387,
+    category: "Danone - Coffee",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:35:38",
+    name: "Aziza",
+    weight: 1220,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:35:59",
+    name: "Aziza",
+    weight: 1244,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-01 19:36:36",
+    name: "Aziza",
+    weight: 1227,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-02 09:13:30",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-02 09:15:16",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-02 09:16:19",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    donatedTo: "So What Else",
+  },
+  {
+    date: "2023-06-02 09:17:39",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-02 09:18:51",
+    name: "Claire",
+    weight: 40560,
+    category: "Drinks [Dry]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-02 13:44:17",
+    name: "Juanita Chandler",
+    weight: 285,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-06-02 13:46:34",
+    name: "Juanita Chandler",
+    weight: 85,
+    category: "Assorted Fridge",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-06-02 13:48:56",
+    name: "Juanita Chandler",
+    weight: 1175,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-06-02 13:49:29",
+    name: "Juanita Chandler",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-06-02 15:03:01",
+    name: "Juanita Chandler",
+    weight: 460,
+    category: "Assorted Fridge",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-06-02 15:04:19",
+    name: "Juanita Chandler",
+    weight: 862,
+    category: "Meat [Raw]",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-06-02 15:20:43",
+    name: "Juanita Chandler",
+    weight: 397,
+    category: "Assorted Fridge",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-06-02 15:21:34",
+    name: "Juanita Chandler",
+    weight: 1002,
+    category: "Meat [Raw]",
+    donatedTo: "Greenmount West",
+  },
+  {
+    date: "2023-06-02 16:42:34",
+    name: "Juanita Chandler",
+    weight: 1028,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-02 16:43:27",
+    name: "Juanita Chandler",
+    weight: 1130,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-02 16:44:07",
+    name: "Juanita Chandler",
+    weight: 1122,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-02 16:45:51",
+    name: "Juanita Chandler",
+    weight: 999,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-02 16:55:09",
+    name: "Juanita Chandler",
+    weight: 281,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-02 17:05:01",
+    name: "Juanita Chandler",
+    weight: 318,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-02 17:22:47",
+    name: "Juanita Chandler",
+    weight: 1026,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-03 13:38:44",
+    name: "Other",
+    weight: 171,
+    category: "Assorted Fridge",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 13:53:26",
+    name: "Rawan Elshobaky",
+    weight: 1822,
+    category: "Danone - Yogurt",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 13:59:21",
+    name: "Rawan Elshobaky",
+    weight: 766,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 14:05:30",
+    name: "Rawan Elshobaky",
+    weight: 605,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 14:07:10",
+    name: "Rawan Elshobaky",
+    weight: 1207,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 14:21:11",
+    name: "Juanita Chandler",
+    weight: 1533,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 14:30:10",
+    name: "Juanita Chandler",
+    weight: 2361,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 15:58:55",
+    name: "Juanita Chandler",
+    weight: -104,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 16:00:36",
+    name: "Juanita Chandler",
+    weight: -10,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 16:09:24",
+    name: "Juanita Chandler",
+    weight: -1286,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 16:10:03",
+    name: "Juanita Chandler",
+    weight: 78,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 16:13:09",
+    name: "Juanita Chandler",
+    weight: -1444,
+    category: "Danone - Yogurt",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 16:30:18",
+    name: "Juanita Chandler",
+    weight: -496,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 17:06:24",
+    name: "Juanita Chandler",
+    weight: -104,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 17:07:13",
+    name: "Juanita Chandler",
+    weight: -1326,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-03 00:00:00",
+    name: "Claire",
+    weight: 1003,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-03 00:00:00",
+    name: "Claire",
+    weight: 1244,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-04 13:00:06",
+    name: "Juanita Chandler",
+    weight: 137,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-04 13:01:01",
+    name: "Juanita Chandler",
+    weight: 156,
+    category: "Drinks [Dry]",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-04 13:02:03",
+    name: "Juanita Chandler",
+    weight: 163,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-04 13:33:29",
+    name: "Juanita Chandler",
+    weight: 311,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-04 13:35:06",
+    name: "Juanita Chandler",
+    weight: 296,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-04 13:43:22",
+    name: "Juanita Chandler",
+    weight: 830,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-06-04 13:46:19",
+    name: "Juanita Chandler",
+    weight: 519,
+    category: "Assorted Fridge",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-04 14:03:26",
+    name: "Juanita Chandler",
+    weight: 541,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-04 14:04:07",
+    name: "Juanita Chandler",
+    weight: 307,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-04 16:01:28",
+    name: "Opeyemi Faleye",
+    weight: 1321,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-06-04 16:16:05",
+    name: "Juanita Chandler",
+    weight: 34,
+    category: "Snacks",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-04 16:50:27",
+    name: "Juanita Chandler",
+    weight: 1283,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-06 00:00:00",
+    name: "Claire",
+    weight: 2004,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-06 00:00:00",
+    name: "Claire",
+    weight: 2035,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-06 00:00:00",
+    name: "Claire",
+    weight: 2028,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-06 00:00:00",
+    name: "Claire",
+    weight: 2011,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-06 00:00:00",
+    name: "Claire",
+    weight: 2032,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-06 00:00:00",
+    name: "Claire",
+    weight: 2020,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-06 13:14:33",
+    name: "Claire",
+    weight: 1166,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-06 13:22:52",
+    name: "Claire",
+    weight: 1363,
+    category: "Drinks [Dry]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-06 00:00:00",
+    name: "Claire",
+    weight: 1437,
+    category: "Danone - Yogurt",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-06 13:23:33",
+    name: "Claire",
+    weight: 1371,
+    category: "Meat [Raw]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-06 13:24:02",
+    name: "Claire",
+    weight: 357,
+    category: "Produce",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-06 13:33:22",
+    name: "Barbara Zadek",
+    weight: 52,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-06-07 15:34:01",
+    name: "Sara B",
+    weight: 1310,
+    category: "Assorted Dry",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-06-07 15:35:35",
+    name: "Sara B",
+    weight: 1544,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-06-07 15:49:27",
+    name: "Sara B",
+    weight: 292,
+    category: "Produce",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-06-07 15:51:28",
+    name: "Sara B",
+    weight: 528,
+    category: "Snacks",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-06-08 14:49:24",
+    name: "Barbara Zadek",
+    weight: 389,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-06-09 09:13:58",
+    name: "Claire",
+    weight: 40000,
+    category: "Drinks [Dry]",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-09 14:11:15",
+    name: "Claire",
+    weight: 40000,
+    category: "Assorted Dry",
+    donatedTo: "Individual",
+  },
+  {
+    date: "2023-06-09 14:13:45",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-09 15:07:56",
+    name: "Mary Jo Gary",
+    weight: 577,
+    category: "Produce",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-06-09 15:15:02",
+    name: "David Ondande",
+    weight: 1277,
+    category: "Assorted Dry",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-06-09 15:15:34",
+    name: "David Ondande",
+    weight: 410,
+    category: "Meat [Raw]",
+    donatedTo: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-06-09 16:11:36",
+    name: "Mary Jo Gary",
+    weight: 200,
+    category: "Meat [Raw]",
+    donatedTo: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-06-09 16:12:21",
+    name: "Mary Jo Gary",
+    weight: 51,
+    category: "Dairy",
+    donatedTo: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-06-09 16:13:01",
+    name: "Mary Jo Gary",
+    weight: 251,
+    category: "Assorted Fridge",
+    donatedTo: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-06-09 16:46:10",
+    name: "Sunita Pathik",
+    weight: 59,
+    category: "Assorted Fridge",
+    donatedTo: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-06-09 17:11:09",
+    name: "Mary Jo Gary",
+    weight: 481,
+    category: "Assorted Dry",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-10 11:57:45",
+    name: "Beverly Pinn",
+    weight: 1806,
+    category: "Dole - Juice",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 12:23:39",
+    name: "Beverly Pinn",
+    weight: 750,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 12:47:52",
+    name: "Claire",
+    weight: 1800,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 12:48:19",
+    name: "Claire",
+    weight: 1816,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 12:48:43",
+    name: "Claire",
+    weight: 1820,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 12:49:10",
+    name: "Claire",
+    weight: 1812,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 12:49:53",
+    name: "Claire",
+    weight: 1816,
+    category: "Drinks [Dry]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 13:38:38",
+    name: "Beverly Pinn",
+    weight: 329,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 13:48:42",
+    name: "Beverly Pinn",
+    weight: 343,
+    category: "Danone - Yogurt",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 13:49:37",
+    name: "Beverly Pinn",
+    weight: 331,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 14:01:40",
+    name: "Beverly Pinn",
+    weight: 231,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 14:07:49",
+    name: "Beverly Pinn",
+    weight: 951,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 14:19:47",
+    name: "Beverly Pinn",
+    weight: 743,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 14:26:06",
+    name: "Beverly Pinn",
+    weight: 1151,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 14:26:38",
+    name: "Beverly Pinn",
+    weight: 532,
+    category: "Frozen [Not Meat]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 14:30:03",
+    name: "Beverly Pinn",
+    weight: 281,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 14:31:06",
+    name: "Beverly Pinn",
+    weight: 1187,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 14:31:45",
+    name: "Beverly Pinn",
+    weight: 1181,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 14:34:40",
+    name: "Beverly Pinn",
+    weight: 1830,
+    category: "Dole - Juice",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 14:35:13",
+    name: "Beverly Pinn",
+    weight: 1167,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-10 14:35:53",
+    name: "Beverly Pinn",
+    weight: 1166,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 16:37:04",
+    name: "Beverly Pinn",
+    weight: -91,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 16:37:37",
+    name: "Beverly Pinn",
+    weight: -237,
+    category: "Danone - Yogurt",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 16:38:06",
+    name: "Beverly Pinn",
+    weight: -864,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 16:38:49",
+    name: "Beverly Pinn",
+    weight: -501,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-10 16:39:21",
+    name: "Beverly Pinn",
+    weight: -394,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-11 16:42:54",
+    name: "Opeyemi Faleye",
+    weight: 1855,
+    category: "Assorted Dry",
+    donatedTo: "Sandtown",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 167,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 129,
+    category: "Assorted Fridge",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 84,
+    category: "Drinks [Dry]",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 14,
+    category: "Assorted Dry",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 12,
+    category: "Grains (rice, pasta, etc.)",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-11 00:00:00",
+    name: "Claire",
+    weight: 16,
+    category: "Produce",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-13 11:14:59",
+    name: "Claire",
+    weight: 1177,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-13 11:17:32",
+    name: "Claire",
+    weight: 2006,
+    category: "Drinks [Dry]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-13 11:17:57",
+    name: "Claire",
+    weight: 1803,
+    category: "Drinks [Dry]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-13 11:18:36",
+    name: "Claire",
+    weight: 1873,
+    category: "Meat [Raw]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-13 14:42:44",
+    name: "Beverly Pinn",
+    weight: 1054,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-13 14:43:21",
+    name: "Beverly Pinn",
+    weight: 1055,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-13 14:43:59",
+    name: "Beverly Pinn",
+    weight: 1056,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-13 14:44:30",
+    name: "Beverly Pinn",
+    weight: 1056,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-13 16:44:54",
+    name: "Claire",
+    weight: 1058,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-13 16:45:36",
+    name: "Claire",
+    weight: 1059,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-14 15:09:14",
+    name: "Claire",
+    weight: 1517,
+    category: "Health & Beauty Products",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:09:51",
+    name: "Claire",
+    weight: 1518,
+    category: "Health & Beauty Products",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:10:15",
+    name: "Claire",
+    weight: 1469,
+    category: "Health & Beauty Products",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:10:38",
+    name: "Claire",
+    weight: 1510,
+    category: "Health & Beauty Products",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:11:16",
+    name: "Claire",
+    weight: 1153,
+    category: "Danone - Creamer",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:11:41",
+    name: "Claire",
+    weight: 1387,
+    category: "Danone - Creamer",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:12:31",
+    name: "Claire",
+    weight: 1490,
+    category: "Danone - Creamer",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:13:30",
+    name: "Claire",
+    weight: 1220,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:13:55",
+    name: "Claire",
+    weight: 1388,
+    category: "Danone - Creamer",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:14:14",
+    name: "Claire",
+    weight: 1389,
+    category: "Danone - Creamer",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:14:53",
+    name: "Claire",
+    weight: 1032,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:15:15",
+    name: "Claire",
+    weight: 1433,
+    category: "Danone - Creamer",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 00:00:00",
+    name: "Claire",
+    weight: 1269,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:15:44",
+    name: "Claire",
+    weight: 1246,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:16:14",
+    name: "Claire",
+    weight: 1263,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:16:36",
+    name: "Claire",
+    weight: 1203,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:16:57",
+    name: "Claire",
+    weight: 1206,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:17:21",
+    name: "Claire",
+    weight: 1264,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:17:49",
+    name: "Claire",
+    weight: 1227,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:18:10",
+    name: "Claire",
+    weight: 1121,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-14 15:55:32",
+    name: "Karen Moore",
+    weight: 595,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-14 15:56:04",
+    name: "Karen Moore",
+    weight: 682,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-14 15:56:37",
+    name: "Karen Moore",
+    weight: 522,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-14 15:57:09",
+    name: "Karen Moore",
+    weight: 532,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-14 15:58:32",
+    name: "Karen Moore",
+    weight: 733,
+    category: "Spices",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-14 15:59:16",
+    name: "Karen Moore",
+    weight: 448,
+    category: "Meat [Raw]",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-06-14 15:59:54",
+    name: "Karen Moore",
+    weight: 679,
+    category: "Snacks",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-06-14 16:01:00",
+    name: "Karen Moore",
+    weight: 1324,
+    category: "Drinks [Dry]",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-06-14 16:01:25",
+    name: "Karen Moore",
+    weight: 1250,
+    category: "Snacks",
+    donatedTo: "Douglas Homes",
+  },
+  {
+    date: "2023-06-15 10:06:03",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-15 10:09:00",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-15 10:12:38",
+    name: "Claire",
+    weight: 40000,
+    category: "Drinks [Dry]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-15 10:30:09",
+    name: "GBMC",
+    weight: 1124,
+    category: "Other",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-06-15 10:31:15",
+    name: "GBMC",
+    weight: 1101,
+    category: "Other",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-06-15 10:32:52",
+    name: "GBMC",
+    weight: 970,
+    category: "Other",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-06-15 10:36:02",
+    name: "Claire",
+    weight: 115,
+    category: "Other",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-06-15 10:42:58",
+    name: "Claire",
+    weight: 42000,
+    category: "Drinks [Dry]",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-15 10:45:20",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-15 11:03:40",
+    name: "Claire",
+    weight: 42000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-15 11:30:41",
+    name: "Claire",
+    weight: 42000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-15 13:41:57",
+    name: "Norma Kriger",
+    weight: 1047,
+    category: "Assorted Dry",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-06-15 15:10:07",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-16 13:50:47",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-16 14:00:21",
+    name: "Barbara Zadek",
+    weight: 334,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-06-17 16:03:10",
+    name: "Beverly Pinn",
+    weight: 131,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 16:03:48",
+    name: "Beverly Pinn",
+    weight: 901,
+    category: "Dole - Fruit Cups",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 16:04:25",
+    name: "Beverly Pinn",
+    weight: 1524,
+    category: "Drinks [Dry]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 16:05:20",
+    name: "Beverly Pinn",
+    weight: 532,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 16:06:00",
+    name: "Beverly Pinn",
+    weight: 404,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 16:06:41",
+    name: "Beverly Pinn",
+    weight: 1427,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 16:07:28",
+    name: "Beverly Pinn",
+    weight: 1471,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 16:08:06",
+    name: "Beverly Pinn",
+    weight: 885,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 16:08:58",
+    name: "Beverly Pinn",
+    weight: 1378,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 16:09:36",
+    name: "Beverly Pinn",
+    weight: 918,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 16:10:35",
+    name: "Beverly Pinn",
+    weight: 1363,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 16:11:13",
+    name: "Beverly Pinn",
+    weight: 563,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 16:11:48",
+    name: "Beverly Pinn",
+    weight: 1267,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 16:12:31",
+    name: "Beverly Pinn",
+    weight: 748,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 16:13:23",
+    name: "Beverly Pinn",
+    weight: 1065,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 16:14:07",
+    name: "Beverly Pinn",
+    weight: 1067,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 16:14:43",
+    name: "Beverly Pinn",
+    weight: 1086,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 16:15:28",
+    name: "Beverly Pinn",
+    weight: 1056,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 16:16:06",
+    name: "Beverly Pinn",
+    weight: 1073,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-17 17:14:13",
+    name: "Claire",
+    weight: 1567,
+    category: "Drinks [Dry]",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-06-17 17:14:50",
+    name: "Claire",
+    weight: 1080,
+    category: "Dole - Fruit Cups",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-06-17 17:15:29",
+    name: "Claire",
+    weight: 1032,
+    category: "Dole - Fruit Cups",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-06-17 00:00:00",
+    name: "Claire",
+    weight: 764,
+    category: "Dole - Fruit Cups",
+    donatedTo: "GBMC",
+  },
+  {
+    date: "2023-06-17 18:09:00",
+    name: "Claire",
+    weight: -705,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 18:09:24",
+    name: "Claire",
+    weight: -178,
+    category: "Meat [Raw]",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 18:09:44",
+    name: "Claire",
+    weight: -1082,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 18:10:26",
+    name: "Claire",
+    weight: -437,
+    category: "Produce",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 18:12:15",
+    name: "Claire",
+    weight: -603,
+    category: "Assorted Fridge",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-17 18:16:16",
+    name: "Claire",
+    weight: -1532,
+    category: "Assorted Dry",
+    donatedTo: "BCF Curbside",
+  },
+  {
+    date: "2023-06-20 00:00:00",
+    name: "Claire",
+    weight: 603,
+    category: "Assorted Fridge",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-20 00:00:00",
+    name: "Claire",
+    weight: 1346,
+    category: "Produce",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-20 00:00:00",
+    name: "Claire",
+    weight: 1091,
+    category: "Produce",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-20 00:00:00",
+    name: "Claire",
+    weight: 972,
+    category: "Produce",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-20 00:00:00",
+    name: "Claire",
+    weight: 30000,
+    category: "Danone - Yogurt",
+    donatedTo: "Janet Arce",
+  },
+  {
+    date: "2023-06-20 10:10:41",
+    name: "Barbara Zadek",
+    weight: 250,
+    category: "Assorted Dry",
+    donatedTo: "Love and Cornbread",
+  },
+  {
+    date: "2023-06-20 10:11:00",
+    name: "Claire",
+    weight: 2012,
+    category: "Dole - Juice",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-20 10:11:21",
+    name: "Claire",
+    weight: 1812,
+    category: "Dole - Juice",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-20 10:20:23",
+    name: "Claire",
+    weight: 1076,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-20 10:34:21",
+    name: "Claire",
+    weight: 732,
+    category: "Produce",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-20 10:37:45",
+    name: "Claire",
+    weight: 631,
+    category: "Produce",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-20 10:45:32",
+    name: "Claire",
+    weight: 691,
+    category: "Assorted Dry",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-21 18:50:37",
+    name: "Claire",
+    weight: 1388,
+    category: "Danone - Creamer",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-21 18:51:14",
+    name: "Claire",
+    weight: 1389,
+    category: "Danone - Creamer",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-21 18:51:38",
+    name: "Claire",
+    weight: 1067,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-21 18:52:02",
+    name: "Claire",
+    weight: 1808,
+    category: "Dole - Juice",
+    donatedTo: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-06-22 16:34:47",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-23 15:44:48",
+    name: "Claire",
+    weight: 2009,
+    category: "Water",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-23 15:45:33",
+    name: "Claire",
+    weight: 1999,
+    category: "Water",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-23 15:45:59",
+    name: "Claire",
+    weight: 430,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-23 15:46:36",
+    name: "Claire",
+    weight: 677,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-23 15:47:18",
+    name: "Claire",
+    weight: 1155,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-23 15:47:38",
+    name: "Claire",
+    weight: 1166,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-26 12:14:43",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-26 12:16:27",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-27 14:15:10",
+    name: "Claire",
+    weight: 2566,
+    category: "Drinks [Fridge]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-27 18:45:23",
+    name: "Claire",
+    weight: 2413,
+    category: "Drinks [Fridge]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-27 18:50:03",
+    name: "Claire",
+    weight: 1501,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-27 18:50:20",
+    name: "Claire",
+    weight: 1502,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-27 18:50:42",
+    name: "Claire",
+    weight: 1503,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-27 18:50:59",
+    name: "Claire",
+    weight: 1504,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-27 18:51:13",
+    name: "Claire",
+    weight: 1505,
+    category: "Produce",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-29 12:22:34",
+    name: "Claire",
+    weight: 579,
+    category: "Paper Supplies",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-29 12:22:53",
+    name: "Claire",
+    weight: 1140,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-29 12:23:17",
+    name: "Claire",
+    weight: 1639,
+    category: "Water",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-29 12:23:42",
+    name: "Claire",
+    weight: 1814,
+    category: "Dole - Juice",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-29 12:24:04",
+    name: "Claire",
+    weight: 1164,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-29 12:24:23",
+    name: "Claire",
+    weight: 1057,
+    category: "Dole - Fruit Cups",
+    donatedTo: "Other Organization",
+  },
+  {
+    date: "2023-06-29 20:03:48",
+    name: "Claire",
+    weight: 862,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-29 20:04:07",
+    name: "Claire",
+    weight: 1395,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-29 20:04:25",
+    name: "Claire",
+    weight: 1424,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-29 20:04:43",
+    name: "Claire",
+    weight: 1048,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-29 20:04:57",
+    name: "Claire",
+    weight: 1210,
+    category: "Meat [Raw]",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-30 14:16:38",
+    name: "Claire",
+    weight: 2193,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-30 14:17:00",
+    name: "Claire",
+    weight: 2197,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-30 14:17:20",
+    name: "Claire",
+    weight: 2192,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
+  {
+    date: "2023-06-30 14:17:54",
+    name: "Claire",
+    weight: 2202,
+    category: "Dairy",
+    donatedTo: "Pedro",
+  },
 ];
 
 export const volunteerList = [
-  { Timestamp: "2023-01-01 13:44:49", EndTime: "2023-01-01 17:44:49", Name: "Kate Weeks"},
-  { Timestamp: "2023-01-01 13:45:45", EndTime: "2023-01-01 17:45:45", Name: "Kaneesha"},
-  { Timestamp: "2023-01-03 15:44:50", EndTime: "2023-01-03 19:44:50", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-01-03 15:47:08", EndTime: "2023-01-03 19:47:08", Name: "Beverly Graham"},
-  { Timestamp: "2023-01-03 15:48:51", EndTime: "2023-01-03 19:48:51", Name: "Susan Larson"},
-  { Timestamp: "2023-01-03 15:49:33", EndTime: "2023-01-03 19:49:33", Name: "Rosemary Hendricks"},
-  { Timestamp: "2023-01-03 15:57:38", EndTime: "2023-01-03 19:57:38", Name: "Kaneesha"},
-  { Timestamp: "2023-01-03 00:00:00", EndTime: "2023-01-03 04:00:00", Name: "Anna West"},
-  { Timestamp: "2023-01-03 00:00:00", EndTime: "2023-01-03 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-01-04 14:27:31", EndTime: "2023-01-04 18:27:31", Name: "Bud Stracker - Sisson Street DPW"},
-  { Timestamp: "2023-01-04 17:32:35", EndTime: "2023-01-04 21:32:35", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-04 00:00:00", EndTime: "2023-01-04 04:00:00", Name: "Doris Parker Tuggle"},
-  { Timestamp: "2023-01-04 00:00:00", EndTime: "2023-01-04 04:00:00", Name: "Luke Mayhew"},
-  { Timestamp: "2023-01-04 00:00:00", EndTime: "2023-01-04 04:00:00", Name: "Karen Moore"},
-  { Timestamp: "2023-01-04 18:29:36", EndTime: "2023-01-04 22:29:36", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-01-04 19:30:40", EndTime: "2023-01-04 23:30:40", Name: "Tina Paquet"},
-  { Timestamp: "2023-01-04 19:32:14", EndTime: "2023-01-04 23:32:14", Name: "Lynwood McDaniel"},
-  { Timestamp: "2023-01-04 19:35:23", EndTime: "2023-01-04 23:35:23", Name: "Maddie Pardes"},
-  { Timestamp: "2023-01-05 16:38:12", EndTime: "2023-01-05 20:38:12", Name: "Norma Kriger"},
-  { Timestamp: "2023-01-05 16:40:45", EndTime: "2023-01-05 20:40:45", Name: "Jean"},
-  { Timestamp: "2023-01-05 00:00:00", EndTime: "2023-01-05 04:00:00", Name: "Melissa Thomas"},
-  { Timestamp: "2023-01-05 00:00:00", EndTime: "2023-01-05 04:00:00", Name: "Raquel Bailey"},
-  { Timestamp: "2023-01-05 00:00:00", EndTime: "2023-01-05 04:00:00", Name: "Nathaniel McClean"},
-  { Timestamp: "2023-01-05 20:29:19", EndTime: "2023-01-06 00:29:19", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-01-06 16:31:04", EndTime: "2023-01-06 20:31:04", Name: "Beth Torres"},
-  { Timestamp: "2023-01-06 16:32:57", EndTime: "2023-01-06 20:32:57", Name: "Jack Bellows"},
-  { Timestamp: "2023-01-06 16:43:35", EndTime: "2023-01-06 20:43:35", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-06 16:53:41", EndTime: "2023-01-06 20:53:41", Name: "Sunita Pathik"},
-  { Timestamp: "2023-01-06 00:00:00", EndTime: "2023-01-06 04:00:00", Name: "Theresa Columbus"},
-  { Timestamp: "2023-01-06 00:00:00", EndTime: "2023-01-06 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-01-07 00:00:00", EndTime: "2023-01-07 04:00:00", Name: "Nathan So"},
-  { Timestamp: "2023-01-07 00:00:00", EndTime: "2023-01-07 04:00:00", Name: "Janet Lomax"},
-  { Timestamp: "2023-01-07 00:00:00", EndTime: "2023-01-07 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-07 00:00:00", EndTime: "2023-01-07 04:00:00", Name: "Dan Pike"},
-  { Timestamp: "2023-01-07 00:00:00", EndTime: "2023-01-07 04:00:00", Name: "Emily Stucke"},
-  { Timestamp: "2023-01-07 00:00:00", EndTime: "2023-01-07 04:00:00", Name: "Kelly Chen"},
-  { Timestamp: "2023-01-07 00:00:00", EndTime: "2023-01-07 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-01-07 00:00:00", EndTime: "2023-01-07 04:00:00", Name: "Angeles"},
-  { Timestamp: "2023-01-07 00:00:00", EndTime: "2023-01-07 04:00:00", Name: "Gilda Castillo"},
-  { Timestamp: "2023-01-07 16:42:34", EndTime: "2023-01-07 20:42:34", Name: "Evelyn Jiang"},
-  { Timestamp: "2023-01-07 16:43:06", EndTime: "2023-01-07 20:43:06", Name: "Emily Ma"},
-  { Timestamp: "2023-01-07 16:45:54", EndTime: "2023-01-07 20:45:54", Name: "Beverly Pinn"},
-  { Timestamp: "2023-01-07 16:46:54", EndTime: "2023-01-07 20:46:54", Name: "Lynda Bishop"},
-  { Timestamp: "2023-01-07 16:56:11", EndTime: "2023-01-07 20:56:11", Name: "Dean Chien"},
-  { Timestamp: "2023-01-07 18:39:27", EndTime: "2023-01-07 22:39:27", Name: "Nailah Bishop"},
-  { Timestamp: "2023-01-08 00:00:00", EndTime: "2023-01-08 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-08 14:58:18", EndTime: "2023-01-08 18:58:18", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-01-08 15:00:48", EndTime: "2023-01-08 19:00:48", Name: "Kaneesha"},
-  { Timestamp: "2023-01-08 15:01:32", EndTime: "2023-01-08 19:01:32", Name: "Kate Weeks"},
-  { Timestamp: "2023-01-08 00:00:00", EndTime: "2023-01-08 04:00:00", Name: "Laila"},
-  { Timestamp: "2023-01-08 00:00:00", EndTime: "2023-01-08 04:00:00", Name: "Safire Windley"},
-  { Timestamp: "2023-01-10 15:10:55", EndTime: "2023-01-10 19:10:55", Name: "Rosemary Hendricks"},
-  { Timestamp: "2023-01-10 15:11:56", EndTime: "2023-01-10 19:11:56", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-01-10 15:11:58", EndTime: "2023-01-10 19:11:58", Name: "Jean"},
-  { Timestamp: "2023-01-10 15:14:13", EndTime: "2023-01-10 19:14:13", Name: "Beverly Graham"},
-  { Timestamp: "2023-01-10 15:14:40", EndTime: "2023-01-10 19:14:40", Name: "Beverly Pinn"},
-  { Timestamp: "2023-01-10 15:15:34", EndTime: "2023-01-10 19:15:34", Name: "Susan Larson"},
-  { Timestamp: "2023-01-10 00:00:00", EndTime: "2023-01-10 04:00:00", Name: "Anna West"},
-  { Timestamp: "2023-01-11 16:36:34", EndTime: "2023-01-11 20:36:34", Name: "Bud Stracker"},
-  { Timestamp: "2023-01-11 00:00:00", EndTime: "2023-01-11 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-11 00:00:00", EndTime: "2023-01-11 04:00:00", Name: "Karen Moore"},
-  { Timestamp: "2023-01-11 00:00:00", EndTime: "2023-01-11 04:00:00", Name: "Lynwood McDaniel"},
-  { Timestamp: "2023-01-11 00:00:00", EndTime: "2023-01-11 04:00:00", Name: "Charity Hsu"},
-  { Timestamp: "2023-01-11 00:00:00", EndTime: "2023-01-11 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-01-11 20:57:47", EndTime: "2023-01-12 00:57:47", Name: "Connor Gephart"},
-  { Timestamp: "2023-01-11 21:03:52", EndTime: "2023-01-12 01:03:52", Name: "Tina Paquet"},
-  { Timestamp: "2023-01-12 00:00:00", EndTime: "2023-01-12 04:00:00", Name: "Jean"},
-  { Timestamp: "2023-01-12 00:00:00", EndTime: "2023-01-12 04:00:00", Name: "Dorja"},
-  { Timestamp: "2023-01-12 18:54:27", EndTime: "2023-01-12 22:54:27", Name: "Aziza"},
-  { Timestamp: "2023-01-12 19:08:58", EndTime: "2023-01-12 23:08:58", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-01-12 00:00:00", EndTime: "2023-01-12 04:00:00", Name: "Julia Buckson"},
-  { Timestamp: "2023-01-12 00:00:00", EndTime: "2023-01-12 04:00:00", Name: "Melissa Thomas"},
-  { Timestamp: "2023-01-13 00:00:00", EndTime: "2023-01-13 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-13 16:28:12", EndTime: "2023-01-13 20:28:12", Name: "Sunita Pathik"},
-  { Timestamp: "2023-01-13 16:57:04", EndTime: "2023-01-13 20:57:04", Name: "Adeolu Mojibola"},
-  { Timestamp: "2023-01-14 16:33:43", EndTime: "2023-01-14 20:33:43", Name: "Dean Chien"},
-  { Timestamp: "2023-01-14 16:54:35", EndTime: "2023-01-14 20:54:35", Name: "Nailah Bishop"},
-  { Timestamp: "2023-01-14 16:55:08", EndTime: "2023-01-14 20:55:08", Name: "Lynda Bishop"},
-  { Timestamp: "2023-01-14 00:00:00", EndTime: "2023-01-14 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-14 00:00:00", EndTime: "2023-01-14 04:00:00", Name: "Emily Stucke"},
-  { Timestamp: "2023-01-14 00:00:00", EndTime: "2023-01-14 04:00:00", Name: "Treston Codrington"},
-  { Timestamp: "2023-01-14 00:00:00", EndTime: "2023-01-14 04:00:00", Name: "Gilda Castillo"},
-  { Timestamp: "2023-01-14 00:00:00", EndTime: "2023-01-14 04:00:00", Name: "Angeles"},
-  { Timestamp: "2023-01-14 00:00:00", EndTime: "2023-01-14 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-01-15 00:00:00", EndTime: "2023-01-15 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-15 00:00:00", EndTime: "2023-01-15 04:00:00", Name: "Michael Ford"},
-  { Timestamp: "2023-01-15 00:00:00", EndTime: "2023-01-15 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-01-15 00:00:00", EndTime: "2023-01-15 04:00:00", Name: "Carla T"},
-  { Timestamp: "2023-01-15 00:00:00", EndTime: "2023-01-15 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-01-15 15:51:41", EndTime: "2023-01-15 19:51:41", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-01-15 16:12:10", EndTime: "2023-01-15 20:12:10", Name: "Yulia"},
-  { Timestamp: "2023-01-15 16:17:45", EndTime: "2023-01-15 20:17:45", Name: "Kaneesha"},
-  { Timestamp: "2023-01-17 00:00:00", EndTime: "2023-01-17 04:00:00", Name: "Jean"},
-  { Timestamp: "2023-01-17 00:00:00", EndTime: "2023-01-17 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-01-17 16:21:45", EndTime: "2023-01-17 20:21:45", Name: "Rosemary Hendricks"},
-  { Timestamp: "2023-01-17 16:21:48", EndTime: "2023-01-17 20:21:48", Name: "Beverly Graham"},
-  { Timestamp: "2023-01-17 16:22:33", EndTime: "2023-01-17 20:22:33", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-01-17 16:23:45", EndTime: "2023-01-17 20:23:45", Name: "Susan Larson"},
-  { Timestamp: "2023-01-17 16:29:11", EndTime: "2023-01-17 20:29:11", Name: "Anna West"},
-  { Timestamp: "2023-01-17 16:29:15", EndTime: "2023-01-17 20:29:15", Name: "Beverly Pinn"},
-  { Timestamp: "2023-01-18 00:00:00", EndTime: "2023-01-18 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-18 00:00:00", EndTime: "2023-01-18 04:00:00", Name: "Doris Parker Tuggle"},
-  { Timestamp: "2023-01-18 00:00:00", EndTime: "2023-01-18 04:00:00", Name: "Tina Paquet"},
-  { Timestamp: "2023-01-18 00:00:00", EndTime: "2023-01-18 04:00:00", Name: "Charity Hsu"},
-  { Timestamp: "2023-01-18 17:00:10", EndTime: "2023-01-18 21:00:10", Name: "Karen Moore"},
-  { Timestamp: "2023-01-18 20:46:31", EndTime: "2023-01-19 00:46:31", Name: "Connor Gephart"},
-  { Timestamp: "2023-01-19 00:00:00", EndTime: "2023-01-19 04:00:00", Name: "Jean"},
-  { Timestamp: "2023-01-19 00:00:00", EndTime: "2023-01-19 04:00:00", Name: "Raquel Bailey"},
-  { Timestamp: "2023-01-19 00:00:00", EndTime: "2023-01-19 04:00:00", Name: "Melissa Thomas"},
-  { Timestamp: "2023-01-19 00:00:00", EndTime: "2023-01-19 04:00:00", Name: "Nathaniel McClean"},
-  { Timestamp: "2023-01-19 15:17:46", EndTime: "2023-01-19 19:17:46", Name: "Norma Kriger"},
-  { Timestamp: "2023-01-19 19:53:59", EndTime: "2023-01-19 23:53:59", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-01-19 19:54:03", EndTime: "2023-01-19 23:54:03", Name: "Aziza"},
-  { Timestamp: "2023-01-20 00:00:00", EndTime: "2023-01-20 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-20 00:00:00", EndTime: "2023-01-20 04:00:00", Name: "Jean"},
-  { Timestamp: "2023-01-20 00:00:00", EndTime: "2023-01-20 04:00:00", Name: "Adeolu Mojibola"},
-  { Timestamp: "2023-01-21 16:06:19", EndTime: "2023-01-21 20:06:19", Name: "Aza Shiao"},
-  { Timestamp: "2023-01-21 16:06:55", EndTime: "2023-01-21 20:06:55", Name: "Treston Codrington"},
-  { Timestamp: "2023-01-21 16:07:20", EndTime: "2023-01-21 20:07:20", Name: "Kelly Chen"},
-  { Timestamp: "2023-01-21 16:12:05", EndTime: "2023-01-21 20:12:05", Name: "Nicolle Diaz"},
-  { Timestamp: "2023-01-21 16:12:42", EndTime: "2023-01-21 20:12:42", Name: "Nia Bishop"},
-  { Timestamp: "2023-01-21 16:20:26", EndTime: "2023-01-21 20:20:26", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-01-21 16:22:12", EndTime: "2023-01-21 20:22:12", Name: "Emily Ma"},
-  { Timestamp: "2023-01-21 16:22:24", EndTime: "2023-01-21 20:22:24", Name: "Olamilekan Sulaiman"},
-  { Timestamp: "2023-01-21 16:34:33", EndTime: "2023-01-21 20:34:33", Name: "Beverly Pinn"},
-  { Timestamp: "2023-01-21 16:49:01", EndTime: "2023-01-21 20:49:01", Name: "Nailah Bishop"},
-  { Timestamp: "2023-01-21 16:49:13", EndTime: "2023-01-21 20:49:13", Name: "Lynda Bishop"},
-  { Timestamp: "2023-01-21 00:00:00", EndTime: "2023-01-21 04:00:00", Name: "Janet Lomax"},
-  { Timestamp: "2023-01-21 00:00:00", EndTime: "2023-01-21 04:00:00", Name: "Obinna Nwokoro"},
-  { Timestamp: "2023-01-21 00:00:00", EndTime: "2023-01-21 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-21 00:00:00", EndTime: "2023-01-21 04:00:00", Name: "Rachel Lee"},
-  { Timestamp: "2023-01-21 00:00:00", EndTime: "2023-01-21 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-01-21 00:00:00", EndTime: "2023-01-21 04:00:00", Name: "Jackee"},
-  { Timestamp: "2023-01-22 00:00:00", EndTime: "2023-01-22 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-22 00:00:00", EndTime: "2023-01-22 04:00:00", Name: "Carla T"},
-  { Timestamp: "2023-01-21 00:00:00", EndTime: "2023-01-21 04:00:00", Name: "Theresa Columbus"},
-  { Timestamp: "2023-01-21 00:00:00", EndTime: "2023-01-21 04:00:00", Name: "Dean Chien"},
-  { Timestamp: "2023-01-21 00:00:00", EndTime: "2023-01-21 04:00:00", Name: "Angeles"},
-  { Timestamp: "2023-01-22 15:07:26", EndTime: "2023-01-22 19:07:26", Name: "Theresa Keil"},
-  { Timestamp: "2023-01-22 15:12:40", EndTime: "2023-01-22 19:12:40", Name: "Alex Bauer"},
-  { Timestamp: "2023-01-22 15:15:28", EndTime: "2023-01-22 19:15:28", Name: "Kaneesha"},
-  { Timestamp: "2023-01-22 15:15:39", EndTime: "2023-01-22 19:15:39", Name: "Michael Ford"},
-  { Timestamp: "2023-01-22 15:17:49", EndTime: "2023-01-22 19:17:49", Name: "Kate Weeks"},
-  { Timestamp: "2023-01-22 16:20:50", EndTime: "2023-01-22 20:20:50", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-01-24 16:25:32", EndTime: "2023-01-24 20:25:32", Name: "Rosemary Hendricks"},
-  { Timestamp: "2023-01-24 16:26:20", EndTime: "2023-01-24 20:26:20", Name: "Beverly Pinn"},
-  { Timestamp: "2023-01-24 16:26:44", EndTime: "2023-01-24 20:26:44", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-01-24 16:27:24", EndTime: "2023-01-24 20:27:24", Name: "Anna West"},
-  { Timestamp: "2023-01-24 16:27:54", EndTime: "2023-01-24 20:27:54", Name: "Beverly Graham"},
-  { Timestamp: "2023-01-24 16:40:36", EndTime: "2023-01-24 20:40:36", Name: "Jean"},
-  { Timestamp: "2023-01-25 00:00:00", EndTime: "2023-01-25 04:00:00", Name: "Doris Parker Tuggle"},
-  { Timestamp: "2023-01-25 00:00:00", EndTime: "2023-01-25 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-25 00:00:00", EndTime: "2023-01-25 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-01-25 00:00:00", EndTime: "2023-01-25 04:00:00", Name: "Luke Mayhew"},
-  { Timestamp: "2023-01-25 00:00:00", EndTime: "2023-01-25 04:00:00", Name: "Tina Paquet"},
-  { Timestamp: "2023-01-25 00:00:00", EndTime: "2023-01-25 04:00:00", Name: "Charity Hsu"},
-  { Timestamp: "2023-01-25 20:41:54", EndTime: "2023-01-26 00:41:54", Name: "Connor Gephart"},
-  { Timestamp: "2023-01-26 16:39:03", EndTime: "2023-01-26 20:39:03", Name: "Norma Kriger"},
-  { Timestamp: "2023-01-26 16:39:50", EndTime: "2023-01-26 20:39:50", Name: "Jean"},
-  { Timestamp: "2023-01-27 00:00:00", EndTime: "2023-01-27 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-27 00:00:00", EndTime: "2023-01-27 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-01-27 16:50:06", EndTime: "2023-01-27 20:50:06", Name: "Nailah Bishop"},
-  { Timestamp: "2023-01-27 16:50:24", EndTime: "2023-01-27 20:50:24", Name: "Jonyce Bland"},
-  { Timestamp: "2023-01-28 00:00:00", EndTime: "2023-01-28 04:00:00", Name: "Karla Alexander"},
-  { Timestamp: "2023-01-28 00:00:00", EndTime: "2023-01-28 04:00:00", Name: "Cheryl Utsey"},
-  { Timestamp: "2023-01-28 00:00:00", EndTime: "2023-01-28 04:00:00", Name: "Janet Lomax"},
-  { Timestamp: "2023-01-28 00:00:00", EndTime: "2023-01-28 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-28 00:00:00", EndTime: "2023-01-28 04:00:00", Name: "Justin Maduka"},
-  { Timestamp: "2023-01-28 00:00:00", EndTime: "2023-01-28 04:00:00", Name: "Angeles"},
-  { Timestamp: "2023-01-28 00:00:00", EndTime: "2023-01-28 04:00:00", Name: "Gilda Castillo"},
-  { Timestamp: "2023-01-28 00:00:00", EndTime: "2023-01-28 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-01-28 16:08:23", EndTime: "2023-01-28 20:08:23", Name: "Nicolle Diaz"},
-  { Timestamp: "2023-01-28 16:09:53", EndTime: "2023-01-28 20:09:53", Name: "Harris Malik"},
-  { Timestamp: "2023-01-28 16:12:38", EndTime: "2023-01-28 20:12:38", Name: "Jasmine Rose"},
-  { Timestamp: "2023-01-28 16:13:23", EndTime: "2023-01-28 20:13:23", Name: "Ngozi Douglas"},
-  { Timestamp: "2023-01-28 16:13:24", EndTime: "2023-01-28 20:13:24", Name: "Tsion Getahun"},
-  { Timestamp: "2023-01-28 16:13:42", EndTime: "2023-01-28 20:13:42", Name: "Daphnie Sumah"},
-  { Timestamp: "2023-01-28 16:14:54", EndTime: "2023-01-28 20:14:54", Name: "Arezou Esmaeeli"},
-  { Timestamp: "2023-01-28 16:15:27", EndTime: "2023-01-28 20:15:27", Name: "Nia Bishop"},
-  { Timestamp: "2023-01-28 16:15:42", EndTime: "2023-01-28 20:15:42", Name: "Abisola Adeusi"},
-  { Timestamp: "2023-01-28 16:16:36", EndTime: "2023-01-28 20:16:36", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-01-28 16:17:12", EndTime: "2023-01-28 20:17:12", Name: "Jonyce Bland"},
-  { Timestamp: "2023-01-28 16:17:29", EndTime: "2023-01-28 20:17:29", Name: "Kamryn Brown"},
-  { Timestamp: "2023-01-28 16:18:47", EndTime: "2023-01-28 20:18:47", Name: "Jade Weatherington"},
-  { Timestamp: "2023-01-28 16:20:15", EndTime: "2023-01-28 20:20:15", Name: "Rewa Hazim"},
-  { Timestamp: "2023-01-28 16:21:37", EndTime: "2023-01-28 20:21:37", Name: "Azel King"},
-  { Timestamp: "2023-01-28 16:23:27", EndTime: "2023-01-28 20:23:27", Name: "Connor Lu"},
-  { Timestamp: "2023-01-28 16:24:28", EndTime: "2023-01-28 20:24:28", Name: "Obinna Nwokoro"},
-  { Timestamp: "2023-01-28 16:24:28", EndTime: "2023-01-28 20:24:28", Name: "Benjamin Hung"},
-  { Timestamp: "2023-01-28 16:26:31", EndTime: "2023-01-28 20:26:31", Name: "Jessica Martin"},
-  { Timestamp: "2023-01-28 16:29:04", EndTime: "2023-01-28 20:29:04", Name: "Dean Chien"},
-  { Timestamp: "2023-01-28 16:41:53", EndTime: "2023-01-28 20:41:53", Name: "Beverly Pinn"},
-  { Timestamp: "2023-01-29 00:00:00", EndTime: "2023-01-29 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-01-29 15:45:39", EndTime: "2023-01-29 19:45:39", Name: "Carla T"},
-  { Timestamp: "2023-01-29 15:49:52", EndTime: "2023-01-29 19:49:52", Name: "Kaneesha"},
-  { Timestamp: "2023-01-29 16:08:10", EndTime: "2023-01-29 20:08:10", Name: "Zoe"},
-  { Timestamp: "2023-01-29 16:08:43", EndTime: "2023-01-29 20:08:43", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-01-31 00:00:00", EndTime: "2023-01-31 04:00:00", Name: "Rosemary Hendricks"},
-  { Timestamp: "2023-01-31 00:00:00", EndTime: "2023-01-31 04:00:00", Name: "Anna West"},
-  { Timestamp: "2023-01-31 15:43:22", EndTime: "2023-01-31 19:43:22", Name: "Jean"},
-  { Timestamp: "2023-01-31 15:47:33", EndTime: "2023-01-31 19:47:33", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-01-31 15:48:37", EndTime: "2023-01-31 19:48:37", Name: "Beverly Pinn"},
-  { Timestamp: "2023-01-31 15:52:32", EndTime: "2023-01-31 19:52:32", Name: "Marci Yankelov"},
-  { Timestamp: "2023-02-01 00:00:00", EndTime: "2023-02-01 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-01 16:27:39", EndTime: "2023-02-01 20:27:39", Name: "Bud Stracker - Sisson Street DPW"},
-  { Timestamp: "2023-02-01 16:27:56", EndTime: "2023-02-01 20:27:56", Name: "Bud Stracker"},
-  { Timestamp: "2023-02-01 17:01:01", EndTime: "2023-02-01 21:01:01", Name: "Jonathan Shay"},
-  { Timestamp: "2023-02-01 17:30:02", EndTime: "2023-02-01 21:30:02", Name: "Karen Moore"},
-  { Timestamp: "2023-02-01 00:00:00", EndTime: "2023-02-01 04:00:00", Name: "Charity Hsu"},
-  { Timestamp: "2023-02-01 00:00:00", EndTime: "2023-02-01 04:00:00", Name: "Olamilekan Sulaiman"},
-  { Timestamp: "2023-02-01 20:46:37", EndTime: "2023-02-02 00:46:37", Name: "Maddie Pardes"},
-  { Timestamp: "2023-02-01 20:55:53", EndTime: "2023-02-02 00:55:53", Name: "Tina Paquet"},
-  { Timestamp: "2023-02-02 16:39:00", EndTime: "2023-02-02 20:39:00", Name: "Norma Kriger"},
-  { Timestamp: "2023-02-02 16:44:59", EndTime: "2023-02-02 20:44:59", Name: "Emily Zhang"},
-  { Timestamp: "2023-02-02 16:47:52", EndTime: "2023-02-02 20:47:52", Name: "Amy Xing "},
-  { Timestamp: "2023-02-02 00:00:00", EndTime: "2023-02-02 04:00:00", Name: "Julia Buckson"},
-  { Timestamp: "2023-02-02 19:20:20", EndTime: "2023-02-02 23:20:20", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-02-02 19:20:32", EndTime: "2023-02-02 23:20:32", Name: "Aziza"},
-  { Timestamp: "2023-02-02 19:21:25", EndTime: "2023-02-02 23:21:25", Name: "Melissa Thomas"},
-  { Timestamp: "2023-02-03 16:47:49", EndTime: "2023-02-03 20:47:49", Name: "Kamryn Brown"},
-  { Timestamp: "2023-02-03 16:51:16", EndTime: "2023-02-03 20:51:16", Name: "Emily Zhang"},
-  { Timestamp: "2023-02-03 16:51:49", EndTime: "2023-02-03 20:51:49", Name: "Ellen Cho"},
-  { Timestamp: "2023-02-04 16:35:37", EndTime: "2023-02-04 20:35:37", Name: "Sara B"},
-  { Timestamp: "2023-02-04 16:36:47", EndTime: "2023-02-04 20:36:47", Name: "Nicolle Diaz"},
-  { Timestamp: "2023-02-04 16:38:03", EndTime: "2023-02-04 20:38:03", Name: "Jasmine Rose"},
-  { Timestamp: "2023-02-04 16:39:36", EndTime: "2023-02-04 20:39:36", Name: "Gilda Castillo"},
-  { Timestamp: "2023-02-04 16:40:26", EndTime: "2023-02-04 20:40:26", Name: "Abisola Adeusi"},
-  { Timestamp: "2023-02-04 16:40:47", EndTime: "2023-02-04 20:40:47", Name: "Evelyn Jiang"},
-  { Timestamp: "2023-02-04 16:42:33", EndTime: "2023-02-04 20:42:33", Name: "Rachel Oh"},
-  { Timestamp: "2023-02-04 16:43:23", EndTime: "2023-02-04 20:43:23", Name: "Josefina Aguilar-Pliszka"},
-  { Timestamp: "2023-02-04 16:45:35", EndTime: "2023-02-04 20:45:35", Name: "Nidhi Batra"},
-  { Timestamp: "2023-02-04 16:46:57", EndTime: "2023-02-04 20:46:57", Name: "Faith Obilo"},
-  { Timestamp: "2023-02-04 16:48:08", EndTime: "2023-02-04 20:48:08", Name: "Elianna Perlman"},
-  { Timestamp: "2023-02-04 17:11:34", EndTime: "2023-02-04 21:11:34", Name: "Dean Chien"},
-  { Timestamp: "2023-02-04 17:45:57", EndTime: "2023-02-04 21:45:57", Name: "Xinyue Gu"},
-  { Timestamp: "2023-02-04 00:00:00", EndTime: "2023-02-04 04:00:00", Name: "Charlie"},
-  { Timestamp: "2023-02-04 00:00:00", EndTime: "2023-02-04 04:00:00", Name: "Thomas Aloisi"},
-  { Timestamp: "2023-02-04 00:00:00", EndTime: "2023-02-04 04:00:00", Name: "Brandon Clark"},
-  { Timestamp: "2023-02-04 00:00:00", EndTime: "2023-02-04 04:00:00", Name: "Angeles"},
-  { Timestamp: "2023-02-05 15:14:26", EndTime: "2023-02-05 19:14:26", Name: "Michael Ford"},
-  { Timestamp: "2023-02-05 15:17:58", EndTime: "2023-02-05 19:17:58", Name: "Anita Bryant"},
-  { Timestamp: "2023-02-05 15:18:27", EndTime: "2023-02-05 19:18:27", Name: "Kate Weeks"},
-  { Timestamp: "2023-02-05 15:19:31", EndTime: "2023-02-05 19:19:31", Name: "Kaneesha"},
-  { Timestamp: "2023-02-05 15:19:36", EndTime: "2023-02-05 19:19:36", Name: "Zoe"},
-  { Timestamp: "2023-02-05 15:23:00", EndTime: "2023-02-05 19:23:00", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-02-05 15:24:29", EndTime: "2023-02-05 19:24:29", Name: "Yulia"},
-  { Timestamp: "2023-02-05 00:00:00", EndTime: "2023-02-05 04:00:00", Name: "Linda Arce"},
-  { Timestamp: "2023-02-05 00:00:00", EndTime: "2023-02-05 04:00:00", Name: "Carla T"},
-  { Timestamp: "2023-02-05 00:00:00", EndTime: "2023-02-05 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-07 16:30:19", EndTime: "2023-02-07 20:30:19", Name: "Susan Larson"},
-  { Timestamp: "2023-02-07 16:30:51", EndTime: "2023-02-07 20:30:51", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-02-07 16:32:16", EndTime: "2023-02-07 20:32:16", Name: "Beverly Graham"},
-  { Timestamp: "2023-02-07 16:43:15", EndTime: "2023-02-07 20:43:15", Name: "Beverly Pinn"},
-  { Timestamp: "2023-02-08 16:52:23", EndTime: "2023-02-08 20:52:23", Name: "Bud Stracker - Sisson Street DPW"},
-  { Timestamp: "2023-02-08 00:00:00", EndTime: "2023-02-08 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-08 00:00:00", EndTime: "2023-02-08 04:00:00", Name: "Karen Moore"},
-  { Timestamp: "2023-02-08 00:00:00", EndTime: "2023-02-08 04:00:00", Name: "Sarah K"},
-  { Timestamp: "2023-02-08 19:30:32", EndTime: "2023-02-08 23:30:32", Name: "Connor Gephart"},
-  { Timestamp: "2023-02-08 19:38:03", EndTime: "2023-02-08 23:38:03", Name: "Obinna Nwokoro"},
-  { Timestamp: "2023-02-08 19:38:08", EndTime: "2023-02-08 23:38:08", Name: "Jonathan Shay"},
-  { Timestamp: "2023-02-08 19:38:57", EndTime: "2023-02-08 23:38:57", Name: "Luke Mayhew"},
-  { Timestamp: "2023-02-08 00:00:00", EndTime: "2023-02-08 04:00:00", Name: "Tina Paquet"},
-  { Timestamp: "2023-02-08 00:00:00", EndTime: "2023-02-08 04:00:00", Name: "Alex Bauer"},
-  { Timestamp: "2023-02-08 00:00:00", EndTime: "2023-02-08 04:00:00", Name: "Jonathan Shay"},
-  { Timestamp: "2023-02-09 15:29:31", EndTime: "2023-02-09 19:29:31", Name: "Norma Kriger"},
-  { Timestamp: "2023-02-09 19:50:21", EndTime: "2023-02-09 23:50:21", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-02-10 15:46:19", EndTime: "2023-02-10 19:46:19", Name: "Kira Branch"},
-  { Timestamp: "2023-02-10 15:46:49", EndTime: "2023-02-10 19:46:49", Name: "Xiomara Rodriguez"},
-  { Timestamp: "2023-02-10 15:57:26", EndTime: "2023-02-10 19:57:26", Name: "Beth Torres"},
-  { Timestamp: "2023-02-11 00:00:00", EndTime: "2023-02-11 04:00:00", Name: "Kelly Chen"},
-  { Timestamp: "2023-02-11 12:24:56", EndTime: "2023-02-11 16:24:56", Name: "Ryan Murphy"},
-  { Timestamp: "2023-02-11 14:59:50", EndTime: "2023-02-11 18:59:50", Name: "Kira Branch"},
-  { Timestamp: "2023-02-11 15:02:26", EndTime: "2023-02-11 19:02:26", Name: "Katherine Wang"},
-  { Timestamp: "2023-02-11 15:03:08", EndTime: "2023-02-11 19:03:08", Name: "Liam Stewart"},
-  { Timestamp: "2023-02-11 15:04:36", EndTime: "2023-02-11 19:04:36", Name: "Cameron Minor"},
-  { Timestamp: "2023-02-11 15:07:48", EndTime: "2023-02-11 19:07:48", Name: "Jayla Butler"},
-  { Timestamp: "2023-02-11 15:09:05", EndTime: "2023-02-11 19:09:05", Name: "Justin Zhong"},
-  { Timestamp: "2023-02-11 15:24:00", EndTime: "2023-02-11 19:24:00", Name: "Beverly Pinn"},
-  { Timestamp: "2023-02-11 15:43:50", EndTime: "2023-02-11 19:43:50", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-02-11 15:45:24", EndTime: "2023-02-11 19:45:24", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-11 00:00:00", EndTime: "2023-02-11 04:00:00", Name: "Claire Kim"},
-  { Timestamp: "2023-02-11 00:00:00", EndTime: "2023-02-11 04:00:00", Name: "Ariel Li"},
-  { Timestamp: "2023-02-11 00:00:00", EndTime: "2023-02-11 04:00:00", Name: "Kyle Cooper"},
-  { Timestamp: "2023-02-11 00:00:00", EndTime: "2023-02-11 04:00:00", Name: "Brian Min"},
-  { Timestamp: "2023-02-11 00:00:00", EndTime: "2023-02-11 04:00:00", Name: "Emily Stucke"},
-  { Timestamp: "2023-02-12 14:57:12", EndTime: "2023-02-12 18:57:12", Name: "Dorja"},
-  { Timestamp: "2023-02-12 14:57:21", EndTime: "2023-02-12 18:57:21", Name: "Treston Codrington"},
-  { Timestamp: "2023-02-12 14:57:56", EndTime: "2023-02-12 18:57:56", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-02-12 14:58:34", EndTime: "2023-02-12 18:58:34", Name: "Alex Bauer"},
-  { Timestamp: "2023-02-12 15:00:39", EndTime: "2023-02-12 19:00:39", Name: "Kaneesha"},
-  { Timestamp: "2023-02-12 15:05:37", EndTime: "2023-02-12 19:05:37", Name: "Zoe"},
-  { Timestamp: "2023-02-12 00:00:00", EndTime: "2023-02-12 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-12 00:00:00", EndTime: "2023-02-12 04:00:00", Name: "Denise Rivers"},
-  { Timestamp: "2023-02-12 00:00:00", EndTime: "2023-02-12 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-02-14 14:18:48", EndTime: "2023-02-14 18:18:48", Name: "Jean"},
-  { Timestamp: "2023-02-14 15:47:07", EndTime: "2023-02-14 19:47:07", Name: "Beverly Graham"},
-  { Timestamp: "2023-02-14 15:47:13", EndTime: "2023-02-14 19:47:13", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-02-14 15:50:52", EndTime: "2023-02-14 19:50:52", Name: "Rosemary Hendricks"},
-  { Timestamp: "2023-02-14 15:51:16", EndTime: "2023-02-14 19:51:16", Name: "Susan Larson"},
-  { Timestamp: "2023-02-14 16:03:55", EndTime: "2023-02-14 20:03:55", Name: "Beverly Pinn"},
-  { Timestamp: "2023-02-14 00:00:00", EndTime: "2023-02-14 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-02-15 00:00:00", EndTime: "2023-02-15 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-15 19:39:14", EndTime: "2023-02-15 23:39:14", Name: "Connor Gephart"},
-  { Timestamp: "2023-02-15 19:42:37", EndTime: "2023-02-15 23:42:37", Name: "Jonathan Shay"},
-  { Timestamp: "2023-02-15 19:44:49", EndTime: "2023-02-15 23:44:49", Name: "Alex Bauer"},
-  { Timestamp: "2023-02-15 19:48:29", EndTime: "2023-02-15 23:48:29", Name: "Tina Paquet"},
-  { Timestamp: "2023-02-16 16:20:42", EndTime: "2023-02-16 20:20:42", Name: "Norma Kriger"},
-  { Timestamp: "2023-02-16 16:31:56", EndTime: "2023-02-16 20:31:56", Name: "Bud Stracker - Sisson Street DPW"},
-  { Timestamp: "2023-02-16 19:29:12", EndTime: "2023-02-16 23:29:12", Name: "Aziza"},
-  { Timestamp: "2023-02-16 19:30:42", EndTime: "2023-02-16 23:30:42", Name: "Nathaniel McClean"},
-  { Timestamp: "2023-02-16 00:00:00", EndTime: "2023-02-16 04:00:00", Name: "Jean"},
-  { Timestamp: "2023-02-16 00:00:00", EndTime: "2023-02-16 04:00:00", Name: "Melissa Thomas"},
-  { Timestamp: "2023-02-16 00:00:00", EndTime: "2023-02-16 04:00:00", Name: "Julia Buckson"},
-  { Timestamp: "2023-02-17 16:15:25", EndTime: "2023-02-17 20:15:25", Name: "Xiomara Rodriguez"},
-  { Timestamp: "2023-02-17 16:18:46", EndTime: "2023-02-17 20:18:46", Name: "Beth Torres"},
-  { Timestamp: "2023-02-17 16:43:42", EndTime: "2023-02-17 20:43:42", Name: "Sunita Pathik"},
-  { Timestamp: "2023-02-17 17:15:01", EndTime: "2023-02-17 21:15:01", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-02-17 00:00:00", EndTime: "2023-02-17 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-17 00:00:00", EndTime: "2023-02-17 04:00:00", Name: "Jack Bellows"},
-  { Timestamp: "2023-02-18 15:51:22", EndTime: "2023-02-18 19:51:22", Name: "Jasmine Rose"},
-  { Timestamp: "2023-02-18 15:51:51", EndTime: "2023-02-18 19:51:51", Name: "Evelyn Jiang"},
-  { Timestamp: "2023-02-18 15:56:48", EndTime: "2023-02-18 19:56:48", Name: "Sara B"},
-  { Timestamp: "2023-02-18 15:59:23", EndTime: "2023-02-18 19:59:23", Name: "Nastaran Keshmiri"},
-  { Timestamp: "2023-02-18 15:59:24", EndTime: "2023-02-18 19:59:24", Name: "Nathan So"},
-  { Timestamp: "2023-02-18 16:00:21", EndTime: "2023-02-18 20:00:21", Name: "Nailah Bishop"},
-  { Timestamp: "2023-02-18 16:00:50", EndTime: "2023-02-18 20:00:50", Name: "Jonyce Bland"},
-  { Timestamp: "2023-02-18 16:05:35", EndTime: "2023-02-18 20:05:35", Name: "David Annan"},
-  { Timestamp: "2023-02-18 16:05:35", EndTime: "2023-02-18 20:05:35", Name: "Daryan Fisher"},
-  { Timestamp: "2023-02-18 16:07:07", EndTime: "2023-02-18 20:07:07", Name: "Rachel Oh"},
-  { Timestamp: "2023-02-18 16:07:19", EndTime: "2023-02-18 20:07:19", Name: "Daniel Jin"},
-  { Timestamp: "2023-02-18 16:07:49", EndTime: "2023-02-18 20:07:49", Name: "Safeer Rasul"},
-  { Timestamp: "2023-02-18 16:08:09", EndTime: "2023-02-18 20:08:09", Name: "Jade Weatherington"},
-  { Timestamp: "2023-02-18 16:08:52", EndTime: "2023-02-18 20:08:52", Name: "Imani Armour"},
-  { Timestamp: "2023-02-18 16:10:21", EndTime: "2023-02-18 20:10:21", Name: "Akul Umamageswaran"},
-  { Timestamp: "2023-02-18 16:10:27", EndTime: "2023-02-18 20:10:27", Name: "Katherine Xiao"},
-  { Timestamp: "2023-02-18 16:10:39", EndTime: "2023-02-18 20:10:39", Name: "Josefina Aguilar-Pliszka"},
-  { Timestamp: "2023-02-18 16:25:02", EndTime: "2023-02-18 20:25:02", Name: "Beverly Pinn"},
-  { Timestamp: "2023-02-18 16:31:03", EndTime: "2023-02-18 20:31:03", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-02-18 18:05:55", EndTime: "2023-02-18 22:05:55", Name: "Sharon"},
-  { Timestamp: "2023-02-18 00:00:00", EndTime: "2023-02-18 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-18 00:00:00", EndTime: "2023-02-18 04:00:00", Name: "Lee Little"},
-  { Timestamp: "2023-02-19 14:48:42", EndTime: "2023-02-19 18:48:42", Name: "Carla T"},
-  { Timestamp: "2023-02-19 15:11:41", EndTime: "2023-02-19 19:11:41", Name: "Kate Weeks"},
-  { Timestamp: "2023-02-19 15:14:48", EndTime: "2023-02-19 19:14:48", Name: "Kaneesha"},
-  { Timestamp: "2023-02-19 15:19:49", EndTime: "2023-02-19 19:19:49", Name: "Zoe"},
-  { Timestamp: "2023-02-19 15:20:58", EndTime: "2023-02-19 19:20:58", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-19 15:56:20", EndTime: "2023-02-19 19:56:20", Name: "Obinna Nwokoro"},
-  { Timestamp: "2023-02-19 15:57:06", EndTime: "2023-02-19 19:57:06", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-02-21 16:00:25", EndTime: "2023-02-21 20:00:25", Name: "Beverly Graham"},
-  { Timestamp: "2023-02-21 16:00:37", EndTime: "2023-02-21 20:00:37", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-02-21 16:01:10", EndTime: "2023-02-21 20:01:10", Name: "Susan Larson"},
-  { Timestamp: "2023-02-21 16:01:12", EndTime: "2023-02-21 20:01:12", Name: "Rosemary Hendricks"},
-  { Timestamp: "2023-02-21 16:16:24", EndTime: "2023-02-21 20:16:24", Name: "Beverly Pinn"},
-  { Timestamp: "2023-02-22 16:47:55", EndTime: "2023-02-22 20:47:55", Name: "Bud Stracker - Sisson Street DPW"},
-  { Timestamp: "2023-02-22 17:15:43", EndTime: "2023-02-22 21:15:43", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-22 19:42:02", EndTime: "2023-02-22 23:42:02", Name: "Connor Gephart"},
-  { Timestamp: "2023-02-22 19:45:09", EndTime: "2023-02-22 23:45:09", Name: "Tina Paquet"},
-  { Timestamp: "2023-02-22 20:02:37", EndTime: "2023-02-23 00:02:37", Name: "Jonathan Shay"},
-  { Timestamp: "2023-02-23 00:00:00", EndTime: "2023-02-23 04:00:00", Name: "Norma Kriger"},
-  { Timestamp: "2023-02-23 00:00:00", EndTime: "2023-02-23 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-02-24 16:46:11", EndTime: "2023-02-24 20:46:11", Name: "Sunita Pathik"},
-  { Timestamp: "2023-02-24 00:00:00", EndTime: "2023-02-24 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-25 16:03:09", EndTime: "2023-02-25 20:03:09", Name: "Jasmine Rose"},
-  { Timestamp: "2023-02-25 16:04:33", EndTime: "2023-02-25 20:04:33", Name: "Xinyue Gu"},
-  { Timestamp: "2023-02-25 16:04:50", EndTime: "2023-02-25 20:04:50", Name: "Katherine Xiao"},
-  { Timestamp: "2023-02-25 16:04:58", EndTime: "2023-02-25 20:04:58", Name: "Trinity Burge"},
-  { Timestamp: "2023-02-25 16:05:14", EndTime: "2023-02-25 20:05:14", Name: "Liam Stewart"},
-  { Timestamp: "2023-02-25 16:05:34", EndTime: "2023-02-25 20:05:34", Name: "Claire Kim"},
-  { Timestamp: "2023-02-25 16:07:01", EndTime: "2023-02-25 20:07:01", Name: "Justin Zhong"},
-  { Timestamp: "2023-02-25 16:08:29", EndTime: "2023-02-25 20:08:29", Name: "Ariel Li"},
-  { Timestamp: "2023-02-25 16:09:17", EndTime: "2023-02-25 20:09:17", Name: "Zanya Jamieson"},
-  { Timestamp: "2023-02-25 16:18:54", EndTime: "2023-02-25 20:18:54", Name: "Beverly Pinn"},
-  { Timestamp: "2023-02-25 16:20:16", EndTime: "2023-02-25 20:20:16", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-25 00:00:00", EndTime: "2023-02-25 04:00:00", Name: "Ryan Murphy"},
-  { Timestamp: "2023-02-25 00:00:00", EndTime: "2023-02-25 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-02-26 15:05:46", EndTime: "2023-02-26 19:05:46", Name: "Michael Ford"},
-  { Timestamp: "2023-02-26 15:08:09", EndTime: "2023-02-26 19:08:09", Name: "Zoe"},
-  { Timestamp: "2023-02-26 15:09:42", EndTime: "2023-02-26 19:09:42", Name: "Obinna Nwokoro"},
-  { Timestamp: "2023-02-26 15:11:45", EndTime: "2023-02-26 19:11:45", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-02-26 15:27:00", EndTime: "2023-02-26 19:27:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-02-26 00:00:00", EndTime: "2023-02-26 04:00:00", Name: "Meredith Snow"},
-  { Timestamp: "2023-02-26 00:00:00", EndTime: "2023-02-26 04:00:00", Name: "Katelyn"},
-  { Timestamp: "2023-02-26 17:50:16", EndTime: "2023-02-26 21:50:16", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-02-28 16:45:25", EndTime: "2023-02-28 20:45:25", Name: "Beverly Graham"},
-  { Timestamp: "2023-02-28 16:45:43", EndTime: "2023-02-28 20:45:43", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-02-28 16:46:53", EndTime: "2023-02-28 20:46:53", Name: "Beverly Pinn"},
-  { Timestamp: "2023-03-01 13:59:16", EndTime: "2023-03-01 17:59:16", Name: "Bud Stracker - Sisson Street DPW"},
-  { Timestamp: "2023-03-01 16:49:04", EndTime: "2023-03-01 20:49:04", Name: "David Ondande"},
-  { Timestamp: "2023-03-01 16:53:05", EndTime: "2023-03-01 20:53:05", Name: "Karen Moore"},
-  { Timestamp: "2023-03-01 19:05:43", EndTime: "2023-03-01 23:05:43", Name: "Alex Bauer"},
-  { Timestamp: "2023-03-01 19:05:46", EndTime: "2023-03-01 23:05:46", Name: "Connor Gephart"},
-  { Timestamp: "2023-03-01 19:07:13", EndTime: "2023-03-01 23:07:13", Name: "Maddie Pardes"},
-  { Timestamp: "2023-03-01 19:07:49", EndTime: "2023-03-01 23:07:49", Name: "Luke Mayhew"},
-  { Timestamp: "2023-03-01 19:08:22", EndTime: "2023-03-01 23:08:22", Name: "Jonathan Shay"},
-  { Timestamp: "2023-03-01 00:00:00", EndTime: "2023-03-01 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-03-02 17:00:20", EndTime: "2023-03-02 21:00:20", Name: "Norma Kriger"},
-  { Timestamp: "2023-03-02 00:00:00", EndTime: "2023-03-02 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-03-02 00:00:00", EndTime: "2023-03-02 04:00:00", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-03-02 00:00:00", EndTime: "2023-03-02 04:00:00", Name: "Aziza"},
-  { Timestamp: "2023-03-02 00:00:00", EndTime: "2023-03-02 04:00:00", Name: "Nathaniel McClean"},
-  { Timestamp: "2023-03-03 17:12:14", EndTime: "2023-03-03 21:12:14", Name: "Nastaran Keshmiri"},
-  { Timestamp: "2023-03-04 15:55:41", EndTime: "2023-03-04 19:55:41", Name: "Jonyce Bland"},
-  { Timestamp: "2023-03-04 15:56:05", EndTime: "2023-03-04 19:56:05", Name: "Nailah Bishop"},
-  { Timestamp: "2023-03-04 15:56:22", EndTime: "2023-03-04 19:56:22", Name: "Nicolle Diaz"},
-  { Timestamp: "2023-03-04 15:57:12", EndTime: "2023-03-04 19:57:12", Name: "Nathan So"},
-  { Timestamp: "2023-03-04 16:00:14", EndTime: "2023-03-04 20:00:14", Name: "William Middlezong"},
-  { Timestamp: "2023-03-04 16:01:06", EndTime: "2023-03-04 20:01:06", Name: "Justin Zhong"},
-  { Timestamp: "2023-03-04 16:02:48", EndTime: "2023-03-04 20:02:48", Name: "Katherine Xiao"},
-  { Timestamp: "2023-03-04 16:03:03", EndTime: "2023-03-04 20:03:03", Name: "Jasmine Rose"},
-  { Timestamp: "2023-03-04 16:05:47", EndTime: "2023-03-04 20:05:47", Name: "Cameron Minor"},
-  { Timestamp: "2023-03-04 16:06:42", EndTime: "2023-03-04 20:06:42", Name: "Adebola Akinwale"},
-  { Timestamp: "2023-03-04 16:06:53", EndTime: "2023-03-04 20:06:53", Name: "Kelly Crawford"},
-  { Timestamp: "2023-03-04 16:14:18", EndTime: "2023-03-04 20:14:18", Name: "Dean Chien"},
-  { Timestamp: "2023-03-04 16:14:23", EndTime: "2023-03-04 20:14:23", Name: "Beverly Pinn"},
-  { Timestamp: "2023-03-04 00:00:00", EndTime: "2023-03-04 04:00:00", Name: "Trinity Burge"},
-  { Timestamp: "2023-03-04 00:00:00", EndTime: "2023-03-04 04:00:00", Name: "Sarah K"},
-  { Timestamp: "2023-03-04 00:00:00", EndTime: "2023-03-04 04:00:00", Name: "Rachel H"},
-  { Timestamp: "2023-03-04 00:00:00", EndTime: "2023-03-04 04:00:00", Name: "Mackenzie"},
-  { Timestamp: "2023-03-04 00:00:00", EndTime: "2023-03-04 04:00:00", Name: "Erin B"},
-  { Timestamp: "2023-03-04 00:00:00", EndTime: "2023-03-04 04:00:00", Name: "Xinyue Gu"},
-  { Timestamp: "2023-03-04 00:00:00", EndTime: "2023-03-04 04:00:00", Name: "Luke Pitsenbarger"},
-  { Timestamp: "2023-03-05 15:31:57", EndTime: "2023-03-05 19:31:57", Name: "Kaneesha"},
-  { Timestamp: "2023-03-05 15:34:46", EndTime: "2023-03-05 19:34:46", Name: "Jackie"},
-  { Timestamp: "2023-03-05 23:34:00", EndTime: "2023-03-06 03:34:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-07 16:30:49", EndTime: "2023-03-07 20:30:49", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-03-07 16:31:52", EndTime: "2023-03-07 20:31:52", Name: "Beverly Graham"},
-  { Timestamp: "2023-03-07 16:33:41", EndTime: "2023-03-07 20:33:41", Name: "Rosemary Hendricks"},
-  { Timestamp: "2023-03-07 16:34:56", EndTime: "2023-03-07 20:34:56", Name: "Susan Larson"},
-  { Timestamp: "2023-03-07 16:36:38", EndTime: "2023-03-07 20:36:38", Name: "Beverly Pinn"},
-  { Timestamp: "2023-03-08 12:30:47", EndTime: "2023-03-08 16:30:47", Name: "Bud Stracker - Sisson Street DPW"},
-  { Timestamp: "2023-03-08 17:16:07", EndTime: "2023-03-08 21:16:07", Name: "David Ondande"},
-  { Timestamp: "2023-03-08 17:36:34", EndTime: "2023-03-08 21:36:34", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-08 00:00:00", EndTime: "2023-03-08 04:00:00", Name: "Sarah K"},
-  { Timestamp: "2023-03-08 17:48:15", EndTime: "2023-03-08 21:48:15", Name: "Karen Moore"},
-  { Timestamp: "2023-03-08 00:00:00", EndTime: "2023-03-08 04:00:00", Name: "Tina Paquet"},
-  { Timestamp: "2023-03-08 00:00:00", EndTime: "2023-03-08 04:00:00", Name: "Latease"},
-  { Timestamp: "2023-03-08 00:00:00", EndTime: "2023-03-08 04:00:00", Name: "Maddie Pardes"},
-  { Timestamp: "2023-03-08 00:00:00", EndTime: "2023-03-08 04:00:00", Name: "Gregory"},
-  { Timestamp: "2023-03-08 20:44:47", EndTime: "2023-03-09 00:44:47", Name: "Connor Gephart"},
-  { Timestamp: "2023-03-09 16:36:21", EndTime: "2023-03-09 20:36:21", Name: "Norma Kriger"},
-  { Timestamp: "2023-03-09 16:45:37", EndTime: "2023-03-09 20:45:37", Name: "David Ondande"},
-  { Timestamp: "2023-03-09 19:23:55", EndTime: "2023-03-09 23:23:55", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-03-09 19:24:07", EndTime: "2023-03-09 23:24:07", Name: "Sara B"},
-  { Timestamp: "2023-03-09 19:25:51", EndTime: "2023-03-09 23:25:51", Name: "Aziza"},
-  { Timestamp: "2023-03-09 19:31:22", EndTime: "2023-03-09 23:31:22", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-03-09 00:00:00", EndTime: "2023-03-09 04:00:00", Name: "Nathaniel McClean"},
-  { Timestamp: "2023-03-10 17:15:25", EndTime: "2023-03-10 21:15:25", Name: "Beth Torres"},
-  { Timestamp: "2023-03-10 17:21:32", EndTime: "2023-03-10 21:21:32", Name: "David Ondande"},
-  { Timestamp: "2023-03-10 17:23:01", EndTime: "2023-03-10 21:23:01", Name: "Daniel Huff"},
-  { Timestamp: "2023-03-10 00:00:00", EndTime: "2023-03-10 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-10 00:00:00", EndTime: "2023-03-10 04:00:00", Name: "Roxane"},
-  { Timestamp: "2023-03-11 16:45:04", EndTime: "2023-03-11 20:45:04", Name: "Daniel Jin"},
-  { Timestamp: "2023-03-11 16:47:55", EndTime: "2023-03-11 20:47:55", Name: "Justin Huang"},
-  { Timestamp: "2023-03-11 16:48:06", EndTime: "2023-03-11 20:48:06", Name: "Rewa Hazim"},
-  { Timestamp: "2023-03-11 16:48:16", EndTime: "2023-03-11 20:48:16", Name: "Jade Weatherington"},
-  { Timestamp: "2023-03-11 16:48:56", EndTime: "2023-03-11 20:48:56", Name: "Claire Ahn"},
-  { Timestamp: "2023-03-11 16:49:06", EndTime: "2023-03-11 20:49:06", Name: "Prabhleen"},
-  { Timestamp: "2023-03-11 16:49:47", EndTime: "2023-03-11 20:49:47", Name: "Kelly Crawford"},
-  { Timestamp: "2023-03-11 16:50:14", EndTime: "2023-03-11 20:50:14", Name: "Dean Chien"},
-  { Timestamp: "2023-03-11 16:51:07", EndTime: "2023-03-11 20:51:07", Name: "Connor Lu"},
-  { Timestamp: "2023-03-11 16:54:29", EndTime: "2023-03-11 20:54:29", Name: "Meghan Alexis"},
-  { Timestamp: "2023-03-11 16:55:32", EndTime: "2023-03-11 20:55:32", Name: "Beverly Pinn"},
-  { Timestamp: "2023-03-11 16:55:54", EndTime: "2023-03-11 20:55:54", Name: "Imani Armour"},
-  { Timestamp: "2023-03-11 17:06:55", EndTime: "2023-03-11 21:06:55", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-03-11 00:00:00", EndTime: "2023-03-11 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-11 00:00:00", EndTime: "2023-03-11 04:00:00", Name: "Leap"},
-  { Timestamp: "2023-03-11 00:00:00", EndTime: "2023-03-11 04:00:00", Name: "Emily Ma"},
-  { Timestamp: "2023-03-12 15:20:59", EndTime: "2023-03-12 19:20:59", Name: "Carla T"},
-  { Timestamp: "2023-03-12 15:29:08", EndTime: "2023-03-12 19:29:08", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-03-12 22:15:05", EndTime: "2023-03-13 02:15:05", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-12 00:00:00", EndTime: "2023-03-12 04:00:00", Name: "Yulia"},
-  { Timestamp: "2023-03-12 00:00:00", EndTime: "2023-03-12 04:00:00", Name: "Yulia"},
-  { Timestamp: "2023-03-12 00:00:00", EndTime: "2023-03-12 04:00:00", Name: "Obinna Nwokoro"},
-  { Timestamp: "2023-03-12 00:00:00", EndTime: "2023-03-12 04:00:00", Name: "Kaneesha"},
-  { Timestamp: "2023-03-14 16:06:58", EndTime: "2023-03-14 20:06:58", Name: "Rosemary Hendricks"},
-  { Timestamp: "2023-03-14 16:08:03", EndTime: "2023-03-14 20:08:03", Name: "Susan Larson"},
-  { Timestamp: "2023-03-14 16:09:24", EndTime: "2023-03-14 20:09:24", Name: "Beverly Pinn"},
-  { Timestamp: "2023-03-14 16:11:22", EndTime: "2023-03-14 20:11:22", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-03-14 16:13:12", EndTime: "2023-03-14 20:13:12", Name: "Beverly Graham"},
-  { Timestamp: "2023-03-15 00:00:00", EndTime: "2023-03-15 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-15 16:44:04", EndTime: "2023-03-15 20:44:04", Name: "Martina Pozzi"},
-  { Timestamp: "2023-03-15 16:47:31", EndTime: "2023-03-15 20:47:31", Name: "Alex Bauer"},
-  { Timestamp: "2023-03-15 19:54:28", EndTime: "2023-03-15 23:54:28", Name: "Maddie Pardes"},
-  { Timestamp: "2023-03-15 19:54:42", EndTime: "2023-03-15 23:54:42", Name: "Connor Gephart"},
-  { Timestamp: "2023-03-15 20:00:39", EndTime: "2023-03-16 00:00:39", Name: "Tina Paquet"},
-  { Timestamp: "2023-03-15 00:00:00", EndTime: "2023-03-15 04:00:00", Name: "Latease"},
-  { Timestamp: "2023-03-15 00:00:00", EndTime: "2023-03-15 04:00:00", Name: "Gregory"},
-  { Timestamp: "2023-03-16 16:18:09", EndTime: "2023-03-16 20:18:09", Name: "Norma Kriger"},
-  { Timestamp: "2023-03-16 00:00:00", EndTime: "2023-03-16 04:00:00", Name: "Andy"},
-  { Timestamp: "2023-03-16 00:00:00", EndTime: "2023-03-16 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-03-16 19:59:39", EndTime: "2023-03-16 23:59:39", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-03-17 00:00:00", EndTime: "2023-03-17 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-17 16:47:25", EndTime: "2023-03-17 20:47:25", Name: "Sunita Pathik"},
-  { Timestamp: "2023-03-18 16:11:58", EndTime: "2023-03-18 20:11:58", Name: "Trinity Burge"},
-  { Timestamp: "2023-03-18 16:14:53", EndTime: "2023-03-18 20:14:53", Name: "Zyare Abdul-Rahim"},
-  { Timestamp: "2023-03-18 16:44:58", EndTime: "2023-03-18 20:44:58", Name: "Arjun Yogaratnam"},
-  { Timestamp: "2023-03-18 16:45:02", EndTime: "2023-03-18 20:45:02", Name: "Nathan So"},
-  { Timestamp: "2023-03-18 16:45:28", EndTime: "2023-03-18 20:45:28", Name: "Luke Pitsenbarger"},
-  { Timestamp: "2023-03-18 16:49:21", EndTime: "2023-03-18 20:49:21", Name: "Emily Stucke"},
-  { Timestamp: "2023-03-18 16:50:31", EndTime: "2023-03-18 20:50:31", Name: "Dean Chien"},
-  { Timestamp: "2023-03-18 16:55:17", EndTime: "2023-03-18 20:55:17", Name: "Beverly Pinn"},
-  { Timestamp: "2023-03-19 15:19:33", EndTime: "2023-03-19 19:19:33", Name: "Carla T"},
-  { Timestamp: "2023-03-19 15:28:51", EndTime: "2023-03-19 19:28:51", Name: "Alex Bauer"},
-  { Timestamp: "2023-03-19 15:32:28", EndTime: "2023-03-19 19:32:28", Name: "Treston Codrington"},
-  { Timestamp: "2023-03-19 15:35:21", EndTime: "2023-03-19 19:35:21", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-03-19 15:37:08", EndTime: "2023-03-19 19:37:08", Name: "Kate Weeks"},
-  { Timestamp: "2023-03-19 15:41:36", EndTime: "2023-03-19 19:41:36", Name: "Yulia"},
-  { Timestamp: "2023-03-19 15:43:24", EndTime: "2023-03-19 19:43:24", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-19 16:15:44", EndTime: "2023-03-19 20:15:44", Name: "Zoe"},
-  { Timestamp: "2023-03-21 16:31:52", EndTime: "2023-03-21 20:31:52", Name: "Beverly Graham"},
-  { Timestamp: "2023-03-21 16:32:13", EndTime: "2023-03-21 20:32:13", Name: "Rosemary Hendricks"},
-  { Timestamp: "2023-03-21 16:33:00", EndTime: "2023-03-21 20:33:00", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-03-21 16:42:59", EndTime: "2023-03-21 20:42:59", Name: "Anna West"},
-  { Timestamp: "2023-03-21 16:46:06", EndTime: "2023-03-21 20:46:06", Name: "Beverly Pinn"},
-  { Timestamp: "2023-03-22 17:02:15", EndTime: "2023-03-22 21:02:15", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-22 00:00:00", EndTime: "2023-03-22 04:00:00", Name: "Sarah K"},
-  { Timestamp: "2023-03-22 20:59:12", EndTime: "2023-03-23 00:59:12", Name: "Jonathan Shay"},
-  { Timestamp: "2023-03-22 20:59:25", EndTime: "2023-03-23 00:59:25", Name: "Alex Bauer"},
-  { Timestamp: "2023-03-22 21:05:02", EndTime: "2023-03-23 01:05:02", Name: "Luke Mayhew"},
-  { Timestamp: "2023-03-23 16:16:02", EndTime: "2023-03-23 20:16:02", Name: "Norma Kriger"},
-  { Timestamp: "2023-03-23 20:14:45", EndTime: "2023-03-24 00:14:45", Name: "Aziza"},
-  { Timestamp: "2023-03-23 20:14:58", EndTime: "2023-03-24 00:14:58", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-03-23 00:00:00", EndTime: "2023-03-23 04:00:00", Name: "Andy"},
-  { Timestamp: "2023-03-23 20:21:14", EndTime: "2023-03-24 00:21:14", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-03-24 20:23:39", EndTime: "2023-03-25 00:23:39", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-24 00:00:00", EndTime: "2023-03-24 04:00:00", Name: "Theresa Columbus"},
-  { Timestamp: "2023-03-25 16:55:51", EndTime: "2023-03-25 20:55:51", Name: "Emily Stucke"},
-  { Timestamp: "2023-03-25 16:58:07", EndTime: "2023-03-25 20:58:07", Name: "Jasmine Rose"},
-  { Timestamp: "2023-03-25 16:59:02", EndTime: "2023-03-25 20:59:02", Name: "Cameron Minor"},
-  { Timestamp: "2023-03-25 17:05:13", EndTime: "2023-03-25 21:05:13", Name: "Emily Ma"},
-  { Timestamp: "2023-03-25 17:05:17", EndTime: "2023-03-25 21:05:17", Name: "Kelly Chen"},
-  { Timestamp: "2023-03-25 00:00:00", EndTime: "2023-03-25 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-25 17:15:46", EndTime: "2023-03-25 21:15:46", Name: "Tam Kelley"},
-  { Timestamp: "2023-03-26 12:12:02", EndTime: "2023-03-26 16:12:02", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-26 15:33:01", EndTime: "2023-03-26 19:33:01", Name: "Carla T"},
-  { Timestamp: "2023-03-26 16:04:30", EndTime: "2023-03-26 20:04:30", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-26 16:17:27", EndTime: "2023-03-26 20:17:27", Name: "Obinna Nwokoro"},
-  { Timestamp: "2023-03-26 16:18:43", EndTime: "2023-03-26 20:18:43", Name: "Kate Weeks"},
-  { Timestamp: "2023-03-26 16:18:46", EndTime: "2023-03-26 20:18:46", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-03-26 00:00:00", EndTime: "2023-03-26 04:00:00", Name: "Denise Rivers"},
-  { Timestamp: "2023-03-26 00:00:00", EndTime: "2023-03-26 04:00:00", Name: "Dorja"},
-  { Timestamp: "2023-03-26 16:20:38", EndTime: "2023-03-26 20:20:38", Name: "Brandon Clark"},
-  { Timestamp: "2023-03-28 16:42:04", EndTime: "2023-03-28 20:42:04", Name: "Beverly Graham"},
-  { Timestamp: "2023-03-28 16:43:01", EndTime: "2023-03-28 20:43:01", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-03-28 16:43:28", EndTime: "2023-03-28 20:43:28", Name: "Beverly Pinn"},
-  { Timestamp: "2023-03-29 17:05:49", EndTime: "2023-03-29 21:05:49", Name: "Karen Moore"},
-  { Timestamp: "2023-03-29 18:38:58", EndTime: "2023-03-29 22:38:58", Name: "Juanita Chandler"},
-  { Timestamp: "2023-03-29 20:27:25", EndTime: "2023-03-30 00:27:25", Name: "Connor Gephart"},
-  { Timestamp: "2023-03-29 20:29:39", EndTime: "2023-03-30 00:29:39", Name: "Alex Bauer"},
-  { Timestamp: "2023-03-29 20:29:42", EndTime: "2023-03-30 00:29:42", Name: "Jonathan Shay"},
-  { Timestamp: "2023-03-29 20:30:36", EndTime: "2023-03-30 00:30:36", Name: "Luke Mayhew"},
-  { Timestamp: "2023-03-29 20:32:43", EndTime: "2023-03-30 00:32:43", Name: "Tina Paquet"},
-  { Timestamp: "2023-03-30 16:58:46", EndTime: "2023-03-30 20:58:46", Name: "Norma Kriger"},
-  { Timestamp: "2023-03-30 20:30:47", EndTime: "2023-03-31 00:30:47", Name: "Sara B"},
-  { Timestamp: "2023-03-30 00:00:00", EndTime: "2023-03-30 04:00:00", Name: "Andy"},
-  { Timestamp: "2023-03-30 00:00:00", EndTime: "2023-03-30 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-03-31 16:47:05", EndTime: "2023-03-31 20:47:05", Name: "Sunita Pathik"},
-  { Timestamp: "2023-03-31 17:00:20", EndTime: "2023-03-31 21:00:20", Name: "Beth Torres"},
-  { Timestamp: "2023-03-31 17:08:07", EndTime: "2023-03-31 21:08:07", Name: "Dean Sharif"},
-  { Timestamp: "2023-04-01 16:03:25", EndTime: "2023-04-01 20:03:25", Name: "Jasmine Rose"},
-  { Timestamp: "2023-04-01 16:33:10", EndTime: "2023-04-01 20:33:10", Name: "Sean Kwak"},
-  { Timestamp: "2023-04-01 16:34:50", EndTime: "2023-04-01 20:34:50", Name: "Trinity Burge"},
-  { Timestamp: "2023-04-01 16:37:11", EndTime: "2023-04-01 20:37:11", Name: "Waldo"},
-  { Timestamp: "2023-04-01 16:37:40", EndTime: "2023-04-01 20:37:40", Name: "Justin Zhong"},
-  { Timestamp: "2023-04-01 16:39:11", EndTime: "2023-04-01 20:39:11", Name: "Brendan Wille"},
-  { Timestamp: "2023-04-01 16:41:17", EndTime: "2023-04-01 20:41:17", Name: "Kelly Crawford"},
-  { Timestamp: "2023-04-01 16:41:48", EndTime: "2023-04-01 20:41:48", Name: "Emily Fitzpatrick"},
-  { Timestamp: "2023-04-01 16:41:55", EndTime: "2023-04-01 20:41:55", Name: "Michael Yoo"},
-  { Timestamp: "2023-04-01 16:51:57", EndTime: "2023-04-01 20:51:57", Name: "Dean Chien"},
-  { Timestamp: "2023-04-01 16:57:15", EndTime: "2023-04-01 20:57:15", Name: "Beverly Pinn"},
-  { Timestamp: "2023-04-01 17:01:10", EndTime: "2023-04-01 21:01:10", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-01 00:00:00", EndTime: "2023-04-01 04:00:00", Name: "Dimpy"},
-  { Timestamp: "2023-04-01 00:00:00", EndTime: "2023-04-01 04:00:00", Name: "William Middlezong"},
-  { Timestamp: "2023-04-01 00:00:00", EndTime: "2023-04-01 04:00:00", Name: "Cameron Minor"},
-  { Timestamp: "2023-04-01 00:00:00", EndTime: "2023-04-01 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-04-02 15:36:10", EndTime: "2023-04-02 19:36:10", Name: "Alex Bauer"},
-  { Timestamp: "2023-04-02 15:40:32", EndTime: "2023-04-02 19:40:32", Name: "Kaneesha"},
-  { Timestamp: "2023-04-02 15:41:05", EndTime: "2023-04-02 19:41:05", Name: "Zoe"},
-  { Timestamp: "2023-04-02 15:41:16", EndTime: "2023-04-02 19:41:16", Name: "Kate Weeks"},
-  { Timestamp: "2023-04-02 15:44:38", EndTime: "2023-04-02 19:44:38", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-04-03 18:37:43", EndTime: "2023-04-03 22:37:43", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-04 16:47:16", EndTime: "2023-04-04 20:47:16", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-04-04 16:47:34", EndTime: "2023-04-04 20:47:34", Name: "Susan Larson"},
-  { Timestamp: "2023-04-04 16:48:39", EndTime: "2023-04-04 20:48:39", Name: "Beverly Graham"},
-  { Timestamp: "2023-04-04 16:50:51", EndTime: "2023-04-04 20:50:51", Name: "Jan Kleinman"},
-  { Timestamp: "2023-04-04 16:56:41", EndTime: "2023-04-04 20:56:41", Name: "Beverly Pinn"},
-  { Timestamp: "2023-04-04 00:00:00", EndTime: "2023-04-04 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-04-05 20:28:34", EndTime: "2023-04-06 00:28:34", Name: "Connor Gephart"},
-  { Timestamp: "2023-04-05 20:31:51", EndTime: "2023-04-06 00:31:51", Name: "Jonathan Shay"},
-  { Timestamp: "2023-04-05 20:36:37", EndTime: "2023-04-06 00:36:37", Name: "Tina Paquet"},
-  { Timestamp: "2023-04-05 23:22:47", EndTime: "2023-04-06 03:22:47", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-05 00:00:00", EndTime: "2023-04-05 04:00:00", Name: "Sarah K"},
-  { Timestamp: "2023-04-05 00:00:00", EndTime: "2023-04-05 04:00:00", Name: "Latease"},
-  { Timestamp: "2023-04-06 00:00:00", EndTime: "2023-04-06 04:00:00", Name: "Norma Kriger"},
-  { Timestamp: "2023-04-07 16:55:21", EndTime: "2023-04-07 20:55:21", Name: "Sunita Pathik"},
-  { Timestamp: "2023-04-07 00:00:00", EndTime: "2023-04-07 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-08 16:28:54", EndTime: "2023-04-08 20:28:54", Name: "Zoe"},
-  { Timestamp: "2023-04-08 16:36:10", EndTime: "2023-04-08 20:36:10", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-04-08 16:42:04", EndTime: "2023-04-08 20:42:04", Name: "Jasmine Jones-Howard"},
-  { Timestamp: "2023-04-08 16:42:40", EndTime: "2023-04-08 20:42:40", Name: "Takiya Eastmond"},
-  { Timestamp: "2023-04-08 17:05:09", EndTime: "2023-04-08 21:05:09", Name: "Iyana Gross"},
-  { Timestamp: "2023-04-08 17:14:21", EndTime: "2023-04-08 21:14:21", Name: "Jaylen Harvey"},
-  { Timestamp: "2023-04-08 17:17:05", EndTime: "2023-04-08 21:17:05", Name: "Kiera Payne"},
-  { Timestamp: "2023-04-08 17:17:09", EndTime: "2023-04-08 21:17:09", Name: "Sierra Jai Smith"},
-  { Timestamp: "2023-04-08 17:18:19", EndTime: "2023-04-08 21:18:19", Name: "Daniel Jin"},
-  { Timestamp: "2023-04-08 17:18:32", EndTime: "2023-04-08 21:18:32", Name: "Marquise Pearson"},
-  { Timestamp: "2023-04-08 17:19:23", EndTime: "2023-04-08 21:19:23", Name: "Adriana Hill"},
-  { Timestamp: "2023-04-08 17:19:47", EndTime: "2023-04-08 21:19:47", Name: "Isaiah Gordon"},
-  { Timestamp: "2023-04-08 17:21:46", EndTime: "2023-04-08 21:21:46", Name: "Morgan"},
-  { Timestamp: "2023-04-08 17:23:26", EndTime: "2023-04-08 21:23:26", Name: "Iyana Gross"},
-  { Timestamp: "2023-04-08 17:23:59", EndTime: "2023-04-08 21:23:59", Name: "Justin Coelho"},
-  { Timestamp: "2023-04-08 17:25:28", EndTime: "2023-04-08 21:25:28", Name: "Josefina Aguilar-Pliszka"},
-  { Timestamp: "2023-04-08 17:26:29", EndTime: "2023-04-08 21:26:29", Name: "Liam Stewart"},
-  { Timestamp: "2023-04-08 17:27:24", EndTime: "2023-04-08 21:27:24", Name: "Makayla Boyce"},
-  { Timestamp: "2023-04-08 17:31:09", EndTime: "2023-04-08 21:31:09", Name: "Nyasia Arrington"},
-  { Timestamp: "2023-04-08 17:33:22", EndTime: "2023-04-08 21:33:22", Name: "Dean Chien"},
-  { Timestamp: "2023-04-08 17:36:33", EndTime: "2023-04-08 21:36:33", Name: "Beverly Pinn"},
-  { Timestamp: "2023-04-08 17:49:06", EndTime: "2023-04-08 21:49:06", Name: "Emily Stucke"},
-  { Timestamp: "2023-04-08 22:58:58", EndTime: "2023-04-09 02:58:58", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Nani Herring"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Cody Windley"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Charisse"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Lanae"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Kamau"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Tashana"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Justin Coelho"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Aisha"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Kennedy"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Emily B"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Kamille"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Sue Daja"},
-  { Timestamp: "2023-04-08 00:00:00", EndTime: "2023-04-08 04:00:00", Name: "Yasmine"},
-  { Timestamp: "2023-04-11 16:56:33", EndTime: "2023-04-11 20:56:33", Name: "Susan Larson"},
-  { Timestamp: "2023-04-11 16:57:26", EndTime: "2023-04-11 20:57:26", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-04-11 17:00:48", EndTime: "2023-04-11 21:00:48", Name: "Anna West"},
-  { Timestamp: "2023-04-11 17:00:55", EndTime: "2023-04-11 21:00:55", Name: "Beverly Graham"},
-  { Timestamp: "2023-04-11 17:02:33", EndTime: "2023-04-11 21:02:33", Name: "Beverly Pinn"},
-  { Timestamp: "2023-04-11 00:00:00", EndTime: "2023-04-11 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-04-12 18:11:21", EndTime: "2023-04-12 22:11:21", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-12 00:00:00", EndTime: "2023-04-12 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-04-12 00:00:00", EndTime: "2023-04-12 04:00:00", Name: "Tina Paquet"},
-  { Timestamp: "2023-04-12 00:00:00", EndTime: "2023-04-12 04:00:00", Name: "Karen Moore"},
-  { Timestamp: "2023-04-12 00:00:00", EndTime: "2023-04-12 04:00:00", Name: "Luke Pitsenbarger"},
-  { Timestamp: "2023-04-12 20:58:43", EndTime: "2023-04-13 00:58:43", Name: "Connor Gephart"},
-  { Timestamp: "2023-04-13 16:48:41", EndTime: "2023-04-13 20:48:41", Name: "Norma Kriger"},
-  { Timestamp: "2023-04-13 20:23:02", EndTime: "2023-04-14 00:23:02", Name: "Sara B"},
-  { Timestamp: "2023-04-13 20:30:06", EndTime: "2023-04-14 00:30:06", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-04-13 20:31:17", EndTime: "2023-04-14 00:31:17", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-04-13 20:31:45", EndTime: "2023-04-14 00:31:45", Name: "Aziza"},
-  { Timestamp: "2023-04-13 00:00:00", EndTime: "2023-04-13 04:00:00", Name: "Nathaniel McClean"},
-  { Timestamp: "2023-04-14 22:27:46", EndTime: "2023-04-15 02:27:46", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-14 00:00:00", EndTime: "2023-04-14 04:00:00", Name: "Perry Faulk"},
-  { Timestamp: "2023-04-15 17:08:13", EndTime: "2023-04-15 21:08:13", Name: "Beverly Pinn"},
-  { Timestamp: "2023-04-15 17:13:37", EndTime: "2023-04-15 21:13:37", Name: "Liam Stewart"},
-  { Timestamp: "2023-04-15 17:14:13", EndTime: "2023-04-15 21:14:13", Name: "Alex Nguyen"},
-  { Timestamp: "2023-04-15 17:15:51", EndTime: "2023-04-15 21:15:51", Name: "Daniel Jin"},
-  { Timestamp: "2023-04-15 17:16:51", EndTime: "2023-04-15 21:16:51", Name: "Nathan So"},
-  { Timestamp: "2023-04-15 17:17:04", EndTime: "2023-04-15 21:17:04", Name: "Evelyn Jiang"},
-  { Timestamp: "2023-04-15 17:17:25", EndTime: "2023-04-15 21:17:25", Name: "Justin Zhong"},
-  { Timestamp: "2023-04-15 17:18:10", EndTime: "2023-04-15 21:18:10", Name: "Emi Ochoa"},
-  { Timestamp: "2023-04-15 17:18:29", EndTime: "2023-04-15 21:18:29", Name: "Nader Najjar"},
-  { Timestamp: "2023-04-15 17:18:37", EndTime: "2023-04-15 21:18:37", Name: "Derek Dang"},
-  { Timestamp: "2023-04-15 17:19:02", EndTime: "2023-04-15 21:19:02", Name: "Kaleigh Rudge"},
-  { Timestamp: "2023-04-15 17:20:36", EndTime: "2023-04-15 21:20:36", Name: "Nanrui Gong"},
-  { Timestamp: "2023-04-15 17:21:32", EndTime: "2023-04-15 21:21:32", Name: "Jillayne Clarke"},
-  { Timestamp: "2023-04-15 17:52:58", EndTime: "2023-04-15 21:52:58", Name: "Dean Chien"},
-  { Timestamp: "2023-04-15 18:03:50", EndTime: "2023-04-15 22:03:50", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-04-16 16:13:50", EndTime: "2023-04-16 20:13:50", Name: "Kate Weeks"},
-  { Timestamp: "2023-04-16 16:25:24", EndTime: "2023-04-16 20:25:24", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-04-16 16:25:43", EndTime: "2023-04-16 20:25:43", Name: "Zoe"},
-  { Timestamp: "2023-04-16 16:26:21", EndTime: "2023-04-16 20:26:21", Name: "Dynashia Woodson"},
-  { Timestamp: "2023-04-16 23:31:46", EndTime: "2023-04-17 03:31:46", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-18 17:06:44", EndTime: "2023-04-18 21:06:44", Name: "Susan Larson"},
-  { Timestamp: "2023-04-18 17:07:01", EndTime: "2023-04-18 21:07:01", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-04-18 17:07:18", EndTime: "2023-04-18 21:07:18", Name: "Anna West"},
-  { Timestamp: "2023-04-18 17:07:35", EndTime: "2023-04-18 21:07:35", Name: "Beverly Graham"},
-  { Timestamp: "2023-04-18 17:32:35", EndTime: "2023-04-18 21:32:35", Name: "Beverly Pinn"},
-  { Timestamp: "2023-04-18 00:00:00", EndTime: "2023-04-18 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-04-19 00:00:00", EndTime: "2023-04-19 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-19 00:00:00", EndTime: "2023-04-19 04:00:00", Name: "Mekayle"},
-  { Timestamp: "2023-04-19 00:00:00", EndTime: "2023-04-19 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-04-19 17:45:11", EndTime: "2023-04-19 21:45:11", Name: "Beverly Pinn"},
-  { Timestamp: "2023-04-19 18:41:50", EndTime: "2023-04-19 22:41:50", Name: "Karen Moore"},
-  { Timestamp: "2023-04-19 19:45:31", EndTime: "2023-04-19 23:45:31", Name: "Alex Bauer"},
-  { Timestamp: "2023-04-19 19:45:49", EndTime: "2023-04-19 23:45:49", Name: "Connor Gephart"},
-  { Timestamp: "2023-04-19 19:49:16", EndTime: "2023-04-19 23:49:16", Name: "Tina Paquet"},
-  { Timestamp: "2023-04-19 19:50:32", EndTime: "2023-04-19 23:50:32", Name: "Jonathan Shay"},
-  { Timestamp: "2023-04-19 19:53:54", EndTime: "2023-04-19 23:53:54", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-04-20 16:17:28", EndTime: "2023-04-20 20:17:28", Name: "Norma Kriger"},
-  { Timestamp: "2023-04-20 18:27:55", EndTime: "2023-04-20 22:27:55", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-04-20 20:28:26", EndTime: "2023-04-21 00:28:26", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-20 00:00:00", EndTime: "2023-04-20 04:00:00", Name: "Sharon"},
-  { Timestamp: "2023-04-20 00:00:00", EndTime: "2023-04-20 04:00:00", Name: "Aziza"},
-  { Timestamp: "2023-04-20 00:00:00", EndTime: "2023-04-20 04:00:00", Name: "Emily Fitzpatrick"},
-  { Timestamp: "2023-04-21 16:41:54", EndTime: "2023-04-21 20:41:54", Name: "Sunita Pathik"},
-  { Timestamp: "2023-04-21 21:18:00", EndTime: "2023-04-22 01:18:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-21 00:00:00", EndTime: "2023-04-21 04:00:00", Name: "Mekayle"},
-  { Timestamp: "2023-04-22 16:25:15", EndTime: "2023-04-22 20:25:15", Name: "Kathleen Lac"},
-  { Timestamp: "2023-04-22 16:25:27", EndTime: "2023-04-22 20:25:27", Name: "Jasmine Rose"},
-  { Timestamp: "2023-04-22 16:26:46", EndTime: "2023-04-22 20:26:46", Name: "Brad Burton"},
-  { Timestamp: "2023-04-22 16:28:04", EndTime: "2023-04-22 20:28:04", Name: "Eric Alvarado"},
-  { Timestamp: "2023-04-22 16:28:20", EndTime: "2023-04-22 20:28:20", Name: "Cameron Dong"},
-  { Timestamp: "2023-04-22 16:29:55", EndTime: "2023-04-22 20:29:55", Name: "Brandon Clark"},
-  { Timestamp: "2023-04-22 16:32:09", EndTime: "2023-04-22 20:32:09", Name: "Dynashia Woodson"},
-  { Timestamp: "2023-04-22 16:40:46", EndTime: "2023-04-22 20:40:46", Name: "Beverly Pinn"},
-  { Timestamp: "2023-04-22 00:00:00", EndTime: "2023-04-22 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-23 15:21:38", EndTime: "2023-04-23 19:21:38", Name: "Alex Bauer"},
-  { Timestamp: "2023-04-23 15:25:47", EndTime: "2023-04-23 19:25:47", Name: "Kate Weeks"},
-  { Timestamp: "2023-04-23 15:25:56", EndTime: "2023-04-23 19:25:56", Name: "Kaneesha"},
-  { Timestamp: "2023-04-23 16:53:02", EndTime: "2023-04-23 20:53:02", Name: "Juanita Chandler"},
-  { Timestamp: "2023-04-23 00:00:00", EndTime: "2023-04-23 04:00:00", Name: "Layia"},
-  { Timestamp: "2023-04-23 00:00:00", EndTime: "2023-04-23 04:00:00", Name: "Katelyn"},
-  { Timestamp: "2023-04-23 00:00:00", EndTime: "2023-04-23 04:00:00", Name: "Carla T"},
-  { Timestamp: "2023-04-25 16:26:49", EndTime: "2023-04-25 20:26:49", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-04-25 16:28:23", EndTime: "2023-04-25 20:28:23", Name: "Anna West"},
-  { Timestamp: "2023-04-25 16:29:57", EndTime: "2023-04-25 20:29:57", Name: "Beverly Pinn"},
-  { Timestamp: "2023-04-25 16:31:21", EndTime: "2023-04-25 20:31:21", Name: "Beverly Graham"},
-  { Timestamp: "2023-04-25 00:00:00", EndTime: "2023-04-25 04:00:00", Name: "Sarah K"},
-  { Timestamp: "2023-04-26 15:32:06", EndTime: "2023-04-26 19:32:06", Name: "Bud Stracker - Sisson Street DPW"},
-  { Timestamp: "2023-04-27 00:00:00", EndTime: "2023-04-27 04:00:00", Name: "Sharon"},
-  { Timestamp: "2023-04-27 00:00:00", EndTime: "2023-04-27 04:00:00", Name: "Norma Kriger"},
-  { Timestamp: "2023-04-27 15:04:23", EndTime: "2023-04-27 19:04:23", Name: "Diego Trafton"},
-  { Timestamp: "2023-04-27 15:04:31", EndTime: "2023-04-27 19:04:31", Name: "Emily Zhang"},
-  { Timestamp: "2023-04-28 00:00:00", EndTime: "2023-04-28 04:00:00", Name: "Gabriel C"},
-  { Timestamp: "2023-04-28 00:00:00", EndTime: "2023-04-28 04:00:00", Name: "Sandy W"},
-  { Timestamp: "2023-04-28 00:00:00", EndTime: "2023-04-28 04:00:00", Name: "Arjun Yogaratnam"},
-  { Timestamp: "2023-04-28 00:00:00", EndTime: "2023-04-28 04:00:00", Name: "Brian Min"},
-  { Timestamp: "2023-04-28 00:00:00", EndTime: "2023-04-28 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-06 00:00:00", EndTime: "2023-05-06 04:00:00", Name: "Travis James"},
-  { Timestamp: "2023-05-06 00:00:00", EndTime: "2023-05-06 04:00:00", Name: "Obinna Nwokoro"},
-  { Timestamp: "2023-05-07 15:56:51", EndTime: "2023-05-07 19:56:51", Name: "Zoe"},
-  { Timestamp: "2023-05-09 16:29:28", EndTime: "2023-05-09 20:29:28", Name: "Anna West"},
-  { Timestamp: "2023-05-09 16:29:36", EndTime: "2023-05-09 20:29:36", Name: "Susan Larson"},
-  { Timestamp: "2023-05-09 16:36:13", EndTime: "2023-05-09 20:36:13", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-05-09 16:36:57", EndTime: "2023-05-09 20:36:57", Name: "Beverly Graham"},
-  { Timestamp: "2023-05-09 16:45:48", EndTime: "2023-05-09 20:45:48", Name: "Beverly Pinn"},
-  { Timestamp: "2023-05-09 16:46:17", EndTime: "2023-05-09 20:46:17", Name: "Michael Nwachukwu"},
-  { Timestamp: "2023-05-10 00:00:00", EndTime: "2023-05-10 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-10 00:00:00", EndTime: "2023-05-10 04:00:00", Name: "Karen Moore"},
-  { Timestamp: "2023-05-10 20:05:12", EndTime: "2023-05-11 00:05:12", Name: "Alex Bauer"},
-  { Timestamp: "2023-05-10 20:05:12", EndTime: "2023-05-11 00:05:12", Name: "Jonathan Shay"},
-  { Timestamp: "2023-05-10 00:00:00", EndTime: "2023-05-10 04:00:00", Name: "Luke Pitsenbarger"},
-  { Timestamp: "2023-05-11 00:00:00", EndTime: "2023-05-11 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-05-11 17:54:02", EndTime: "2023-05-11 21:54:02", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-05-11 00:00:00", EndTime: "2023-05-11 04:00:00", Name: "Norma Kriger"},
-  { Timestamp: "2023-05-11 00:00:00", EndTime: "2023-05-11 04:00:00", Name: "Sharon"},
-  { Timestamp: "2023-05-11 00:00:00", EndTime: "2023-05-11 04:00:00", Name: "Myles Austin"},
-  { Timestamp: "2023-05-12 16:20:41", EndTime: "2023-05-12 20:20:41", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-12 16:49:48", EndTime: "2023-05-12 20:49:48", Name: "Sunita Pathik"},
-  { Timestamp: "2023-05-13 15:07:08", EndTime: "2023-05-13 19:07:08", Name: "Beverly Pinn"},
-  { Timestamp: "2023-05-13 16:42:21", EndTime: "2023-05-13 20:42:21", Name: "Imani Armour"},
-  { Timestamp: "2023-05-13 16:46:05", EndTime: "2023-05-13 20:46:05", Name: "Meghan Alexis"},
-  { Timestamp: "2023-05-13 16:46:31", EndTime: "2023-05-13 20:46:31", Name: "Jade Weatherington"},
-  { Timestamp: "2023-05-13 16:49:38", EndTime: "2023-05-13 20:49:38", Name: "Ngozi Douglas"},
-  { Timestamp: "2023-05-13 16:49:59", EndTime: "2023-05-13 20:49:59", Name: "Arezou Esmaeeli"},
-  { Timestamp: "2023-05-13 16:51:21", EndTime: "2023-05-13 20:51:21", Name: "Benjamin Hung"},
-  { Timestamp: "2023-05-13 17:16:16", EndTime: "2023-05-13 21:16:16", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-13 00:00:00", EndTime: "2023-05-13 04:00:00", Name: "Fadil Santosa"},
-  { Timestamp: "2023-05-14 00:00:00", EndTime: "2023-05-14 04:00:00", Name: "Travis James"},
-  { Timestamp: "2023-05-16 16:43:02", EndTime: "2023-05-16 20:43:02", Name: "Beverly Graham"},
-  { Timestamp: "2023-05-16 16:43:13", EndTime: "2023-05-16 20:43:13", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-05-16 16:48:09", EndTime: "2023-05-16 20:48:09", Name: "Susan Larson"},
-  { Timestamp: "2023-05-16 16:48:35", EndTime: "2023-05-16 20:48:35", Name: "Cindy Silveira"},
-  { Timestamp: "2023-05-16 16:50:04", EndTime: "2023-05-16 20:50:04", Name: "Beverly Pinn"},
-  { Timestamp: "2023-05-16 00:00:00", EndTime: "2023-05-16 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-05-17 11:07:01", EndTime: "2023-05-17 15:07:01", Name: "Bud Stracker"},
-  { Timestamp: "2023-05-17 18:54:24", EndTime: "2023-05-17 22:54:24", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-17 21:00:48", EndTime: "2023-05-18 01:00:48", Name: "Jonathan Shay"},
-  { Timestamp: "2023-05-17 21:04:28", EndTime: "2023-05-18 01:04:28", Name: "Luke Mayhew"},
-  { Timestamp: "2023-05-17 00:00:00", EndTime: "2023-05-17 04:00:00", Name: "Paul H"},
-  { Timestamp: "2023-05-17 00:00:00", EndTime: "2023-05-17 04:00:00", Name: "Latease"},
-  { Timestamp: "2023-05-17 00:00:00", EndTime: "2023-05-17 04:00:00", Name: "Tina Paquet"},
-  { Timestamp: "2023-05-17 00:00:00", EndTime: "2023-05-17 04:00:00", Name: "Denise Rivers"},
-  { Timestamp: "2023-05-17 00:00:00", EndTime: "2023-05-17 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-05-18 16:22:33", EndTime: "2023-05-18 20:22:33", Name: "Norma Kriger"},
-  { Timestamp: "2023-05-18 16:23:04", EndTime: "2023-05-18 20:23:04", Name: "Hong"},
-  { Timestamp: "2023-05-18 20:19:30", EndTime: "2023-05-19 00:19:30", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-05-18 20:36:13", EndTime: "2023-05-19 00:36:13", Name: "Aziza"},
-  { Timestamp: "2023-05-18 20:36:47", EndTime: "2023-05-19 00:36:47", Name: "Sara B"},
-  { Timestamp: "2023-05-19 16:52:04", EndTime: "2023-05-19 20:52:04", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-20 12:58:50", EndTime: "2023-05-20 16:58:50", Name: "Ryan Murphy"},
-  { Timestamp: "2023-05-20 16:41:14", EndTime: "2023-05-20 20:41:14", Name: "Travis James"},
-  { Timestamp: "2023-05-20 16:55:25", EndTime: "2023-05-20 20:55:25", Name: "Beverly Pinn"},
-  { Timestamp: "2023-05-20 00:00:00", EndTime: "2023-05-20 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-05-21 16:32:57", EndTime: "2023-05-21 20:32:57", Name: "Myles Austin"},
-  { Timestamp: "2023-05-21 16:40:12", EndTime: "2023-05-21 20:40:12", Name: "Zoe"},
-  { Timestamp: "2023-05-21 16:40:18", EndTime: "2023-05-21 20:40:18", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-05-21 00:00:00", EndTime: "2023-05-21 04:00:00", Name: "Katelyn"},
-  { Timestamp: "2023-05-21 00:00:00", EndTime: "2023-05-21 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-05-22 03:15:11", EndTime: "2023-05-22 07:15:11", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-23 16:18:19", EndTime: "2023-05-23 20:18:19", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-05-23 16:19:13", EndTime: "2023-05-23 20:19:13", Name: "Beverly Graham"},
-  { Timestamp: "2023-05-23 16:20:53", EndTime: "2023-05-23 20:20:53", Name: "Susan Larson"},
-  { Timestamp: "2023-05-23 16:23:08", EndTime: "2023-05-23 20:23:08", Name: "Cindy Silveira"},
-  { Timestamp: "2023-05-23 16:38:05", EndTime: "2023-05-23 20:38:05", Name: "Beverly Pinn"},
-  { Timestamp: "2023-05-23 00:00:00", EndTime: "2023-05-23 04:00:00", Name: "Marci Yankelov"},
-  { Timestamp: "2023-05-23 00:00:00", EndTime: "2023-05-23 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-05-24 16:19:12", EndTime: "2023-05-24 20:19:12", Name: "Bud Stracker - Sisson Street DPW"},
-  { Timestamp: "2023-05-24 17:06:56", EndTime: "2023-05-24 21:06:56", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-24 17:08:10", EndTime: "2023-05-24 21:08:10", Name: "Karen Moore"},
-  { Timestamp: "2023-05-24 20:15:33", EndTime: "2023-05-25 00:15:33", Name: "Connor Gephart"},
-  { Timestamp: "2023-05-24 20:18:31", EndTime: "2023-05-25 00:18:31", Name: "Shoshana Kott"},
-  { Timestamp: "2023-05-24 20:18:50", EndTime: "2023-05-25 00:18:50", Name: "Alex Bauer"},
-  { Timestamp: "2023-05-24 20:21:28", EndTime: "2023-05-25 00:21:28", Name: "Tina Paquet"},
-  { Timestamp: "2023-05-24 20:22:02", EndTime: "2023-05-25 00:22:02", Name: "Jonathan Shay"},
-  { Timestamp: "2023-05-24 20:23:39", EndTime: "2023-05-25 00:23:39", Name: "Luke Mayhew"},
-  { Timestamp: "2023-05-24 20:35:54", EndTime: "2023-05-25 00:35:54", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-05-25 00:00:00", EndTime: "2023-05-25 04:00:00", Name: "Hong"},
-  { Timestamp: "2023-05-25 00:00:00", EndTime: "2023-05-25 04:00:00", Name: "Norma Kriger"},
-  { Timestamp: "2023-05-25 00:00:00", EndTime: "2023-05-25 04:00:00", Name: "Sharon"},
-  { Timestamp: "2023-05-25 00:00:00", EndTime: "2023-05-25 04:00:00", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-05-25 20:50:08", EndTime: "2023-05-26 00:50:08", Name: "Myles Austin"},
-  { Timestamp: "2023-05-25 20:59:00", EndTime: "2023-05-26 00:59:00", Name: "Sara B"},
-  { Timestamp: "2023-05-26 16:44:42", EndTime: "2023-05-26 20:44:42", Name: "Beth Torres"},
-  { Timestamp: "2023-05-26 16:52:10", EndTime: "2023-05-26 20:52:10", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-26 16:56:21", EndTime: "2023-05-26 20:56:21", Name: "Sunita Pathik"},
-  { Timestamp: "2023-05-27 12:16:04", EndTime: "2023-05-27 16:16:04", Name: "Ryan Murphy"},
-  { Timestamp: "2023-05-27 16:38:47", EndTime: "2023-05-27 20:38:47", Name: "Jasmine Rose"},
-  { Timestamp: "2023-05-27 16:41:25", EndTime: "2023-05-27 20:41:25", Name: "Emily Stucke"},
-  { Timestamp: "2023-05-27 16:44:30", EndTime: "2023-05-27 20:44:30", Name: "Brad Burton"},
-  { Timestamp: "2023-05-27 16:47:52", EndTime: "2023-05-27 20:47:52", Name: "Tram Nguyen"},
-  { Timestamp: "2023-05-27 16:55:46", EndTime: "2023-05-27 20:55:46", Name: "Beverly Pinn"},
-  { Timestamp: "2023-05-27 17:05:40", EndTime: "2023-05-27 21:05:40", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-05-27 00:00:00", EndTime: "2023-05-27 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-27 00:00:00", EndTime: "2023-05-27 04:00:00", Name: "Octavia"},
-  { Timestamp: "2023-05-28 16:34:08", EndTime: "2023-05-28 20:34:08", Name: "Zoe"},
-  { Timestamp: "2023-05-28 16:40:47", EndTime: "2023-05-28 20:40:47", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-05-28 16:46:49", EndTime: "2023-05-28 20:46:49", Name: "Myles Austin"},
-  { Timestamp: "2023-05-28 00:00:00", EndTime: "2023-05-28 04:00:00", Name: "Carla T"},
-  { Timestamp: "2023-05-29 23:14:46", EndTime: "2023-05-30 03:14:46", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-30 15:10:51", EndTime: "2023-05-30 19:10:51", Name: "Beverly Pinn"},
-  { Timestamp: "2023-05-30 16:29:37", EndTime: "2023-05-30 20:29:37", Name: "Beverly Graham"},
-  { Timestamp: "2023-05-30 16:29:59", EndTime: "2023-05-30 20:29:59", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-05-30 16:34:38", EndTime: "2023-05-30 20:34:38", Name: "Cindy Silveira"},
-  { Timestamp: "2023-05-30 16:34:49", EndTime: "2023-05-30 20:34:49", Name: "Susan Larson"},
-  { Timestamp: "2023-05-30 17:19:02", EndTime: "2023-05-30 21:19:02", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-05-31 16:40:57", EndTime: "2023-05-31 20:40:57", Name: "Bud Stracker"},
-  { Timestamp: "2023-05-31 00:00:00", EndTime: "2023-05-31 04:00:00", Name: "Juanita Chandler"},
-  { Timestamp: "2023-05-31 00:00:00", EndTime: "2023-05-31 04:00:00", Name: "Doris Parker Tuggle"},
-  { Timestamp: "2023-05-31 17:24:27", EndTime: "2023-05-31 21:24:27", Name: "Karen Moore"},
-  { Timestamp: "2023-05-31 20:38:26", EndTime: "2023-06-01 00:38:26", Name: "Tina Paquet"},
-  { Timestamp: "2023-05-31 00:00:00", EndTime: "2023-05-31 04:00:00", Name: "Alex Bauer"},
-  { Timestamp: "2023-05-31 00:00:00", EndTime: "2023-05-31 04:00:00", Name: "Latease"},
-  { Timestamp: "2023-05-31 00:00:00", EndTime: "2023-05-31 04:00:00", Name: "Paul H"},
-  { Timestamp: "2023-05-31 20:47:28", EndTime: "2023-06-01 00:47:28", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-06-01 17:37:43", EndTime: "2023-06-01 21:37:43", Name: "Juanita Chandler"},
-  { Timestamp: "2023-06-01 21:00:30", EndTime: "2023-06-02 01:00:30", Name: "Myles Austin"},
-  { Timestamp: "2023-06-01 21:04:03", EndTime: "2023-06-02 01:04:03", Name: "Adeola Sulaiman"},
-  { Timestamp: "2023-06-01 21:05:29", EndTime: "2023-06-02 01:05:29", Name: "Aziza"},
-  { Timestamp: "2023-06-03 16:52:10", EndTime: "2023-06-03 20:52:10", Name: "Polly"},
-  { Timestamp: "2023-06-03 16:53:07", EndTime: "2023-06-03 20:53:07", Name: "Tram Nguyen"},
-  { Timestamp: "2023-06-03 16:54:14", EndTime: "2023-06-03 20:54:14", Name: "Emily Stucke"},
-  { Timestamp: "2023-06-03 16:59:37", EndTime: "2023-06-03 20:59:37", Name: "Brad Burton"},
-  { Timestamp: "2023-06-03 16:59:43", EndTime: "2023-06-03 20:59:43", Name: "Rawan Elshobaky"},
-  { Timestamp: "2023-06-03 17:00:17", EndTime: "2023-06-03 21:00:17", Name: "Ifeoluwa Akinropo"},
-  { Timestamp: "2023-06-03 17:01:30", EndTime: "2023-06-03 21:01:30", Name: "Cameron Dong"},
-  { Timestamp: "2023-06-03 17:01:37", EndTime: "2023-06-03 21:01:37", Name: "Andrew Thampoe"},
-  { Timestamp: "2023-06-03 17:02:10", EndTime: "2023-06-03 21:02:10", Name: "Michael Yoo"},
-  { Timestamp: "2023-06-03 17:04:12", EndTime: "2023-06-03 21:04:12", Name: "Emily Fitzpatrick"},
-  { Timestamp: "2023-06-03 17:21:12", EndTime: "2023-06-03 21:21:12", Name: "Lynnette Cromer"},
-  { Timestamp: "2023-06-04 16:08:45", EndTime: "2023-06-04 20:08:45", Name: "Myles Austin"},
-  { Timestamp: "2023-06-04 16:13:17", EndTime: "2023-06-04 20:13:17", Name: "Myles Austin"},
-  { Timestamp: "2023-06-04 16:19:08", EndTime: "2023-06-04 20:19:08", Name: "Denise Rivers"},
-  { Timestamp: "2023-06-04 16:30:08", EndTime: "2023-06-04 20:30:08", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-06-04 16:31:25", EndTime: "2023-06-04 20:31:25", Name: "Zoe"},
-  { Timestamp: "2023-06-06 16:35:02", EndTime: "2023-06-06 20:35:02", Name: "Romaine Bouldin"},
-  { Timestamp: "2023-06-06 16:35:10", EndTime: "2023-06-06 20:35:10", Name: "Beverly Graham"},
-  { Timestamp: "2023-06-06 16:37:42", EndTime: "2023-06-06 20:37:42", Name: "Susan Larson"},
-  { Timestamp: "2023-06-06 16:41:35", EndTime: "2023-06-06 20:41:35", Name: "Anna West"},
-  { Timestamp: "2023-06-06 16:51:55", EndTime: "2023-06-06 20:51:55", Name: "Beverly Pinn"},
-  { Timestamp: "2023-06-07 14:03:34", EndTime: "2023-06-07 18:03:34", Name: "Bud Stracker - Sisson Street DPW"},
-  { Timestamp: "2023-06-07 16:48:17", EndTime: "2023-06-07 20:48:17", Name: "Sara B"},
-  { Timestamp: "2023-06-07 16:53:14", EndTime: "2023-06-07 20:53:14", Name: "David Ondande"},
-  { Timestamp: "2023-06-07 17:07:40", EndTime: "2023-06-07 21:07:40", Name: "Karen Moore"},
-  { Timestamp: "2023-06-07 20:28:27", EndTime: "2023-06-08 00:28:27", Name: "Alex Bauer"},
-  { Timestamp: "2023-06-07 20:30:00", EndTime: "2023-06-08 00:30:00", Name: "Luke Mayhew"},
-  { Timestamp: "2023-06-07 20:30:39", EndTime: "2023-06-08 00:30:39", Name: "Connor Gephart"},
-  { Timestamp: "2023-06-07 20:36:13", EndTime: "2023-06-08 00:36:13", Name: "Tina Paquet"},
-  { Timestamp: "2023-06-08 13:24:05", EndTime: "2023-06-08 17:24:05", Name: "Theresa Keil"},
-  { Timestamp: "2023-06-08 16:34:00", EndTime: "2023-06-08 20:34:00", Name: "David Ondande"},
-  { Timestamp: "2023-06-08 16:36:39", EndTime: "2023-06-08 20:36:39", Name: "Norma Kriger"},
-  { Timestamp: "2023-06-08 16:41:11", EndTime: "2023-06-08 20:41:11", Name: "Norma Kriger"},
-  { Timestamp: "2023-06-08 19:37:21", EndTime: "2023-06-08 23:37:21", Name: "Tara Brooky"},
-  { Timestamp: "2023-06-09 16:45:22", EndTime: "2023-06-09 20:45:22", Name: "Sunita Pathik"},
-  { Timestamp: "2023-06-10 17:01:29", EndTime: "2023-06-10 21:01:29", Name: "Tram Nguyen"},
-  { Timestamp: "2023-06-10 17:01:35", EndTime: "2023-06-10 21:01:35", Name: "Emily Stucke"},
-  { Timestamp: "2023-06-10 17:01:44", EndTime: "2023-06-10 21:01:44", Name: "Michael Yoo"},
-  { Timestamp: "2023-06-10 17:01:45", EndTime: "2023-06-10 21:01:45", Name: "Andrew Thampoe"},
-  { Timestamp: "2023-06-10 17:02:42", EndTime: "2023-06-10 21:02:42", Name: "Emily Fitzpatrick"},
-  { Timestamp: "2023-06-10 17:08:54", EndTime: "2023-06-10 21:08:54", Name: "Rawan Elshobaky"},
-  { Timestamp: "2023-06-10 17:09:31", EndTime: "2023-06-10 21:09:31", Name: "Ifeoluwa Akinropo"},
-  { Timestamp: "2023-06-10 17:14:09", EndTime: "2023-06-10 21:14:09", Name: "Beverly Pinn"},
-  { Timestamp: "2023-06-10 17:36:38", EndTime: "2023-06-10 21:36:38", Name: "Cameron Dong"},
-  { Timestamp: "2023-06-11 16:42:00", EndTime: "2023-06-11 20:42:00", Name: "Kate Weeks"},
-  { Timestamp: "2023-06-11 16:56:11", EndTime: "2023-06-11 20:56:11", Name: "Opeyemi Faleye"},
-  { Timestamp: "2023-06-11 16:57:28", EndTime: "2023-06-11 20:57:28", Name: "Zoe"},
-  { Timestamp: "2023-06-13 16:31:22", EndTime: "2023-06-13 20:31:22", Name: "Susan Larson"},
-  { Timestamp: "2023-06-13 16:36:34", EndTime: "2023-06-13 20:36:34", Name: "Anna West"},
-  { Timestamp: "2023-06-13 16:38:02", EndTime: "2023-06-13 20:38:02", Name: "Cindy Silveira"},
-  { Timestamp: "2023-06-13 16:38:54", EndTime: "2023-06-13 20:38:54", Name: "Susan Larson"},
-  { Timestamp: "2023-06-13 16:53:36", EndTime: "2023-06-13 20:53:36", Name: "Beverly Pinn"},
-  { Timestamp: "2023-06-14 17:56:56", EndTime: "2023-06-14 21:56:56", Name: "Karen Moore"}, 
-  { Timestamp: "2023-06-14 21:54:22", EndTime: "2023-06-15 01:54:22", Name: "Jonathan Shay"}, 
-  { Timestamp: "2023-06-14 21:58:30", EndTime: "2023-06-15 01:58:30", Name: "Lynwood McDaniel"}, 
-  { Timestamp: "2023-06-14 21:58:45", EndTime: "2023-06-15 01:58:45", Name: "Luke Mayhew"}, 
-  { Timestamp: "2023-06-14 22:02:07", EndTime: "2023-06-15 02:02:07", Name: "Tina Paquet"}, 
-  { Timestamp: "2023-06-14 00:00:00", EndTime: "2023-06-14 04:00:00", Name: "Paul H"}, 
-  { Timestamp: "2023-06-14 00:00:00", EndTime: "2023-06-14 04:00:00", Name: "Latease"}, 
-  { Timestamp: "2023-06-14 00:00:00", EndTime: "2023-06-14 04:00:00", Name: "Zoe"}, 
-  { Timestamp: "2023-06-15 16:57:05", EndTime: "2023-06-15 20:57:05", Name: "Norma Kriger"}, 
-  { Timestamp: "2023-06-15 17:04:17", EndTime: "2023-06-15 21:04:17", Name: "David Ondande"}, 
-  { Timestamp: "2023-06-15 20:25:28", EndTime: "2023-06-16 00:25:28", Name: "Myles Austin"}, 
-  { Timestamp: "2023-06-15 20:26:06", EndTime: "2023-06-16 00:26:06", Name: "Tara Brooky"}, 
-  { Timestamp: "2023-06-15 00:00:00", EndTime: "2023-06-15 04:00:00", Name: "Hong"}, 
-  { Timestamp: "2023-06-17 17:00:08", EndTime: "2023-06-17 21:00:08", Name: "Emily Stucke"}, 
-  { Timestamp: "2023-06-17 17:05:40", EndTime: "2023-06-17 21:05:40", Name: "Tram Nguyen"}, 
-  { Timestamp: "2023-06-17 17:05:53", EndTime: "2023-06-17 21:05:53", Name: "Emily Fitzpatrick"}, 
-  { Timestamp: "2023-06-17 17:21:44", EndTime: "2023-06-17 21:21:44", Name: "Beverly Pinn"}, 
-  { Timestamp: "2023-06-28 14:09:22", EndTime: "2023-06-28 18:09:22", Name: "Bud Stracker - Sisson Street DPW"}
+  {
+    Timestamp: "2023-01-01 13:44:49",
+    EndTime: "2023-01-01 17:44:49",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-01-01 13:45:45",
+    EndTime: "2023-01-01 17:45:45",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-01-03 15:44:50",
+    EndTime: "2023-01-03 19:44:50",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-01-03 15:47:08",
+    EndTime: "2023-01-03 19:47:08",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-01-03 15:48:51",
+    EndTime: "2023-01-03 19:48:51",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-01-03 15:49:33",
+    EndTime: "2023-01-03 19:49:33",
+    Name: "Rosemary Hendricks",
+  },
+  {
+    Timestamp: "2023-01-03 15:57:38",
+    EndTime: "2023-01-03 19:57:38",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-01-03 00:00:00",
+    EndTime: "2023-01-03 04:00:00",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-01-03 00:00:00",
+    EndTime: "2023-01-03 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-01-04 14:27:31",
+    EndTime: "2023-01-04 18:27:31",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
+  {
+    Timestamp: "2023-01-04 17:32:35",
+    EndTime: "2023-01-04 21:32:35",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-04 00:00:00",
+    EndTime: "2023-01-04 04:00:00",
+    Name: "Doris Parker Tuggle",
+  },
+  {
+    Timestamp: "2023-01-04 00:00:00",
+    EndTime: "2023-01-04 04:00:00",
+    Name: "Luke Mayhew",
+  },
+  {
+    Timestamp: "2023-01-04 00:00:00",
+    EndTime: "2023-01-04 04:00:00",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-01-04 18:29:36",
+    EndTime: "2023-01-04 22:29:36",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-01-04 19:30:40",
+    EndTime: "2023-01-04 23:30:40",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-01-04 19:32:14",
+    EndTime: "2023-01-04 23:32:14",
+    Name: "Lynwood McDaniel",
+  },
+  {
+    Timestamp: "2023-01-04 19:35:23",
+    EndTime: "2023-01-04 23:35:23",
+    Name: "Maddie Pardes",
+  },
+  {
+    Timestamp: "2023-01-05 16:38:12",
+    EndTime: "2023-01-05 20:38:12",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-01-05 16:40:45",
+    EndTime: "2023-01-05 20:40:45",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-01-05 00:00:00",
+    EndTime: "2023-01-05 04:00:00",
+    Name: "Melissa Thomas",
+  },
+  {
+    Timestamp: "2023-01-05 00:00:00",
+    EndTime: "2023-01-05 04:00:00",
+    Name: "Raquel Bailey",
+  },
+  {
+    Timestamp: "2023-01-05 00:00:00",
+    EndTime: "2023-01-05 04:00:00",
+    Name: "Nathaniel McClean",
+  },
+  {
+    Timestamp: "2023-01-05 20:29:19",
+    EndTime: "2023-01-06 00:29:19",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-01-06 16:31:04",
+    EndTime: "2023-01-06 20:31:04",
+    Name: "Beth Torres",
+  },
+  {
+    Timestamp: "2023-01-06 16:32:57",
+    EndTime: "2023-01-06 20:32:57",
+    Name: "Jack Bellows",
+  },
+  {
+    Timestamp: "2023-01-06 16:43:35",
+    EndTime: "2023-01-06 20:43:35",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-06 16:53:41",
+    EndTime: "2023-01-06 20:53:41",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-01-06 00:00:00",
+    EndTime: "2023-01-06 04:00:00",
+    Name: "Theresa Columbus",
+  },
+  {
+    Timestamp: "2023-01-06 00:00:00",
+    EndTime: "2023-01-06 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-01-07 00:00:00",
+    EndTime: "2023-01-07 04:00:00",
+    Name: "Nathan So",
+  },
+  {
+    Timestamp: "2023-01-07 00:00:00",
+    EndTime: "2023-01-07 04:00:00",
+    Name: "Janet Lomax",
+  },
+  {
+    Timestamp: "2023-01-07 00:00:00",
+    EndTime: "2023-01-07 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-07 00:00:00",
+    EndTime: "2023-01-07 04:00:00",
+    Name: "Dan Pike",
+  },
+  {
+    Timestamp: "2023-01-07 00:00:00",
+    EndTime: "2023-01-07 04:00:00",
+    Name: "Emily Stucke",
+  },
+  {
+    Timestamp: "2023-01-07 00:00:00",
+    EndTime: "2023-01-07 04:00:00",
+    Name: "Kelly Chen",
+  },
+  {
+    Timestamp: "2023-01-07 00:00:00",
+    EndTime: "2023-01-07 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-01-07 00:00:00",
+    EndTime: "2023-01-07 04:00:00",
+    Name: "Angeles",
+  },
+  {
+    Timestamp: "2023-01-07 00:00:00",
+    EndTime: "2023-01-07 04:00:00",
+    Name: "Gilda Castillo",
+  },
+  {
+    Timestamp: "2023-01-07 16:42:34",
+    EndTime: "2023-01-07 20:42:34",
+    Name: "Evelyn Jiang",
+  },
+  {
+    Timestamp: "2023-01-07 16:43:06",
+    EndTime: "2023-01-07 20:43:06",
+    Name: "Emily Ma",
+  },
+  {
+    Timestamp: "2023-01-07 16:45:54",
+    EndTime: "2023-01-07 20:45:54",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-01-07 16:46:54",
+    EndTime: "2023-01-07 20:46:54",
+    Name: "Lynda Bishop",
+  },
+  {
+    Timestamp: "2023-01-07 16:56:11",
+    EndTime: "2023-01-07 20:56:11",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-01-07 18:39:27",
+    EndTime: "2023-01-07 22:39:27",
+    Name: "Nailah Bishop",
+  },
+  {
+    Timestamp: "2023-01-08 00:00:00",
+    EndTime: "2023-01-08 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-08 14:58:18",
+    EndTime: "2023-01-08 18:58:18",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-01-08 15:00:48",
+    EndTime: "2023-01-08 19:00:48",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-01-08 15:01:32",
+    EndTime: "2023-01-08 19:01:32",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-01-08 00:00:00",
+    EndTime: "2023-01-08 04:00:00",
+    Name: "Laila",
+  },
+  {
+    Timestamp: "2023-01-08 00:00:00",
+    EndTime: "2023-01-08 04:00:00",
+    Name: "Safire Windley",
+  },
+  {
+    Timestamp: "2023-01-10 15:10:55",
+    EndTime: "2023-01-10 19:10:55",
+    Name: "Rosemary Hendricks",
+  },
+  {
+    Timestamp: "2023-01-10 15:11:56",
+    EndTime: "2023-01-10 19:11:56",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-01-10 15:11:58",
+    EndTime: "2023-01-10 19:11:58",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-01-10 15:14:13",
+    EndTime: "2023-01-10 19:14:13",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-01-10 15:14:40",
+    EndTime: "2023-01-10 19:14:40",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-01-10 15:15:34",
+    EndTime: "2023-01-10 19:15:34",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-01-10 00:00:00",
+    EndTime: "2023-01-10 04:00:00",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-01-11 16:36:34",
+    EndTime: "2023-01-11 20:36:34",
+    Name: "Bud Stracker",
+  },
+  {
+    Timestamp: "2023-01-11 00:00:00",
+    EndTime: "2023-01-11 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-11 00:00:00",
+    EndTime: "2023-01-11 04:00:00",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-01-11 00:00:00",
+    EndTime: "2023-01-11 04:00:00",
+    Name: "Lynwood McDaniel",
+  },
+  {
+    Timestamp: "2023-01-11 00:00:00",
+    EndTime: "2023-01-11 04:00:00",
+    Name: "Charity Hsu",
+  },
+  {
+    Timestamp: "2023-01-11 00:00:00",
+    EndTime: "2023-01-11 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-01-11 20:57:47",
+    EndTime: "2023-01-12 00:57:47",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-01-11 21:03:52",
+    EndTime: "2023-01-12 01:03:52",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-01-12 00:00:00",
+    EndTime: "2023-01-12 04:00:00",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-01-12 00:00:00",
+    EndTime: "2023-01-12 04:00:00",
+    Name: "Dorja",
+  },
+  {
+    Timestamp: "2023-01-12 18:54:27",
+    EndTime: "2023-01-12 22:54:27",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-01-12 19:08:58",
+    EndTime: "2023-01-12 23:08:58",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-01-12 00:00:00",
+    EndTime: "2023-01-12 04:00:00",
+    Name: "Julia Buckson",
+  },
+  {
+    Timestamp: "2023-01-12 00:00:00",
+    EndTime: "2023-01-12 04:00:00",
+    Name: "Melissa Thomas",
+  },
+  {
+    Timestamp: "2023-01-13 00:00:00",
+    EndTime: "2023-01-13 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-13 16:28:12",
+    EndTime: "2023-01-13 20:28:12",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-01-13 16:57:04",
+    EndTime: "2023-01-13 20:57:04",
+    Name: "Adeolu Mojibola",
+  },
+  {
+    Timestamp: "2023-01-14 16:33:43",
+    EndTime: "2023-01-14 20:33:43",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-01-14 16:54:35",
+    EndTime: "2023-01-14 20:54:35",
+    Name: "Nailah Bishop",
+  },
+  {
+    Timestamp: "2023-01-14 16:55:08",
+    EndTime: "2023-01-14 20:55:08",
+    Name: "Lynda Bishop",
+  },
+  {
+    Timestamp: "2023-01-14 00:00:00",
+    EndTime: "2023-01-14 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-14 00:00:00",
+    EndTime: "2023-01-14 04:00:00",
+    Name: "Emily Stucke",
+  },
+  {
+    Timestamp: "2023-01-14 00:00:00",
+    EndTime: "2023-01-14 04:00:00",
+    Name: "Treston Codrington",
+  },
+  {
+    Timestamp: "2023-01-14 00:00:00",
+    EndTime: "2023-01-14 04:00:00",
+    Name: "Gilda Castillo",
+  },
+  {
+    Timestamp: "2023-01-14 00:00:00",
+    EndTime: "2023-01-14 04:00:00",
+    Name: "Angeles",
+  },
+  {
+    Timestamp: "2023-01-14 00:00:00",
+    EndTime: "2023-01-14 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-01-15 00:00:00",
+    EndTime: "2023-01-15 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-15 00:00:00",
+    EndTime: "2023-01-15 04:00:00",
+    Name: "Michael Ford",
+  },
+  {
+    Timestamp: "2023-01-15 00:00:00",
+    EndTime: "2023-01-15 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-01-15 00:00:00",
+    EndTime: "2023-01-15 04:00:00",
+    Name: "Carla T",
+  },
+  {
+    Timestamp: "2023-01-15 00:00:00",
+    EndTime: "2023-01-15 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-01-15 15:51:41",
+    EndTime: "2023-01-15 19:51:41",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-01-15 16:12:10",
+    EndTime: "2023-01-15 20:12:10",
+    Name: "Yulia",
+  },
+  {
+    Timestamp: "2023-01-15 16:17:45",
+    EndTime: "2023-01-15 20:17:45",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-01-17 00:00:00",
+    EndTime: "2023-01-17 04:00:00",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-01-17 00:00:00",
+    EndTime: "2023-01-17 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-01-17 16:21:45",
+    EndTime: "2023-01-17 20:21:45",
+    Name: "Rosemary Hendricks",
+  },
+  {
+    Timestamp: "2023-01-17 16:21:48",
+    EndTime: "2023-01-17 20:21:48",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-01-17 16:22:33",
+    EndTime: "2023-01-17 20:22:33",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-01-17 16:23:45",
+    EndTime: "2023-01-17 20:23:45",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-01-17 16:29:11",
+    EndTime: "2023-01-17 20:29:11",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-01-17 16:29:15",
+    EndTime: "2023-01-17 20:29:15",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-01-18 00:00:00",
+    EndTime: "2023-01-18 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-18 00:00:00",
+    EndTime: "2023-01-18 04:00:00",
+    Name: "Doris Parker Tuggle",
+  },
+  {
+    Timestamp: "2023-01-18 00:00:00",
+    EndTime: "2023-01-18 04:00:00",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-01-18 00:00:00",
+    EndTime: "2023-01-18 04:00:00",
+    Name: "Charity Hsu",
+  },
+  {
+    Timestamp: "2023-01-18 17:00:10",
+    EndTime: "2023-01-18 21:00:10",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-01-18 20:46:31",
+    EndTime: "2023-01-19 00:46:31",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-01-19 00:00:00",
+    EndTime: "2023-01-19 04:00:00",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-01-19 00:00:00",
+    EndTime: "2023-01-19 04:00:00",
+    Name: "Raquel Bailey",
+  },
+  {
+    Timestamp: "2023-01-19 00:00:00",
+    EndTime: "2023-01-19 04:00:00",
+    Name: "Melissa Thomas",
+  },
+  {
+    Timestamp: "2023-01-19 00:00:00",
+    EndTime: "2023-01-19 04:00:00",
+    Name: "Nathaniel McClean",
+  },
+  {
+    Timestamp: "2023-01-19 15:17:46",
+    EndTime: "2023-01-19 19:17:46",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-01-19 19:53:59",
+    EndTime: "2023-01-19 23:53:59",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-01-19 19:54:03",
+    EndTime: "2023-01-19 23:54:03",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-01-20 00:00:00",
+    EndTime: "2023-01-20 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-20 00:00:00",
+    EndTime: "2023-01-20 04:00:00",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-01-20 00:00:00",
+    EndTime: "2023-01-20 04:00:00",
+    Name: "Adeolu Mojibola",
+  },
+  {
+    Timestamp: "2023-01-21 16:06:19",
+    EndTime: "2023-01-21 20:06:19",
+    Name: "Aza Shiao",
+  },
+  {
+    Timestamp: "2023-01-21 16:06:55",
+    EndTime: "2023-01-21 20:06:55",
+    Name: "Treston Codrington",
+  },
+  {
+    Timestamp: "2023-01-21 16:07:20",
+    EndTime: "2023-01-21 20:07:20",
+    Name: "Kelly Chen",
+  },
+  {
+    Timestamp: "2023-01-21 16:12:05",
+    EndTime: "2023-01-21 20:12:05",
+    Name: "Nicolle Diaz",
+  },
+  {
+    Timestamp: "2023-01-21 16:12:42",
+    EndTime: "2023-01-21 20:12:42",
+    Name: "Nia Bishop",
+  },
+  {
+    Timestamp: "2023-01-21 16:20:26",
+    EndTime: "2023-01-21 20:20:26",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-01-21 16:22:12",
+    EndTime: "2023-01-21 20:22:12",
+    Name: "Emily Ma",
+  },
+  {
+    Timestamp: "2023-01-21 16:22:24",
+    EndTime: "2023-01-21 20:22:24",
+    Name: "Olamilekan Sulaiman",
+  },
+  {
+    Timestamp: "2023-01-21 16:34:33",
+    EndTime: "2023-01-21 20:34:33",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-01-21 16:49:01",
+    EndTime: "2023-01-21 20:49:01",
+    Name: "Nailah Bishop",
+  },
+  {
+    Timestamp: "2023-01-21 16:49:13",
+    EndTime: "2023-01-21 20:49:13",
+    Name: "Lynda Bishop",
+  },
+  {
+    Timestamp: "2023-01-21 00:00:00",
+    EndTime: "2023-01-21 04:00:00",
+    Name: "Janet Lomax",
+  },
+  {
+    Timestamp: "2023-01-21 00:00:00",
+    EndTime: "2023-01-21 04:00:00",
+    Name: "Obinna Nwokoro",
+  },
+  {
+    Timestamp: "2023-01-21 00:00:00",
+    EndTime: "2023-01-21 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-21 00:00:00",
+    EndTime: "2023-01-21 04:00:00",
+    Name: "Rachel Lee",
+  },
+  {
+    Timestamp: "2023-01-21 00:00:00",
+    EndTime: "2023-01-21 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-01-21 00:00:00",
+    EndTime: "2023-01-21 04:00:00",
+    Name: "Jackee",
+  },
+  {
+    Timestamp: "2023-01-22 00:00:00",
+    EndTime: "2023-01-22 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-22 00:00:00",
+    EndTime: "2023-01-22 04:00:00",
+    Name: "Carla T",
+  },
+  {
+    Timestamp: "2023-01-21 00:00:00",
+    EndTime: "2023-01-21 04:00:00",
+    Name: "Theresa Columbus",
+  },
+  {
+    Timestamp: "2023-01-21 00:00:00",
+    EndTime: "2023-01-21 04:00:00",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-01-21 00:00:00",
+    EndTime: "2023-01-21 04:00:00",
+    Name: "Angeles",
+  },
+  {
+    Timestamp: "2023-01-22 15:07:26",
+    EndTime: "2023-01-22 19:07:26",
+    Name: "Theresa Keil",
+  },
+  {
+    Timestamp: "2023-01-22 15:12:40",
+    EndTime: "2023-01-22 19:12:40",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-01-22 15:15:28",
+    EndTime: "2023-01-22 19:15:28",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-01-22 15:15:39",
+    EndTime: "2023-01-22 19:15:39",
+    Name: "Michael Ford",
+  },
+  {
+    Timestamp: "2023-01-22 15:17:49",
+    EndTime: "2023-01-22 19:17:49",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-01-22 16:20:50",
+    EndTime: "2023-01-22 20:20:50",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-01-24 16:25:32",
+    EndTime: "2023-01-24 20:25:32",
+    Name: "Rosemary Hendricks",
+  },
+  {
+    Timestamp: "2023-01-24 16:26:20",
+    EndTime: "2023-01-24 20:26:20",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-01-24 16:26:44",
+    EndTime: "2023-01-24 20:26:44",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-01-24 16:27:24",
+    EndTime: "2023-01-24 20:27:24",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-01-24 16:27:54",
+    EndTime: "2023-01-24 20:27:54",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-01-24 16:40:36",
+    EndTime: "2023-01-24 20:40:36",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-01-25 00:00:00",
+    EndTime: "2023-01-25 04:00:00",
+    Name: "Doris Parker Tuggle",
+  },
+  {
+    Timestamp: "2023-01-25 00:00:00",
+    EndTime: "2023-01-25 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-25 00:00:00",
+    EndTime: "2023-01-25 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-01-25 00:00:00",
+    EndTime: "2023-01-25 04:00:00",
+    Name: "Luke Mayhew",
+  },
+  {
+    Timestamp: "2023-01-25 00:00:00",
+    EndTime: "2023-01-25 04:00:00",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-01-25 00:00:00",
+    EndTime: "2023-01-25 04:00:00",
+    Name: "Charity Hsu",
+  },
+  {
+    Timestamp: "2023-01-25 20:41:54",
+    EndTime: "2023-01-26 00:41:54",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-01-26 16:39:03",
+    EndTime: "2023-01-26 20:39:03",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-01-26 16:39:50",
+    EndTime: "2023-01-26 20:39:50",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-01-27 00:00:00",
+    EndTime: "2023-01-27 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-27 00:00:00",
+    EndTime: "2023-01-27 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-01-27 16:50:06",
+    EndTime: "2023-01-27 20:50:06",
+    Name: "Nailah Bishop",
+  },
+  {
+    Timestamp: "2023-01-27 16:50:24",
+    EndTime: "2023-01-27 20:50:24",
+    Name: "Jonyce Bland",
+  },
+  {
+    Timestamp: "2023-01-28 00:00:00",
+    EndTime: "2023-01-28 04:00:00",
+    Name: "Karla Alexander",
+  },
+  {
+    Timestamp: "2023-01-28 00:00:00",
+    EndTime: "2023-01-28 04:00:00",
+    Name: "Cheryl Utsey",
+  },
+  {
+    Timestamp: "2023-01-28 00:00:00",
+    EndTime: "2023-01-28 04:00:00",
+    Name: "Janet Lomax",
+  },
+  {
+    Timestamp: "2023-01-28 00:00:00",
+    EndTime: "2023-01-28 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-28 00:00:00",
+    EndTime: "2023-01-28 04:00:00",
+    Name: "Justin Maduka",
+  },
+  {
+    Timestamp: "2023-01-28 00:00:00",
+    EndTime: "2023-01-28 04:00:00",
+    Name: "Angeles",
+  },
+  {
+    Timestamp: "2023-01-28 00:00:00",
+    EndTime: "2023-01-28 04:00:00",
+    Name: "Gilda Castillo",
+  },
+  {
+    Timestamp: "2023-01-28 00:00:00",
+    EndTime: "2023-01-28 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-01-28 16:08:23",
+    EndTime: "2023-01-28 20:08:23",
+    Name: "Nicolle Diaz",
+  },
+  {
+    Timestamp: "2023-01-28 16:09:53",
+    EndTime: "2023-01-28 20:09:53",
+    Name: "Harris Malik",
+  },
+  {
+    Timestamp: "2023-01-28 16:12:38",
+    EndTime: "2023-01-28 20:12:38",
+    Name: "Jasmine Rose",
+  },
+  {
+    Timestamp: "2023-01-28 16:13:23",
+    EndTime: "2023-01-28 20:13:23",
+    Name: "Ngozi Douglas",
+  },
+  {
+    Timestamp: "2023-01-28 16:13:24",
+    EndTime: "2023-01-28 20:13:24",
+    Name: "Tsion Getahun",
+  },
+  {
+    Timestamp: "2023-01-28 16:13:42",
+    EndTime: "2023-01-28 20:13:42",
+    Name: "Daphnie Sumah",
+  },
+  {
+    Timestamp: "2023-01-28 16:14:54",
+    EndTime: "2023-01-28 20:14:54",
+    Name: "Arezou Esmaeeli",
+  },
+  {
+    Timestamp: "2023-01-28 16:15:27",
+    EndTime: "2023-01-28 20:15:27",
+    Name: "Nia Bishop",
+  },
+  {
+    Timestamp: "2023-01-28 16:15:42",
+    EndTime: "2023-01-28 20:15:42",
+    Name: "Abisola Adeusi",
+  },
+  {
+    Timestamp: "2023-01-28 16:16:36",
+    EndTime: "2023-01-28 20:16:36",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-01-28 16:17:12",
+    EndTime: "2023-01-28 20:17:12",
+    Name: "Jonyce Bland",
+  },
+  {
+    Timestamp: "2023-01-28 16:17:29",
+    EndTime: "2023-01-28 20:17:29",
+    Name: "Kamryn Brown",
+  },
+  {
+    Timestamp: "2023-01-28 16:18:47",
+    EndTime: "2023-01-28 20:18:47",
+    Name: "Jade Weatherington",
+  },
+  {
+    Timestamp: "2023-01-28 16:20:15",
+    EndTime: "2023-01-28 20:20:15",
+    Name: "Rewa Hazim",
+  },
+  {
+    Timestamp: "2023-01-28 16:21:37",
+    EndTime: "2023-01-28 20:21:37",
+    Name: "Azel King",
+  },
+  {
+    Timestamp: "2023-01-28 16:23:27",
+    EndTime: "2023-01-28 20:23:27",
+    Name: "Connor Lu",
+  },
+  {
+    Timestamp: "2023-01-28 16:24:28",
+    EndTime: "2023-01-28 20:24:28",
+    Name: "Obinna Nwokoro",
+  },
+  {
+    Timestamp: "2023-01-28 16:24:28",
+    EndTime: "2023-01-28 20:24:28",
+    Name: "Benjamin Hung",
+  },
+  {
+    Timestamp: "2023-01-28 16:26:31",
+    EndTime: "2023-01-28 20:26:31",
+    Name: "Jessica Martin",
+  },
+  {
+    Timestamp: "2023-01-28 16:29:04",
+    EndTime: "2023-01-28 20:29:04",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-01-28 16:41:53",
+    EndTime: "2023-01-28 20:41:53",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-01-29 00:00:00",
+    EndTime: "2023-01-29 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-01-29 15:45:39",
+    EndTime: "2023-01-29 19:45:39",
+    Name: "Carla T",
+  },
+  {
+    Timestamp: "2023-01-29 15:49:52",
+    EndTime: "2023-01-29 19:49:52",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-01-29 16:08:10",
+    EndTime: "2023-01-29 20:08:10",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-01-29 16:08:43",
+    EndTime: "2023-01-29 20:08:43",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-01-31 00:00:00",
+    EndTime: "2023-01-31 04:00:00",
+    Name: "Rosemary Hendricks",
+  },
+  {
+    Timestamp: "2023-01-31 00:00:00",
+    EndTime: "2023-01-31 04:00:00",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-01-31 15:43:22",
+    EndTime: "2023-01-31 19:43:22",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-01-31 15:47:33",
+    EndTime: "2023-01-31 19:47:33",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-01-31 15:48:37",
+    EndTime: "2023-01-31 19:48:37",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-01-31 15:52:32",
+    EndTime: "2023-01-31 19:52:32",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-02-01 00:00:00",
+    EndTime: "2023-02-01 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-01 16:27:39",
+    EndTime: "2023-02-01 20:27:39",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
+  {
+    Timestamp: "2023-02-01 16:27:56",
+    EndTime: "2023-02-01 20:27:56",
+    Name: "Bud Stracker",
+  },
+  {
+    Timestamp: "2023-02-01 17:01:01",
+    EndTime: "2023-02-01 21:01:01",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-02-01 17:30:02",
+    EndTime: "2023-02-01 21:30:02",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-02-01 00:00:00",
+    EndTime: "2023-02-01 04:00:00",
+    Name: "Charity Hsu",
+  },
+  {
+    Timestamp: "2023-02-01 00:00:00",
+    EndTime: "2023-02-01 04:00:00",
+    Name: "Olamilekan Sulaiman",
+  },
+  {
+    Timestamp: "2023-02-01 20:46:37",
+    EndTime: "2023-02-02 00:46:37",
+    Name: "Maddie Pardes",
+  },
+  {
+    Timestamp: "2023-02-01 20:55:53",
+    EndTime: "2023-02-02 00:55:53",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-02-02 16:39:00",
+    EndTime: "2023-02-02 20:39:00",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-02-02 16:44:59",
+    EndTime: "2023-02-02 20:44:59",
+    Name: "Emily Zhang",
+  },
+  {
+    Timestamp: "2023-02-02 16:47:52",
+    EndTime: "2023-02-02 20:47:52",
+    Name: "Amy Xing ",
+  },
+  {
+    Timestamp: "2023-02-02 00:00:00",
+    EndTime: "2023-02-02 04:00:00",
+    Name: "Julia Buckson",
+  },
+  {
+    Timestamp: "2023-02-02 19:20:20",
+    EndTime: "2023-02-02 23:20:20",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-02-02 19:20:32",
+    EndTime: "2023-02-02 23:20:32",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-02-02 19:21:25",
+    EndTime: "2023-02-02 23:21:25",
+    Name: "Melissa Thomas",
+  },
+  {
+    Timestamp: "2023-02-03 16:47:49",
+    EndTime: "2023-02-03 20:47:49",
+    Name: "Kamryn Brown",
+  },
+  {
+    Timestamp: "2023-02-03 16:51:16",
+    EndTime: "2023-02-03 20:51:16",
+    Name: "Emily Zhang",
+  },
+  {
+    Timestamp: "2023-02-03 16:51:49",
+    EndTime: "2023-02-03 20:51:49",
+    Name: "Ellen Cho",
+  },
+  {
+    Timestamp: "2023-02-04 16:35:37",
+    EndTime: "2023-02-04 20:35:37",
+    Name: "Sara B",
+  },
+  {
+    Timestamp: "2023-02-04 16:36:47",
+    EndTime: "2023-02-04 20:36:47",
+    Name: "Nicolle Diaz",
+  },
+  {
+    Timestamp: "2023-02-04 16:38:03",
+    EndTime: "2023-02-04 20:38:03",
+    Name: "Jasmine Rose",
+  },
+  {
+    Timestamp: "2023-02-04 16:39:36",
+    EndTime: "2023-02-04 20:39:36",
+    Name: "Gilda Castillo",
+  },
+  {
+    Timestamp: "2023-02-04 16:40:26",
+    EndTime: "2023-02-04 20:40:26",
+    Name: "Abisola Adeusi",
+  },
+  {
+    Timestamp: "2023-02-04 16:40:47",
+    EndTime: "2023-02-04 20:40:47",
+    Name: "Evelyn Jiang",
+  },
+  {
+    Timestamp: "2023-02-04 16:42:33",
+    EndTime: "2023-02-04 20:42:33",
+    Name: "Rachel Oh",
+  },
+  {
+    Timestamp: "2023-02-04 16:43:23",
+    EndTime: "2023-02-04 20:43:23",
+    Name: "Josefina Aguilar-Pliszka",
+  },
+  {
+    Timestamp: "2023-02-04 16:45:35",
+    EndTime: "2023-02-04 20:45:35",
+    Name: "Nidhi Batra",
+  },
+  {
+    Timestamp: "2023-02-04 16:46:57",
+    EndTime: "2023-02-04 20:46:57",
+    Name: "Faith Obilo",
+  },
+  {
+    Timestamp: "2023-02-04 16:48:08",
+    EndTime: "2023-02-04 20:48:08",
+    Name: "Elianna Perlman",
+  },
+  {
+    Timestamp: "2023-02-04 17:11:34",
+    EndTime: "2023-02-04 21:11:34",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-02-04 17:45:57",
+    EndTime: "2023-02-04 21:45:57",
+    Name: "Xinyue Gu",
+  },
+  {
+    Timestamp: "2023-02-04 00:00:00",
+    EndTime: "2023-02-04 04:00:00",
+    Name: "Charlie",
+  },
+  {
+    Timestamp: "2023-02-04 00:00:00",
+    EndTime: "2023-02-04 04:00:00",
+    Name: "Thomas Aloisi",
+  },
+  {
+    Timestamp: "2023-02-04 00:00:00",
+    EndTime: "2023-02-04 04:00:00",
+    Name: "Brandon Clark",
+  },
+  {
+    Timestamp: "2023-02-04 00:00:00",
+    EndTime: "2023-02-04 04:00:00",
+    Name: "Angeles",
+  },
+  {
+    Timestamp: "2023-02-05 15:14:26",
+    EndTime: "2023-02-05 19:14:26",
+    Name: "Michael Ford",
+  },
+  {
+    Timestamp: "2023-02-05 15:17:58",
+    EndTime: "2023-02-05 19:17:58",
+    Name: "Anita Bryant",
+  },
+  {
+    Timestamp: "2023-02-05 15:18:27",
+    EndTime: "2023-02-05 19:18:27",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-02-05 15:19:31",
+    EndTime: "2023-02-05 19:19:31",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-02-05 15:19:36",
+    EndTime: "2023-02-05 19:19:36",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-02-05 15:23:00",
+    EndTime: "2023-02-05 19:23:00",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-02-05 15:24:29",
+    EndTime: "2023-02-05 19:24:29",
+    Name: "Yulia",
+  },
+  {
+    Timestamp: "2023-02-05 00:00:00",
+    EndTime: "2023-02-05 04:00:00",
+    Name: "Linda Arce",
+  },
+  {
+    Timestamp: "2023-02-05 00:00:00",
+    EndTime: "2023-02-05 04:00:00",
+    Name: "Carla T",
+  },
+  {
+    Timestamp: "2023-02-05 00:00:00",
+    EndTime: "2023-02-05 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-07 16:30:19",
+    EndTime: "2023-02-07 20:30:19",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-02-07 16:30:51",
+    EndTime: "2023-02-07 20:30:51",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-02-07 16:32:16",
+    EndTime: "2023-02-07 20:32:16",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-02-07 16:43:15",
+    EndTime: "2023-02-07 20:43:15",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-02-08 16:52:23",
+    EndTime: "2023-02-08 20:52:23",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
+  {
+    Timestamp: "2023-02-08 00:00:00",
+    EndTime: "2023-02-08 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-08 00:00:00",
+    EndTime: "2023-02-08 04:00:00",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-02-08 00:00:00",
+    EndTime: "2023-02-08 04:00:00",
+    Name: "Sarah K",
+  },
+  {
+    Timestamp: "2023-02-08 19:30:32",
+    EndTime: "2023-02-08 23:30:32",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-02-08 19:38:03",
+    EndTime: "2023-02-08 23:38:03",
+    Name: "Obinna Nwokoro",
+  },
+  {
+    Timestamp: "2023-02-08 19:38:08",
+    EndTime: "2023-02-08 23:38:08",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-02-08 19:38:57",
+    EndTime: "2023-02-08 23:38:57",
+    Name: "Luke Mayhew",
+  },
+  {
+    Timestamp: "2023-02-08 00:00:00",
+    EndTime: "2023-02-08 04:00:00",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-02-08 00:00:00",
+    EndTime: "2023-02-08 04:00:00",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-02-08 00:00:00",
+    EndTime: "2023-02-08 04:00:00",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-02-09 15:29:31",
+    EndTime: "2023-02-09 19:29:31",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-02-09 19:50:21",
+    EndTime: "2023-02-09 23:50:21",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-02-10 15:46:19",
+    EndTime: "2023-02-10 19:46:19",
+    Name: "Kira Branch",
+  },
+  {
+    Timestamp: "2023-02-10 15:46:49",
+    EndTime: "2023-02-10 19:46:49",
+    Name: "Xiomara Rodriguez",
+  },
+  {
+    Timestamp: "2023-02-10 15:57:26",
+    EndTime: "2023-02-10 19:57:26",
+    Name: "Beth Torres",
+  },
+  {
+    Timestamp: "2023-02-11 00:00:00",
+    EndTime: "2023-02-11 04:00:00",
+    Name: "Kelly Chen",
+  },
+  {
+    Timestamp: "2023-02-11 12:24:56",
+    EndTime: "2023-02-11 16:24:56",
+    Name: "Ryan Murphy",
+  },
+  {
+    Timestamp: "2023-02-11 14:59:50",
+    EndTime: "2023-02-11 18:59:50",
+    Name: "Kira Branch",
+  },
+  {
+    Timestamp: "2023-02-11 15:02:26",
+    EndTime: "2023-02-11 19:02:26",
+    Name: "Katherine Wang",
+  },
+  {
+    Timestamp: "2023-02-11 15:03:08",
+    EndTime: "2023-02-11 19:03:08",
+    Name: "Liam Stewart",
+  },
+  {
+    Timestamp: "2023-02-11 15:04:36",
+    EndTime: "2023-02-11 19:04:36",
+    Name: "Cameron Minor",
+  },
+  {
+    Timestamp: "2023-02-11 15:07:48",
+    EndTime: "2023-02-11 19:07:48",
+    Name: "Jayla Butler",
+  },
+  {
+    Timestamp: "2023-02-11 15:09:05",
+    EndTime: "2023-02-11 19:09:05",
+    Name: "Justin Zhong",
+  },
+  {
+    Timestamp: "2023-02-11 15:24:00",
+    EndTime: "2023-02-11 19:24:00",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-02-11 15:43:50",
+    EndTime: "2023-02-11 19:43:50",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-02-11 15:45:24",
+    EndTime: "2023-02-11 19:45:24",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-11 00:00:00",
+    EndTime: "2023-02-11 04:00:00",
+    Name: "Claire Kim",
+  },
+  {
+    Timestamp: "2023-02-11 00:00:00",
+    EndTime: "2023-02-11 04:00:00",
+    Name: "Ariel Li",
+  },
+  {
+    Timestamp: "2023-02-11 00:00:00",
+    EndTime: "2023-02-11 04:00:00",
+    Name: "Kyle Cooper",
+  },
+  {
+    Timestamp: "2023-02-11 00:00:00",
+    EndTime: "2023-02-11 04:00:00",
+    Name: "Brian Min",
+  },
+  {
+    Timestamp: "2023-02-11 00:00:00",
+    EndTime: "2023-02-11 04:00:00",
+    Name: "Emily Stucke",
+  },
+  {
+    Timestamp: "2023-02-12 14:57:12",
+    EndTime: "2023-02-12 18:57:12",
+    Name: "Dorja",
+  },
+  {
+    Timestamp: "2023-02-12 14:57:21",
+    EndTime: "2023-02-12 18:57:21",
+    Name: "Treston Codrington",
+  },
+  {
+    Timestamp: "2023-02-12 14:57:56",
+    EndTime: "2023-02-12 18:57:56",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-02-12 14:58:34",
+    EndTime: "2023-02-12 18:58:34",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-02-12 15:00:39",
+    EndTime: "2023-02-12 19:00:39",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-02-12 15:05:37",
+    EndTime: "2023-02-12 19:05:37",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-02-12 00:00:00",
+    EndTime: "2023-02-12 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-12 00:00:00",
+    EndTime: "2023-02-12 04:00:00",
+    Name: "Denise Rivers",
+  },
+  {
+    Timestamp: "2023-02-12 00:00:00",
+    EndTime: "2023-02-12 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-02-14 14:18:48",
+    EndTime: "2023-02-14 18:18:48",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-02-14 15:47:07",
+    EndTime: "2023-02-14 19:47:07",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-02-14 15:47:13",
+    EndTime: "2023-02-14 19:47:13",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-02-14 15:50:52",
+    EndTime: "2023-02-14 19:50:52",
+    Name: "Rosemary Hendricks",
+  },
+  {
+    Timestamp: "2023-02-14 15:51:16",
+    EndTime: "2023-02-14 19:51:16",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-02-14 16:03:55",
+    EndTime: "2023-02-14 20:03:55",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-02-14 00:00:00",
+    EndTime: "2023-02-14 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-02-15 00:00:00",
+    EndTime: "2023-02-15 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-15 19:39:14",
+    EndTime: "2023-02-15 23:39:14",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-02-15 19:42:37",
+    EndTime: "2023-02-15 23:42:37",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-02-15 19:44:49",
+    EndTime: "2023-02-15 23:44:49",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-02-15 19:48:29",
+    EndTime: "2023-02-15 23:48:29",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-02-16 16:20:42",
+    EndTime: "2023-02-16 20:20:42",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-02-16 16:31:56",
+    EndTime: "2023-02-16 20:31:56",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
+  {
+    Timestamp: "2023-02-16 19:29:12",
+    EndTime: "2023-02-16 23:29:12",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-02-16 19:30:42",
+    EndTime: "2023-02-16 23:30:42",
+    Name: "Nathaniel McClean",
+  },
+  {
+    Timestamp: "2023-02-16 00:00:00",
+    EndTime: "2023-02-16 04:00:00",
+    Name: "Jean",
+  },
+  {
+    Timestamp: "2023-02-16 00:00:00",
+    EndTime: "2023-02-16 04:00:00",
+    Name: "Melissa Thomas",
+  },
+  {
+    Timestamp: "2023-02-16 00:00:00",
+    EndTime: "2023-02-16 04:00:00",
+    Name: "Julia Buckson",
+  },
+  {
+    Timestamp: "2023-02-17 16:15:25",
+    EndTime: "2023-02-17 20:15:25",
+    Name: "Xiomara Rodriguez",
+  },
+  {
+    Timestamp: "2023-02-17 16:18:46",
+    EndTime: "2023-02-17 20:18:46",
+    Name: "Beth Torres",
+  },
+  {
+    Timestamp: "2023-02-17 16:43:42",
+    EndTime: "2023-02-17 20:43:42",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-02-17 17:15:01",
+    EndTime: "2023-02-17 21:15:01",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-02-17 00:00:00",
+    EndTime: "2023-02-17 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-17 00:00:00",
+    EndTime: "2023-02-17 04:00:00",
+    Name: "Jack Bellows",
+  },
+  {
+    Timestamp: "2023-02-18 15:51:22",
+    EndTime: "2023-02-18 19:51:22",
+    Name: "Jasmine Rose",
+  },
+  {
+    Timestamp: "2023-02-18 15:51:51",
+    EndTime: "2023-02-18 19:51:51",
+    Name: "Evelyn Jiang",
+  },
+  {
+    Timestamp: "2023-02-18 15:56:48",
+    EndTime: "2023-02-18 19:56:48",
+    Name: "Sara B",
+  },
+  {
+    Timestamp: "2023-02-18 15:59:23",
+    EndTime: "2023-02-18 19:59:23",
+    Name: "Nastaran Keshmiri",
+  },
+  {
+    Timestamp: "2023-02-18 15:59:24",
+    EndTime: "2023-02-18 19:59:24",
+    Name: "Nathan So",
+  },
+  {
+    Timestamp: "2023-02-18 16:00:21",
+    EndTime: "2023-02-18 20:00:21",
+    Name: "Nailah Bishop",
+  },
+  {
+    Timestamp: "2023-02-18 16:00:50",
+    EndTime: "2023-02-18 20:00:50",
+    Name: "Jonyce Bland",
+  },
+  {
+    Timestamp: "2023-02-18 16:05:35",
+    EndTime: "2023-02-18 20:05:35",
+    Name: "David Annan",
+  },
+  {
+    Timestamp: "2023-02-18 16:05:35",
+    EndTime: "2023-02-18 20:05:35",
+    Name: "Daryan Fisher",
+  },
+  {
+    Timestamp: "2023-02-18 16:07:07",
+    EndTime: "2023-02-18 20:07:07",
+    Name: "Rachel Oh",
+  },
+  {
+    Timestamp: "2023-02-18 16:07:19",
+    EndTime: "2023-02-18 20:07:19",
+    Name: "Daniel Jin",
+  },
+  {
+    Timestamp: "2023-02-18 16:07:49",
+    EndTime: "2023-02-18 20:07:49",
+    Name: "Safeer Rasul",
+  },
+  {
+    Timestamp: "2023-02-18 16:08:09",
+    EndTime: "2023-02-18 20:08:09",
+    Name: "Jade Weatherington",
+  },
+  {
+    Timestamp: "2023-02-18 16:08:52",
+    EndTime: "2023-02-18 20:08:52",
+    Name: "Imani Armour",
+  },
+  {
+    Timestamp: "2023-02-18 16:10:21",
+    EndTime: "2023-02-18 20:10:21",
+    Name: "Akul Umamageswaran",
+  },
+  {
+    Timestamp: "2023-02-18 16:10:27",
+    EndTime: "2023-02-18 20:10:27",
+    Name: "Katherine Xiao",
+  },
+  {
+    Timestamp: "2023-02-18 16:10:39",
+    EndTime: "2023-02-18 20:10:39",
+    Name: "Josefina Aguilar-Pliszka",
+  },
+  {
+    Timestamp: "2023-02-18 16:25:02",
+    EndTime: "2023-02-18 20:25:02",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-02-18 16:31:03",
+    EndTime: "2023-02-18 20:31:03",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-02-18 18:05:55",
+    EndTime: "2023-02-18 22:05:55",
+    Name: "Sharon",
+  },
+  {
+    Timestamp: "2023-02-18 00:00:00",
+    EndTime: "2023-02-18 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-18 00:00:00",
+    EndTime: "2023-02-18 04:00:00",
+    Name: "Lee Little",
+  },
+  {
+    Timestamp: "2023-02-19 14:48:42",
+    EndTime: "2023-02-19 18:48:42",
+    Name: "Carla T",
+  },
+  {
+    Timestamp: "2023-02-19 15:11:41",
+    EndTime: "2023-02-19 19:11:41",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-02-19 15:14:48",
+    EndTime: "2023-02-19 19:14:48",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-02-19 15:19:49",
+    EndTime: "2023-02-19 19:19:49",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-02-19 15:20:58",
+    EndTime: "2023-02-19 19:20:58",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-19 15:56:20",
+    EndTime: "2023-02-19 19:56:20",
+    Name: "Obinna Nwokoro",
+  },
+  {
+    Timestamp: "2023-02-19 15:57:06",
+    EndTime: "2023-02-19 19:57:06",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-02-21 16:00:25",
+    EndTime: "2023-02-21 20:00:25",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-02-21 16:00:37",
+    EndTime: "2023-02-21 20:00:37",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-02-21 16:01:10",
+    EndTime: "2023-02-21 20:01:10",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-02-21 16:01:12",
+    EndTime: "2023-02-21 20:01:12",
+    Name: "Rosemary Hendricks",
+  },
+  {
+    Timestamp: "2023-02-21 16:16:24",
+    EndTime: "2023-02-21 20:16:24",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-02-22 16:47:55",
+    EndTime: "2023-02-22 20:47:55",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
+  {
+    Timestamp: "2023-02-22 17:15:43",
+    EndTime: "2023-02-22 21:15:43",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-22 19:42:02",
+    EndTime: "2023-02-22 23:42:02",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-02-22 19:45:09",
+    EndTime: "2023-02-22 23:45:09",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-02-22 20:02:37",
+    EndTime: "2023-02-23 00:02:37",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-02-23 00:00:00",
+    EndTime: "2023-02-23 04:00:00",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-02-23 00:00:00",
+    EndTime: "2023-02-23 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-02-24 16:46:11",
+    EndTime: "2023-02-24 20:46:11",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-02-24 00:00:00",
+    EndTime: "2023-02-24 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-25 16:03:09",
+    EndTime: "2023-02-25 20:03:09",
+    Name: "Jasmine Rose",
+  },
+  {
+    Timestamp: "2023-02-25 16:04:33",
+    EndTime: "2023-02-25 20:04:33",
+    Name: "Xinyue Gu",
+  },
+  {
+    Timestamp: "2023-02-25 16:04:50",
+    EndTime: "2023-02-25 20:04:50",
+    Name: "Katherine Xiao",
+  },
+  {
+    Timestamp: "2023-02-25 16:04:58",
+    EndTime: "2023-02-25 20:04:58",
+    Name: "Trinity Burge",
+  },
+  {
+    Timestamp: "2023-02-25 16:05:14",
+    EndTime: "2023-02-25 20:05:14",
+    Name: "Liam Stewart",
+  },
+  {
+    Timestamp: "2023-02-25 16:05:34",
+    EndTime: "2023-02-25 20:05:34",
+    Name: "Claire Kim",
+  },
+  {
+    Timestamp: "2023-02-25 16:07:01",
+    EndTime: "2023-02-25 20:07:01",
+    Name: "Justin Zhong",
+  },
+  {
+    Timestamp: "2023-02-25 16:08:29",
+    EndTime: "2023-02-25 20:08:29",
+    Name: "Ariel Li",
+  },
+  {
+    Timestamp: "2023-02-25 16:09:17",
+    EndTime: "2023-02-25 20:09:17",
+    Name: "Zanya Jamieson",
+  },
+  {
+    Timestamp: "2023-02-25 16:18:54",
+    EndTime: "2023-02-25 20:18:54",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-02-25 16:20:16",
+    EndTime: "2023-02-25 20:20:16",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-25 00:00:00",
+    EndTime: "2023-02-25 04:00:00",
+    Name: "Ryan Murphy",
+  },
+  {
+    Timestamp: "2023-02-25 00:00:00",
+    EndTime: "2023-02-25 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-02-26 15:05:46",
+    EndTime: "2023-02-26 19:05:46",
+    Name: "Michael Ford",
+  },
+  {
+    Timestamp: "2023-02-26 15:08:09",
+    EndTime: "2023-02-26 19:08:09",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-02-26 15:09:42",
+    EndTime: "2023-02-26 19:09:42",
+    Name: "Obinna Nwokoro",
+  },
+  {
+    Timestamp: "2023-02-26 15:11:45",
+    EndTime: "2023-02-26 19:11:45",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-02-26 15:27:00",
+    EndTime: "2023-02-26 19:27:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-02-26 00:00:00",
+    EndTime: "2023-02-26 04:00:00",
+    Name: "Meredith Snow",
+  },
+  {
+    Timestamp: "2023-02-26 00:00:00",
+    EndTime: "2023-02-26 04:00:00",
+    Name: "Katelyn",
+  },
+  {
+    Timestamp: "2023-02-26 17:50:16",
+    EndTime: "2023-02-26 21:50:16",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-02-28 16:45:25",
+    EndTime: "2023-02-28 20:45:25",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-02-28 16:45:43",
+    EndTime: "2023-02-28 20:45:43",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-02-28 16:46:53",
+    EndTime: "2023-02-28 20:46:53",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-03-01 13:59:16",
+    EndTime: "2023-03-01 17:59:16",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
+  {
+    Timestamp: "2023-03-01 16:49:04",
+    EndTime: "2023-03-01 20:49:04",
+    Name: "David Ondande",
+  },
+  {
+    Timestamp: "2023-03-01 16:53:05",
+    EndTime: "2023-03-01 20:53:05",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-03-01 19:05:43",
+    EndTime: "2023-03-01 23:05:43",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-03-01 19:05:46",
+    EndTime: "2023-03-01 23:05:46",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-03-01 19:07:13",
+    EndTime: "2023-03-01 23:07:13",
+    Name: "Maddie Pardes",
+  },
+  {
+    Timestamp: "2023-03-01 19:07:49",
+    EndTime: "2023-03-01 23:07:49",
+    Name: "Luke Mayhew",
+  },
+  {
+    Timestamp: "2023-03-01 19:08:22",
+    EndTime: "2023-03-01 23:08:22",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-03-01 00:00:00",
+    EndTime: "2023-03-01 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-03-02 17:00:20",
+    EndTime: "2023-03-02 21:00:20",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-03-02 00:00:00",
+    EndTime: "2023-03-02 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-03-02 00:00:00",
+    EndTime: "2023-03-02 04:00:00",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-03-02 00:00:00",
+    EndTime: "2023-03-02 04:00:00",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-03-02 00:00:00",
+    EndTime: "2023-03-02 04:00:00",
+    Name: "Nathaniel McClean",
+  },
+  {
+    Timestamp: "2023-03-03 17:12:14",
+    EndTime: "2023-03-03 21:12:14",
+    Name: "Nastaran Keshmiri",
+  },
+  {
+    Timestamp: "2023-03-04 15:55:41",
+    EndTime: "2023-03-04 19:55:41",
+    Name: "Jonyce Bland",
+  },
+  {
+    Timestamp: "2023-03-04 15:56:05",
+    EndTime: "2023-03-04 19:56:05",
+    Name: "Nailah Bishop",
+  },
+  {
+    Timestamp: "2023-03-04 15:56:22",
+    EndTime: "2023-03-04 19:56:22",
+    Name: "Nicolle Diaz",
+  },
+  {
+    Timestamp: "2023-03-04 15:57:12",
+    EndTime: "2023-03-04 19:57:12",
+    Name: "Nathan So",
+  },
+  {
+    Timestamp: "2023-03-04 16:00:14",
+    EndTime: "2023-03-04 20:00:14",
+    Name: "William Middlezong",
+  },
+  {
+    Timestamp: "2023-03-04 16:01:06",
+    EndTime: "2023-03-04 20:01:06",
+    Name: "Justin Zhong",
+  },
+  {
+    Timestamp: "2023-03-04 16:02:48",
+    EndTime: "2023-03-04 20:02:48",
+    Name: "Katherine Xiao",
+  },
+  {
+    Timestamp: "2023-03-04 16:03:03",
+    EndTime: "2023-03-04 20:03:03",
+    Name: "Jasmine Rose",
+  },
+  {
+    Timestamp: "2023-03-04 16:05:47",
+    EndTime: "2023-03-04 20:05:47",
+    Name: "Cameron Minor",
+  },
+  {
+    Timestamp: "2023-03-04 16:06:42",
+    EndTime: "2023-03-04 20:06:42",
+    Name: "Adebola Akinwale",
+  },
+  {
+    Timestamp: "2023-03-04 16:06:53",
+    EndTime: "2023-03-04 20:06:53",
+    Name: "Kelly Crawford",
+  },
+  {
+    Timestamp: "2023-03-04 16:14:18",
+    EndTime: "2023-03-04 20:14:18",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-03-04 16:14:23",
+    EndTime: "2023-03-04 20:14:23",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-03-04 00:00:00",
+    EndTime: "2023-03-04 04:00:00",
+    Name: "Trinity Burge",
+  },
+  {
+    Timestamp: "2023-03-04 00:00:00",
+    EndTime: "2023-03-04 04:00:00",
+    Name: "Sarah K",
+  },
+  {
+    Timestamp: "2023-03-04 00:00:00",
+    EndTime: "2023-03-04 04:00:00",
+    Name: "Rachel H",
+  },
+  {
+    Timestamp: "2023-03-04 00:00:00",
+    EndTime: "2023-03-04 04:00:00",
+    Name: "Mackenzie",
+  },
+  {
+    Timestamp: "2023-03-04 00:00:00",
+    EndTime: "2023-03-04 04:00:00",
+    Name: "Erin B",
+  },
+  {
+    Timestamp: "2023-03-04 00:00:00",
+    EndTime: "2023-03-04 04:00:00",
+    Name: "Xinyue Gu",
+  },
+  {
+    Timestamp: "2023-03-04 00:00:00",
+    EndTime: "2023-03-04 04:00:00",
+    Name: "Luke Pitsenbarger",
+  },
+  {
+    Timestamp: "2023-03-05 15:31:57",
+    EndTime: "2023-03-05 19:31:57",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-03-05 15:34:46",
+    EndTime: "2023-03-05 19:34:46",
+    Name: "Jackie",
+  },
+  {
+    Timestamp: "2023-03-05 23:34:00",
+    EndTime: "2023-03-06 03:34:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-07 16:30:49",
+    EndTime: "2023-03-07 20:30:49",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-03-07 16:31:52",
+    EndTime: "2023-03-07 20:31:52",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-03-07 16:33:41",
+    EndTime: "2023-03-07 20:33:41",
+    Name: "Rosemary Hendricks",
+  },
+  {
+    Timestamp: "2023-03-07 16:34:56",
+    EndTime: "2023-03-07 20:34:56",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-03-07 16:36:38",
+    EndTime: "2023-03-07 20:36:38",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-03-08 12:30:47",
+    EndTime: "2023-03-08 16:30:47",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
+  {
+    Timestamp: "2023-03-08 17:16:07",
+    EndTime: "2023-03-08 21:16:07",
+    Name: "David Ondande",
+  },
+  {
+    Timestamp: "2023-03-08 17:36:34",
+    EndTime: "2023-03-08 21:36:34",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-08 00:00:00",
+    EndTime: "2023-03-08 04:00:00",
+    Name: "Sarah K",
+  },
+  {
+    Timestamp: "2023-03-08 17:48:15",
+    EndTime: "2023-03-08 21:48:15",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-03-08 00:00:00",
+    EndTime: "2023-03-08 04:00:00",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-03-08 00:00:00",
+    EndTime: "2023-03-08 04:00:00",
+    Name: "Latease",
+  },
+  {
+    Timestamp: "2023-03-08 00:00:00",
+    EndTime: "2023-03-08 04:00:00",
+    Name: "Maddie Pardes",
+  },
+  {
+    Timestamp: "2023-03-08 00:00:00",
+    EndTime: "2023-03-08 04:00:00",
+    Name: "Gregory",
+  },
+  {
+    Timestamp: "2023-03-08 20:44:47",
+    EndTime: "2023-03-09 00:44:47",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-03-09 16:36:21",
+    EndTime: "2023-03-09 20:36:21",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-03-09 16:45:37",
+    EndTime: "2023-03-09 20:45:37",
+    Name: "David Ondande",
+  },
+  {
+    Timestamp: "2023-03-09 19:23:55",
+    EndTime: "2023-03-09 23:23:55",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-03-09 19:24:07",
+    EndTime: "2023-03-09 23:24:07",
+    Name: "Sara B",
+  },
+  {
+    Timestamp: "2023-03-09 19:25:51",
+    EndTime: "2023-03-09 23:25:51",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-03-09 19:31:22",
+    EndTime: "2023-03-09 23:31:22",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-03-09 00:00:00",
+    EndTime: "2023-03-09 04:00:00",
+    Name: "Nathaniel McClean",
+  },
+  {
+    Timestamp: "2023-03-10 17:15:25",
+    EndTime: "2023-03-10 21:15:25",
+    Name: "Beth Torres",
+  },
+  {
+    Timestamp: "2023-03-10 17:21:32",
+    EndTime: "2023-03-10 21:21:32",
+    Name: "David Ondande",
+  },
+  {
+    Timestamp: "2023-03-10 17:23:01",
+    EndTime: "2023-03-10 21:23:01",
+    Name: "Daniel Huff",
+  },
+  {
+    Timestamp: "2023-03-10 00:00:00",
+    EndTime: "2023-03-10 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-10 00:00:00",
+    EndTime: "2023-03-10 04:00:00",
+    Name: "Roxane",
+  },
+  {
+    Timestamp: "2023-03-11 16:45:04",
+    EndTime: "2023-03-11 20:45:04",
+    Name: "Daniel Jin",
+  },
+  {
+    Timestamp: "2023-03-11 16:47:55",
+    EndTime: "2023-03-11 20:47:55",
+    Name: "Justin Huang",
+  },
+  {
+    Timestamp: "2023-03-11 16:48:06",
+    EndTime: "2023-03-11 20:48:06",
+    Name: "Rewa Hazim",
+  },
+  {
+    Timestamp: "2023-03-11 16:48:16",
+    EndTime: "2023-03-11 20:48:16",
+    Name: "Jade Weatherington",
+  },
+  {
+    Timestamp: "2023-03-11 16:48:56",
+    EndTime: "2023-03-11 20:48:56",
+    Name: "Claire Ahn",
+  },
+  {
+    Timestamp: "2023-03-11 16:49:06",
+    EndTime: "2023-03-11 20:49:06",
+    Name: "Prabhleen",
+  },
+  {
+    Timestamp: "2023-03-11 16:49:47",
+    EndTime: "2023-03-11 20:49:47",
+    Name: "Kelly Crawford",
+  },
+  {
+    Timestamp: "2023-03-11 16:50:14",
+    EndTime: "2023-03-11 20:50:14",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-03-11 16:51:07",
+    EndTime: "2023-03-11 20:51:07",
+    Name: "Connor Lu",
+  },
+  {
+    Timestamp: "2023-03-11 16:54:29",
+    EndTime: "2023-03-11 20:54:29",
+    Name: "Meghan Alexis",
+  },
+  {
+    Timestamp: "2023-03-11 16:55:32",
+    EndTime: "2023-03-11 20:55:32",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-03-11 16:55:54",
+    EndTime: "2023-03-11 20:55:54",
+    Name: "Imani Armour",
+  },
+  {
+    Timestamp: "2023-03-11 17:06:55",
+    EndTime: "2023-03-11 21:06:55",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-03-11 00:00:00",
+    EndTime: "2023-03-11 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-11 00:00:00",
+    EndTime: "2023-03-11 04:00:00",
+    Name: "Leap",
+  },
+  {
+    Timestamp: "2023-03-11 00:00:00",
+    EndTime: "2023-03-11 04:00:00",
+    Name: "Emily Ma",
+  },
+  {
+    Timestamp: "2023-03-12 15:20:59",
+    EndTime: "2023-03-12 19:20:59",
+    Name: "Carla T",
+  },
+  {
+    Timestamp: "2023-03-12 15:29:08",
+    EndTime: "2023-03-12 19:29:08",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-03-12 22:15:05",
+    EndTime: "2023-03-13 02:15:05",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-12 00:00:00",
+    EndTime: "2023-03-12 04:00:00",
+    Name: "Yulia",
+  },
+  {
+    Timestamp: "2023-03-12 00:00:00",
+    EndTime: "2023-03-12 04:00:00",
+    Name: "Yulia",
+  },
+  {
+    Timestamp: "2023-03-12 00:00:00",
+    EndTime: "2023-03-12 04:00:00",
+    Name: "Obinna Nwokoro",
+  },
+  {
+    Timestamp: "2023-03-12 00:00:00",
+    EndTime: "2023-03-12 04:00:00",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-03-14 16:06:58",
+    EndTime: "2023-03-14 20:06:58",
+    Name: "Rosemary Hendricks",
+  },
+  {
+    Timestamp: "2023-03-14 16:08:03",
+    EndTime: "2023-03-14 20:08:03",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-03-14 16:09:24",
+    EndTime: "2023-03-14 20:09:24",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-03-14 16:11:22",
+    EndTime: "2023-03-14 20:11:22",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-03-14 16:13:12",
+    EndTime: "2023-03-14 20:13:12",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-03-15 00:00:00",
+    EndTime: "2023-03-15 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-15 16:44:04",
+    EndTime: "2023-03-15 20:44:04",
+    Name: "Martina Pozzi",
+  },
+  {
+    Timestamp: "2023-03-15 16:47:31",
+    EndTime: "2023-03-15 20:47:31",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-03-15 19:54:28",
+    EndTime: "2023-03-15 23:54:28",
+    Name: "Maddie Pardes",
+  },
+  {
+    Timestamp: "2023-03-15 19:54:42",
+    EndTime: "2023-03-15 23:54:42",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-03-15 20:00:39",
+    EndTime: "2023-03-16 00:00:39",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-03-15 00:00:00",
+    EndTime: "2023-03-15 04:00:00",
+    Name: "Latease",
+  },
+  {
+    Timestamp: "2023-03-15 00:00:00",
+    EndTime: "2023-03-15 04:00:00",
+    Name: "Gregory",
+  },
+  {
+    Timestamp: "2023-03-16 16:18:09",
+    EndTime: "2023-03-16 20:18:09",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-03-16 00:00:00",
+    EndTime: "2023-03-16 04:00:00",
+    Name: "Andy",
+  },
+  {
+    Timestamp: "2023-03-16 00:00:00",
+    EndTime: "2023-03-16 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-03-16 19:59:39",
+    EndTime: "2023-03-16 23:59:39",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-03-17 00:00:00",
+    EndTime: "2023-03-17 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-17 16:47:25",
+    EndTime: "2023-03-17 20:47:25",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-03-18 16:11:58",
+    EndTime: "2023-03-18 20:11:58",
+    Name: "Trinity Burge",
+  },
+  {
+    Timestamp: "2023-03-18 16:14:53",
+    EndTime: "2023-03-18 20:14:53",
+    Name: "Zyare Abdul-Rahim",
+  },
+  {
+    Timestamp: "2023-03-18 16:44:58",
+    EndTime: "2023-03-18 20:44:58",
+    Name: "Arjun Yogaratnam",
+  },
+  {
+    Timestamp: "2023-03-18 16:45:02",
+    EndTime: "2023-03-18 20:45:02",
+    Name: "Nathan So",
+  },
+  {
+    Timestamp: "2023-03-18 16:45:28",
+    EndTime: "2023-03-18 20:45:28",
+    Name: "Luke Pitsenbarger",
+  },
+  {
+    Timestamp: "2023-03-18 16:49:21",
+    EndTime: "2023-03-18 20:49:21",
+    Name: "Emily Stucke",
+  },
+  {
+    Timestamp: "2023-03-18 16:50:31",
+    EndTime: "2023-03-18 20:50:31",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-03-18 16:55:17",
+    EndTime: "2023-03-18 20:55:17",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-03-19 15:19:33",
+    EndTime: "2023-03-19 19:19:33",
+    Name: "Carla T",
+  },
+  {
+    Timestamp: "2023-03-19 15:28:51",
+    EndTime: "2023-03-19 19:28:51",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-03-19 15:32:28",
+    EndTime: "2023-03-19 19:32:28",
+    Name: "Treston Codrington",
+  },
+  {
+    Timestamp: "2023-03-19 15:35:21",
+    EndTime: "2023-03-19 19:35:21",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-03-19 15:37:08",
+    EndTime: "2023-03-19 19:37:08",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-03-19 15:41:36",
+    EndTime: "2023-03-19 19:41:36",
+    Name: "Yulia",
+  },
+  {
+    Timestamp: "2023-03-19 15:43:24",
+    EndTime: "2023-03-19 19:43:24",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-19 16:15:44",
+    EndTime: "2023-03-19 20:15:44",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-03-21 16:31:52",
+    EndTime: "2023-03-21 20:31:52",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-03-21 16:32:13",
+    EndTime: "2023-03-21 20:32:13",
+    Name: "Rosemary Hendricks",
+  },
+  {
+    Timestamp: "2023-03-21 16:33:00",
+    EndTime: "2023-03-21 20:33:00",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-03-21 16:42:59",
+    EndTime: "2023-03-21 20:42:59",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-03-21 16:46:06",
+    EndTime: "2023-03-21 20:46:06",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-03-22 17:02:15",
+    EndTime: "2023-03-22 21:02:15",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-22 00:00:00",
+    EndTime: "2023-03-22 04:00:00",
+    Name: "Sarah K",
+  },
+  {
+    Timestamp: "2023-03-22 20:59:12",
+    EndTime: "2023-03-23 00:59:12",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-03-22 20:59:25",
+    EndTime: "2023-03-23 00:59:25",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-03-22 21:05:02",
+    EndTime: "2023-03-23 01:05:02",
+    Name: "Luke Mayhew",
+  },
+  {
+    Timestamp: "2023-03-23 16:16:02",
+    EndTime: "2023-03-23 20:16:02",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-03-23 20:14:45",
+    EndTime: "2023-03-24 00:14:45",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-03-23 20:14:58",
+    EndTime: "2023-03-24 00:14:58",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-03-23 00:00:00",
+    EndTime: "2023-03-23 04:00:00",
+    Name: "Andy",
+  },
+  {
+    Timestamp: "2023-03-23 20:21:14",
+    EndTime: "2023-03-24 00:21:14",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-03-24 20:23:39",
+    EndTime: "2023-03-25 00:23:39",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-24 00:00:00",
+    EndTime: "2023-03-24 04:00:00",
+    Name: "Theresa Columbus",
+  },
+  {
+    Timestamp: "2023-03-25 16:55:51",
+    EndTime: "2023-03-25 20:55:51",
+    Name: "Emily Stucke",
+  },
+  {
+    Timestamp: "2023-03-25 16:58:07",
+    EndTime: "2023-03-25 20:58:07",
+    Name: "Jasmine Rose",
+  },
+  {
+    Timestamp: "2023-03-25 16:59:02",
+    EndTime: "2023-03-25 20:59:02",
+    Name: "Cameron Minor",
+  },
+  {
+    Timestamp: "2023-03-25 17:05:13",
+    EndTime: "2023-03-25 21:05:13",
+    Name: "Emily Ma",
+  },
+  {
+    Timestamp: "2023-03-25 17:05:17",
+    EndTime: "2023-03-25 21:05:17",
+    Name: "Kelly Chen",
+  },
+  {
+    Timestamp: "2023-03-25 00:00:00",
+    EndTime: "2023-03-25 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-25 17:15:46",
+    EndTime: "2023-03-25 21:15:46",
+    Name: "Tam Kelley",
+  },
+  {
+    Timestamp: "2023-03-26 12:12:02",
+    EndTime: "2023-03-26 16:12:02",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-26 15:33:01",
+    EndTime: "2023-03-26 19:33:01",
+    Name: "Carla T",
+  },
+  {
+    Timestamp: "2023-03-26 16:04:30",
+    EndTime: "2023-03-26 20:04:30",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-26 16:17:27",
+    EndTime: "2023-03-26 20:17:27",
+    Name: "Obinna Nwokoro",
+  },
+  {
+    Timestamp: "2023-03-26 16:18:43",
+    EndTime: "2023-03-26 20:18:43",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-03-26 16:18:46",
+    EndTime: "2023-03-26 20:18:46",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-03-26 00:00:00",
+    EndTime: "2023-03-26 04:00:00",
+    Name: "Denise Rivers",
+  },
+  {
+    Timestamp: "2023-03-26 00:00:00",
+    EndTime: "2023-03-26 04:00:00",
+    Name: "Dorja",
+  },
+  {
+    Timestamp: "2023-03-26 16:20:38",
+    EndTime: "2023-03-26 20:20:38",
+    Name: "Brandon Clark",
+  },
+  {
+    Timestamp: "2023-03-28 16:42:04",
+    EndTime: "2023-03-28 20:42:04",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-03-28 16:43:01",
+    EndTime: "2023-03-28 20:43:01",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-03-28 16:43:28",
+    EndTime: "2023-03-28 20:43:28",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-03-29 17:05:49",
+    EndTime: "2023-03-29 21:05:49",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-03-29 18:38:58",
+    EndTime: "2023-03-29 22:38:58",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-03-29 20:27:25",
+    EndTime: "2023-03-30 00:27:25",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-03-29 20:29:39",
+    EndTime: "2023-03-30 00:29:39",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-03-29 20:29:42",
+    EndTime: "2023-03-30 00:29:42",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-03-29 20:30:36",
+    EndTime: "2023-03-30 00:30:36",
+    Name: "Luke Mayhew",
+  },
+  {
+    Timestamp: "2023-03-29 20:32:43",
+    EndTime: "2023-03-30 00:32:43",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-03-30 16:58:46",
+    EndTime: "2023-03-30 20:58:46",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-03-30 20:30:47",
+    EndTime: "2023-03-31 00:30:47",
+    Name: "Sara B",
+  },
+  {
+    Timestamp: "2023-03-30 00:00:00",
+    EndTime: "2023-03-30 04:00:00",
+    Name: "Andy",
+  },
+  {
+    Timestamp: "2023-03-30 00:00:00",
+    EndTime: "2023-03-30 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-03-31 16:47:05",
+    EndTime: "2023-03-31 20:47:05",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-03-31 17:00:20",
+    EndTime: "2023-03-31 21:00:20",
+    Name: "Beth Torres",
+  },
+  {
+    Timestamp: "2023-03-31 17:08:07",
+    EndTime: "2023-03-31 21:08:07",
+    Name: "Dean Sharif",
+  },
+  {
+    Timestamp: "2023-04-01 16:03:25",
+    EndTime: "2023-04-01 20:03:25",
+    Name: "Jasmine Rose",
+  },
+  {
+    Timestamp: "2023-04-01 16:33:10",
+    EndTime: "2023-04-01 20:33:10",
+    Name: "Sean Kwak",
+  },
+  {
+    Timestamp: "2023-04-01 16:34:50",
+    EndTime: "2023-04-01 20:34:50",
+    Name: "Trinity Burge",
+  },
+  {
+    Timestamp: "2023-04-01 16:37:11",
+    EndTime: "2023-04-01 20:37:11",
+    Name: "Waldo",
+  },
+  {
+    Timestamp: "2023-04-01 16:37:40",
+    EndTime: "2023-04-01 20:37:40",
+    Name: "Justin Zhong",
+  },
+  {
+    Timestamp: "2023-04-01 16:39:11",
+    EndTime: "2023-04-01 20:39:11",
+    Name: "Brendan Wille",
+  },
+  {
+    Timestamp: "2023-04-01 16:41:17",
+    EndTime: "2023-04-01 20:41:17",
+    Name: "Kelly Crawford",
+  },
+  {
+    Timestamp: "2023-04-01 16:41:48",
+    EndTime: "2023-04-01 20:41:48",
+    Name: "Emily Fitzpatrick",
+  },
+  {
+    Timestamp: "2023-04-01 16:41:55",
+    EndTime: "2023-04-01 20:41:55",
+    Name: "Michael Yoo",
+  },
+  {
+    Timestamp: "2023-04-01 16:51:57",
+    EndTime: "2023-04-01 20:51:57",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-04-01 16:57:15",
+    EndTime: "2023-04-01 20:57:15",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-04-01 17:01:10",
+    EndTime: "2023-04-01 21:01:10",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-01 00:00:00",
+    EndTime: "2023-04-01 04:00:00",
+    Name: "Dimpy",
+  },
+  {
+    Timestamp: "2023-04-01 00:00:00",
+    EndTime: "2023-04-01 04:00:00",
+    Name: "William Middlezong",
+  },
+  {
+    Timestamp: "2023-04-01 00:00:00",
+    EndTime: "2023-04-01 04:00:00",
+    Name: "Cameron Minor",
+  },
+  {
+    Timestamp: "2023-04-01 00:00:00",
+    EndTime: "2023-04-01 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-04-02 15:36:10",
+    EndTime: "2023-04-02 19:36:10",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-04-02 15:40:32",
+    EndTime: "2023-04-02 19:40:32",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-04-02 15:41:05",
+    EndTime: "2023-04-02 19:41:05",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-04-02 15:41:16",
+    EndTime: "2023-04-02 19:41:16",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-04-02 15:44:38",
+    EndTime: "2023-04-02 19:44:38",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-04-03 18:37:43",
+    EndTime: "2023-04-03 22:37:43",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-04 16:47:16",
+    EndTime: "2023-04-04 20:47:16",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-04-04 16:47:34",
+    EndTime: "2023-04-04 20:47:34",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-04-04 16:48:39",
+    EndTime: "2023-04-04 20:48:39",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-04-04 16:50:51",
+    EndTime: "2023-04-04 20:50:51",
+    Name: "Jan Kleinman",
+  },
+  {
+    Timestamp: "2023-04-04 16:56:41",
+    EndTime: "2023-04-04 20:56:41",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-04-04 00:00:00",
+    EndTime: "2023-04-04 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-04-05 20:28:34",
+    EndTime: "2023-04-06 00:28:34",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-04-05 20:31:51",
+    EndTime: "2023-04-06 00:31:51",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-04-05 20:36:37",
+    EndTime: "2023-04-06 00:36:37",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-04-05 23:22:47",
+    EndTime: "2023-04-06 03:22:47",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-05 00:00:00",
+    EndTime: "2023-04-05 04:00:00",
+    Name: "Sarah K",
+  },
+  {
+    Timestamp: "2023-04-05 00:00:00",
+    EndTime: "2023-04-05 04:00:00",
+    Name: "Latease",
+  },
+  {
+    Timestamp: "2023-04-06 00:00:00",
+    EndTime: "2023-04-06 04:00:00",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-04-07 16:55:21",
+    EndTime: "2023-04-07 20:55:21",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-04-07 00:00:00",
+    EndTime: "2023-04-07 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-08 16:28:54",
+    EndTime: "2023-04-08 20:28:54",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-04-08 16:36:10",
+    EndTime: "2023-04-08 20:36:10",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-04-08 16:42:04",
+    EndTime: "2023-04-08 20:42:04",
+    Name: "Jasmine Jones-Howard",
+  },
+  {
+    Timestamp: "2023-04-08 16:42:40",
+    EndTime: "2023-04-08 20:42:40",
+    Name: "Takiya Eastmond",
+  },
+  {
+    Timestamp: "2023-04-08 17:05:09",
+    EndTime: "2023-04-08 21:05:09",
+    Name: "Iyana Gross",
+  },
+  {
+    Timestamp: "2023-04-08 17:14:21",
+    EndTime: "2023-04-08 21:14:21",
+    Name: "Jaylen Harvey",
+  },
+  {
+    Timestamp: "2023-04-08 17:17:05",
+    EndTime: "2023-04-08 21:17:05",
+    Name: "Kiera Payne",
+  },
+  {
+    Timestamp: "2023-04-08 17:17:09",
+    EndTime: "2023-04-08 21:17:09",
+    Name: "Sierra Jai Smith",
+  },
+  {
+    Timestamp: "2023-04-08 17:18:19",
+    EndTime: "2023-04-08 21:18:19",
+    Name: "Daniel Jin",
+  },
+  {
+    Timestamp: "2023-04-08 17:18:32",
+    EndTime: "2023-04-08 21:18:32",
+    Name: "Marquise Pearson",
+  },
+  {
+    Timestamp: "2023-04-08 17:19:23",
+    EndTime: "2023-04-08 21:19:23",
+    Name: "Adriana Hill",
+  },
+  {
+    Timestamp: "2023-04-08 17:19:47",
+    EndTime: "2023-04-08 21:19:47",
+    Name: "Isaiah Gordon",
+  },
+  {
+    Timestamp: "2023-04-08 17:21:46",
+    EndTime: "2023-04-08 21:21:46",
+    Name: "Morgan",
+  },
+  {
+    Timestamp: "2023-04-08 17:23:26",
+    EndTime: "2023-04-08 21:23:26",
+    Name: "Iyana Gross",
+  },
+  {
+    Timestamp: "2023-04-08 17:23:59",
+    EndTime: "2023-04-08 21:23:59",
+    Name: "Justin Coelho",
+  },
+  {
+    Timestamp: "2023-04-08 17:25:28",
+    EndTime: "2023-04-08 21:25:28",
+    Name: "Josefina Aguilar-Pliszka",
+  },
+  {
+    Timestamp: "2023-04-08 17:26:29",
+    EndTime: "2023-04-08 21:26:29",
+    Name: "Liam Stewart",
+  },
+  {
+    Timestamp: "2023-04-08 17:27:24",
+    EndTime: "2023-04-08 21:27:24",
+    Name: "Makayla Boyce",
+  },
+  {
+    Timestamp: "2023-04-08 17:31:09",
+    EndTime: "2023-04-08 21:31:09",
+    Name: "Nyasia Arrington",
+  },
+  {
+    Timestamp: "2023-04-08 17:33:22",
+    EndTime: "2023-04-08 21:33:22",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-04-08 17:36:33",
+    EndTime: "2023-04-08 21:36:33",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-04-08 17:49:06",
+    EndTime: "2023-04-08 21:49:06",
+    Name: "Emily Stucke",
+  },
+  {
+    Timestamp: "2023-04-08 22:58:58",
+    EndTime: "2023-04-09 02:58:58",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Nani Herring",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Cody Windley",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Charisse",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Lanae",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Kamau",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Tashana",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Justin Coelho",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Aisha",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Kennedy",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Emily B",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Kamille",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Sue Daja",
+  },
+  {
+    Timestamp: "2023-04-08 00:00:00",
+    EndTime: "2023-04-08 04:00:00",
+    Name: "Yasmine",
+  },
+  {
+    Timestamp: "2023-04-11 16:56:33",
+    EndTime: "2023-04-11 20:56:33",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-04-11 16:57:26",
+    EndTime: "2023-04-11 20:57:26",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-04-11 17:00:48",
+    EndTime: "2023-04-11 21:00:48",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-04-11 17:00:55",
+    EndTime: "2023-04-11 21:00:55",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-04-11 17:02:33",
+    EndTime: "2023-04-11 21:02:33",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-04-11 00:00:00",
+    EndTime: "2023-04-11 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-04-12 18:11:21",
+    EndTime: "2023-04-12 22:11:21",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-12 00:00:00",
+    EndTime: "2023-04-12 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-04-12 00:00:00",
+    EndTime: "2023-04-12 04:00:00",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-04-12 00:00:00",
+    EndTime: "2023-04-12 04:00:00",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-04-12 00:00:00",
+    EndTime: "2023-04-12 04:00:00",
+    Name: "Luke Pitsenbarger",
+  },
+  {
+    Timestamp: "2023-04-12 20:58:43",
+    EndTime: "2023-04-13 00:58:43",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-04-13 16:48:41",
+    EndTime: "2023-04-13 20:48:41",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-04-13 20:23:02",
+    EndTime: "2023-04-14 00:23:02",
+    Name: "Sara B",
+  },
+  {
+    Timestamp: "2023-04-13 20:30:06",
+    EndTime: "2023-04-14 00:30:06",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-04-13 20:31:17",
+    EndTime: "2023-04-14 00:31:17",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-04-13 20:31:45",
+    EndTime: "2023-04-14 00:31:45",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-04-13 00:00:00",
+    EndTime: "2023-04-13 04:00:00",
+    Name: "Nathaniel McClean",
+  },
+  {
+    Timestamp: "2023-04-14 22:27:46",
+    EndTime: "2023-04-15 02:27:46",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-14 00:00:00",
+    EndTime: "2023-04-14 04:00:00",
+    Name: "Perry Faulk",
+  },
+  {
+    Timestamp: "2023-04-15 17:08:13",
+    EndTime: "2023-04-15 21:08:13",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-04-15 17:13:37",
+    EndTime: "2023-04-15 21:13:37",
+    Name: "Liam Stewart",
+  },
+  {
+    Timestamp: "2023-04-15 17:14:13",
+    EndTime: "2023-04-15 21:14:13",
+    Name: "Alex Nguyen",
+  },
+  {
+    Timestamp: "2023-04-15 17:15:51",
+    EndTime: "2023-04-15 21:15:51",
+    Name: "Daniel Jin",
+  },
+  {
+    Timestamp: "2023-04-15 17:16:51",
+    EndTime: "2023-04-15 21:16:51",
+    Name: "Nathan So",
+  },
+  {
+    Timestamp: "2023-04-15 17:17:04",
+    EndTime: "2023-04-15 21:17:04",
+    Name: "Evelyn Jiang",
+  },
+  {
+    Timestamp: "2023-04-15 17:17:25",
+    EndTime: "2023-04-15 21:17:25",
+    Name: "Justin Zhong",
+  },
+  {
+    Timestamp: "2023-04-15 17:18:10",
+    EndTime: "2023-04-15 21:18:10",
+    Name: "Emi Ochoa",
+  },
+  {
+    Timestamp: "2023-04-15 17:18:29",
+    EndTime: "2023-04-15 21:18:29",
+    Name: "Nader Najjar",
+  },
+  {
+    Timestamp: "2023-04-15 17:18:37",
+    EndTime: "2023-04-15 21:18:37",
+    Name: "Derek Dang",
+  },
+  {
+    Timestamp: "2023-04-15 17:19:02",
+    EndTime: "2023-04-15 21:19:02",
+    Name: "Kaleigh Rudge",
+  },
+  {
+    Timestamp: "2023-04-15 17:20:36",
+    EndTime: "2023-04-15 21:20:36",
+    Name: "Nanrui Gong",
+  },
+  {
+    Timestamp: "2023-04-15 17:21:32",
+    EndTime: "2023-04-15 21:21:32",
+    Name: "Jillayne Clarke",
+  },
+  {
+    Timestamp: "2023-04-15 17:52:58",
+    EndTime: "2023-04-15 21:52:58",
+    Name: "Dean Chien",
+  },
+  {
+    Timestamp: "2023-04-15 18:03:50",
+    EndTime: "2023-04-15 22:03:50",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-04-16 16:13:50",
+    EndTime: "2023-04-16 20:13:50",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-04-16 16:25:24",
+    EndTime: "2023-04-16 20:25:24",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-04-16 16:25:43",
+    EndTime: "2023-04-16 20:25:43",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-04-16 16:26:21",
+    EndTime: "2023-04-16 20:26:21",
+    Name: "Dynashia Woodson",
+  },
+  {
+    Timestamp: "2023-04-16 23:31:46",
+    EndTime: "2023-04-17 03:31:46",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-18 17:06:44",
+    EndTime: "2023-04-18 21:06:44",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-04-18 17:07:01",
+    EndTime: "2023-04-18 21:07:01",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-04-18 17:07:18",
+    EndTime: "2023-04-18 21:07:18",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-04-18 17:07:35",
+    EndTime: "2023-04-18 21:07:35",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-04-18 17:32:35",
+    EndTime: "2023-04-18 21:32:35",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-04-18 00:00:00",
+    EndTime: "2023-04-18 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-04-19 00:00:00",
+    EndTime: "2023-04-19 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-19 00:00:00",
+    EndTime: "2023-04-19 04:00:00",
+    Name: "Mekayle",
+  },
+  {
+    Timestamp: "2023-04-19 00:00:00",
+    EndTime: "2023-04-19 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-04-19 17:45:11",
+    EndTime: "2023-04-19 21:45:11",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-04-19 18:41:50",
+    EndTime: "2023-04-19 22:41:50",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-04-19 19:45:31",
+    EndTime: "2023-04-19 23:45:31",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-04-19 19:45:49",
+    EndTime: "2023-04-19 23:45:49",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-04-19 19:49:16",
+    EndTime: "2023-04-19 23:49:16",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-04-19 19:50:32",
+    EndTime: "2023-04-19 23:50:32",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-04-19 19:53:54",
+    EndTime: "2023-04-19 23:53:54",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-04-20 16:17:28",
+    EndTime: "2023-04-20 20:17:28",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-04-20 18:27:55",
+    EndTime: "2023-04-20 22:27:55",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-04-20 20:28:26",
+    EndTime: "2023-04-21 00:28:26",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-20 00:00:00",
+    EndTime: "2023-04-20 04:00:00",
+    Name: "Sharon",
+  },
+  {
+    Timestamp: "2023-04-20 00:00:00",
+    EndTime: "2023-04-20 04:00:00",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-04-20 00:00:00",
+    EndTime: "2023-04-20 04:00:00",
+    Name: "Emily Fitzpatrick",
+  },
+  {
+    Timestamp: "2023-04-21 16:41:54",
+    EndTime: "2023-04-21 20:41:54",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-04-21 21:18:00",
+    EndTime: "2023-04-22 01:18:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-21 00:00:00",
+    EndTime: "2023-04-21 04:00:00",
+    Name: "Mekayle",
+  },
+  {
+    Timestamp: "2023-04-22 16:25:15",
+    EndTime: "2023-04-22 20:25:15",
+    Name: "Kathleen Lac",
+  },
+  {
+    Timestamp: "2023-04-22 16:25:27",
+    EndTime: "2023-04-22 20:25:27",
+    Name: "Jasmine Rose",
+  },
+  {
+    Timestamp: "2023-04-22 16:26:46",
+    EndTime: "2023-04-22 20:26:46",
+    Name: "Brad Burton",
+  },
+  {
+    Timestamp: "2023-04-22 16:28:04",
+    EndTime: "2023-04-22 20:28:04",
+    Name: "Eric Alvarado",
+  },
+  {
+    Timestamp: "2023-04-22 16:28:20",
+    EndTime: "2023-04-22 20:28:20",
+    Name: "Cameron Dong",
+  },
+  {
+    Timestamp: "2023-04-22 16:29:55",
+    EndTime: "2023-04-22 20:29:55",
+    Name: "Brandon Clark",
+  },
+  {
+    Timestamp: "2023-04-22 16:32:09",
+    EndTime: "2023-04-22 20:32:09",
+    Name: "Dynashia Woodson",
+  },
+  {
+    Timestamp: "2023-04-22 16:40:46",
+    EndTime: "2023-04-22 20:40:46",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-04-22 00:00:00",
+    EndTime: "2023-04-22 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-23 15:21:38",
+    EndTime: "2023-04-23 19:21:38",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-04-23 15:25:47",
+    EndTime: "2023-04-23 19:25:47",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-04-23 15:25:56",
+    EndTime: "2023-04-23 19:25:56",
+    Name: "Kaneesha",
+  },
+  {
+    Timestamp: "2023-04-23 16:53:02",
+    EndTime: "2023-04-23 20:53:02",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-04-23 00:00:00",
+    EndTime: "2023-04-23 04:00:00",
+    Name: "Layia",
+  },
+  {
+    Timestamp: "2023-04-23 00:00:00",
+    EndTime: "2023-04-23 04:00:00",
+    Name: "Katelyn",
+  },
+  {
+    Timestamp: "2023-04-23 00:00:00",
+    EndTime: "2023-04-23 04:00:00",
+    Name: "Carla T",
+  },
+  {
+    Timestamp: "2023-04-25 16:26:49",
+    EndTime: "2023-04-25 20:26:49",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-04-25 16:28:23",
+    EndTime: "2023-04-25 20:28:23",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-04-25 16:29:57",
+    EndTime: "2023-04-25 20:29:57",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-04-25 16:31:21",
+    EndTime: "2023-04-25 20:31:21",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-04-25 00:00:00",
+    EndTime: "2023-04-25 04:00:00",
+    Name: "Sarah K",
+  },
+  {
+    Timestamp: "2023-04-26 15:32:06",
+    EndTime: "2023-04-26 19:32:06",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
+  {
+    Timestamp: "2023-04-27 00:00:00",
+    EndTime: "2023-04-27 04:00:00",
+    Name: "Sharon",
+  },
+  {
+    Timestamp: "2023-04-27 00:00:00",
+    EndTime: "2023-04-27 04:00:00",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-04-27 15:04:23",
+    EndTime: "2023-04-27 19:04:23",
+    Name: "Diego Trafton",
+  },
+  {
+    Timestamp: "2023-04-27 15:04:31",
+    EndTime: "2023-04-27 19:04:31",
+    Name: "Emily Zhang",
+  },
+  {
+    Timestamp: "2023-04-28 00:00:00",
+    EndTime: "2023-04-28 04:00:00",
+    Name: "Gabriel C",
+  },
+  {
+    Timestamp: "2023-04-28 00:00:00",
+    EndTime: "2023-04-28 04:00:00",
+    Name: "Sandy W",
+  },
+  {
+    Timestamp: "2023-04-28 00:00:00",
+    EndTime: "2023-04-28 04:00:00",
+    Name: "Arjun Yogaratnam",
+  },
+  {
+    Timestamp: "2023-04-28 00:00:00",
+    EndTime: "2023-04-28 04:00:00",
+    Name: "Brian Min",
+  },
+  {
+    Timestamp: "2023-04-28 00:00:00",
+    EndTime: "2023-04-28 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-06 00:00:00",
+    EndTime: "2023-05-06 04:00:00",
+    Name: "Travis James",
+  },
+  {
+    Timestamp: "2023-05-06 00:00:00",
+    EndTime: "2023-05-06 04:00:00",
+    Name: "Obinna Nwokoro",
+  },
+  {
+    Timestamp: "2023-05-07 15:56:51",
+    EndTime: "2023-05-07 19:56:51",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-05-09 16:29:28",
+    EndTime: "2023-05-09 20:29:28",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-05-09 16:29:36",
+    EndTime: "2023-05-09 20:29:36",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-05-09 16:36:13",
+    EndTime: "2023-05-09 20:36:13",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-05-09 16:36:57",
+    EndTime: "2023-05-09 20:36:57",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-05-09 16:45:48",
+    EndTime: "2023-05-09 20:45:48",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-05-09 16:46:17",
+    EndTime: "2023-05-09 20:46:17",
+    Name: "Michael Nwachukwu",
+  },
+  {
+    Timestamp: "2023-05-10 00:00:00",
+    EndTime: "2023-05-10 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-10 00:00:00",
+    EndTime: "2023-05-10 04:00:00",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-05-10 20:05:12",
+    EndTime: "2023-05-11 00:05:12",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-05-10 20:05:12",
+    EndTime: "2023-05-11 00:05:12",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-05-10 00:00:00",
+    EndTime: "2023-05-10 04:00:00",
+    Name: "Luke Pitsenbarger",
+  },
+  {
+    Timestamp: "2023-05-11 00:00:00",
+    EndTime: "2023-05-11 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-05-11 17:54:02",
+    EndTime: "2023-05-11 21:54:02",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-05-11 00:00:00",
+    EndTime: "2023-05-11 04:00:00",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-05-11 00:00:00",
+    EndTime: "2023-05-11 04:00:00",
+    Name: "Sharon",
+  },
+  {
+    Timestamp: "2023-05-11 00:00:00",
+    EndTime: "2023-05-11 04:00:00",
+    Name: "Myles Austin",
+  },
+  {
+    Timestamp: "2023-05-12 16:20:41",
+    EndTime: "2023-05-12 20:20:41",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-12 16:49:48",
+    EndTime: "2023-05-12 20:49:48",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-05-13 15:07:08",
+    EndTime: "2023-05-13 19:07:08",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-05-13 16:42:21",
+    EndTime: "2023-05-13 20:42:21",
+    Name: "Imani Armour",
+  },
+  {
+    Timestamp: "2023-05-13 16:46:05",
+    EndTime: "2023-05-13 20:46:05",
+    Name: "Meghan Alexis",
+  },
+  {
+    Timestamp: "2023-05-13 16:46:31",
+    EndTime: "2023-05-13 20:46:31",
+    Name: "Jade Weatherington",
+  },
+  {
+    Timestamp: "2023-05-13 16:49:38",
+    EndTime: "2023-05-13 20:49:38",
+    Name: "Ngozi Douglas",
+  },
+  {
+    Timestamp: "2023-05-13 16:49:59",
+    EndTime: "2023-05-13 20:49:59",
+    Name: "Arezou Esmaeeli",
+  },
+  {
+    Timestamp: "2023-05-13 16:51:21",
+    EndTime: "2023-05-13 20:51:21",
+    Name: "Benjamin Hung",
+  },
+  {
+    Timestamp: "2023-05-13 17:16:16",
+    EndTime: "2023-05-13 21:16:16",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-13 00:00:00",
+    EndTime: "2023-05-13 04:00:00",
+    Name: "Fadil Santosa",
+  },
+  {
+    Timestamp: "2023-05-14 00:00:00",
+    EndTime: "2023-05-14 04:00:00",
+    Name: "Travis James",
+  },
+  {
+    Timestamp: "2023-05-16 16:43:02",
+    EndTime: "2023-05-16 20:43:02",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-05-16 16:43:13",
+    EndTime: "2023-05-16 20:43:13",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-05-16 16:48:09",
+    EndTime: "2023-05-16 20:48:09",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-05-16 16:48:35",
+    EndTime: "2023-05-16 20:48:35",
+    Name: "Cindy Silveira",
+  },
+  {
+    Timestamp: "2023-05-16 16:50:04",
+    EndTime: "2023-05-16 20:50:04",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-05-16 00:00:00",
+    EndTime: "2023-05-16 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-05-17 11:07:01",
+    EndTime: "2023-05-17 15:07:01",
+    Name: "Bud Stracker",
+  },
+  {
+    Timestamp: "2023-05-17 18:54:24",
+    EndTime: "2023-05-17 22:54:24",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-17 21:00:48",
+    EndTime: "2023-05-18 01:00:48",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-05-17 21:04:28",
+    EndTime: "2023-05-18 01:04:28",
+    Name: "Luke Mayhew",
+  },
+  {
+    Timestamp: "2023-05-17 00:00:00",
+    EndTime: "2023-05-17 04:00:00",
+    Name: "Paul H",
+  },
+  {
+    Timestamp: "2023-05-17 00:00:00",
+    EndTime: "2023-05-17 04:00:00",
+    Name: "Latease",
+  },
+  {
+    Timestamp: "2023-05-17 00:00:00",
+    EndTime: "2023-05-17 04:00:00",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-05-17 00:00:00",
+    EndTime: "2023-05-17 04:00:00",
+    Name: "Denise Rivers",
+  },
+  {
+    Timestamp: "2023-05-17 00:00:00",
+    EndTime: "2023-05-17 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-05-18 16:22:33",
+    EndTime: "2023-05-18 20:22:33",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-05-18 16:23:04",
+    EndTime: "2023-05-18 20:23:04",
+    Name: "Hong",
+  },
+  {
+    Timestamp: "2023-05-18 20:19:30",
+    EndTime: "2023-05-19 00:19:30",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-05-18 20:36:13",
+    EndTime: "2023-05-19 00:36:13",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-05-18 20:36:47",
+    EndTime: "2023-05-19 00:36:47",
+    Name: "Sara B",
+  },
+  {
+    Timestamp: "2023-05-19 16:52:04",
+    EndTime: "2023-05-19 20:52:04",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-20 12:58:50",
+    EndTime: "2023-05-20 16:58:50",
+    Name: "Ryan Murphy",
+  },
+  {
+    Timestamp: "2023-05-20 16:41:14",
+    EndTime: "2023-05-20 20:41:14",
+    Name: "Travis James",
+  },
+  {
+    Timestamp: "2023-05-20 16:55:25",
+    EndTime: "2023-05-20 20:55:25",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-05-20 00:00:00",
+    EndTime: "2023-05-20 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-05-21 16:32:57",
+    EndTime: "2023-05-21 20:32:57",
+    Name: "Myles Austin",
+  },
+  {
+    Timestamp: "2023-05-21 16:40:12",
+    EndTime: "2023-05-21 20:40:12",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-05-21 16:40:18",
+    EndTime: "2023-05-21 20:40:18",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-05-21 00:00:00",
+    EndTime: "2023-05-21 04:00:00",
+    Name: "Katelyn",
+  },
+  {
+    Timestamp: "2023-05-21 00:00:00",
+    EndTime: "2023-05-21 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-05-22 03:15:11",
+    EndTime: "2023-05-22 07:15:11",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-23 16:18:19",
+    EndTime: "2023-05-23 20:18:19",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-05-23 16:19:13",
+    EndTime: "2023-05-23 20:19:13",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-05-23 16:20:53",
+    EndTime: "2023-05-23 20:20:53",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-05-23 16:23:08",
+    EndTime: "2023-05-23 20:23:08",
+    Name: "Cindy Silveira",
+  },
+  {
+    Timestamp: "2023-05-23 16:38:05",
+    EndTime: "2023-05-23 20:38:05",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-05-23 00:00:00",
+    EndTime: "2023-05-23 04:00:00",
+    Name: "Marci Yankelov",
+  },
+  {
+    Timestamp: "2023-05-23 00:00:00",
+    EndTime: "2023-05-23 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-05-24 16:19:12",
+    EndTime: "2023-05-24 20:19:12",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
+  {
+    Timestamp: "2023-05-24 17:06:56",
+    EndTime: "2023-05-24 21:06:56",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-24 17:08:10",
+    EndTime: "2023-05-24 21:08:10",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-05-24 20:15:33",
+    EndTime: "2023-05-25 00:15:33",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-05-24 20:18:31",
+    EndTime: "2023-05-25 00:18:31",
+    Name: "Shoshana Kott",
+  },
+  {
+    Timestamp: "2023-05-24 20:18:50",
+    EndTime: "2023-05-25 00:18:50",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-05-24 20:21:28",
+    EndTime: "2023-05-25 00:21:28",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-05-24 20:22:02",
+    EndTime: "2023-05-25 00:22:02",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-05-24 20:23:39",
+    EndTime: "2023-05-25 00:23:39",
+    Name: "Luke Mayhew",
+  },
+  {
+    Timestamp: "2023-05-24 20:35:54",
+    EndTime: "2023-05-25 00:35:54",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-05-25 00:00:00",
+    EndTime: "2023-05-25 04:00:00",
+    Name: "Hong",
+  },
+  {
+    Timestamp: "2023-05-25 00:00:00",
+    EndTime: "2023-05-25 04:00:00",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-05-25 00:00:00",
+    EndTime: "2023-05-25 04:00:00",
+    Name: "Sharon",
+  },
+  {
+    Timestamp: "2023-05-25 00:00:00",
+    EndTime: "2023-05-25 04:00:00",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-05-25 20:50:08",
+    EndTime: "2023-05-26 00:50:08",
+    Name: "Myles Austin",
+  },
+  {
+    Timestamp: "2023-05-25 20:59:00",
+    EndTime: "2023-05-26 00:59:00",
+    Name: "Sara B",
+  },
+  {
+    Timestamp: "2023-05-26 16:44:42",
+    EndTime: "2023-05-26 20:44:42",
+    Name: "Beth Torres",
+  },
+  {
+    Timestamp: "2023-05-26 16:52:10",
+    EndTime: "2023-05-26 20:52:10",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-26 16:56:21",
+    EndTime: "2023-05-26 20:56:21",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-05-27 12:16:04",
+    EndTime: "2023-05-27 16:16:04",
+    Name: "Ryan Murphy",
+  },
+  {
+    Timestamp: "2023-05-27 16:38:47",
+    EndTime: "2023-05-27 20:38:47",
+    Name: "Jasmine Rose",
+  },
+  {
+    Timestamp: "2023-05-27 16:41:25",
+    EndTime: "2023-05-27 20:41:25",
+    Name: "Emily Stucke",
+  },
+  {
+    Timestamp: "2023-05-27 16:44:30",
+    EndTime: "2023-05-27 20:44:30",
+    Name: "Brad Burton",
+  },
+  {
+    Timestamp: "2023-05-27 16:47:52",
+    EndTime: "2023-05-27 20:47:52",
+    Name: "Tram Nguyen",
+  },
+  {
+    Timestamp: "2023-05-27 16:55:46",
+    EndTime: "2023-05-27 20:55:46",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-05-27 17:05:40",
+    EndTime: "2023-05-27 21:05:40",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-05-27 00:00:00",
+    EndTime: "2023-05-27 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-27 00:00:00",
+    EndTime: "2023-05-27 04:00:00",
+    Name: "Octavia",
+  },
+  {
+    Timestamp: "2023-05-28 16:34:08",
+    EndTime: "2023-05-28 20:34:08",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-05-28 16:40:47",
+    EndTime: "2023-05-28 20:40:47",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-05-28 16:46:49",
+    EndTime: "2023-05-28 20:46:49",
+    Name: "Myles Austin",
+  },
+  {
+    Timestamp: "2023-05-28 00:00:00",
+    EndTime: "2023-05-28 04:00:00",
+    Name: "Carla T",
+  },
+  {
+    Timestamp: "2023-05-29 23:14:46",
+    EndTime: "2023-05-30 03:14:46",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-30 15:10:51",
+    EndTime: "2023-05-30 19:10:51",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-05-30 16:29:37",
+    EndTime: "2023-05-30 20:29:37",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-05-30 16:29:59",
+    EndTime: "2023-05-30 20:29:59",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-05-30 16:34:38",
+    EndTime: "2023-05-30 20:34:38",
+    Name: "Cindy Silveira",
+  },
+  {
+    Timestamp: "2023-05-30 16:34:49",
+    EndTime: "2023-05-30 20:34:49",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-05-30 17:19:02",
+    EndTime: "2023-05-30 21:19:02",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-05-31 16:40:57",
+    EndTime: "2023-05-31 20:40:57",
+    Name: "Bud Stracker",
+  },
+  {
+    Timestamp: "2023-05-31 00:00:00",
+    EndTime: "2023-05-31 04:00:00",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-05-31 00:00:00",
+    EndTime: "2023-05-31 04:00:00",
+    Name: "Doris Parker Tuggle",
+  },
+  {
+    Timestamp: "2023-05-31 17:24:27",
+    EndTime: "2023-05-31 21:24:27",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-05-31 20:38:26",
+    EndTime: "2023-06-01 00:38:26",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-05-31 00:00:00",
+    EndTime: "2023-05-31 04:00:00",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-05-31 00:00:00",
+    EndTime: "2023-05-31 04:00:00",
+    Name: "Latease",
+  },
+  {
+    Timestamp: "2023-05-31 00:00:00",
+    EndTime: "2023-05-31 04:00:00",
+    Name: "Paul H",
+  },
+  {
+    Timestamp: "2023-05-31 20:47:28",
+    EndTime: "2023-06-01 00:47:28",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-06-01 17:37:43",
+    EndTime: "2023-06-01 21:37:43",
+    Name: "Juanita Chandler",
+  },
+  {
+    Timestamp: "2023-06-01 21:00:30",
+    EndTime: "2023-06-02 01:00:30",
+    Name: "Myles Austin",
+  },
+  {
+    Timestamp: "2023-06-01 21:04:03",
+    EndTime: "2023-06-02 01:04:03",
+    Name: "Adeola Sulaiman",
+  },
+  {
+    Timestamp: "2023-06-01 21:05:29",
+    EndTime: "2023-06-02 01:05:29",
+    Name: "Aziza",
+  },
+  {
+    Timestamp: "2023-06-03 16:52:10",
+    EndTime: "2023-06-03 20:52:10",
+    Name: "Polly",
+  },
+  {
+    Timestamp: "2023-06-03 16:53:07",
+    EndTime: "2023-06-03 20:53:07",
+    Name: "Tram Nguyen",
+  },
+  {
+    Timestamp: "2023-06-03 16:54:14",
+    EndTime: "2023-06-03 20:54:14",
+    Name: "Emily Stucke",
+  },
+  {
+    Timestamp: "2023-06-03 16:59:37",
+    EndTime: "2023-06-03 20:59:37",
+    Name: "Brad Burton",
+  },
+  {
+    Timestamp: "2023-06-03 16:59:43",
+    EndTime: "2023-06-03 20:59:43",
+    Name: "Rawan Elshobaky",
+  },
+  {
+    Timestamp: "2023-06-03 17:00:17",
+    EndTime: "2023-06-03 21:00:17",
+    Name: "Ifeoluwa Akinropo",
+  },
+  {
+    Timestamp: "2023-06-03 17:01:30",
+    EndTime: "2023-06-03 21:01:30",
+    Name: "Cameron Dong",
+  },
+  {
+    Timestamp: "2023-06-03 17:01:37",
+    EndTime: "2023-06-03 21:01:37",
+    Name: "Andrew Thampoe",
+  },
+  {
+    Timestamp: "2023-06-03 17:02:10",
+    EndTime: "2023-06-03 21:02:10",
+    Name: "Michael Yoo",
+  },
+  {
+    Timestamp: "2023-06-03 17:04:12",
+    EndTime: "2023-06-03 21:04:12",
+    Name: "Emily Fitzpatrick",
+  },
+  {
+    Timestamp: "2023-06-03 17:21:12",
+    EndTime: "2023-06-03 21:21:12",
+    Name: "Lynnette Cromer",
+  },
+  {
+    Timestamp: "2023-06-04 16:08:45",
+    EndTime: "2023-06-04 20:08:45",
+    Name: "Myles Austin",
+  },
+  {
+    Timestamp: "2023-06-04 16:13:17",
+    EndTime: "2023-06-04 20:13:17",
+    Name: "Myles Austin",
+  },
+  {
+    Timestamp: "2023-06-04 16:19:08",
+    EndTime: "2023-06-04 20:19:08",
+    Name: "Denise Rivers",
+  },
+  {
+    Timestamp: "2023-06-04 16:30:08",
+    EndTime: "2023-06-04 20:30:08",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-06-04 16:31:25",
+    EndTime: "2023-06-04 20:31:25",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-06-06 16:35:02",
+    EndTime: "2023-06-06 20:35:02",
+    Name: "Romaine Bouldin",
+  },
+  {
+    Timestamp: "2023-06-06 16:35:10",
+    EndTime: "2023-06-06 20:35:10",
+    Name: "Beverly Graham",
+  },
+  {
+    Timestamp: "2023-06-06 16:37:42",
+    EndTime: "2023-06-06 20:37:42",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-06-06 16:41:35",
+    EndTime: "2023-06-06 20:41:35",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-06-06 16:51:55",
+    EndTime: "2023-06-06 20:51:55",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-06-07 14:03:34",
+    EndTime: "2023-06-07 18:03:34",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
+  {
+    Timestamp: "2023-06-07 16:48:17",
+    EndTime: "2023-06-07 20:48:17",
+    Name: "Sara B",
+  },
+  {
+    Timestamp: "2023-06-07 16:53:14",
+    EndTime: "2023-06-07 20:53:14",
+    Name: "David Ondande",
+  },
+  {
+    Timestamp: "2023-06-07 17:07:40",
+    EndTime: "2023-06-07 21:07:40",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-06-07 20:28:27",
+    EndTime: "2023-06-08 00:28:27",
+    Name: "Alex Bauer",
+  },
+  {
+    Timestamp: "2023-06-07 20:30:00",
+    EndTime: "2023-06-08 00:30:00",
+    Name: "Luke Mayhew",
+  },
+  {
+    Timestamp: "2023-06-07 20:30:39",
+    EndTime: "2023-06-08 00:30:39",
+    Name: "Connor Gephart",
+  },
+  {
+    Timestamp: "2023-06-07 20:36:13",
+    EndTime: "2023-06-08 00:36:13",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-06-08 13:24:05",
+    EndTime: "2023-06-08 17:24:05",
+    Name: "Theresa Keil",
+  },
+  {
+    Timestamp: "2023-06-08 16:34:00",
+    EndTime: "2023-06-08 20:34:00",
+    Name: "David Ondande",
+  },
+  {
+    Timestamp: "2023-06-08 16:36:39",
+    EndTime: "2023-06-08 20:36:39",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-06-08 16:41:11",
+    EndTime: "2023-06-08 20:41:11",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-06-08 19:37:21",
+    EndTime: "2023-06-08 23:37:21",
+    Name: "Tara Brooky",
+  },
+  {
+    Timestamp: "2023-06-09 16:45:22",
+    EndTime: "2023-06-09 20:45:22",
+    Name: "Sunita Pathik",
+  },
+  {
+    Timestamp: "2023-06-10 17:01:29",
+    EndTime: "2023-06-10 21:01:29",
+    Name: "Tram Nguyen",
+  },
+  {
+    Timestamp: "2023-06-10 17:01:35",
+    EndTime: "2023-06-10 21:01:35",
+    Name: "Emily Stucke",
+  },
+  {
+    Timestamp: "2023-06-10 17:01:44",
+    EndTime: "2023-06-10 21:01:44",
+    Name: "Michael Yoo",
+  },
+  {
+    Timestamp: "2023-06-10 17:01:45",
+    EndTime: "2023-06-10 21:01:45",
+    Name: "Andrew Thampoe",
+  },
+  {
+    Timestamp: "2023-06-10 17:02:42",
+    EndTime: "2023-06-10 21:02:42",
+    Name: "Emily Fitzpatrick",
+  },
+  {
+    Timestamp: "2023-06-10 17:08:54",
+    EndTime: "2023-06-10 21:08:54",
+    Name: "Rawan Elshobaky",
+  },
+  {
+    Timestamp: "2023-06-10 17:09:31",
+    EndTime: "2023-06-10 21:09:31",
+    Name: "Ifeoluwa Akinropo",
+  },
+  {
+    Timestamp: "2023-06-10 17:14:09",
+    EndTime: "2023-06-10 21:14:09",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-06-10 17:36:38",
+    EndTime: "2023-06-10 21:36:38",
+    Name: "Cameron Dong",
+  },
+  {
+    Timestamp: "2023-06-11 16:42:00",
+    EndTime: "2023-06-11 20:42:00",
+    Name: "Kate Weeks",
+  },
+  {
+    Timestamp: "2023-06-11 16:56:11",
+    EndTime: "2023-06-11 20:56:11",
+    Name: "Opeyemi Faleye",
+  },
+  {
+    Timestamp: "2023-06-11 16:57:28",
+    EndTime: "2023-06-11 20:57:28",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-06-13 16:31:22",
+    EndTime: "2023-06-13 20:31:22",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-06-13 16:36:34",
+    EndTime: "2023-06-13 20:36:34",
+    Name: "Anna West",
+  },
+  {
+    Timestamp: "2023-06-13 16:38:02",
+    EndTime: "2023-06-13 20:38:02",
+    Name: "Cindy Silveira",
+  },
+  {
+    Timestamp: "2023-06-13 16:38:54",
+    EndTime: "2023-06-13 20:38:54",
+    Name: "Susan Larson",
+  },
+  {
+    Timestamp: "2023-06-13 16:53:36",
+    EndTime: "2023-06-13 20:53:36",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-06-14 17:56:56",
+    EndTime: "2023-06-14 21:56:56",
+    Name: "Karen Moore",
+  },
+  {
+    Timestamp: "2023-06-14 21:54:22",
+    EndTime: "2023-06-15 01:54:22",
+    Name: "Jonathan Shay",
+  },
+  {
+    Timestamp: "2023-06-14 21:58:30",
+    EndTime: "2023-06-15 01:58:30",
+    Name: "Lynwood McDaniel",
+  },
+  {
+    Timestamp: "2023-06-14 21:58:45",
+    EndTime: "2023-06-15 01:58:45",
+    Name: "Luke Mayhew",
+  },
+  {
+    Timestamp: "2023-06-14 22:02:07",
+    EndTime: "2023-06-15 02:02:07",
+    Name: "Tina Paquet",
+  },
+  {
+    Timestamp: "2023-06-14 00:00:00",
+    EndTime: "2023-06-14 04:00:00",
+    Name: "Paul H",
+  },
+  {
+    Timestamp: "2023-06-14 00:00:00",
+    EndTime: "2023-06-14 04:00:00",
+    Name: "Latease",
+  },
+  {
+    Timestamp: "2023-06-14 00:00:00",
+    EndTime: "2023-06-14 04:00:00",
+    Name: "Zoe",
+  },
+  {
+    Timestamp: "2023-06-15 16:57:05",
+    EndTime: "2023-06-15 20:57:05",
+    Name: "Norma Kriger",
+  },
+  {
+    Timestamp: "2023-06-15 17:04:17",
+    EndTime: "2023-06-15 21:04:17",
+    Name: "David Ondande",
+  },
+  {
+    Timestamp: "2023-06-15 20:25:28",
+    EndTime: "2023-06-16 00:25:28",
+    Name: "Myles Austin",
+  },
+  {
+    Timestamp: "2023-06-15 20:26:06",
+    EndTime: "2023-06-16 00:26:06",
+    Name: "Tara Brooky",
+  },
+  {
+    Timestamp: "2023-06-15 00:00:00",
+    EndTime: "2023-06-15 04:00:00",
+    Name: "Hong",
+  },
+  {
+    Timestamp: "2023-06-17 17:00:08",
+    EndTime: "2023-06-17 21:00:08",
+    Name: "Emily Stucke",
+  },
+  {
+    Timestamp: "2023-06-17 17:05:40",
+    EndTime: "2023-06-17 21:05:40",
+    Name: "Tram Nguyen",
+  },
+  {
+    Timestamp: "2023-06-17 17:05:53",
+    EndTime: "2023-06-17 21:05:53",
+    Name: "Emily Fitzpatrick",
+  },
+  {
+    Timestamp: "2023-06-17 17:21:44",
+    EndTime: "2023-06-17 21:21:44",
+    Name: "Beverly Pinn",
+  },
+  {
+    Timestamp: "2023-06-28 14:09:22",
+    EndTime: "2023-06-28 18:09:22",
+    Name: "Bud Stracker - Sisson Street DPW",
+  },
 ];
