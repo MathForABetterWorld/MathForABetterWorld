@@ -115,6 +115,10 @@ const generateFakeData = async () => {
         categoryId: categoryMap.get(exportItem.category).id,
         donatedTo: exportItem.donatedTo,
         locationId: locationMap.get(exportItem.donatedTo).id,
+        exportType:
+          exportItem.exportType === undefined
+            ? "Regular"
+            : exportItem.exportType,
       });
     } else {
       createExportsList.push({
@@ -123,6 +127,10 @@ const generateFakeData = async () => {
         weight: exportItem.weight,
         categoryId: categoryMap.get(exportItem.category).id,
         donatedTo: exportItem.donatedTo,
+        exportType:
+          exportItem.exportType === undefined
+            ? "Regular"
+            : exportItem.exportType,
       });
     }
   });
