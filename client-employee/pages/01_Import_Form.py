@@ -70,24 +70,25 @@ with st.form("template_form"):
     submit = st.form_submit_button()
 
 if submit:
-    ### TODO:: update userID when sign in functionality is implemented
-    r = json.loads(pallet.postFood(
-        inputUser["id"],
-        todaysDate, 
-        expiration_date, 
-        pallet_weight, 
-        distributor['id'],
-        rack["id"],
-        (description if description != "" else category["description"]),
-        category['id']
-       ))
-
-  
-    if "msg" not in r:
-        st.balloons()
-        st.success("🎉 Your import was generated!")
+    if pallet_weight == "" or category['id'] == -1 or distributor["id"] == -1 or inputUser['id'] == -1:
+        st.error('Please fill out the form')
     else:
-        st.error(r["msg"])
+        r = json.loads(pallet.postFood(
+            inputUser["id"],
+            todaysDate, 
+            expiration_date, 
+            pallet_weight, 
+            distributor['id'],
+            rack["id"],
+            (description if description != "" else category["description"]),
+            category['id']
+        ))
+        if "msg" not in r:
+            st.balloons()
+            st.success("🎉 Your import was generated!")
+        else:
+            st.error(r["msg"])
+
 
 if log_button :
     if "token" in st.session_state :

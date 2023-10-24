@@ -62,7 +62,7 @@ if submit:
         r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, donatedTo, int(weight), location["id"], exportType["id"]))
         if "msg" not in r:
             st.balloons()
-            st.success("🎉 Export recorded!")
+            st.success("🎉 Your export was generated!")
         else:
             st.error(r["msg"])
 
