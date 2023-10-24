@@ -43,12 +43,9 @@ else:
 #user_names = users["Name"]
 
 user_input = st.selectbox(label="Please enter your name", options = active_users)
-<<<<<<< HEAD
 # food_input = st.text_input("Enter lbs of food")
-=======
 food_input = st.text_input("Enter lbs of regular food taken")
 damaged_food_input = st.text_input("Enter lbs of damaged food taken")
->>>>>>> 7a4aa2088d17519d19e760acceac006e651a9866
 submit_button = st.button("Submit")
 
 
@@ -93,7 +90,7 @@ if st.session_state['button'] == True:
             else: 
                 current_user_id = user_input
                 shift_id = row["id"]
-                shiftConnector.signout(foodAmt, int(shift_id))
+                shiftConnector.signout(foodAmt, int(shift_id), damagedFoodAmt)
                 st.write("Sign out successful!")
                 # wait 2 seconds
                 time.sleep(2)
