@@ -8,6 +8,8 @@ from routeConnectors import pallet
 from routeConnectors import distributorConnectors
 from routeConnectors import rackConnector
 from routeConnectors import categoryConnectors
+from routeConnectors import userConnector
+from routeConnectors import locationConnectors
 from PIL import Image
 from nav import nav_page
 
@@ -43,6 +45,12 @@ categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.g
 sortedCategories = sorted(categories, key=lambda cat: cat["name"])
 
 
+user_data = userConnector.getUsers()
+user_data_str = user_data.decode('utf-8')
+user_dict = json.loads(user_data_str)
+
+users = [{"id": -1, "name": "", "email": "", "isActive": True}] + user_dict['users']
+allUsers = sorted(users, key=lambda u: u["name"])
 
 categoryDF = pd.DataFrame(categories)
 
@@ -53,12 +61,12 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Query imports</h1>", unsafe_allow_html=True)
 
 # Opening JSON file
-sortFile = open(path + '/../assets/sortBy.json')
+sortFile = open(path + '/../assets/sortByImport.json')
   
 # load sortBy map 
 sortByMap = json.load(sortFile)["sortBy"]
 
-
+userSelect = st.selectbox("Show all import from user", allUsers, format_func=lambda u: f'{u["name"]}')
 categorySelect = st.selectbox("Show all food of type", sortedCategories, format_func=lambda cat: f'{cat["name"]}')
 #categorySelect = st.selectbox("Show all food currently on rack", allRacks)
 distributorSelect = st.selectbox("Show all food coming from", allDistributors, format_func=lambda cat: f'{cat["name"]}')
@@ -76,7 +84,29 @@ def getCategories(category):
 
     return pd.Series(catNames)
 
+def getCompanyNameById(id):
+    distributor = next((d for d in allDistributors if d['id'] == id), None)
+    return distributor['name'] if distributor else ""
+
+def getRackById(id):
+    rack = next((r for r in allRacks if r['id'] == id), None)
+    return rack['name'] if rack else ""
+
+def getUserById(id):
+    user = next((u for u in allUsers if u['id'] == id), None)
+    return user['name'] if user else ""
+
+
 df["Categories"] = df.categoryIds.apply(getCategories)
+
+if userSelect['id'] != -1:
+    userIndices = []
+    for index, row in df.iterrows():
+        if userSelect["id"] == row["entryUserId"]:
+            userIndices.append(index)
+    df = df.iloc[userIndices] #this maybe should sort by distributor ID 
+    df = df.reset_index()
+
 
 if categorySelect['id'] != -1:
     categoryIndices = []
@@ -100,11 +130,28 @@ if sortByMap[sortBySelect] != 'none':
     df = df.sort_values([sortByMap[sortBySelect]])
     df = df.reset_index()
 
-st.dataframe(df)
+df['Distributor'] = df['companyId'].apply(getCompanyNameById)
+df.drop(columns=['companyId'], inplace=True)
 
-sum = df["weight"].sum()
+df['Entry User'] = df['entryUserId'].apply(getUserById)
+df.drop(columns=['entryUserId'], inplace=True)
 
-s = pd.Series([sum], name='Total import weight')
+# df['Rack'] = df['rackId'].apply(getRackById)
+# df.drop(columns=['rackId'], inplace=True)
+
+df['inputDate'] = pd.to_datetime(df['inputDate'])
+df['inputDate'] = df['inputDate'].dt.strftime('%m-%d-%Y %H:%M:%S')
+
+
+df.rename(columns={'id': 'ID', 'inputDate': 'Input Date', 'expirationDate': 'Expiration Date', 'weight': 'Weight', 'description': 'Description', 'categoryIds': 'Category IDs', 'barcodes': 'Barcodes', 'Categories': 'Categories'}, inplace=True)
+columns_to_display = ['Entry User', 'Input Date', 'Expiration Date', 'Weight', 'Distributor', 'rackId', 'Description', 'Categories']
+df = df[columns_to_display]
+
+st.dataframe(df, use_container_width=True)
+
+sum = df["Weight"].sum()
+
+s = pd.Series([sum], name='Total Import Weight')
 
 st.dataframe(s, use_container_width=True)
 

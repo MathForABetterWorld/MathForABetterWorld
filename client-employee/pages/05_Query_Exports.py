@@ -35,7 +35,7 @@ with title_container:
 
 # Opening JSON file
 catFile = open(path + '/../assets/fakeCategories.json')
-sortFile = open(path + '/../assets/sortBy.json')
+sortFile = open(path + '/../assets/sortByExport.json')
 #recFile = open(path + '/../assets/recipients.json')
   
 
@@ -50,7 +50,17 @@ sortedLocations = sorted(locations, key=lambda location: location["name"])
 categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
 sortedCategories = sorted(categories, key=lambda cat: cat["name"])
 
+locations = [{"id": -1, "name": ""}]  + locationConnectors.getLocations()['location']
+allLocations = sorted(locations, key=lambda cat: cat["name"])
 
+user_data = userConnector.getUsers()
+user_data_str = user_data.decode('utf-8')
+user_dict = json.loads(user_data_str)
+
+users = [{"id": -1, "name": "", "email": "", "isActive": True}] + user_dict['users']
+allUsers = sorted(users, key=lambda u: u["name"])
+
+userSelect = st.selectbox("Show all import from user", allUsers, format_func=lambda u: f'{u["name"]}')
 categorySelect = st.selectbox("Show all food of type", categories, format_func=lambda cat: f'{cat["name"]}')
 recSelect = st.selectbox("Show all food going to", sortedLocations, format_func=lambda loc: f'{loc["name"]}')
 
@@ -62,9 +72,13 @@ def getCategories(category):
     return categoryDF.loc[categoryDF.id == category["id"], "name"].values[0]
 
 def getLocation(location):
-    if location is None:
-        return "N/A"
-    return location["name"]
+    location = next((l for l in allLocations if l['name'] == location), None)
+    return location['name'] if location else None
+
+def getUserById(id):
+    user = next((u for u in allUsers if u['id'] == id), None)
+    return user['name'] if user else ""
+
 
 df["category"] = df.category.apply(getCategories)
 df["location"] = df.location.apply(getLocation)
@@ -74,6 +88,14 @@ df["location"] = df.location.apply(getLocation)
 # df = df[df['distributor'] == distributorSelect] #this maybe should sort by distributor ID 
 # # Filter by selected category
 # df = df[df['category'] == categorySelect] 
+
+if userSelect['id'] != -1:
+    userIndices = []
+    for index, row in df.iterrows():
+        if userSelect["id"] == row["userId"]:
+            userIndices.append(index)
+    df = df.iloc[userIndices] #this maybe should sort by distributor ID 
+    df = df.reset_index()
 
 if categorySelect['id'] != -1:
     categoryIndices = []
@@ -91,7 +113,29 @@ if recSelect['id'] != -1:
     df = df.iloc[locIndices]
     df = df.reset_index()
 
-st.dataframe(df)
+if sortByMap[sortBySelect] != 'none':
+    df = df.sort_values([sortByMap[sortBySelect]])
+    df = df.reset_index()
+
+df['Entry User'] = df['userId'].apply(getUserById)
+df.drop(columns=['userId'], inplace=True)
+
+df['exportDate'] = pd.to_datetime(df['exportDate'])
+df['exportDate'] = df['exportDate'].dt.strftime('%m-%d-%Y %H:%M:%S')
+
+
+df.rename(columns={'id': 'ID', 'exportDate': 'Export Date', 'donatedTo': 'Donated To', 'weight': 'Weight', "exportType": "Export Type", 'location': 'Location', 'category': 'Categories'}, inplace=True)
+columns_to_display = ['Entry User', 'Export Date', 'Donated To', 'Weight', 'Location', 'Categories', "Export Type"]
+df = df[columns_to_display]
+
+st.dataframe(df, use_container_width=True)
+
+sum = df["Weight"].sum()
+
+s = pd.Series([sum], name='Total Import Weight')
+
+st.dataframe(s, use_container_width=True)
+
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
