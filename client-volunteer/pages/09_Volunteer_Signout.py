@@ -74,7 +74,7 @@ if st.session_state['button'] == True:
                 if st.button("Login admin"):            
                     res = json.loads(authConnectors.signinEmployee(admin_input, password_input))
                     if res["status"]!=200:
-                        st.write("Invalid admin login, volunteer not signed out")
+                        st.error("Invalid admin login, volunteer not signed out")
                         time.sleep(2)
                         st.session_state['button'] = False
                         nav_page("Volunteer_Home")
@@ -92,10 +92,7 @@ if st.session_state['button'] == True:
                 shift_id = row["id"]
                 shiftConnector.signout(foodAmt, int(shift_id), damagedFoodAmt)
                 st.write("Sign out successful!")
-                # wait 2 seconds
-                time.sleep(2)
                 st.session_state['button'] = False
-                nav_page("Volunteer_Home")
         else:
             st.error("Please enter a number at least greater than or equal to 0.")
             st.session_state['button'] = False
