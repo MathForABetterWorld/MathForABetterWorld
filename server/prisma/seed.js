@@ -299,7 +299,7 @@ const generateFakeData = async () => {
         damagedFoodTaken: 0,
       });
     } else {
-      console.log(entry.name)
+      console.log(entry.name);
     }
   });
   await prisma.shift.createMany({data: createShiftList});
