@@ -4,10 +4,16 @@ import os
 
 path = os.path.dirname(__file__)
 
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food Volunteer Portal")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Credits")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
-st.image(image)
 
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
 st.write("This dashboard was made in Spring 2023 by students of the class Math for a Better World in the Johns Hopkins University department of Applied Mathematics & Statistics.")
 st.write()
 st.write("Students: Chris Anto, Tim Chau, Jillayne Clarke, Matt Kleiman, Nolan Lombardo, Sofia LoVuolo, Gavin McElhennon, Nader Najjar, Joy Neuberger, Emi Ochoa, Krutal Patel, Kiana Soleiman, Jamie Stelnik, Sophia Stone, Kenny Testa, Isabel Thomas, Rishika Vadlamudi, Chris Wilhelm")

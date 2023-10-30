@@ -9,11 +9,17 @@ from PIL import Image
 from nav import nav_page
 
 path = os.path.dirname(__file__)
-# This has to be the first streamlit command called
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Racks Page")
-image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
-st.image(image)
 
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Racks")
+image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
+
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
 # log in status
 
 if 'token' in st.session_state :

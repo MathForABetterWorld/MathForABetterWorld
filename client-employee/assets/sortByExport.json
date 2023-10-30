@@ -1,0 +1,12 @@
+{
+  "sortBy": {
+    "None": "none",
+    "Export date": "exportDate",
+    "Weight": "weight",
+    "Donated To": "donatedTo",
+    "Location": "location",
+    "Category": "category",
+    "Export Type": "exportType",
+    "User": "userId"
+  }
+}

@@ -12,14 +12,13 @@ def getFood():
   r = http.request("GET", root + curPath + "/", headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
 
-def postFood(entryUserId, inputDate, expirationDate, weight, companyId, rackId, inWarehouse, description, categoryId):
+def postFood(entryUserId, inputDate, expirationDate, weight, companyId, rackId, description, categoryId):
   jsonDict = {
     "entryUserId": entryUserId,
     "inputDate": inputDate.isoformat(),
 #    "expirationDate": expirationDate.isoformat(),
     "weight": int(weight),
     "companyId": companyId,
-    "inWarehouse": inWarehouse,
     "description": description,
     "categoryIds": [categoryId]
   }
@@ -36,7 +35,7 @@ def deleteFood(idField):
   r = http.request("DELETE", root + curPath + "/" + idField, headers={'Content-Type': 'application/json'})
   return r.data
 
-def updateFood(idField, entryUserId, inputDate, expirationDate, weight, companyId, rackId, inWarehouse, description, categoryId):
+def updateFood(idField, entryUserId, inputDate, expirationDate, weight, companyId, rackId, description, categoryId):
   f = json.dumps({
     "entryUserId": entryUserId,
     "inputDate": inputDate,
@@ -44,7 +43,6 @@ def updateFood(idField, entryUserId, inputDate, expirationDate, weight, companyI
     "weight": weight,
     "companyId": companyId,
     "rackId": rackId,
-    "inWarehouse": inWarehouse,
     "description": description,
     "categoryId": categoryId
   })
