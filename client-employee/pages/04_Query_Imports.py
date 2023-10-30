@@ -14,10 +14,17 @@ from PIL import Image
 from nav import nav_page
 
 path = os.path.dirname(__file__)
-# This has to be the first streamlit command called
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Query imports")
+
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Query Imports")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
-st.image(image)
+
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
 
 # log in status
 
@@ -58,7 +65,7 @@ title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
     with col2:
-        st.markdown("<h1 style='text-align: center; '>Query imports</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; '>Query Imports</h1>", unsafe_allow_html=True)
 
 # Opening JSON file
 sortFile = open(path + '/../assets/sortByImport.json')

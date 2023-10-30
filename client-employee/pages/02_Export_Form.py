@@ -10,9 +10,17 @@ import pandas as pd
 from nav import nav_page
 
 path = os.path.dirname(__file__)
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Export Form")
+
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Export Form")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
-st.image(image)
+
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
 
 # log in status
 
@@ -65,6 +73,11 @@ if submit:
             st.success("🎉 Your export was generated!")
         else:
             st.error(r["msg"])
+
+# Streamlit widgets automatically run the script from top to bottom. Since
+# this button is not connected to any other logic, it just causes a plain
+# rerun.
+st.button("Re-run")
 
 if log_button :
     if "token" in st.session_state :

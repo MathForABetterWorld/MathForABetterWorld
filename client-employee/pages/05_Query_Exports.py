@@ -11,11 +11,16 @@ from nav import nav_page
 
 path = os.path.dirname(__file__)
 
-
-# This has to be the first streamlit command called
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Query exports")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Query Exports")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
-st.image(image)
+
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
 
 # log in status
 
@@ -31,7 +36,7 @@ with title_container:
     # with col1:
     #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
     with col2:
-        st.markdown("<h1 style='text-align: center; '>Query exports</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; '>Query Exports</h1>", unsafe_allow_html=True)
 
 # Opening JSON file
 catFile = open(path + '/../assets/fakeCategories.json')

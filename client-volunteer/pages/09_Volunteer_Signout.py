@@ -18,11 +18,9 @@ def is_non_neg_float(string):
         return False
 
 path = os.path.dirname(__file__)
-
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food Volunteer Portal")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Volunteer Sign-Out")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 
-### Header ###
 col1, col2, col3 = st.columns(3)
 with col1:
     st.write(' ')
@@ -30,6 +28,14 @@ with col2:
     st.image(image)
 with col3:
     st.write(' ')
+
+title_container = st.container()
+col1, col2 = st.columns([1, 50])
+with title_container:
+    # with col1:
+    #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
+    with col2:
+        st.markdown("<h1 style='text-align: center; '>Volunteer Sign-Out</h1>", unsafe_allow_html=True)
 
 
 active_shifts = shiftConnector.activeShifts()
@@ -97,3 +103,7 @@ if st.session_state['button'] == True:
             st.error("Please enter a number at least greater than or equal to 0.")
             st.session_state['button'] = False
         
+# Streamlit widgets automatically run the script from top to bottom. Since
+# this button is not connected to any other logic, it just causes a plain
+# rerun.
+st.button("Re-run")

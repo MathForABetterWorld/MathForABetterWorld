@@ -12,10 +12,17 @@ import json
 import os
 
 path = os.path.dirname(__file__)
-print(path + "/../assets/bmore_food_logo_dark_theme.png" )
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Import Form")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Import Form")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
-st.image(image)
+
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
+
 # Get rack, distributor and category info 
 print("getting racks....")
 allRacks = [{"id": -1, "location": "", "description": "", "weightLimit": 0}]
@@ -79,3 +86,8 @@ if submit:
             st.success("🎉 Your import was generated!")
         else:
             st.error(r["msg"])
+
+# Streamlit widgets automatically run the script from top to bottom. Since
+# this button is not connected to any other logic, it just causes a plain
+# rerun.
+st.button("Re-run")
