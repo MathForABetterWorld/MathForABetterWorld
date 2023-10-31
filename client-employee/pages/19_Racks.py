@@ -29,7 +29,7 @@ else:
 
 
 print("getting racks....")
-racks = rackConnector.getRacks()["rack"]
+racks = rackConnector.getRacks()
 rackDF = pd.DataFrame(racks)
 
 title_container = st.container()
@@ -47,7 +47,7 @@ if 'token' in st.session_state:
             left, right = st.columns(2)
             location = left.text_input("Location", "")
             desc = right.text_input("Description", "")
-            weightLimit = left.number_input("Weight Limit (Optional)", min_value=0, format="%.2f")
+            weightLimit = left.number_input("Weight Limit (Optional)", min_value=0.0, format="%.2f")
             newSubmit = st.form_submit_button()
         if newSubmit:
             if location == "" or weightLimit == 0 or desc == "":
@@ -60,7 +60,7 @@ if 'token' in st.session_state:
             left, right = st.columns(2)
             location = left.text_input("Location", "")
             desc = right.text_input("Description", "")
-            weightLimit = left.number_input("Weight Limit", min_value=0, format="%.2f")
+            weightLimit = left.number_input("Weight Limit", min_value=0.0, format="%.2f")
             idx = right.number_input("Id", min_value=1)
             editSubmit = st.form_submit_button()
         if editSubmit:

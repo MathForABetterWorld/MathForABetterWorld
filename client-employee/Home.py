@@ -99,8 +99,8 @@ if 'token' in st.session_state:
 
     else:
         st.session_state["shift_active"] = shift[0]["id"]
-        food_input = st.number_input("Enter lbs of regular food taken", 0)
-        damaged_food_input = st.number_input("Enter lbs of damaged food taken", 0)
+        food_input = st.number_input("Enter lbs of regular food taken", min_value=0.0, format="%.2f")
+        damaged_food_input = st.number_input("Enter lbs of damaged food taken", min_value=0.0, format="%.2f")
         foodAmt = food_input
         sign_out_for_shift = st.button("End Shift (Optional)")
         if sign_out_for_shift:

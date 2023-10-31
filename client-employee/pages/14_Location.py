@@ -45,6 +45,7 @@ else:
 print("getting locations...")
 locations = locationConnectors.getLocations()["location"]
 locationDF = pd.DataFrame(locations)
+
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
@@ -93,6 +94,7 @@ if 'token' in st.session_state:
                     st.experimental_rerun()
                 else:
                     st.error("Please input an id that is in the table!")
+
 st.dataframe(locationDF)
 
 # Streamlit widgets automatically run the script from top to bottom. Since
