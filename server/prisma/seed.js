@@ -31,43 +31,15 @@ const generateFakeData = async () => {
   // await prisma.user.deleteMany();
   // await generateFakeUsers(3);
   const locationMap = new Map();
-  // const sandtown = await prisma.DonationLocation.create({
-  //   data: {
-  //     name: "Sandtown",
-  //     latitude: "39.304150",
-  //     longitude: "-76.643036",
-  //   },
-  // });
-  // const bcfCurbside = await prisma.DonationLocation.create({
-  //   data: {
-  //     name: "BCF Curbside",
-  //     latitude: "39.316390",
-  //     longitude: "-76.620630",
-  //   },
-  // });
-  // const greenmountWest = await prisma.DonationLocation.create({
-  //   data: {
-  //     name: "Greenmount West",
-  //     latitude: "39.311310",
-  //     longitude: "-76.612430",
-  //   },
-  // });
-  // const morganState = await prisma.DonationLocation.create({
-  //   data: {
-  //     name: "Morgan State University",
-  //     latitude: "39.340460",
-  //     longitude: "-76.587720",
-  //   },
-  // });
-  // locationMap.set("Sandtown", sandtown);
-  // locationMap.set("BCF Curbside", bcfCurbside);
-  // locationMap.set("Greenmount West", greenmountWest);
-  // locationMap.set("Morgan State University", morganState);
   const createLocations = [];
   const locationSet = new Set();
   donatedToList.forEach((location) => {
     if (!locationSet.has(location)) {
-      createLocations.push({ name: location.name, longitude: location.longitude, latitude: location.latitude});
+      createLocations.push({
+        name: location.name,
+        longitude: location.longitude,
+        latitude: location.latitude,
+      });
       locationSet.add(location);
     }
   });
@@ -79,7 +51,10 @@ const generateFakeData = async () => {
   const createUsers = [];
   usersList.forEach((user) => {
     if (!userSet.has(user)) {
-      createUsers.push({ name: user, email: user + "@gmail.com" });
+      createUsers.push({
+        name: user,
+        email: user.replace(/\s+/g, "") + "@gmail.com",
+      });
       userSet.add(user);
     }
   });
@@ -95,8 +70,8 @@ const generateFakeData = async () => {
       categorySet.add(category);
     }
   });
-  await prisma.Category.createMany({ data: createCats });
-  const categories = await prisma.Category.findMany();
+  await prisma.category.createMany({ data: createCats });
+  const categories = await prisma.category.findMany();
   categories.forEach((category) => categoryMap.set(category.name, category));
   const createDistributors = [];
   const distributorMap = new Map();
@@ -109,7 +84,11 @@ const generateFakeData = async () => {
   const createRacks = [];
   const rackMap = new Map();
   rackList.forEach((rack) => {
-    createRacks.push({ location: rack.location, description: rack.description, weightLimit: rack.weightLimit });
+    createRacks.push({
+      location: rack.location,
+      description: rack.description,
+      weightLimit: rack.weightLimit,
+    });
   });
   await prisma.rack.createMany({ data: createRacks });
   const racks = await prisma.rack.findMany();
@@ -124,7 +103,7 @@ const generateFakeData = async () => {
         categoryIds: [categoryMap.get(entry.category).id],
         companyId: distributorMap.get(entry.distributor).id,
         rackId: rackMap.get(entry.rack).id,
-      });  
+      });
     } else {
       createEntryList.push({
         entryUserId: userMap.get(entry.name).id,
@@ -132,7 +111,7 @@ const generateFakeData = async () => {
         weight: entry.weight,
         categoryIds: [categoryMap.get(entry.category).id],
         companyId: distributorMap.get(entry.distributor).id,
-      });  
+      });
     }
   });
   await prisma.pallet.createMany({ data: createEntryList });
@@ -302,8 +281,7 @@ const generateFakeData = async () => {
       console.log(entry.name);
     }
   });
-  await prisma.shift.createMany({data: createShiftList});
-
+  await prisma.shift.createMany({ data: createShiftList });
 };
 
 try {
