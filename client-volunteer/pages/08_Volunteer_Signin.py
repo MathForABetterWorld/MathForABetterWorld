@@ -9,11 +9,9 @@ from PIL import Image
 import os
 
 path = os.path.dirname(__file__)
-
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food Volunteer Portal")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Volunteer Sign-In")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 
-### Header ###
 col1, col2, col3 = st.columns(3)
 with col1:
     st.write(' ')
@@ -22,6 +20,13 @@ with col2:
 with col3:
     st.write(' ')
 
+title_container = st.container()
+col1, col2 = st.columns([1, 50])
+with title_container:
+    # with col1:
+    #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
+    with col2:
+        st.markdown("<h1 style='text-align: center; '>Volunteer Sign-In</h1>", unsafe_allow_html=True)
 
 
 users = userConnector.getUsers()
@@ -36,11 +41,16 @@ user_input = st.selectbox(label="Please enter your name", options = user_names.s
 check_in_button = st.button("Check in")
 
 if check_in_button:
+    if users_df["name"].iloc[0]  in shiftConnector.activeShifts():
+        st.error("ERROR: User is currently signed in. Please sign out.")
+    else:
+        startTime = datetime.now()
+        id = users_df[users_df["name"] == user_input]["id"]
+        shiftConnector.postShift(int(id.iloc[0]), startTime.isoformat())
 
-    startTime = datetime.now()
-    id = users_df[users_df["name"] == user_input]["id"]
-    shiftConnector.postShift(int(id.iloc[0]), startTime.isoformat())
+        st.write("Check in successful!")
 
-    st.write("Check in successful!")
-    time.sleep(2)
-    nav_page("Volunteer_Home")
+# Streamlit widgets automatically run the script from top to bottom. Since
+# this button is not connected to any other logic, it just causes a plain
+# rerun.
+st.button("Re-run")

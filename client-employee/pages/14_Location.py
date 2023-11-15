@@ -23,11 +23,17 @@ def getCoordinates(address):
         return lat, lon
 
 path = os.path.dirname(__file__)
-# This has to be the first streamlit command called
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Locations Page")
-image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
-st.image(image)
 
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Location")
+image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
+
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
 
 # log in status
 
@@ -39,6 +45,7 @@ else:
 print("getting locations...")
 locations = locationConnectors.getLocations()["location"]
 locationDF = pd.DataFrame(locations)
+
 title_container = st.container()
 col1, col2 = st.columns([1, 50])
 with title_container:
@@ -46,7 +53,7 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Locations Page</h1>", unsafe_allow_html=True)
 
 if 'token' in st.session_state:
-    editType = st.selectbox("Modification Type", ["", "New Location", "Update Location", "Delete Location"])
+    editType = st.selectbox("Modification Type (Add, Edit, Delete) (Select Below)", ["", "New Location", "Update Location", "Delete Location"])
     if editType == "New Location":
         with st.form("template_form"):
             name = st.text_input("Location Name", "")
@@ -87,7 +94,13 @@ if 'token' in st.session_state:
                     st.experimental_rerun()
                 else:
                     st.error("Please input an id that is in the table!")
+
 st.dataframe(locationDF)
+
+# Streamlit widgets automatically run the script from top to bottom. Since
+# this button is not connected to any other logic, it just causes a plain
+# rerun.
+st.button("Re-run")
 
 if log_button :
     if "token" in st.session_state :
