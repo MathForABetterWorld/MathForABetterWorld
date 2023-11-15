@@ -18,11 +18,9 @@ def is_non_neg_float(string):
         return False
 
 path = os.path.dirname(__file__)
-
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food Volunteer Portal")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Volunteer Sign-Out")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 
-### Header ###
 col1, col2, col3 = st.columns(3)
 with col1:
     st.write(' ')
@@ -30,6 +28,14 @@ with col2:
     st.image(image)
 with col3:
     st.write(' ')
+
+title_container = st.container()
+col1, col2 = st.columns([1, 50])
+with title_container:
+    # with col1:
+    #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
+    with col2:
+        st.markdown("<h1 style='text-align: center; '>Volunteer Sign-Out</h1>", unsafe_allow_html=True)
 
 
 active_shifts = shiftConnector.activeShifts()
@@ -43,12 +49,9 @@ else:
 #user_names = users["Name"]
 
 user_input = st.selectbox(label="Please enter your name", options = active_users)
-<<<<<<< HEAD
 # food_input = st.text_input("Enter lbs of food")
-=======
 food_input = st.text_input("Enter lbs of regular food taken")
 damaged_food_input = st.text_input("Enter lbs of damaged food taken")
->>>>>>> 7a4aa2088d17519d19e760acceac006e651a9866
 submit_button = st.button("Submit")
 
 
@@ -77,7 +80,7 @@ if st.session_state['button'] == True:
                 if st.button("Login admin"):            
                     res = json.loads(authConnectors.signinEmployee(admin_input, password_input))
                     if res["status"]!=200:
-                        st.write("Invalid admin login, volunteer not signed out")
+                        st.error("Invalid admin login, volunteer not signed out")
                         time.sleep(2)
                         st.session_state['button'] = False
                         nav_page("Volunteer_Home")
@@ -93,13 +96,14 @@ if st.session_state['button'] == True:
             else: 
                 current_user_id = user_input
                 shift_id = row["id"]
-                shiftConnector.signout(foodAmt, int(shift_id))
+                shiftConnector.signout(foodAmt, int(shift_id), damagedFoodAmt)
                 st.write("Sign out successful!")
-                # wait 2 seconds
-                time.sleep(2)
                 st.session_state['button'] = False
-                nav_page("Volunteer_Home")
         else:
             st.error("Please enter a number at least greater than or equal to 0.")
             st.session_state['button'] = False
         
+# Streamlit widgets automatically run the script from top to bottom. Since
+# this button is not connected to any other logic, it just causes a plain
+# rerun.
+st.button("Re-run")

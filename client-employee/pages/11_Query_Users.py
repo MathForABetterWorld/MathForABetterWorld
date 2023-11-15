@@ -8,10 +8,9 @@ from nav import nav_page
 
 path = os.path.dirname(__file__)
 
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food Volunteer Portal")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Query Users")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
 
-### Header ###
 col1, col2, col3 = st.columns(3)
 with col1:
     st.write(' ')
@@ -27,6 +26,13 @@ if 'token' in st.session_state :
 else:
     log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
 
+title_container = st.container()
+col1, col2 = st.columns([1, 50])
+with title_container:
+    # with col1:
+    #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
+    with col2:
+        st.markdown("<h1 style='text-align: center; '>Query Users</h1>", unsafe_allow_html=True)
 
 # on button click submit, check if valid user
 
@@ -35,8 +41,9 @@ if 'token' in st.session_state:
     # go to employee page
     users = json.loads(employeeConnectors.getUsers())["users"]
     usersDF = pd.DataFrame.from_dict(users)
-    st.dataframe(usersDF)
-    selectedIndex = st.selectbox('Select row:', usersDF.name)
+    filtered_usersDF = usersDF[pd.isna(usersDF['employeeId'])]
+    st.dataframe(filtered_usersDF)
+    selectedIndex = st.selectbox('Select row:', filtered_usersDF.name)
 
     promoteUser = st.button("Make User an Employee")
     user_input = st.text_input("Temporary Username")
@@ -51,6 +58,10 @@ if 'token' in st.session_state:
         idx = int(usersDF.loc[usersDF["name"] == selectedIndex].iloc[0].id)
         r = employeeConnectors.promoteToAdmin(idx)
 
+# Streamlit widgets automatically run the script from top to bottom. Since
+# this button is not connected to any other logic, it just causes a plain
+# rerun.
+st.button("Re-run")
 
 if log_button :
     if "token" in st.session_state :

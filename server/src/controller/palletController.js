@@ -21,7 +21,7 @@ export const createPallet = async (req, res) => {
     description,
     categoryId,
   } = req.body;
-  console.log("createpallet called: ", req.body)
+  console.log("createpallet called: ", req.body);
   const Pallet = await prisma.Pallet.create({
     data: {
       entryUserId,
@@ -58,14 +58,13 @@ export const getPallets = async (req, res) => {
  */
 export const getSoonestExpiringPallet = async (req, res) => {
   const Pallets = await prisma.pallet.findMany({
-    // only care about pallets that are in the warehouse
     orderBy: {
       expirationDate: "asc", // I assume this sorts in ascending order
     },
   });
   if (Pallets.length === 0) {
     return res.status(StatusCodes.NOT_FOUND).json({
-      message: "No pallets in warehouse found",
+      message: "No pallets found",
     });
   }
   let soonestExpiringPallet = Pallets[0];

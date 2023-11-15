@@ -12,10 +12,17 @@ import json
 import os
 
 path = os.path.dirname(__file__)
-print(path + "/../assets/bmore_food_logo_dark_theme.png" )
-st.set_page_config(layout="centered", page_icon=path + "/../assets/bmore_food_logo_dark_theme.png", page_title="Import Form")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Import Form")
 image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
-st.image(image)
+
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
+
 # Get rack, distributor and category info 
 print("getting racks....")
 allRacks = [{"id": -1, "location": "", "description": "", "weightLimit": 0}]
@@ -51,7 +58,7 @@ env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 todaysDate = datetime.date.today()
 with st.form("template_form"):
     left, right = st.columns(2)
-    expiration_date = left.date_input("Expiration Date (Optional)", value=datetime.date(1970, 1, 1))
+    expiration_date = left.date_input("Expiration Date (Optional; Leave as 1970 if No Exp. Date)", value=datetime.date(1970, 1, 1))
     category = right.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
     rack = left.selectbox("Rack (Optional)", allRacks, format_func=lambda rack: f'{rack["location"]}') # get more info on how racks are stored in the google form 
     distributor= right.selectbox("Distributor Name", allDistributors, format_func=lambda dis: f'{dis["name"]}')
@@ -61,21 +68,26 @@ with st.form("template_form"):
     submit = st.form_submit_button()
 
 if submit:
-    ### TODO:: update userID when sign in functionality is implemented
-    r = json.loads(pallet.postFood(
-        inputUser["id"],
-        todaysDate, 
-        expiration_date, 
-        pallet_weight, 
-        distributor['id'],
-        rack["id"],
-        (description if description != "" else category["description"]),
-        category['id']
-       ))
-
-  
-    if "msg" not in r:
-        st.balloons()
-        st.success("🎉 Your import was generated!")
+    if pallet_weight == "" or category['id'] == -1 or distributor["id"] == -1 or inputUser['id'] == -1:
+        st.error('Please fill out the form')
     else:
-        st.error(r["msg"])
+        r = json.loads(pallet.postFood(
+            inputUser["id"],
+            todaysDate, 
+            expiration_date, 
+            pallet_weight, 
+            distributor['id'],
+            rack["id"],
+            (description if description != "" else category["description"]),
+            category['id']
+        ))
+        if "msg" not in r:
+            st.balloons()
+            st.success("🎉 Your import was generated!")
+        else:
+            st.error(r["msg"])
+
+# Streamlit widgets automatically run the script from top to bottom. Since
+# this button is not connected to any other logic, it just causes a plain
+# rerun.
+st.button("Re-run")
