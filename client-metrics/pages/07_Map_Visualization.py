@@ -11,9 +11,25 @@ import json
 from PIL import Image
 import os
 
-path = os.path.dirname(__file__)
-image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
-st.image(image)
+# Get the directory of the current script
+script_path = os.path.dirname(__file__)
+assets_path = os.path.join(script_path, '..', 'assets')
+image_path = os.path.join(assets_path, 'bmore_food_logo_dark_theme.png')
+
+# Set page configuration with the image
+st.set_page_config(layout="centered", page_icon=image_path, page_title="Bmore Food")  
+# Open the image using Pillow
+image = Image.open(image_path)
+
+### Header ###
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
+
 
 st.title('Distrubution Maps')
 
