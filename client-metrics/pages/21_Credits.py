@@ -39,7 +39,7 @@ image_folder_path = "C:/Users/disc2/Desktop/MFBW/MathForABetterWorld/client-metr
 # Get a list of image files in the specified folder
 image_files = [f for f in os.listdir(image_folder_path) if f.lower().endswith(('.jpg', '.jpeg', '.png', '.gif'))]
 # Set the delay (in seconds) between images
-delay_between_images = 2  # Adjust as needed
+delay_between_images = 6  # Adjust as needed
 
 # Initialize the index to track the current image
 current_image_index = 0
