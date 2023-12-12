@@ -12,7 +12,7 @@ import pandas as pd
 def getCoordinates(address):
     http = urllib3.PoolManager()
     str(address)
-    r = http.request("GET", 'https://maps.googleapis.com/maps/api/geocode/json?address=' + address + '&key=AIzaSyCnXWK-JgfzOK4wRYE1z8Zojx1_nLiEWGw', headers={'Content-Type': 'application/json'})
+    r = http.request("GET", 'https://maps.googleapis.com/maps/api/geocode/json?address=' + address + '&key=AIzaSyBdwGpzITeG8YKCNozLvn4cKqQ7L-n8G2s', headers={'Content-Type': 'application/json'})
     jsonObj = json.loads(r.data.decode('utf-8'))
     if "error_message" in jsonObj:
         st.error("Please enter valid address")
