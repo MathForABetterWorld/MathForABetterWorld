@@ -42,55 +42,45 @@ st.title('Cumulative Sum - Exports over Time')
 
 exportItems = json.loads(exportConnectors.getExports())
 Exports = pd.DataFrame(exportItems["exports"])
-# Convert 'exportDate' to datetime type (if it's not already)
 Exports['exportDate'] = pd.to_datetime(Exports['exportDate'])
-# Group by 'exportDate' and calculate the sum of weights for each group
 result_df = Exports.groupby('exportDate')['weight'].sum().reset_index()
 
 result_df['cumulative_sum'] = result_df['weight'].cumsum()
 
+result_df['exportDate'] = pd.to_datetime(result_df['exportDate'])
+
+result_df['exportDate'] = result_df['exportDate'].dt.date
+
 dates = result_df['exportDate'].to_list()
 cumulative_exports_weight = result_df['cumulative_sum'].to_list()
-# Create Matplotlib plot
+
+fig, ax = plt.subplots()
+
+ax.plot(result_df['exportDate'], result_df['cumulative_sum'], label='Cumulative Sum of Exports (lb)')
+
 plt.xlabel('Date')
 plt.ylabel('Cumulative Sum of Exports (lb)')
-plt.xticks(rotation=45, ha='right')  # Adjust the rotation angle as needed
-plt.plot(dates, cumulative_exports_weight)
+plt.xticks(rotation=45, ha='right')
+plt.legend()
+plt.tight_layout()
 
-# Capture the Matplotlib figure
-fig = plt.gcf()
-
-# Display the plot in Streamlit
 st.pyplot(fig)
 
-# display the recipient pie chart 
+export_items = json.loads(exportConnectors.getExports())
+Exports = pd.DataFrame(export_items["exports"])
 
-
-# Group by 'recipient' and sum the 'weight' for each group
 grouped_df = Exports.groupby('donatedTo')['weight'].sum().reset_index()
-grouped_df = grouped_df[grouped_df['donatedTo'] != "\"So What Else\""]
-grouped_df = grouped_df[grouped_df['weight'] >= 0.02 * grouped_df['weight'].sum()]
+grouped_df['donatedTo'] = grouped_df['donatedTo'].str.strip('"')
+grouped_df = grouped_df[(grouped_df['weight'] >= 0.02 * grouped_df['weight'].sum())]
 
-# Streamlit app
 st.title('Distribution of Weights by Recipient')
 
-# Plotting a pie chart using Matplotlib in Streamlit
 fig, ax = plt.subplots(figsize=(8, 8))
-ax.pie(grouped_df['weight'], labels=grouped_df['donatedTo'], autopct='', startangle=140)
+ax.pie(grouped_df['weight'], labels=grouped_df['donatedTo'], autopct='%1.1f%%', startangle=140, counterclock=False)
 ax.axis('equal')
 
-# Show the plot in Streamlit
 st.pyplot(fig)
 
-
-
-
-
-
-
-
-
-#importVis()  supply 2 items here 
 exportItems = json.loads(exportConnectors.getExports())
 Exports = pd.DataFrame(exportItems["exports"])
 

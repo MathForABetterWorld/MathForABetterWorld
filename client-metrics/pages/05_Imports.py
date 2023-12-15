@@ -36,9 +36,6 @@ with col3:
     st.write(' ')
 
 
-
-st.title('Cumulative Sum - Imports over Time')
-
 pallets = json.loads(pallet.getFood())
 Imports = pd.DataFrame(pallets["Pallet"])
 
@@ -46,37 +43,43 @@ result_df = Imports.groupby('inputDate')['weight'].sum().reset_index()
 
 result_df['cumulative_sum'] = result_df['weight'].cumsum()
 
-# Convert 'inputDate' to datetime format
 result_df['inputDate'] = pd.to_datetime(result_df['inputDate'])
 
-# Extract only the date part
 result_df['inputDate'] = result_df['inputDate'].dt.date
 
 dates = result_df['inputDate'].to_list()
 cumulative_imports_weight = result_df['cumulative_sum'].to_list()
-# Create Matplotlib plot
+
+fig, ax = plt.subplots()
+
+ax.plot(result_df['inputDate'], result_df['cumulative_sum'], label='Cumulative Sum of Imports (lb)')
+
+st.markdown("# Cumulative Sum of Imports (lb)")
 plt.xlabel('Date')
 plt.ylabel('Cumulative Sum of Imports (lb)')
-plt.xticks(rotation=45, ha='right')  # Adjust the rotation angle as needed
-plt.plot(dates, cumulative_imports_weight)
-plt.xticks(dates[::20], rotation=45, ha='right')
-# Capture the Matplotlib figure
-fig = plt.gcf()
-# Display the plot in Streamlit
+plt.xticks(rotation=45, ha='right')
+plt.legend()
+plt.tight_layout()
+
 st.pyplot(fig)
 
-Imports['company_name'] = Imports['company'].apply(lambda x: x['name'])
-new_df = Imports.groupby('company_name')['weight'].sum().reset_index()
-new_df = new_df[new_df['weight'] >= 0.02 * new_df['weight'].sum()]
+pallets = json.loads(pallet.getFood())
+Imports = pd.DataFrame(pallets["Pallet"])
 
-# Streamlit app
+Imports['company_name'] = Imports['company'].apply(lambda x: x['name'])
+
+new_df = Imports.groupby('company_name')['weight'].sum().reset_index()
+
+threshold = 0.02 * new_df['weight'].sum()
+new_df = new_df[new_df['weight'] >= threshold]
+
 st.title('Distribution of Import Weights by Company')
 
-# Plotting a pie chart using Matplotlib in Streamlit
 fig, ax = plt.subplots(figsize=(8, 8))
-ax.pie(new_df['weight'], labels=new_df['company_name'], autopct='', startangle=140,
-        counterclock=False)
+ax.pie(new_df['weight'], labels=new_df['company_name'], autopct='%1.1f%%', startangle=140,
+       counterclock=False)
 ax.axis('equal')
 
-# Show the plot in Streamlit
+ax.set_title('Import Weight Distribution by Company')
+
 st.pyplot(fig)

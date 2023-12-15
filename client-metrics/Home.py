@@ -58,11 +58,12 @@ if pg == 0:
     with col2:
         # Start the image slideshow automatically
         # Define the path to the folder containing your images
-        image_folder_path = "assets\slideshow_images"  # Change this to the path of your image folder
+        image_folder_path = "assets/slideshow_images"  # Change this to the path of your image folder
         # Get a list of image files in the specified folder
         image_files = [f for f in os.listdir(image_folder_path) if f.lower().endswith(('.jpg', '.jpeg', '.png', '.gif'))]
         # Set the delay (in seconds) between images
         delay_between_images = 6  # Adjust as needed
+        default_caption = ""
 
         # Initialize the index to track the current image
         current_image_index = 0
@@ -71,7 +72,7 @@ if pg == 0:
             image_file = image_files[current_image_index]
             image_path = os.path.join(image_folder_path, image_file)
             image = Image.open(image_path)
-            placeholder = st.image(image, caption=image_file, use_column_width=True)
+            placeholder = st.image(image, caption=default_caption, use_column_width=True)
             # Add a delay between images
             time.sleep(delay_between_images)
             # Clear the previous image

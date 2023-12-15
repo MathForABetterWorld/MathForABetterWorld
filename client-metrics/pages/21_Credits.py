@@ -28,14 +28,14 @@ with col3:
 
 st.write("This dashboard was made in Spring 2023 by students of the class Math for a Better World in the Johns Hopkins University department of Applied Mathematics & Statistics.")
 st.write()
-st.write("Students: Chris Anto, Tim Chau, Jillayne Clarke, Matt Kleiman, Nolan Lombardo, Sofia LoVuolo, Gavin McElhennon, Nader Najjar, Joy Neuberger, Emi Ochoa, Krutal Patel, Kiana Soleiman, Jamie Stelnik, Sophia Stone, Kenny Testa, Isabel Thomas, Rishika Vadlamudi, Chris Wilhelm")
+st.write("Students: Chris Anto, Tim Chau, Jillayne Clarke, Matt Kleiman, Nolan Lombardo, Sofia LoVuolo, Gavin McElhennon, Nader Najjar, Joy Neuberger, Emi Ochoa, Krutal Patel, Kiana Soleiman, Jamie Stelnik, Sophia Stone, Kenny Testa, Isabel Thomas, Rishika Vadlamudi, Chris Wilhelm.")
 st.write()
 st.write("Taught by JC Faulk and Fadil Santosa, with teaching assistant Kaleigh Rudge.")
 
 
 # Start the image slideshow automatically
 # Define the path to the folder containing your images
-image_folder_path = "C:/Users/disc2/Desktop/MFBW/MathForABetterWorld/client-metrics/pages/credits_pictures" 
+image_folder_path = "assets/credits_pictures" 
 # Get a list of image files in the specified folder
 image_files = [f for f in os.listdir(image_folder_path) if f.lower().endswith(('.jpg', '.jpeg', '.png', '.gif'))]
 # Set the delay (in seconds) between images
@@ -48,7 +48,7 @@ while True:
     image_file = image_files[current_image_index]
     image_path = os.path.join(image_folder_path, image_file)
     image = Image.open(image_path)
-    placeholder = st.image(image, caption=image_file, use_column_width=True)
+    placeholder = st.image(image, use_column_width=True)
     # Add a delay between images
     time.sleep(delay_between_images)
     # Clear the previous image
