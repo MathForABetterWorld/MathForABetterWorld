@@ -13,7 +13,6 @@ from dashboardViews import mainDashboardVis, importVis, volunteerVis, clientVis,
 
 http = urllib3.PoolManager() # define http 
 BASEURL = "http://????/api"
-from image_slideshow import image_slideshow  # Import the image_slideshow function from the component script
 import time
 import json
 from collections import defaultdict
@@ -23,8 +22,6 @@ from routeConnectors import pallet, exportConnectors, locationConnectors
 path = os.path.dirname(__file__)
 st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food")
 image = Image.open(path + '/assets/bmore_food_logo_dark_theme.png')
-
-assets_path = os.path.join(path, '..', 'assets')
 
 ## function definitions for visualizations are in visualizations.py
 ## function definitions for different dashboard views are in dashboardViews.py
@@ -59,7 +56,7 @@ if pg == 0:
 
     with col2:
         # Start the image slideshow automatically
-        image_folder_path = os.path.join(assets_path, 'slideshow_images')
+        image_folder_path = os.path.join(path, 'assets', 'slideshow_images')
         # Get a list of image files in the specified folder
         image_files = [f for f in os.listdir(image_folder_path) if f.lower().endswith(('.jpg', '.jpeg', '.png', '.gif'))]
         # Set the delay (in seconds) between images
