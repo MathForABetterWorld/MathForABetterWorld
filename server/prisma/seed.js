@@ -117,6 +117,11 @@ const generateFakeData = async () => {
   await prisma.pallet.createMany({ data: createEntryList });
   const createExportsList = [];
   exportsList.forEach((exportItem) => {
+    let exportType = "Regular";
+
+    if (exportItem.weight < 0) {
+      exportType = "Return";
+    }
     if (locationMap.has(exportItem.donatedTo)) {
       if (rackMap.has(exportItem.rack)) {
         createExportsList.push({
@@ -127,6 +132,7 @@ const generateFakeData = async () => {
           donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
           locationId: locationMap.get(exportItem.donatedTo).id,
           rackId: rackMap.get(exportItem.rack).id,
+          exportType: exportType,
         });
       } else {
         createExportsList.push({
@@ -136,6 +142,7 @@ const generateFakeData = async () => {
           categoryId: categoryMap.get(exportItem.category).id,
           donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
           locationId: locationMap.get(exportItem.donatedTo).id,
+          exportType: exportType,
         });
       }
     } else {
@@ -147,6 +154,7 @@ const generateFakeData = async () => {
           categoryId: categoryMap.get(exportItem.category).id,
           donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
           rackId: rackMap.get(exportItem.rack).id,
+          exportType: exportType,
         });
       } else {
         createExportsList.push({
@@ -155,6 +163,7 @@ const generateFakeData = async () => {
           weight: exportItem.weight,
           categoryId: categoryMap.get(exportItem.category).id,
           donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
+          exportType: exportType,
         });
       }
     }
