@@ -32,7 +32,6 @@ export const getExports = async (req, res) => {
     include: {
       category: true,
       location: true,
-      exportType: true,
       user: {
         select: {
           name: true,
@@ -57,7 +56,6 @@ export const editExport = async (req, res) => {
     return res;
   }
   const { weight, categoryId, donatedTo, userId, id, locationId, exportType } =
-   
     req.body;
   const exportItem = await prisma.exportItem.update({
     where: {
