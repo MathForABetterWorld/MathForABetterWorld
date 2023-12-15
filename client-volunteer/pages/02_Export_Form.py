@@ -45,7 +45,7 @@ with st.form("template_form"):
     donatedTo = left.text_input("Who is the food going to?", value="")
     location = right.selectbox("Location (Optional)", allLocations, format_func=lambda loc: f'{loc["name"]}')
     category = left.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
-    exportType = right.selectbox("Export Type", (["Regular", "Damaged", "Recycle", "Compost"]))
+    exportType = right.selectbox("Export Type", (["Regular", "Damaged", "Recycle", "Compost", "Return"]))
     weight = left.text_input("Weight", value="")
     exportedBy = right.selectbox("User", allUsers, format_func=lambda use: f'{use["name"]}')
     submit = st.form_submit_button()

@@ -58,7 +58,7 @@ if 'token' in st.session_state:
             editSubmit = st.form_submit_button()
         if editSubmit:
             if name == "":
-                st.error("Please fill in both form elements!")
+                st.error("Please fill in form elements!")
             elif idx in distributorDF.id.unique():
                 editedCat = distributorConnectors.updateDistributor(idx, name)
                 st.experimental_rerun()

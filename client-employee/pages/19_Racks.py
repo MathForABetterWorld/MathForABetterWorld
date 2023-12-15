@@ -29,7 +29,7 @@ else:
 
 
 print("getting racks....")
-racks = rackConnector.getRacks()
+racks = rackConnector.getRacks()["rack"]
 rackDF = pd.DataFrame(racks)
 
 title_container = st.container()
@@ -65,7 +65,7 @@ if 'token' in st.session_state:
             editSubmit = st.form_submit_button()
         if editSubmit:
             if location == "" or weightLimit == 0 or desc == "":
-                st.error("Please fill in both form elements!")
+                st.error("Please fill in form elements!")
             elif idx in rackDF.id.unique():
                 editedCat = rackConnector.updateRack(idx, location, desc, weightLimit)
                 st.experimental_rerun()
