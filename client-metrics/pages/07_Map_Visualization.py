@@ -11,11 +11,17 @@ import json
 from PIL import Image
 import os
 
-path = os.path.dirname(__file__)
+# Get the directory of the current script
+script_path = os.path.dirname(__file__)
+assets_path = os.path.join(script_path, '..', 'assets')
+image_path = os.path.join(assets_path, 'bmore_food_logo_dark_theme.png')
 
-st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Map Visualizations")
-image = Image.open(path + '/../assets/bmore_food_logo_dark_theme.png')
+# Set page configuration with the image
+st.set_page_config(layout="centered", page_icon=image_path, page_title="Bmore Food")  
+# Open the image using Pillow
+image = Image.open(image_path)
 
+### Header ###
 col1, col2, col3 = st.columns(3)
 with col1:
     st.write(' ')
@@ -24,14 +30,8 @@ with col2:
 with col3:
     st.write(' ')
 
-title_container = st.container()
-col1, col2 = st.columns([1, 50])
-with title_container:
-    # with col1:
-    #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
-    with col2:
-        st.markdown("<h1 style='text-align: center; '>Distribution Maps</h1>", unsafe_allow_html=True)
 
+st.title('Distribution Maps')
 
 df = pd.DataFrame(json.loads(locationConnectors.getVisitsPerLocation())["countByLocation"])
 df = df.iloc[1:]
@@ -44,7 +44,7 @@ df['name'] = df.apply(lambda x: x.location["name"], axis=1)
 count_map = px.scatter_mapbox(df, lat="lat", lon="lon", zoom=12, color = 'count', size = "count", color_continuous_scale='Jet', hover_data = {"name": True, "count": True, "lat":False, "lon": False})
 # Update the mapbox style
 count_map.update_layout(mapbox_style="open-street-map")
-st.subheader("Map by Number of Deliverys")
+st.subheader("Map by Number of Deliveries")
 st.plotly_chart(count_map)
 
 

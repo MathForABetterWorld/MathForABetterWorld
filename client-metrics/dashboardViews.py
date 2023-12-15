@@ -23,6 +23,7 @@ def changeState(num):
     st.session_state.pageID = num
 
 def mainDashboardVis():
+    '''
     col1, col2 = st.columns(2)
 
     col1.markdown("##")
@@ -47,6 +48,11 @@ def mainDashboardVis():
 
     clientButton = col1.button("See More", key="client", on_click=changeState, args=(3, ))
     distButton = col2.button("See More", key="distributor", on_click=changeState, args=(4, ))
+    '''
+
+    
+
+
 
 
 def importVis():
@@ -221,6 +227,8 @@ def volunteerVis():
 
     back = col1.button("Back", key="bck", on_click=changeState, args=(0, ))
 
+    
+
 def clientVis():
     tab1, tab2, tab3 = st.tabs(["G1", "G2", "G3"])
     with tab1:
@@ -233,6 +241,7 @@ def clientVis():
     col1, col2 = st.columns(2)
 
     back = col1.button("Back", key="bck", on_click=changeState, args=(0, ))
+
 
 def distributorVis():
     st.title('Distrubution Maps')
