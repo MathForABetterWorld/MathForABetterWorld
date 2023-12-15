@@ -81,6 +81,7 @@ enum ExportType {
   Compost
   Regular
   Damaged
+  Return
 }
 
 model Distributor {

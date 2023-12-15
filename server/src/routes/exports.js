@@ -1,5 +1,4 @@
 import express from "express";
-import { checkToken } from "../util/middleware.js";
 import * as validator from "../util/exportsMiddleware.js";
 import * as controller from "../controller/exportsController.js";
 import * as express_validator from "express-validator";
@@ -14,9 +13,7 @@ export default router;
 
 router.post(
   "/",
-  body("weight", "Please include a positive weight exported!")
-    .notEmpty()
-    .isFloat({ gt: 0.0 }),
+  body("weight", "Please include a weight exported!").notEmpty().isFloat(),
   body("categoryId", "Please include the category of the export")
     .notEmpty()
     .isInt(),
@@ -28,17 +25,14 @@ router.post(
     .notEmpty()
     .isInt(),
   body("locationId", "LocationId must be an integer").optional().isInt(),
-  body("exportType", "exportType must be a valid export type").notEmpty().isIn(
-    [
-      "Regular",
-      "Recycle",
-      "Compost",
-      "Damaged",
-    ],
-  ),
+  body("exportType", "exportType must be a valid export type")
+    .notEmpty()
+    .isIn(["Regular", "Recycle", "Compost", "Damaged", "Return"]),
   validator.isUserId,
   validator.isCategoryId,
   validator.isLocationIdOptional,
+  validator.returnIsBCF,
+  validator.weightUsuallyPositive,
   controller.createExport
 );
 
@@ -68,18 +62,15 @@ router.post(
     .notEmpty()
     .isInt(),
   body("locationId", "LocationId must be an integer").optional().isInt(),
-  body("exportType", "exportType must be a valid export type").notEmpty().isIn(
-    [
-      "Regular",
-      "Recycle",
-      "Compost",
-      "Damaged",
-    ],
-  ),
+  body("exportType", "exportType must be a valid export type")
+    .notEmpty()
+    .isIn(["Regular", "Recycle", "Compost", "Damaged", "Return"]),
   validator.isExportId,
   validator.isUserId,
   validator.isCategoryId,
   validator.isLocationIdOptional,
+  validator.returnIsBCF,
+  validator.weightUsuallyPositive,
   controller.createExport
 );
 

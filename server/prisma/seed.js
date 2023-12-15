@@ -109,7 +109,7 @@ const generateFakeData = async () => {
         entryUserId: userMap.get(entry.name).id,
         inputDate: new Date(entry.date),
         weight: entry.weight,
-        categoryIds: [categoryMap.get(entry.category).id],
+        categoryIds: categoryMap.get(entry.category).id,
         companyId: distributorMap.get(entry.distributor).id,
       });
     }
