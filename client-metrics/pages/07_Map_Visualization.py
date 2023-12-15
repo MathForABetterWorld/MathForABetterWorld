@@ -41,6 +41,7 @@ df['lat'] = pd.to_numeric(df['lat'], errors='coerce').astype(float)
 df['lon'] = df.apply(lambda x: x.location["longitude"], axis=1)
 df['lon'] = pd.to_numeric(df['lon'], errors='coerce').astype(float)
 df['name'] = df.apply(lambda x: x.location["name"], axis=1)
+df = df[(df['lon'] != 0) & (df['lat'] != 0)]
 count_map = px.scatter_mapbox(df, lat="lat", lon="lon", zoom=12, color = 'count', size = "count", color_continuous_scale='Jet', hover_data = {"name": True, "count": True, "lat":False, "lon": False})
 # Update the mapbox style
 count_map.update_layout(mapbox_style="open-street-map")
