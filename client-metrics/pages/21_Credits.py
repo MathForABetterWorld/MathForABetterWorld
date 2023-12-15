@@ -35,7 +35,7 @@ st.write("Taught by JC Faulk and Fadil Santosa, with teaching assistant Kaleigh 
 
 # Start the image slideshow automatically
 # Define the path to the folder containing your images
-image_folder_path = "assets/credits_pictures" 
+image_folder_path = os.path.join(assets_path, 'credits_pictures')
 # Get a list of image files in the specified folder
 image_files = [f for f in os.listdir(image_folder_path) if f.lower().endswith(('.jpg', '.jpeg', '.png', '.gif'))]
 # Set the delay (in seconds) between images
