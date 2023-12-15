@@ -206,9 +206,7 @@ def importGraph2(col):
     ax.set_xlabel("Date")
     ax.set_ylabel("Cumulative Imports (lbs)")
     col.pyplot(fig)
-
     pass
-
 
 
 def volunteerGraph1(col):
