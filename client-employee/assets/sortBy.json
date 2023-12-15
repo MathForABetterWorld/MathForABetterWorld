@@ -1,9 +1,0 @@
-{
-    "sortBy": {
-        "None": "none", 
-        "Expiration date": "expirationDate", 
-        "Import date":"inputDate", 
-        "Weight":"weight", 
-        "Rack":"rack"
-    }
-}

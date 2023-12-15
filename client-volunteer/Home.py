@@ -8,9 +8,17 @@ import os
 
 path = os.path.dirname(__file__)
 
-st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Bmore Food Volunteer Portal")
+st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Volunteer Home")
 image = Image.open(path + '/assets/bmore_food_logo_dark_theme.png')
-st.image(image)
+
+### Header ###
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.write(' ')
+with col2:
+    st.image(image)
+with col3:
+    st.write(' ')
 
 st.markdown("<h1 style='text-align: center; color: cyan;'>Bmore Food Volunteer Portal</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: white;'>Welcome!</h2>", unsafe_allow_html=True)
