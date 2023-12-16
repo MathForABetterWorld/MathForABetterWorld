@@ -171,109 +171,33 @@ const generateFakeData = async () => {
   await prisma.exportItem.createMany({
     data: createExportsList,
   });
-  const chris = await prisma.user.create({
+  const default_admin = await prisma.user.create({
     data: {
-      email: "chris@gmail.com",
-      name: "Chris Wilhelm",
+      email: "bcfdashboard@gmail.com",
+      name: "Default Admin",
     },
   });
-  const jamie = await prisma.user.create({
-    data: {
-      email: "jamie@gmail.com",
-      name: "Jamie Stelnik",
-    },
-  });
-  const krutal = await prisma.user.create({
-    data: {
-      email: "krutal@gmail.com",
-      name: "Krutal Patel",
-    },
-  });
-  const tim = await prisma.user.create({
-    data: {
-      email: "tim@gmail.com",
-      name: "Tim",
-    },
-  });
-
   await prisma.employee.createMany({
     data: [
       {
-        userId: chris.id,
-        userName: "chris",
-        hashedPassword: hashPassword("chris"),
-        role: Role.Admin,
-      },
-      {
-        userId: jamie.id,
-        userName: "jamie",
-        hashedPassword: hashPassword("jamie"),
-        role: Role.Admin,
-      },
-      {
-        userId: krutal.id,
-        userName: "krutal",
-        hashedPassword: hashPassword("krutal"),
-        role: Role.Admin,
-      },
-      {
-        userId: tim.id,
-        userName: "tim",
-        hashedPassword: hashPassword("tim"),
+        userId: default_admin.id,
+        userName: "default_admin",
+        hashedPassword: hashPassword("default_admin"),
         role: Role.Admin,
       },
     ],
   });
-  const chrisEmployee = await prisma.employee.findFirst({
+  const defaultEmployee = await prisma.employee.findFirst({
     where: {
-      userId: chris.id,
+      userId: default_admin.id,
     },
   });
   await prisma.user.update({
     where: {
-      id: chris.id,
+      id: default_admin.id,
     },
     data: {
-      employeeId: chrisEmployee.id,
-    },
-  });
-  const jamieEmployee = await prisma.employee.findFirst({
-    where: {
-      userId: jamie.id,
-    },
-  });
-  await prisma.user.update({
-    where: {
-      id: jamie.id,
-    },
-    data: {
-      employeeId: jamieEmployee.id,
-    },
-  });
-  const timEmployee = await prisma.employee.findFirst({
-    where: {
-      userId: tim.id,
-    },
-  });
-  await prisma.user.update({
-    where: {
-      id: tim.id,
-    },
-    data: {
-      employeeId: timEmployee.id,
-    },
-  });
-  const krutalEmployee = await prisma.employee.findFirst({
-    where: {
-      userId: krutal.id,
-    },
-  });
-  await prisma.user.update({
-    where: {
-      id: krutal.id,
-    },
-    data: {
-      employeeId: krutalEmployee.id,
+      employeeId: defaultEmployee.id,
     },
   });
   const createShiftList = [];

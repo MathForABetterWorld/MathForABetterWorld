@@ -46,6 +46,7 @@ with col3:
 ## display current dashboard view ##
 pg = st.session_state.pageID
 if pg == 0:
+
     #mainDashboardVis()
 
     # Main Dashboard View
@@ -77,9 +78,10 @@ if pg == 0:
             placeholder.empty()
             # Increment the current image index and loop back to the first image if necessary
             current_image_index = (current_image_index + 1) % len(image_files)
+
     with col3:
         st.write('')
-    
+        
 elif pg == 1:
 
     # exports viz 
@@ -214,8 +216,3 @@ elif pg == 3:
     
 elif pg == 4:
     distributorVis()
-
-
-
-
-
