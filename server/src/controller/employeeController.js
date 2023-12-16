@@ -86,7 +86,11 @@ export const getUsers = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const users = await prisma.user.findMany({});
+  const users = await prisma.user.findMany({
+    include: {
+      employee: true,
+    },
+  });
   return res.status(StatusCodes.ACCEPTED).json({ users });
 };
 

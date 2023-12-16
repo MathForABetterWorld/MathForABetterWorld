@@ -72,3 +72,13 @@ with col2:
 #         nav_page("Employee_SignIn")
 # with col3a:
 #     st.empty()
+
+st.header("Need Help?")
+link_text = "Training Videos for BCF Dashboard"
+link_url = "https://www.loom.com/share/folder/0f31b1998a2e48efa063a8ee31785399"
+
+# Style the hyperlink with HTML and CSS
+styled_link = f'<a href="{link_url}" target="_blank" style="color: #0088cc; font-weight: bold; text-decoration: none;">{link_text}</a> (opens in a new tab)'
+
+# Display the styled hyperlink
+st.markdown(styled_link, unsafe_allow_html=True)
