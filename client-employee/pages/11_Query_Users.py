@@ -41,8 +41,7 @@ if 'token' in st.session_state:
     # go to employee page
     users = json.loads(employeeConnectors.getUsers())["users"]
     usersDF = pd.DataFrame.from_dict(users)
-    filtered_usersDF = usersDF[pd.isna(usersDF['employeeId'])]
-    filtered_usersDF = filtered_usersDF.drop(columns=['employee', 'employeeId'])
+    filtered_usersDF = usersDF.drop(columns=['employee', 'employeeId'])
     st.dataframe(filtered_usersDF)
     selectedIndex = st.selectbox('Select row:', filtered_usersDF.name)
 
