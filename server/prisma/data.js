@@ -482,329 +482,339 @@ export const rackList = [
 ];
 
 export const usersList = [
-  "Abisola Adeusi", // final
-  "Adebola Akinwale", // final
-  "Adeola Sulaiman", // final
-  "Adeolu Mojibola", // final
-  "Adriana Hill", // final
-  "Aisha", // final
-  "Akul Umamageswaran", // final
-  "Alex Bauer", // final
-  "Alex Nguyen", // final
-  "Alexia Lilly", // final
-  "Amy Xing ", // final
-  "Andrew Kolodziejczak", // final
-  "Andrew Thampoe", // final
-  "Andy", // final
-  "Angeles", // final
-  "Anita Bryant", // final
-  "Anna Nicosia", // final
-  "Anna West", // final
-  "Arezou Esmaeeli", // final
-  "Ariel Li", // final
-  "Arjun Yogaratnam", // final
-  "Ausar", // final
-  "Aza Shiao", // final
-  "Azel King", // final
-  "Aziza", // final
-  "Barbara Zadek", // final
-  "Benjamin Hung", // final
-  "Bertille", // final
-  "Beth Torres", // final
-  "Beverly Graham", // final
-  "Beverly Pinn", // final
-  "Brad Burton", // final
-  "Brandon Clark", // final
-  "Brendan Wille", // final
-  "Brian Min", // final
-  "Bud Stracker - Sisson Street DPW", // final
-  "Bud Stracker", // final
-  "Cailyn Lawler", // final
-  "Cameron Dong", // final
-  "Cameron Minor", // final
-  "Camille", // final
-  "Carla T", // final
-  "Charisse", // final
-  "Charity Hsu", // final
-  "Charlie", // final
-  "Charmika Burton", // final
-  "Chenoa Martin", // final
-  "Cheryl Utsey", // final
-  "Cindy Silveira", // final
-  "Claire Ahn", // final
-  "Claire Kim", // final
-  "Claire", // final
-  "Clarice", // final
-  "Coach Dunkin", // final
-  "Cody Windley", // final
-  "Connor Gephart", // final
-  "Connor Lu", // final
-  "Dan Pike", // final
-  "Daniel Huff", // final
-  "Daniel Jin", // final
-  "Daphnie Sumah", // final
-  "Daryan Fisher", // final
-  "David Annan", // final
-  "David Ondande", // final
-  "Dean Chien", // final
-  "Dean Sharif", // final
-  "Deborah Claridy", // final
-  "Denise Rivers", // final
-  "Derek Dang", // final
-  "Diego Trafton", // final
-  "Dimpy", // final
-  "Doris Parker Tuggle", // final
-  "Dorja", // final
-  "Dynashia Woodson", // final
-  "Elianna Perlman", // final
-  "Elizabeth Rehn", // final
-  "Ellen Cho", // final
-  "Emi Ochoa", // final
-  "Emily B", // final
-  "Emily Fitzpatrick", // final
-  "Emily Ma", // final
-  "Emily Stucke", // final
-  "Emily Zhang", // final
-  "Eric Alvarado", // final
-  "Erin B", // final
-  "Evelyn Jiang", // final
-  "Fadil Santosa", // final
-  "Faith Obilo", // final
-  "First Fruits Farm", // final
-  "GBMC", // final
-  "GG", // final
-  "Gabriel C", // final
-  "Gene", // final
-  "Gilda Castillo", // final
-  "Gregory", // final
-  "Hannah Johnson", // final
-  "Harris Malik", // final
-  "Hong", // final
-  "Ifeoluwa Akinropo", // final
-  "Imani Armour", // final
-  "Isaiah Gordon", // final
-  "Iyana Gross", // final
-  "JC", // final
-  "Jack Bellows", // final
-  "Jackee", // final
-  "Jackie", // final
-  "Jade Weatherington", // final
-  "Jan Kleinman", // final
-  "Janet Lomax", // final
-  "Jasmine Jones-Howard", // final
-  "Jasmine Rose", // final
-  "Jayla Butler", // final
-  "Jaylen Harvey", // final
-  "Jean", // final
-  "Jelani Dula", // final
-  "Jemila", // final
-  "Jessica Lee", // final
-  "Jessica Martin", // final
-  "Jillayne Clarke", // final
-  "Jilleien Franquelli", // final
-  "Joanna", // final
-  "Jonathan Shay", // final
-  "Jonyce Bland", // final
-  "Josefina Aguilar-Pliszka", // final
-  "Juanita Chandler", // final
-  "Judy", // final
-  "Julia Buckson", // final
-  "Justin Coelho", // final
-  "Justin Huang", // final
-  "Justin Maduka", // final
-  "Justin Zhong", // final
-  "Kaleigh Rudge", // final
-  "Kamau", // final
-  "Kamille", // final
-  "Kamryn Brown", // final
-  "Kaneesha", // final
-  "Karen Moore", // final
-  "Karla Alexander", // final
-  "Kate Weeks", // final
-  "Katelyn", // final
-  "Katherine Wang", // final
-  "Katherine Xiao", // final
-  "Kathleen Lac", // final
-  "Kelly Chen", // final
-  "Kelly Crawford", // final
-  "Kennedy", // final
-  "Kiera Payne", // final
-  "Kira Branch", // final
-  "Kyla", // final
-  "Kyle Cooper", // final
-  "Ladaisha Thompson", // final
-  "Laila", // final
-  "Lanae", // final
-  "Laronda", // final
-  "Latease", // final
-  "Layia", // final
-  "Leap", // final
-  "Lee Little", // final
-  "Liam Stewart", // final
-  "Linda Arce", // final
-  "Luke Mayhew", // final
-  "Luke Pitsenbarger", // final
-  "Lynda Bishop", // final
-  "Lynnette Cromer", // final
-  "Lynwood McDaniel", // final
-  "Mackenzie", // final
-  "Maddie Pardes", // final
-  "Makayla Boyce", // final
-  "Marci Yankelov", // final
-  "Marquise Pearson", // final
-  "Martina Pozzi", // final
-  "Mary Jo Gary", // final
-  "Meghan Alexis", // final
-  "Mekayle", // final
-  "Melissa Thomas", // final
-  "Meredith Snow", // final
-  "Michael Ford", // final
-  "Michael Nwachukwu", // final
-  "Michael Yoo", // final
-  "Mike Foy", // final
-  "Monah Perry", // final
-  "Morgan", // final
-  "Munazza Abraham", // final
-  "Myles Austin", // final
-  "Nader Najjar", // final
-  "Nailah Bishop", // final
-  "Nakia", // final
-  "Nani Herring", // final
-  "Nanrui Gong", // final
-  "Nastaran Keshmiri", // final
-  "Nathan So", // final
-  "Nathaniel McClean", // final
-  "Ngozi Douglas", // final
-  "Nia Bishop", // final
-  "Nicolle Diaz", // final
-  "Nidhi Batra", // final
-  "Nina Early", // final
-  "Norma Kriger", // final
-  "Nyasia Arrington", // final
-  "Obinna Nwokoro", // final
-  "Octavia", // final
-  "Olamilekan Sulaiman", // final
-  "Opeyemi Faleye", // final
-  "Other", // final
-  "Paul H", // final
-  "Perry Faulk", // final
-  "Phillip Blackwell", // final
-  "Polly", // final
-  "Prabhleen", // final
-  "Rachel H", // final
-  "Rachel Lee", // final
-  "Rachel Oh", // final
-  "Raquel Bailey", // final
-  "Rawan Elshobaky", // final
-  "Rewa Hazim", // final
-  "Rilynn White", // final
-  "Romaine Bouldin", // final
-  "Rosemary Hendricks", // final
-  "Roxane", // final
-  "Ryan Murphy", // final
-  "Safeer Rasul", // final
-  "Safire Windley", // final
-  "Sandy W", // final
-  "Sara B", // final
-  "Sarah K", // final
-  "Sean Kwak", // final
-  "Seth Crawford", // final
-  "Sharon", // final
-  "Sheneil Black", // final
-  "Shoshana Kott", // final
-  "Sierra Jai Smith", // final
-  "Spencer Ellsworth", // final
-  "Sue Daja", // final
-  "Sunita Pathik", // final
-  "Susan Larson", // final
-  "Susan May", // final
-  "Sydni Demby", // final
-  "Taja Keitt", // final
-  "Takiya Eastmond", // final
-  "Tam Kelley", // final
-  "Tara Brooky", // final
-  "Tariq", // final
-  "Tashana", // final
-  "Teia", // final
-  "Theresa Columbus", // final
-  "Theresa Keil", // final
-  "Thomas Aloisi", // final
-  "Tina Paquet", // final
-  "Tishea Lester", // final
-  "Torey Wilkins", // final
-  "Tracee Erskine", // final
-  "Tram Nguyen", // final
-  "Travis James", // final
-  "Treston Codrington", // final
-  "Trinity Burge", // final
-  "Tsion Getahun", // final
-  "Tyrese Springer", // final
-  "Vincent Faulk", // final
-  "Waldo", // final
-  "William Middlezong", // final
-  "Xinyue Gu", // final
-  "Xiomara Rodriguez", // final
-  "Yasmine", // final
-  "Young", // final
-  "Yulia", // final
-  "Zanya Jamieson", // final
-  "Zoe", // final
-  "Zyare Abdul-Rahim", // final
+  "Aaron Oldenburg",
+  "Abisola Adeusi",
+  "Adebola Akinwale",
+  "Adeola Sulaiman",
+  "Adeolu Mojibola",
+  "Adriana Hill",
+  "Aisha",
+  "Akul Umamageswaran",
+  "Alex Bauer",
+  "Alex Nguyen",
+  "Alexia Lilly",
+  "Amy Xing ",
+  "Andrew Kolodziejczak",
+  "Andrew Thampoe",
+  "Andy",
+  "Angeles",
+  "Anita Bryant",
+  "Ann Walker Kennedy",
+  "Anna Nicosia",
+  "Anna West",
+  "Arezou Esmaeeli",
+  "Ariel Li",
+  "Arjun Yogaratnam",
+  "Ausar",
+  "Aza Shiao",
+  "Azel King",
+  "Aziza",
+  "Barbara Zadek",
+  "Benjamin Hung",
+  "Bertille",
+  "Beth Torres",
+  "Beverly Graham",
+  "Beverly Pinn",
+  "Brad Burton",
+  "Brandon Clark",
+  "Brendan Wille",
+  "Brian Min",
+  "Bud Stracker",
+  "Cailyn Lawler",
+  "Cameron Dong",
+  "Cameron Minor",
+  "Camille",
+  "Carla T",
+  "Charisse",
+  "Charity Hsu",
+  "Charlie",
+  "Charmika Burton",
+  "Chenoa Martin",
+  "Cheryl Utsey",
+  "Chi Chi",
+  "Chloe Foster",
+  "Christina",
+  "Cindy Silveira",
+  "Claire Ahn",
+  "Claire Kim",
+  "Claire",
+  "Clarice",
+  "Coach Dunkin",
+  "Cody Windley",
+  "Connor Gephart",
+  "Connor Lu",
+  "Dan Pike",
+  "Daniel Huff",
+  "Daniel Jin",
+  "Daphnie Sumah",
+  "Daryan Fisher",
+  "David Annan",
+  "David Ondande",
+  "Dean Chien",
+  "Dean Sharif",
+  "Deborah Claridy",
+  "Denise Rivers",
+  "Derek Dang",
+  "Diego Trafton",
+  "Dimpy",
+  "Doris Parker Tuggle",
+  "Dorja",
+  "Dynashia Woodson",
+  "Elianna Perlman",
+  "Elizabeth Rehn",
+  "Ellen Cho",
+  "Emi Ochoa",
+  "Emily B",
+  "Emily Fitzpatrick",
+  "Emily Ma",
+  "Emily Stucke",
+  "Emily Zhang",
+  "Eric Alvarado",
+  "Erin B",
+  "Evelyn Jiang",
+  "Fadil Santosa",
+  "Faith Obilo",
+  "First Fruits Farm",
+  "GBMC",
+  "GG",
+  "Gabriel C",
+  "Gene",
+  "Gilda Castillo",
+  "Gregory",
+  "Hannah Johnson",
+  "Harris Malik",
+  "Hong",
+  "Ifeoluwa Akinropo",
+  "Imani Armour",
+  "Isaiah Gordon",
+  "Iyana Gross",
+  "JC",
+  "Jack Bellows",
+  "Jackee",
+  "Jackie",
+  "Jade Weatherington",
+  "Jan Kleinman",
+  "Janet Lomax",
+  "Jasmine Jones-Howard",
+  "Jasmine Rose",
+  "Jayla Butler",
+  "Jaylen Harvey",
+  "Jean",
+  "Jelani Dula",
+  "Jemila",
+  "Jessica Lee",
+  "Jessica Martin",
+  "Jillayne Clarke",
+  "Jilleien Franquelli",
+  "Joanna",
+  "Jonathan Shay",
+  "Jonyce Bland",
+  "Josefina Aguilar-Pliszka",
+  "Juanita Chandler",
+  "Judy",
+  "Julia Buckson",
+  "Justin Coelho",
+  "Justin Huang",
+  "Justin Maduka",
+  "Justin Zhong",
+  "Kaleigh Rudge",
+  "Kamau",
+  "Kamille",
+  "Kamryn Brown",
+  "Kaneesha",
+  "Karen Moore",
+  "Karla Alexander",
+  "Kate Weeks",
+  "Katelyn",
+  "Katherine Wang",
+  "Katherine Xiao",
+  "Kathleen Lac",
+  "Kelly Chen",
+  "Kelly Crawford",
+  "Kennedy",
+  "Kiera Payne",
+  "Kira Branch",
+  "Kyla",
+  "Kyle Cooper",
+  "Ladaisha Thompson",
+  "Laila",
+  "Lanae",
+  "Laronda",
+  "Latease",
+  "Layia",
+  "Leap",
+  "Lee Little",
+  "Liam Stewart",
+  "Linda Arce",
+  "Liz Simon-Higgs",
+  "Luke Mayhew",
+  "Luke Pitsenbarger",
+  "Lynda Bishop",
+  "Lynnette Cromer",
+  "Lynwood McDaniel",
+  "Mackenzie",
+  "Maddie Pardes",
+  "Makayla Boyce",
+  "Marci Yankelov",
+  "Marquise Pearson",
+  "Martina Pozzi",
+  "Mary Jo Gary",
+  "Meghan Alexis",
+  "Mekayle",
+  "Melissa Thomas",
+  "Meredith Snow",
+  "Michael Ford",
+  "Michael Nwachukwu",
+  "Michael Yoo",
+  "Michelle Collins",
+  "Mike Foy",
+  "Monah Perry",
+  "Morgan",
+  "Munazza Abraham",
+  "Myles Austin",
+  "Nader Najjar",
+  "Nailah Bishop",
+  "Nakia",
+  "Nani Herring",
+  "Nanrui Gong",
+  "Nastaran Keshmiri",
+  "Nathan So",
+  "Nathaniel McClean",
+  "Ngozi Douglas",
+  "Nia Bishop",
+  "Nicolle Diaz",
+  "Nidhi Batra",
+  "Nina Early",
+  "Norma Kriger",
+  "Nyasia Arrington",
+  "Obinna Nwokoro",
+  "Octavia",
+  "Olamilekan Sulaiman",
+  "Opeyemi Faleye",
+  "Other",
+  "Paul H",
+  "Perry Faulk",
+  "Phillip Blackwell",
+  "Polly",
+  "Prabhleen",
+  "Rachel H",
+  "Rachel Lee",
+  "Rachel Oh",
+  "Raquel Bailey",
+  "Rawan Elshobaky",
+  "Rewa Hazim",
+  "Rilynn White",
+  "Robin Gibbs",
+  "Rochelle Clunie",
+  "Romaine Bouldin",
+  "Rosemary Hendricks",
+  "Roxane",
+  "Ryan Murphy",
+  "Safeer Rasul",
+  "Safire Windley",
+  "Sandy W",
+  "Sara B",
+  "Sarah K",
+  "Sean Kwak",
+  "Seth Crawford",
+  "Sharon",
+  "Sheneil Black",
+  "Shoshana Kott",
+  "Sierra Jai Smith",
+  "Spencer Ellsworth",
+  "Sue Daja",
+  "Sunita Pathik",
+  "Sunny Choi",
+  "Susan Larson",
+  "Susan May",
+  "Sydni Demby",
+  "Taja Keitt",
+  "Takiya Eastmond",
+  "Tam Kelley",
+  "Tara Brooky",
+  "Tariq",
+  "Tashana",
+  "Teia",
+  "Theresa Columbus",
+  "Theresa Keil",
+  "Thomas Aloisi",
+  "Tina Paquet",
+  "Tishea Lester",
+  "Torey Wilkins",
+  "Tracee Erskine",
+  "Tram Nguyen",
+  "Travis James",
+  "Treston Codrington",
+  "Trinity Burge",
+  "Tsion Getahun",
+  "Tyrese Springer",
+  "Vincent Faulk",
+  "Waldo Alvarez",
+  "William Middlezong",
+  "Xinyue Gu",
+  "Xiomara Rodriguez",
+  "Yasmine",
+  "Young",
+  "Yulia",
+  "Zanya Jamieson",
+  "Zoe",
+  "Zyare Abdul-Rahim",
 ];
 
 export const categoryList = [
-  "Assorted Dry", // final
-  "Assorted Fridge", // final
-  "Baby Supplies", // final
-  "Canned Goods", // final
-  "Cleaning Supplies", // final
-  "Condiments", // final
-  "Dairy", // final
-  "Danone - Coffee", // final
-  "Danone - Creamer", // final
-  "Danone - Milk", // final
-  "Danone - Plant Based Drink", // final
-  "Danone - Yogurt", // final
-  "Dole - Fruit Cups", // final
-  "Dole - Juice", // final
-  "Drinks [Dry]", // final
-  "Drinks [Fridge]", // final
-  "Frozen [Not Meat]", // final
-  "Grains (rice, pasta, etc.)", // final
-  "Health & Beauty Products", // final
-  "Household", // final
-  "Meat [Raw]", // final
-  "Oil", // final
+  "Assorted Dry",
+  "Assorted Fridge",
+  "Baby Supplies",
+  "Canned Goods",
+  "Cleaning Supplies",
+  "Condiments",
+  "Dairy",
+  "Danone - Coffee",
+  "Danone - Creamer",
+  "Danone - Milk",
+  "Danone - Plant Based Drink",
+  "Danone - Yogurt",
+  "Dole - Fruit Cups",
+  "Dole - Juice",
+  "Drinks [Dry]",
+  "Drinks [Fridge]",
+  "Frozen [Not Meat]",
+  "Grains (rice, pasta, etc.)",
+  "Health & Beauty Products",
+  "Household",
+  "Meat [Raw]",
+  "Oil",
   "Other", //final
-  "Paper Supplies", // final
-  "Personal Care", // final
-  "Pet Supplies", // final
-  "Produce", // final
-  "Snacks", // final
-  "Spices", // final
-  "Water", // final
+  "Paper Supplies",
+  "Personal Care",
+  "Pet Supplies",
+  "Produce",
+  "Snacks",
+  "Spices",
+  "Water",
 ];
 
 export const distributorList = [
-  "Alto Dale Farm", // final
-  "Amazon", // final
-  "BCF", // final
-  "Clemens Food Group", // final
-  "Common Market", // final
-  "Dannon", // final
-  "Dietz & Watson", // final
-  "Dole", // final
-  "Donation", // final
-  "EMD", // final
-  "Farmlink [Mauricio]", // final
-  "First Fruits Farm", // final
-  "Guinness", // final
-  "H and S Bakery", // final
-  "Henderson-Hopkins", // final
-  "McCormick", // final
-  "Other", // final
-  "Sandtown", // final
-  "Walmart", // final
+  "Alto Dale Farm",
+  "Amazon",
+  "BCF",
+  "Clemens Food Group",
+  "Common Market",
+  "Dannon",
+  "Dietz & Watson",
+  "Dole",
+  "Donation",
+  "EMD",
+  "Farmlink [Mauricio]",
+  "First Fruits Farm",
+  "Guinness",
+  "H and S Bakery",
+  "Henderson-Hopkins",
+  "Jack and Sudznos",
+  "McCormick",
+  "Other",
+  "Sandtown",
+  "Walmart",
 ];
 
 export const donatedToList = [
@@ -16735,6 +16745,3009 @@ export const entries = [
     weight: 40000,
     category: "Drinks [Fridge]",
     distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-07-06 10:47:19",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-07-11 14:03:04",
+    name: "Other",
+    weight: 1512,
+    category: "Other",
+    distributor: "Other",
+  },
+  {
+    date: "2023-07-12 09:36:53",
+    name: "Claire",
+    weight: 205,
+    category: "Meat [Raw]",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-07-12 13:17:16",
+    name: "Claire",
+    weight: 36720,
+    category: "Assorted Dry",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-07-14 15:11:41",
+    name: "Claire",
+    weight: 27236,
+    category: "Meat [Raw]",
+    distributor: "Clemens Food Group",
+  },
+  {
+    date: "2023-07-16 19:30:13",
+    name: "Safire Windley",
+    weight: 499,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:31:23",
+    name: "Safire Windley",
+    weight: 665,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:32:14",
+    name: "Safire Windley",
+    weight: 218,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:33:12",
+    name: "Safire Windley",
+    weight: 382,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:34:03",
+    name: "Safire Windley",
+    weight: 326,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:34:40",
+    name: "Safire Windley",
+    weight: 608,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:35:14",
+    name: "Safire Windley",
+    weight: 680,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:23:27",
+    name: "Robin Gibbs",
+    weight: 307,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:24:14",
+    name: "Robin Gibbs",
+    weight: 845,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:24:40",
+    name: "Robin Gibbs",
+    weight: 640,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:25:21",
+    name: "Robin Gibbs",
+    weight: 707,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:25:43",
+    name: "Robin Gibbs",
+    weight: 715,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:26:02",
+    name: "Robin Gibbs",
+    weight: 252,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 23:25:12",
+    name: "JC",
+    weight: 490,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-27 16:49:28",
+    name: "Claire",
+    weight: 39,
+    category: "Assorted Fridge",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-07-29 14:30:56",
+    name: "Claire",
+    weight: 35532,
+    category: "Drinks [Dry]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-07-29 16:39:57",
+    name: "Claire",
+    weight: 1503,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-29 16:40:23",
+    name: "Claire",
+    weight: 2301,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-29 16:41:02",
+    name: "Claire",
+    weight: 704,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-29 16:41:25",
+    name: "Claire",
+    weight: 645,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-30 12:24:47",
+    name: "Claire",
+    weight: 161,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-30 12:26:52",
+    name: "Robin Gibbs",
+    weight: 533,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-30 12:36:41",
+    name: "Robin Gibbs",
+    weight: 650,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-01 14:40:15",
+    name: "Claire",
+    weight: 30,
+    category: "Snacks",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-08-02 16:55:08",
+    name: "Safire Windley",
+    weight: 765,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-02 17:33:25",
+    name: "Claire",
+    weight: 901,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-02 17:33:49",
+    name: "Claire",
+    weight: 789,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-02 17:34:10",
+    name: "Claire",
+    weight: 946,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-02 17:34:32",
+    name: "Claire",
+    weight: 610,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-02 18:15:21",
+    name: "Claire",
+    weight: 685,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-06 12:33:58",
+    name: "Other",
+    weight: 58,
+    category: "Personal Care",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-06 13:06:33",
+    name: "Other",
+    weight: 65,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-06 13:18:56",
+    name: "Other",
+    weight: 468,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 445,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1020,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 109,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 360,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1334,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 2442,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 624,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 316,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 572,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1291,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1076,
+    category: "Produce",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1347,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1044,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 2552,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 107,
+    category: "Assorted Dry",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-15 17:19:55",
+    name: "Beverly Pinn",
+    weight: 34,
+    category: "Baby Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-08-15 17:20:39",
+    name: "Beverly Pinn",
+    weight: 1701,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:21:15",
+    name: "Beverly Pinn",
+    weight: 134,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:21:57",
+    name: "Beverly Pinn",
+    weight: 232,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:21:57",
+    name: "Chi Chi",
+    weight: 441,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:23:10",
+    name: "Beverly Pinn",
+    weight: 341,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:23:45",
+    name: "Beverly Pinn",
+    weight: 931,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:24:27",
+    name: "Beverly Pinn",
+    weight: 965,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:25:00",
+    name: "Beverly Pinn",
+    weight: 744,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:25:36",
+    name: "Beverly Pinn",
+    weight: 34,
+    category: "Baby Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-08-16 16:02:46",
+    name: "Beverly Pinn",
+    weight: 331,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 16:04:29",
+    name: "Beverly Pinn",
+    weight: 403,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 16:11:41",
+    name: "Beverly Pinn",
+    weight: 584,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 16:15:54",
+    name: "Beverly Pinn",
+    weight: 364,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 16:21:31",
+    name: "Beverly Pinn",
+    weight: 1364,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 00:00:00",
+    name: "Safire Windley",
+    weight: 973,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 16:27:11",
+    name: "Beverly Pinn",
+    weight: 1407,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-18 17:23:27",
+    name: "Safire Windley",
+    weight: 36386,
+    category: "Baby Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-20 12:22:38",
+    name: "Aaron Oldenburg",
+    weight: -117,
+    category: "Meat [Raw]",
+    distributor: "BCF",
+  },
+  {
+    date: "2023-08-20 12:23:10",
+    name: "Aaron Oldenburg",
+    weight: -97,
+    category: "Dole - Fruit Cups",
+    distributor: "BCF",
+  },
+  {
+    date: "2023-08-20 12:23:39",
+    name: "Aaron Oldenburg",
+    weight: -55,
+    category: "Other",
+    distributor: "BCF",
+  },
+  {
+    date: "2023-08-20 12:24:08",
+    name: "Aaron Oldenburg",
+    weight: -50,
+    category: "Paper Supplies",
+    distributor: "BCF",
+  },
+  {
+    date: "2023-08-20 12:24:36",
+    name: "Aaron Oldenburg",
+    weight: -139,
+    category: "Drinks [Fridge]",
+    distributor: "BCF",
+  },
+  {
+    date: "2023-08-20 12:25:22",
+    name: "Aaron Oldenburg",
+    weight: 639,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-20 12:26:15",
+    name: "Aaron Oldenburg",
+    weight: 461,
+    category: "Other",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-20 12:26:54",
+    name: "Aaron Oldenburg",
+    weight: 340,
+    category: "Other",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-20 13:55:43",
+    name: "Liz Simon-Higgs",
+    weight: 24,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Beverly Pinn",
+    weight: 15096,
+    category: "Assorted Fridge",
+    distributor: "Clemens Food Group",
+  },
+  {
+    date: "2023-08-22 15:01:05",
+    name: "Beverly Pinn",
+    weight: 611,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-22 15:02:18",
+    name: "Beverly Pinn",
+    weight: 418,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-22 15:02:47",
+    name: "Beverly Pinn",
+    weight: 273,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-22 15:03:28",
+    name: "Beverly Pinn",
+    weight: 100,
+    category: "Health & Beauty Products",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-08-22 15:05:56",
+    name: "Beverly Pinn",
+    weight: 24,
+    category: "Assorted Dry",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-22 15:07:12",
+    name: "Beverly Pinn",
+    weight: 8,
+    category: "Baby Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-22 15:08:26",
+    name: "Beverly Pinn",
+    weight: 831,
+    category: "Assorted Dry",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-24 16:20:17",
+    name: "Beverly Pinn",
+    weight: 943,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-24 16:20:45",
+    name: "Beverly Pinn",
+    weight: 925,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-24 16:21:28",
+    name: "Beverly Pinn",
+    weight: 1345,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-27 12:03:40",
+    name: "Other",
+    weight: 298,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 12:39:40",
+    name: "Ann Walker Kennedy",
+    weight: 65,
+    category: "Cleaning Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-27 12:52:58",
+    name: "Other",
+    weight: 242,
+    category: "Other",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:26:03",
+    name: "Aaron Oldenburg",
+    weight: 443,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:26:33",
+    name: "Aaron Oldenburg",
+    weight: 298,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:26:52",
+    name: "Aaron Oldenburg",
+    weight: 406,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:27:20",
+    name: "Aaron Oldenburg",
+    weight: 542,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:27:43",
+    name: "Aaron Oldenburg",
+    weight: 390,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:28:51",
+    name: "Aaron Oldenburg",
+    weight: 65,
+    category: "Baby Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-08-27 13:29:06",
+    name: "Aaron Oldenburg",
+    weight: 242,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-30 16:58:37",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:58:46",
+    name: "Karen Moore",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:59:04",
+    name: "Sara B",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:59:12",
+    name: "Karen Moore",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:59:31",
+    name: "Sara B",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:59:46",
+    name: "Karen Moore",
+    weight: 2317,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:59:53",
+    name: "Sara B",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:00:10",
+    name: "Karen Moore",
+    weight: 2317,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:00:15",
+    name: "Sara B",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:01:11",
+    name: "Karen Moore",
+    weight: 2014,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:01:16",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:01:32",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:01:46",
+    name: "Karen Moore",
+    weight: 2014,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:01:57",
+    name: "Sara B",
+    weight: 1028,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:02:19",
+    name: "Sara B",
+    weight: 943,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:02:24",
+    name: "Karen Moore",
+    weight: 2019,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:02:38",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:02:54",
+    name: "Karen Moore",
+    weight: 2019,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:02:55",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:03:15",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:03:35",
+    name: "Karen Moore",
+    weight: 102,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:03:45",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:04:05",
+    name: "Karen Moore",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:04:09",
+    name: "Sara B",
+    weight: 226,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:04:31",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:04:38",
+    name: "Karen Moore",
+    weight: 222,
+    category: "Other",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:05:01",
+    name: "Sara B",
+    weight: 134,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:05:20",
+    name: "Karen Moore",
+    weight: 198,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:05:26",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-31 00:00:00",
+    name: "Safire Windley",
+    weight: 28358.65,
+    category: "Meat [Raw]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-01 18:49:54",
+    name: "Safire Windley",
+    weight: 571,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-01 18:50:55",
+    name: "Safire Windley",
+    weight: 536,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-01 18:51:24",
+    name: "Safire Windley",
+    weight: 477,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-01 18:52:09",
+    name: "Safire Windley",
+    weight: 1355,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-03 12:51:24",
+    name: "Aaron Oldenburg",
+    weight: 123,
+    category: "Baby Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-09-03 13:22:56",
+    name: "Aaron Oldenburg",
+    weight: 395,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-03 13:23:26",
+    name: "Aaron Oldenburg",
+    weight: 368,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-06 11:12:03",
+    name: "Michelle Collins",
+    weight: 8923,
+    category: "Danone - Milk",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-06 12:07:47",
+    name: "Chloe Foster",
+    weight: 5,
+    category: "Pet Supplies",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-09-10 15:27:04",
+    name: "Denise Rivers",
+    weight: 662,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-10 15:27:53",
+    name: "Denise Rivers",
+    weight: 376,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-10 15:28:26",
+    name: "Denise Rivers",
+    weight: 369,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-15 10:12:13",
+    name: "Michelle Collins",
+    weight: 13755,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-09-16 16:04:10",
+    name: "Waldo Alvarez",
+    weight: 1221,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-16 16:05:19",
+    name: "Waldo Alvarez",
+    weight: 387,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-16 16:05:52",
+    name: "Waldo Alvarez",
+    weight: 430,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-16 16:06:14",
+    name: "Waldo Alvarez",
+    weight: 433,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-16 16:06:34",
+    name: "Waldo Alvarez",
+    weight: 442,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-16 16:06:57",
+    name: "Waldo Alvarez",
+    weight: 500,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-17 15:27:44",
+    name: "Kate Weeks",
+    weight: 49,
+    category: "Baby Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-09-17 15:28:10",
+    name: "Kate Weeks",
+    weight: 57,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-17 15:28:43",
+    name: "Kate Weeks",
+    weight: 145,
+    category: "Drinks [Dry]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-17 15:29:09",
+    name: "Kate Weeks",
+    weight: 644,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-17 15:29:31",
+    name: "Kate Weeks",
+    weight: 244,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-20 14:18:31",
+    name: "Karen Moore",
+    weight: 257,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-20 14:19:01",
+    name: "Karen Moore",
+    weight: 251,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-20 14:19:31",
+    name: "Karen Moore",
+    weight: 1030,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-20 14:21:22",
+    name: "Karen Moore",
+    weight: 1229,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-24 12:58:44",
+    name: "Aaron Oldenburg",
+    weight: 228,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 12:59:26",
+    name: "Aaron Oldenburg",
+    weight: 646,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 14:08:14",
+    name: "Aaron Oldenburg",
+    weight: 546,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 14:08:42",
+    name: "Aaron Oldenburg",
+    weight: 571,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 14:09:08",
+    name: "Aaron Oldenburg",
+    weight: 405,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 14:09:51",
+    name: "Aaron Oldenburg",
+    weight: 318,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 14:10:22",
+    name: "Aaron Oldenburg",
+    weight: 54,
+    category: "Assorted Dry",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-09-26 16:38:09",
+    name: "Chi Chi",
+    weight: 202,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-28 11:21:30",
+    name: "Chi Chi",
+    weight: 4591,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-28 11:22:38",
+    name: "Other",
+    weight: 4,
+    category: "Snacks",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-28 11:26:04",
+    name: "Chi Chi",
+    weight: 19602.1,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-29 12:44:22",
+    name: "Chi Chi",
+    weight: 1794,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:44:50",
+    name: "Chi Chi",
+    weight: 1715,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:45:24",
+    name: "Chi Chi",
+    weight: 1722,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:46:08",
+    name: "Chi Chi",
+    weight: 2076,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:46:31",
+    name: "Chi Chi",
+    weight: 1481,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:47:17",
+    name: "Chi Chi",
+    weight: 2108,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:48:10",
+    name: "Chi Chi",
+    weight: 763,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:48:58",
+    name: "Chi Chi",
+    weight: 1457,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:49:36",
+    name: "Chi Chi",
+    weight: 940,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:50:24",
+    name: "Chi Chi",
+    weight: 1549,
+    category: "Condiments",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:52:37",
+    name: "Chi Chi",
+    weight: 221,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-29 12:53:11",
+    name: "Chi Chi",
+    weight: 553,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-29 12:53:42",
+    name: "Chi Chi",
+    weight: 534,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-29 12:54:13",
+    name: "Chi Chi",
+    weight: 512,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-29 12:54:59",
+    name: "Chi Chi",
+    weight: 24,
+    category: "Personal Care",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-10-01 13:09:35",
+    name: "Rochelle Clunie",
+    weight: 2840,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-01 13:15:07",
+    name: "Rochelle Clunie",
+    weight: 520,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-01 14:04:28",
+    name: "Rochelle Clunie",
+    weight: 135,
+    category: "Assorted Fridge",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-03 13:22:32",
+    name: "Chi Chi",
+    weight: 30433,
+    category: "Meat [Raw]",
+    distributor: "Clemens Food Group",
+  },
+  {
+    date: "2023-10-03 14:01:52",
+    name: "Chi Chi",
+    weight: 40000,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-10-04 18:31:05",
+    name: "Sunny Choi",
+    weight: 1201,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-04 18:35:51",
+    name: "Sunny Choi",
+    weight: 1270,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-04 18:39:15",
+    name: "Sunny Choi",
+    weight: 539,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-04 18:42:06",
+    name: "Sunny Choi",
+    weight: 689,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-04 20:21:19",
+    name: "Chi Chi",
+    weight: 358,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-05 14:40:22",
+    name: "Chi Chi",
+    weight: 2405,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:40:51",
+    name: "Chi Chi",
+    weight: 779,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:41:43",
+    name: "Chi Chi",
+    weight: 1126,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:44:16",
+    name: "Chi Chi",
+    weight: 1281,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:44:47",
+    name: "Chi Chi",
+    weight: 471,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:47:02",
+    name: "Chi Chi",
+    weight: 696,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:49:03",
+    name: "Chi Chi",
+    weight: 3601,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:50:20",
+    name: "Chi Chi",
+    weight: 575,
+    category: "Spices",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:50:42",
+    name: "Chi Chi",
+    weight: 861,
+    category: "Spices",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:51:16",
+    name: "Chi Chi",
+    weight: 1551,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:52:30",
+    name: "Chi Chi",
+    weight: 627,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:53:05",
+    name: "Chi Chi",
+    weight: 114,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:53:25",
+    name: "Chi Chi",
+    weight: 637,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:53:57",
+    name: "Chi Chi",
+    weight: 1896,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-08 12:21:48",
+    name: "Other",
+    weight: 48,
+    category: "Health & Beauty Products",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-10-08 14:27:45",
+    name: "Aaron Oldenburg",
+    weight: 99,
+    category: "Snacks",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-10-08 14:28:17",
+    name: "Aaron Oldenburg",
+    weight: 237,
+    category: "Water",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-10-10 13:54:08",
+    name: "Marci Yankelov",
+    weight: 702,
+    category: "Other",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-12 14:01:34",
+    name: "Rochelle Clunie",
+    weight: 103,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-12 14:03:17",
+    name: "Rochelle Clunie",
+    weight: 637,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-12 14:04:57",
+    name: "Rochelle Clunie",
+    weight: 633,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-12 14:05:40",
+    name: "Rochelle Clunie",
+    weight: 338,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-12 14:06:14",
+    name: "Rochelle Clunie",
+    weight: 947,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-12 14:06:44",
+    name: "Rochelle Clunie",
+    weight: 674,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 15:39:10",
+    name: "Chi Chi",
+    weight: 321,
+    category: "Other",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-13 15:42:05",
+    name: "Chi Chi",
+    weight: 381,
+    category: "Other",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-13 16:03:44",
+    name: "Chi Chi",
+    weight: 765,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:04:04",
+    name: "Chi Chi",
+    weight: 901,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:04:28",
+    name: "Chi Chi",
+    weight: 789,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:04:47",
+    name: "Chi Chi",
+    weight: 946,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:05:04",
+    name: "Chi Chi",
+    weight: 688,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:05:19",
+    name: "Chi Chi",
+    weight: 610,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:06:08",
+    name: "Chi Chi",
+    weight: 30,
+    category: "Snacks",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-10-15 13:16:41",
+    name: "Rochelle Clunie",
+    weight: 530,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-15 13:17:26",
+    name: "Rochelle Clunie",
+    weight: 14,
+    category: "Baby Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-15 13:18:16",
+    name: "Other",
+    weight: 609,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-15 13:19:12",
+    name: "Rochelle Clunie",
+    weight: 610,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-15 13:36:43",
+    name: "Rochelle Clunie",
+    weight: 331,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-15 13:37:33",
+    name: "Rochelle Clunie",
+    weight: 32,
+    category: "Household",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-15 13:44:57",
+    name: "Rochelle Clunie",
+    weight: 196,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-16 14:41:26",
+    name: "Chi Chi",
+    weight: 30000,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-18 18:02:43",
+    name: "Sunny Choi",
+    weight: 237,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:08:02",
+    name: "Sunny Choi",
+    weight: 1010,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:08:53",
+    name: "Sunny Choi",
+    weight: 1010,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:11:59",
+    name: "Sunny Choi",
+    weight: 286,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:16:39",
+    name: "Sunny Choi",
+    weight: 266,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:22:52",
+    name: "Sunny Choi",
+    weight: 194,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:28:14",
+    name: "Sunny Choi",
+    weight: 235,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:36:09",
+    name: "Chi Chi",
+    weight: 41496,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-18 18:36:48",
+    name: "Chi Chi",
+    weight: 41081.04,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-18 19:47:33",
+    name: "Chi Chi",
+    weight: 807,
+    category: "Meat [Raw]",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-10-18 19:49:00",
+    name: "Chi Chi",
+    weight: 535,
+    category: "Dairy",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-10-18 19:49:30",
+    name: "Chi Chi",
+    weight: 182,
+    category: "Meat [Raw]",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-10-18 19:50:05",
+    name: "Chi Chi",
+    weight: 208,
+    category: "Meat [Raw]",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-10-18 19:50:56",
+    name: "Chi Chi",
+    weight: 512,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 19:51:31",
+    name: "Chi Chi",
+    weight: 525,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-20 11:38:54",
+    name: "Chi Chi",
+    weight: 31823,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-22 12:11:33",
+    name: "Christina",
+    weight: 152,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-22 12:12:34",
+    name: "Christina",
+    weight: 321,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-22 12:13:22",
+    name: "Christina",
+    weight: 63,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-22 12:14:09",
+    name: "Christina",
+    weight: 394,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-22 13:14:07",
+    name: "Christina",
+    weight: 153,
+    category: "Personal Care",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-10-24 16:21:26",
+    name: "Marci Yankelov",
+    weight: 945,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-25 13:52:25",
+    name: "Chi Chi",
+    weight: 35000,
+    category: "Pet Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-25 13:55:00",
+    name: "Chi Chi",
+    weight: 42376,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-29 14:03:31",
+    name: "Aaron Oldenburg",
+    weight: 176,
+    category: "Snacks",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-29 14:03:57",
+    name: "Aaron Oldenburg",
+    weight: 142,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-29 14:04:30",
+    name: "Aaron Oldenburg",
+    weight: 49,
+    category: "Snacks",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-29 14:05:18",
+    name: "Aaron Oldenburg",
+    weight: 98,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-01 11:50:00",
+    name: "Rochelle Clunie",
+    weight: 1106,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-01 11:53:24",
+    name: "Rochelle Clunie",
+    weight: 648,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-01 11:54:05",
+    name: "Rochelle Clunie",
+    weight: 984,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-01 11:54:35",
+    name: "Rochelle Clunie",
+    weight: 1051,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-04 12:56:47",
+    name: "Chi Chi",
+    weight: 26578,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-04 17:11:19",
+    name: "Rochelle Clunie",
+    weight: 26869,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-05 15:13:14",
+    name: "Rochelle Clunie",
+    weight: 682,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:13:38",
+    name: "Rochelle Clunie",
+    weight: 351,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:14:27",
+    name: "Rochelle Clunie",
+    weight: 465,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:16:42",
+    name: "Rochelle Clunie",
+    weight: 405,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:17:05",
+    name: "Rochelle Clunie",
+    weight: 647,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:17:53",
+    name: "Rochelle Clunie",
+    weight: 128,
+    category: "Meat [Raw]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:18:26",
+    name: "Rochelle Clunie",
+    weight: 78,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:19:09",
+    name: "Rochelle Clunie",
+    weight: 96,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:20:30",
+    name: "Rochelle Clunie",
+    weight: 38,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:26:13",
+    name: "Rochelle Clunie",
+    weight: 109,
+    category: "Drinks [Dry]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:26:53",
+    name: "Rochelle Clunie",
+    weight: 77,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:27:27",
+    name: "Rochelle Clunie",
+    weight: 401,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:27:54",
+    name: "Rochelle Clunie",
+    weight: 135,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:28:20",
+    name: "Rochelle Clunie",
+    weight: 203,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-08 14:06:21",
+    name: "Chi Chi",
+    weight: 11480,
+    category: "Dairy",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-08 17:01:20",
+    name: "Rochelle Clunie",
+    weight: 147,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-08 17:02:01",
+    name: "Rochelle Clunie",
+    weight: 505,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-08 17:03:04",
+    name: "Rochelle Clunie",
+    weight: 393,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-08 17:03:47",
+    name: "Rochelle Clunie",
+    weight: 1073,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-12 14:36:18",
+    name: "Aaron Oldenburg",
+    weight: 40,
+    category: "Health & Beauty Products",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-12 14:36:55",
+    name: "Aaron Oldenburg",
+    weight: 643,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-12 14:37:15",
+    name: "Aaron Oldenburg",
+    weight: 655,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-12 14:37:42",
+    name: "Aaron Oldenburg",
+    weight: 424,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-12 14:38:07",
+    name: "Aaron Oldenburg",
+    weight: 292,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-15 15:02:42",
+    name: "Other",
+    weight: 1710,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-15 15:11:32",
+    name: "Other",
+    weight: 208,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-15 15:12:17",
+    name: "Other",
+    weight: 610,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-15 15:16:46",
+    name: "Rochelle Clunie",
+    weight: 1047,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-15 15:21:12",
+    name: "Rochelle Clunie",
+    weight: 1309,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-16 13:32:06",
+    name: "Rochelle Clunie",
+    weight: 1836,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:32:46",
+    name: "Rochelle Clunie",
+    weight: 2249,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:33:26",
+    name: "Rochelle Clunie",
+    weight: 1567,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:34:21",
+    name: "Rochelle Clunie",
+    weight: 1156,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:34:54",
+    name: "Rochelle Clunie",
+    weight: 2662,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:35:25",
+    name: "Rochelle Clunie",
+    weight: 2118,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:36:20",
+    name: "Rochelle Clunie",
+    weight: 2009,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:29:23",
+    name: "Rochelle Clunie",
+    weight: 495,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:29:55",
+    name: "Rochelle Clunie",
+    weight: 1644,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:30:21",
+    name: "Rochelle Clunie",
+    weight: 322,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:30:50",
+    name: "Rochelle Clunie",
+    weight: 130,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:31:26",
+    name: "Rochelle Clunie",
+    weight: 979,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:31:58",
+    name: "Rochelle Clunie",
+    weight: 161,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:32:26",
+    name: "Rochelle Clunie",
+    weight: 1951,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:32:56",
+    name: "Rochelle Clunie",
+    weight: 1358,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-19 14:33:43",
+    name: "Rochelle Clunie",
+    weight: 135,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:34:13",
+    name: "Rochelle Clunie",
+    weight: 558,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:36:45",
+    name: "Rochelle Clunie",
+    weight: 463,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:38:04",
+    name: "Rochelle Clunie",
+    weight: 192,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:38:44",
+    name: "Rochelle Clunie",
+    weight: 682,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:39:11",
+    name: "Rochelle Clunie",
+    weight: 660,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:40:05",
+    name: "Rochelle Clunie",
+    weight: 446,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:40:38",
+    name: "Rochelle Clunie",
+    weight: 820,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 15:28:16",
+    name: "Aaron Oldenburg",
+    weight: 145,
+    category: "Cleaning Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-11-19 15:28:43",
+    name: "Aaron Oldenburg",
+    weight: 120,
+    category: "Cleaning Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-11-25 13:18:35",
+    name: "Chi Chi",
+    weight: 119,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-25 13:18:58",
+    name: "Chi Chi",
+    weight: 1251,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-25 13:19:19",
+    name: "Chi Chi",
+    weight: 1320,
+    category: "Canned Goods",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-25 13:19:47",
+    name: "Chi Chi",
+    weight: 549,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-25 13:20:09",
+    name: "Chi Chi",
+    weight: 1098,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-25 13:20:28",
+    name: "Chi Chi",
+    weight: 993,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-26 14:50:35",
+    name: "Rochelle Clunie",
+    weight: 460,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:51:03",
+    name: "Rochelle Clunie",
+    weight: 422,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:51:47",
+    name: "Rochelle Clunie",
+    weight: 476,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:52:16",
+    name: "Rochelle Clunie",
+    weight: 184,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:52:57",
+    name: "Rochelle Clunie",
+    weight: 394,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:53:32",
+    name: "Rochelle Clunie",
+    weight: 573,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:54:15",
+    name: "Rochelle Clunie",
+    weight: 86,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:54:37",
+    name: "Rochelle Clunie",
+    weight: 13,
+    category: "Cleaning Supplies",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:55:09",
+    name: "Rochelle Clunie",
+    weight: 58,
+    category: "Cleaning Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-28 11:48:25",
+    name: "Chi Chi",
+    weight: 29,
+    category: "Canned Goods",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-30 15:05:24",
+    name: "Beverly Pinn",
+    weight: 465,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-30 15:05:53",
+    name: "Beverly Pinn",
+    weight: 472,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-30 15:06:27",
+    name: "Beverly Pinn",
+    weight: 422,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-30 15:07:04",
+    name: "Beverly Pinn",
+    weight: 460,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-30 15:07:35",
+    name: "Beverly Pinn",
+    weight: 429,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-01 15:36:45",
+    name: "Rochelle Clunie",
+    weight: 304,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-01 15:37:13",
+    name: "Rochelle Clunie",
+    weight: 159,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-01 15:38:03",
+    name: "Rochelle Clunie",
+    weight: 269,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-03 11:39:15",
+    name: "Rochelle Clunie",
+    weight: 547,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 11:39:45",
+    name: "Rochelle Clunie",
+    weight: 362,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 11:41:47",
+    name: "Rochelle Clunie",
+    weight: 830,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 11:43:13",
+    name: "Rochelle Clunie",
+    weight: 178,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 11:48:20",
+    name: "Rochelle Clunie",
+    weight: 197,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 11:49:45",
+    name: "Rochelle Clunie",
+    weight: 668,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 12:37:29",
+    name: "Rochelle Clunie",
+    weight: 36,
+    category: "Baby Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-05 11:54:57",
+    name: "Chi Chi",
+    weight: 25628.0,
+    category: "Dairy",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-05 11:56:06",
+    name: "Chi Chi",
+    weight: 28206,
+    category: "Dairy",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-06 16:04:09",
+    name: "Rochelle Clunie",
+    weight: 164,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:05:02",
+    name: "Rochelle Clunie",
+    weight: 943,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:05:39",
+    name: "Rochelle Clunie",
+    weight: 1072,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:07:01",
+    name: "Rochelle Clunie",
+    weight: 1340,
+    category: "Canned Goods",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:07:47",
+    name: "Rochelle Clunie",
+    weight: 664,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:08:43",
+    name: "Rochelle Clunie",
+    weight: 164,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:09:15",
+    name: "Rochelle Clunie",
+    weight: 209,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:10:28",
+    name: "Rochelle Clunie",
+    weight: 149,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-06 16:15:36",
+    name: "Rochelle Clunie",
+    weight: 2369,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:16:43",
+    name: "Rochelle Clunie",
+    weight: 1994,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:17:21",
+    name: "Rochelle Clunie",
+    weight: 2398,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:18:19",
+    name: "Rochelle Clunie",
+    weight: 2398,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:19:06",
+    name: "Rochelle Clunie",
+    weight: 2400,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:20:06",
+    name: "Rochelle Clunie",
+    weight: 246,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:20:49",
+    name: "Rochelle Clunie",
+    weight: 117,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:21:21",
+    name: "Rochelle Clunie",
+    weight: 2425,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-10 12:57:19",
+    name: "Other",
+    weight: 78,
+    category: "Cleaning Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-12-10 14:15:25",
+    name: "Rochelle Clunie",
+    weight: 364,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-10 14:16:32",
+    name: "Rochelle Clunie",
+    weight: 339,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-10 14:17:34",
+    name: "Rochelle Clunie",
+    weight: 78,
+    category: "Cleaning Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-12 15:16:47",
+    name: "Rochelle Clunie",
+    weight: 283,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-12 15:17:17",
+    name: "Rochelle Clunie",
+    weight: 1259,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-12 15:17:48",
+    name: "Rochelle Clunie",
+    weight: 2669,
+    category: "Canned Goods",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-13 13:49:31",
+    name: "Rochelle Clunie",
+    weight: 40000,
+    category: "Cleaning Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-14 15:12:30",
+    name: "Rochelle Clunie",
+    weight: 147,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-19 12:43:46",
+    name: "Rochelle Clunie",
+    weight: 698,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:45:19",
+    name: "Rochelle Clunie",
+    weight: 415,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:45:55",
+    name: "Rochelle Clunie",
+    weight: 385,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:46:55",
+    name: "Rochelle Clunie",
+    weight: 388,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:47:35",
+    name: "Rochelle Clunie",
+    weight: 27,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:49:01",
+    name: "Rochelle Clunie",
+    weight: 84,
+    category: "Personal Care",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-19 12:49:50",
+    name: "Rochelle Clunie",
+    weight: 168,
+    category: "Snacks",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-19 12:50:40",
+    name: "Rochelle Clunie",
+    weight: 630,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:51:23",
+    name: "Rochelle Clunie",
+    weight: 400,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-21 10:19:51",
+    name: "Rochelle Clunie",
+    weight: 202,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-21 10:20:33",
+    name: "Rochelle Clunie",
+    weight: 2640,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-21 15:48:49",
+    name: "Rochelle Clunie",
+    weight: 794,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 15:49:52",
+    name: "Rochelle Clunie",
+    weight: 1145,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 15:51:04",
+    name: "Rochelle Clunie",
+    weight: 980,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 15:53:51",
+    name: "Rochelle Clunie",
+    weight: 1283,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 15:57:26",
+    name: "Rochelle Clunie",
+    weight: 1123,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:00:55",
+    name: "Rochelle Clunie",
+    weight: 1123,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:01:41",
+    name: "Rochelle Clunie",
+    weight: 1146,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:07:51",
+    name: "Rochelle Clunie",
+    weight: 1408,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:08:33",
+    name: "Rochelle Clunie",
+    weight: 1409,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:09:31",
+    name: "Rochelle Clunie",
+    weight: 1410,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:11:41",
+    name: "Rochelle Clunie",
+    weight: 77,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-23 14:07:29",
+    name: "Beverly Pinn",
+    weight: 34263,
+    category: "Danone - Creamer",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-23 15:00:00",
+    name: "Beverly Pinn",
+    weight: 30000,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-12-23 15:00:33",
+    name: "Beverly Pinn",
+    weight: 924,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:02:03",
+    name: "Beverly Pinn",
+    weight: 558,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:02:40",
+    name: "Beverly Pinn",
+    weight: 624,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:03:10",
+    name: "Beverly Pinn",
+    weight: 241,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:04:02",
+    name: "Beverly Pinn",
+    weight: 686,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:05:08",
+    name: "Beverly Pinn",
+    weight: 824,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:05:38",
+    name: "Beverly Pinn",
+    weight: 917,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:06:08",
+    name: "Beverly Pinn",
+    weight: 528,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:06:43",
+    name: "Beverly Pinn",
+    weight: 760,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:07:17",
+    name: "Beverly Pinn",
+    weight: 1326,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:07:57",
+    name: "Beverly Pinn",
+    weight: 1070,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-27 09:59:55",
+    name: "JC",
+    weight: 401,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:00:27",
+    name: "JC",
+    weight: 414,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:00:53",
+    name: "JC",
+    weight: 503,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:01:23",
+    name: "JC",
+    weight: 684,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:01:51",
+    name: "JC",
+    weight: 434,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:02:20",
+    name: "JC",
+    weight: 339,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:02:52",
+    name: "JC",
+    weight: 206,
+    category: "Snacks",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-31 14:31:17",
+    name: "Rochelle Clunie",
+    weight: 680,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-31 14:32:00",
+    name: "Rochelle Clunie",
+    weight: 584,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-31 14:32:32",
+    name: "Rochelle Clunie",
+    weight: 428,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-31 14:33:12",
+    name: "Rochelle Clunie",
+    weight: 414,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 00:00:00",
+    name: "JC",
+    weight: 40571,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
   },
 ];
 
@@ -45098,7 +48111,7 @@ export const shiftList = [
   {
     start: "2023-01-04 14:27:31",
     end: "2023-01-04 18:27:31",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
   {
     start: "2023-01-04 17:32:35",
@@ -45981,7 +48994,7 @@ export const shiftList = [
   {
     start: "2023-02-01 16:27:39",
     end: "2023-02-01 20:27:39",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
   {
     start: "2023-02-01 16:27:56",
@@ -46198,7 +49211,7 @@ export const shiftList = [
   {
     start: "2023-02-08 16:52:23",
     end: "2023-02-08 20:52:23",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
   {
     start: "2023-02-08 00:00:00",
@@ -46452,7 +49465,7 @@ export const shiftList = [
   {
     start: "2023-02-16 16:31:56",
     end: "2023-02-16 20:31:56",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
   { start: "2023-02-16 19:29:12", end: "2023-02-16 23:29:12", name: "Aziza" },
   {
@@ -46658,7 +49671,7 @@ export const shiftList = [
   {
     start: "2023-02-22 16:47:55",
     end: "2023-02-22 20:47:55",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
   {
     start: "2023-02-22 17:15:43",
@@ -46815,7 +49828,7 @@ export const shiftList = [
   {
     start: "2023-03-01 13:59:16",
     end: "2023-03-01 17:59:16",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
   {
     start: "2023-03-01 16:49:04",
@@ -47014,7 +50027,7 @@ export const shiftList = [
   {
     start: "2023-03-08 12:30:47",
     end: "2023-03-08 16:30:47",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
   {
     start: "2023-03-08 17:16:07",
@@ -47584,7 +50597,11 @@ export const shiftList = [
     end: "2023-04-01 20:34:50",
     name: "Trinity Burge",
   },
-  { start: "2023-04-01 16:37:11", end: "2023-04-01 20:37:11", name: "Waldo" },
+  {
+    start: "2023-04-01 16:37:11",
+    end: "2023-04-01 20:37:11",
+    name: "Waldo Alvarez",
+  },
   {
     start: "2023-04-01 16:37:40",
     end: "2023-04-01 20:37:40",
@@ -48268,7 +51285,7 @@ export const shiftList = [
   {
     start: "2023-04-26 15:32:06",
     end: "2023-04-26 19:32:06",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
   { start: "2023-04-27 00:00:00", end: "2023-04-27 04:00:00", name: "Sharon" },
   {
@@ -48619,7 +51636,7 @@ export const shiftList = [
   {
     start: "2023-05-24 16:19:12",
     end: "2023-05-24 20:19:12",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
   {
     start: "2023-05-24 17:06:56",
@@ -48940,7 +51957,7 @@ export const shiftList = [
   {
     start: "2023-06-07 14:03:34",
     end: "2023-06-07 18:03:34",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
   { start: "2023-06-07 16:48:17", end: "2023-06-07 20:48:17", name: "Sara B" },
   {
@@ -49156,6 +52173,6 @@ export const shiftList = [
   {
     start: "2023-06-28 14:09:22",
     end: "2023-06-28 18:09:22",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
   },
 ];
