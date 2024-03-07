@@ -11,13 +11,14 @@ export const createRack = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { location, description, weightLimit } = req.body;
+  const { location, description, weightLimit, isActive } = req.body;
   // const { id } = req.user;
   const rack = await prisma.rack.create({
     data: {
       location,
       description,
       weightLimit,
+      isActive,
     },
   });
   return res.status(StatusCodes.CREATED).json({ rack });

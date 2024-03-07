@@ -14,6 +14,7 @@ router.post(
   "/",
   body("name", "Must include unique name for category").notEmpty(),
   body("description", "Description must be a string").notEmpty().isString(),
+  body("isActive", "isActive must be a boolean").notEmpty().isBoolean(),
   validator.isUniqueName,
   controller.createCategory
 );

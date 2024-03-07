@@ -14,6 +14,7 @@ router.post(
   body("location", "Include location identifier").notEmpty().isString(),
   body("description", "Include a location description").notEmpty().isString(),
   body("weightLimit", "Weight limit must be a float").optional().isFloat(),
+  body("isActive", "isActive must be a boolean").notEmpty().isBoolean(),
   validator.isUniqueLocation,
   validator.weightIsPositive,
   controller.createRack

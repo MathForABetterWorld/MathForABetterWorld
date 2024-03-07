@@ -15,6 +15,7 @@ const endpoint = "/distributor";
 router.post(
   "/",
   body("name", "Must include name in the request").notEmpty(),
+  body("isActive", "isActive must be a boolean").notEmpty().isBoolean(),
   validator.isUniqueName,
   controller.createDistributor
 );

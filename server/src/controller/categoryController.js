@@ -12,12 +12,13 @@ export const createCategory = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { name, description } = req.body;
+  const { name, description, isActive } = req.body;
   // const { id } = req.user;
   const category = await prisma.category.create({
     data: {
       name,
       description,
+      isActive,
     },
   });
   return res.status(StatusCodes.CREATED).json({ category });

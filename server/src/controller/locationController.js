@@ -12,12 +12,13 @@ export const createLocation = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { name, longitude, latitude } = req.body;
+  const { name, longitude, latitude, isActive } = req.body;
   const location = await prisma.donationLocation.create({
     data: {
       name,
       longitude,
       latitude,
+      isActive,
     },
   });
   return res.status(StatusCodes.CREATED).json({ location });
