@@ -41,7 +41,7 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Racks Page</h1>", unsafe_allow_html=True)
 
 if 'token' in st.session_state:
-    editType = st.selectbox("Modification Type (Add, Edit, Delete) (Select Below)", ["", "New Rack", "Update Rack", "Delete Rack"])
+    editType = st.selectbox("Modification Type (Add, Edit) (Select Below)", ["", "New Rack", "Update Rack"])
     if editType == "New Rack":
         with st.form("template_form"):
             left, right = st.columns(2)
@@ -68,16 +68,6 @@ if 'token' in st.session_state:
                 st.error("Please fill in form elements!")
             elif idx in rackDF.id.unique():
                 editedCat = rackConnector.updateRack(idx, location, desc, weightLimit)
-                st.experimental_rerun()
-            else:
-                st.error("Please input an id that is in the table!")
-    elif editType == "Delete Rack":
-        with st.form("template_form"):
-            idx = st.number_input("Id", min_value=1)
-            deleteSubmit = st.form_submit_button()
-        if deleteSubmit:
-            if idx in rackDF.id.unique():
-                deletedCat = rackConnector.deleteRack(idx)
                 st.experimental_rerun()
             else:
                 st.error("Please input an id that is in the table!")

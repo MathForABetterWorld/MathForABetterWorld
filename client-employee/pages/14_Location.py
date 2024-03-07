@@ -53,7 +53,7 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Locations Page</h1>", unsafe_allow_html=True)
 
 if 'token' in st.session_state:
-    editType = st.selectbox("Modification Type (Add, Edit, Delete) (Select Below)", ["", "New Location", "Update Location", "Delete Location"])
+    editType = st.selectbox("Modification Type (Add, Edit) (Select Below)", ["", "New Location", "Update Location"])
     if editType == "New Location":
         with st.form("template_form"):
             name = st.text_input("Location Name", "")
@@ -82,16 +82,6 @@ if 'token' in st.session_state:
                     if latitude != "err":
                         editedLoc = locationConnectors.updateLocation(idx, name, str(longitude), str(latitude))
                         st.experimental_rerun()
-                else:
-                    st.error("Please input an id that is in the table!")
-    elif editType == "Delete Location":
-        with st.form("template_form"):
-            idx = st.number_input("Id", min_value=1)
-            deleteSubmit = st.form_submit_button()
-            if deleteSubmit:
-                if idx in locationDF.id.unique():
-                    deletedLoc = locationConnectors.deleteLocation(idx)
-                    st.experimental_rerun()
                 else:
                     st.error("Please input an id that is in the table!")
 
