@@ -34,6 +34,7 @@ router.post(
   body("description", "Must include a string description in the body")
     .notEmpty()
     .isString(),
+  body("isActive", "isActive must be a boolean").notEmpty().isBoolean(),
   validator.isCategoryId,
   validator.isUniqueNameNotId,
   controller.updateCategory

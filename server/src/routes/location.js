@@ -40,6 +40,7 @@ router.post(
   body("latitude", "Must include a string latitude in the body")
     .notEmpty()
     .isString(),
+  body("isActive", "isActive must be a boolean").notEmpty().isBoolean(),
   validator.isLocationId,
   validator.isUniqueNameNotId,
   controller.updateLocation

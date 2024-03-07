@@ -43,7 +43,7 @@ export const updateCategory = async (req, res) => {
     return res;
   }
   const id = parseInt(req.params.id, 10);
-  const { name, description } = req.body;
+  const { name, description, isActive } = req.body;
   const category = await prisma.category.update({
     where: {
       id,
@@ -51,6 +51,7 @@ export const updateCategory = async (req, res) => {
     data: {
       name,
       description,
+      isActive,
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ category });

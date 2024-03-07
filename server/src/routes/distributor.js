@@ -32,6 +32,7 @@ router.post(
   "/update",
   body("name", "Must include name in the request").notEmpty(),
   body("id", "Must include id in the body").notEmpty().isInt(),
+  body("isActive", "isActive must be a boolean").notEmpty().isBoolean(),
   validator.isUniqueName,
   validator.isDistributorIdBody,
   controller.updateDistributor

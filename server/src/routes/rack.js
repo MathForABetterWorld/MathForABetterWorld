@@ -34,6 +34,7 @@ router.post(
   body("location", "location must be a string").notEmpty().isString(),
   body("description", "description must be a string").notEmpty().isString(),
   body("weightLimit", "weightLimit must be a float").optional().isFloat(),
+  body("isActive", "isActive must be a boolean").notEmpty().isBoolean(),
   validator.isUniqueLocationNotId,
   validator.isRackId, // this validator assumes your rackId is in the params, so either add it there or create a new middleware for checking it from the body
   controller.updateRack
