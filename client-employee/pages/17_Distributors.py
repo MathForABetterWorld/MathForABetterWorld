@@ -39,7 +39,7 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Distributors Page</h1>", unsafe_allow_html=True)
 
 if 'token' in st.session_state:
-    editType = st.selectbox("Modification Type (Add, Edit, Delete) (Select Below)", ["", "New Distributor", "Update Distributor", "Delete Distributor"])
+    editType = st.selectbox("Modification Type (Add, Edit) (Select Below)", ["", "New Distributor", "Update Distributor"])
     if editType == "New Distributor":
         with st.form("template_form"):
             name = st.text_input("Name", "")
@@ -74,18 +74,8 @@ if 'token' in st.session_state:
                         distributor_id = selected_distributor['id'].values[0]
                         editedCat = distributorConnectors.updateDistributor(distributor_id, name)
                         st.experimental_rerun()
-            else:
-                st.warning("Distributor not found. Please enter a valid Distributor.")
-    elif editType == "Delete Distributor":
-        with st.form("template_form"):
-            idx = st.number_input("Id", min_value=1)
-            deleteSubmit = st.form_submit_button()
-        if deleteSubmit:
-            if idx in distributorDF.id.unique():
-                deletedCat = distributorConnectors.deleteDistributor(idx)
-                st.experimental_rerun()
-            else:
-                st.error("Please input an id that is in the table!")
+        else:
+            st.warning("Distributor not found. Please enter a valid Distributor.")
     st.dataframe(distributorDF)
 
 # Streamlit widgets automatically run the script from top to bottom. Since
