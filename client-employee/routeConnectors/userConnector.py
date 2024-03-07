@@ -43,10 +43,11 @@ def postUser(email, name, isActive, phoneNumber=None, address=None):
   r = http.request("POST", root + curPath + "/signup", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
 
-def updateUser(idField, email):
+def updateUser(idField, email, isActive):
   f = json.dumps({
     "id": idField,
-    "email": email
+    "email": email,
+    "isActive": isActive
   })
   r = http.request("POST", root + curPath + "/update", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
