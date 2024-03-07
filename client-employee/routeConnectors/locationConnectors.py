@@ -25,11 +25,12 @@ def deleteLocation(idField):
   r = http.request("DELETE", root + curPath + "/" + str(idField), headers={'Content-Type': 'application/json'})
   return r.data
 
-def updateLocation(idField, name, longitude, latitude):
+def updateLocation(idField, name, longitude, latitude, isActive):
   f = json.dumps({
     "name": name,
     "longitude": longitude,
-    "latitude": latitude
+    "latitude": latitude,
+    "isActive": isActive,
   })
   r = http.request("POST", root + curPath + "/" + str(idField) + "/" + "update", body=f, headers={'Content-Type': 'application/json'})
   return r.data

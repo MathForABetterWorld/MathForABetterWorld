@@ -11,30 +11,34 @@ def getUsers():
   r = http.request("GET", root + curPath + "/", headers={'Content-Type': 'application/json'})
   return r.data
 
-def postUser(email, name, phoneNumber=None, address=None ):
+def postUser(email, name, isActive, phoneNumber=None, address=None):
   if (phoneNumber is None and address is None ):
     f = json.dumps({
       "email": email,
-      "name": name
+      "name": name,
+      "isActive": isActive,
     })
   elif phoneNumber is None:
       f = json.dumps({
       "email": email,
       "name": name,
-      "address": address
+      "isActive": isActive,
+      "address": address,
     })
   elif address is None:
     f = json.dumps({
       "email": email,
       "name": name,
+      "isActive": isActive,
       "phoneNumber": phoneNumber,
     })
   else:
     f = json.dumps({
       "email": email,
       "name": name,
+      "isActive": isActive,
       "phoneNumber": phoneNumber,
-      "address": address
+      "address": address,
     })
   r = http.request("POST", root + curPath + "/signup", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
