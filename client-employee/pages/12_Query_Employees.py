@@ -42,18 +42,20 @@ if 'token' in st.session_state:
     users = json.loads(employeeConnectors.getUsers())["users"]
     usersDF = pd.DataFrame.from_dict(users)
     filtered_usersDF = usersDF.dropna(subset=['employeeId'])
-    filtered_usersDF['userName'] = filtered_usersDF['employee'].apply(lambda x: x['userName'] if x else None)
-    filtered_usersDF['role'] = filtered_usersDF['employee'].apply(lambda x: x['role'] if x else None)
+    filtered_usersDF.loc[:, 'userName'] = filtered_usersDF['employee'].apply(lambda x: x['userName'] if x else None)
+    filtered_usersDF.loc[:, 'role'] = filtered_usersDF['employee'].apply(lambda x: x['role'] if x else None)
     filtered_usersDF = filtered_usersDF.drop(columns=['employee', 'employeeId'])
     st.dataframe(filtered_usersDF)
-    selectedIndex = st.selectbox('Select row:', filtered_usersDF.name)
 
-    promoteToAdmin = st.button("Make User an Admin")
+    st.write("Select an Employee to promote to Admin:")
+    selectedIndex = st.selectbox('Employee Selection:', filtered_usersDF.name)
+
+    promoteToAdmin = st.button("Make Employee an Admin")
 
     if promoteToAdmin:
         idx = int(usersDF.loc[usersDF["name"] == selectedIndex].iloc[0].id)
         r = employeeConnectors.promoteToAdmin(idx)
-
+    
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
 # rerun.

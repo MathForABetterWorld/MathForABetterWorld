@@ -43,20 +43,17 @@ if 'token' in st.session_state:
     usersDF = pd.DataFrame.from_dict(users)
     filtered_usersDF = usersDF.drop(columns=['employee', 'employeeId'])
     st.dataframe(filtered_usersDF)
-    selectedIndex = st.selectbox('Select row:', filtered_usersDF.name)
+    st.write("Select a Volunteer to promote to Employee:")
+    selectedIndex = st.selectbox('Volunteer Selection:', filtered_usersDF.name)
 
-    promoteUser = st.button("Make User an Employee")
+
     user_input = st.text_input("Temporary Username")
     password_input = st.text_input("Temporary Password", type="password")
+    promoteUser = st.button("Make User an Employee")
     
-    promoteToAdmin = st.button("Make User an Admin")
-
     if promoteUser:        
         idx = int(usersDF.loc[usersDF["name"]== selectedIndex].iloc[0].id)
         employeeConnectors.promoteUser(idx, user_input, password_input)
-    if promoteToAdmin:
-        idx = int(usersDF.loc[usersDF["name"] == selectedIndex].iloc[0].id)
-        r = employeeConnectors.promoteToAdmin(idx)
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
