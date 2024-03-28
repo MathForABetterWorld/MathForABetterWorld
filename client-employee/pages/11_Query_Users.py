@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 import os
-from routeConnectors import authConnectors, employeeConnectors
+from routeConnectors import authConnectors, employeeConnectors, userConnector
 import json
 from nav import nav_page
 
@@ -41,10 +41,15 @@ if 'token' in st.session_state:
     # go to employee page
     users = json.loads(employeeConnectors.getUsers())["users"]
     usersDF = pd.DataFrame.from_dict(users)
-    filtered_usersDF = usersDF.drop(columns=['employee', 'employeeId'])
+    first_usersDF = usersDF[usersDF['employeeId'].isnull()]
+    filtered_usersDF = first_usersDF.drop(columns=['employee', 'employeeId', 'id'])
+    filtered_usersDF.reset_index(drop=True, inplace=True)
     st.dataframe(filtered_usersDF)
     st.write("Select a Volunteer to promote to Employee:")
-    selectedIndex = st.selectbox('Volunteer Selection:', filtered_usersDF.name)
+    filtered_users = [user for user in json.loads(userConnector.getUsers())['users'] if user["name"] in filtered_usersDF.name.values]
+    users = [{"id": -1, "name": "", "email": ""}] + filtered_users
+    allUsers = sorted(users, key=lambda use: use["name"])   
+    selectedIndex = st.selectbox("Volunteer Selection", allUsers, format_func=lambda use: f'{use["name"]}')
 
 
     user_input = st.text_input("Temporary Username")
@@ -52,8 +57,11 @@ if 'token' in st.session_state:
     promoteUser = st.button("Make User an Employee")
     
     if promoteUser:        
-        idx = int(usersDF.loc[usersDF["name"]== selectedIndex].iloc[0].id)
-        employeeConnectors.promoteUser(idx, user_input, password_input)
+        if selectedIndex == -1 or user_input == "" or password_input == "" :
+            st.error('Please fill out the form')
+        else :
+            idx = int(usersDF.loc[usersDF["name"]== selectedIndex].iloc[0].id)
+            employeeConnectors.promoteUser(idx, user_input, password_input)
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
