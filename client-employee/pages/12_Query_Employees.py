@@ -49,7 +49,7 @@ if 'token' in st.session_state:
     st.dataframe(filtered_usersDF, use_container_width=True)
 
     st.write("Select an Employee to promote to Admin:")
-    filtered_users = [user for user in json.loads(employeeConnectors.getUsers())['users'] if user["name"] in filtered_usersDF.name.values]
+    filtered_users = [user for user in json.loads(employeeConnectors.getUsers())['users'] if (user["name"] in filtered_usersDF.name.values) and user["employee"]["role"] != "Admin"]
     users = [{"id": -1, "name": "", "email": ""}] + filtered_users
     allUsers = sorted(users, key=lambda use: use["name"])   
     selectedIndex = st.selectbox("Employee Selection", allUsers, format_func=lambda use: f'{use["name"]}')
@@ -60,8 +60,15 @@ if 'token' in st.session_state:
         if selectedIndex == -1 :
             st.error('Please fill out the form')
         else :
-            idx = int(usersDF.loc[usersDF["name"] == selectedIndex].iloc[0].id)
+            idx = int(usersDF.loc[usersDF["name"] == selectedIndex["name"]].iloc[0].id)
             r = employeeConnectors.promoteToAdmin(idx)
+            if "msg" not in r:
+                st.balloons()
+                st.success("🎉 Your employee was promoted!")
+            else:
+                st.error(r["msg"])
+else :
+    st.error("No access to query users. Please log in if employee.")
     
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain

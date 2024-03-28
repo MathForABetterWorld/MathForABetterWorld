@@ -51,7 +51,6 @@ if 'token' in st.session_state:
     allUsers = sorted(users, key=lambda use: use["name"])   
     selectedIndex = st.selectbox("Volunteer Selection", allUsers, format_func=lambda use: f'{use["name"]}')
 
-
     user_input = st.text_input("Temporary Username")
     password_input = st.text_input("Temporary Password", type="password")
     promoteUser = st.button("Make User an Employee")
@@ -60,8 +59,15 @@ if 'token' in st.session_state:
         if selectedIndex == -1 or user_input == "" or password_input == "" :
             st.error('Please fill out the form')
         else :
-            idx = int(usersDF.loc[usersDF["name"]== selectedIndex].iloc[0].id)
-            employeeConnectors.promoteUser(idx, user_input, password_input)
+            idx = int(usersDF.loc[usersDF["name"]== selectedIndex["name"]].iloc[0].id)
+            r = employeeConnectors.promoteUser(idx, user_input, password_input)
+            if "msg" not in r:
+                st.balloons()
+                st.success("🎉 Your volunteer was promoted!")
+            else:
+                st.error(r["msg"])
+else :
+    st.error("No access to query users. Please log in if employee.")
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
