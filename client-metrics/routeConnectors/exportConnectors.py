@@ -11,15 +11,13 @@ def getExports():
   r = http.request("GET", root + curPath + "/", headers={'Content-Type': 'application/json'})
   return r.data
 
-def postExport(userId, categoryId, donatedTo, weight, location):
+def postExport(userId, categoryId, weight, locationId):
   jsonDict = {
     "userId": userId,
     "categoryId": categoryId,
-    "donatedTo": donatedTo,
     "weight": weight,
+    "locationId": locationId,
   }
-  if location > 0:
-    jsonDict["locationId"] = location
   f = json.dumps(jsonDict)
   r = http.request("POST", root + curPath + "/", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
@@ -28,16 +26,16 @@ def deleteExport(idField):
   r = http.request("DELETE", root + curPath + "/" + idField, headers={'Content-Type': 'application/json'})
   return r.data
 
-def updateExport(idField, userId, categoryId, donatedTo, weight):
+def updateExport(idField, userId, categoryId, weight, locationId):
   f = json.dumps({
     "userId": userId,
     "categoryId": categoryId,
-    "donatedTo": donatedTo,
+    "locationId": locationId,
     "weight": weight,
   })
   r = http.request("POST", root + curPath + "/edit/" + idField, body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
 
 def getExportsInDuration(duration):
-  r = http.require("GET", root + curPath + "/inPast/" + duration, headers={'Content-Type': 'application/json'});
+  r = http.require("GET", root + curPath + "/inPast/" + duration, headers={'Content-Type': 'application/json'})
   return r.data.encode('utf-8')

@@ -76,9 +76,9 @@ categoryDF = pd.DataFrame(categories)
 def getCategories(category):
     return categoryDF.loc[categoryDF.id == category["id"], "name"].values[0]
 
+locationDF = pd.DataFrame(locations)
 def getLocation(location):
-    location = next((l for l in allLocations if l['name'] == location), None)
-    return location['name'] if location else None
+    return locationDF.loc[locationDF.id == location["id"], "name"].values[0]
 
 def getUserById(id):
     user = next((u for u in allUsers if u['id'] == id), None)
@@ -86,13 +86,7 @@ def getUserById(id):
 
 
 df["category"] = df.category.apply(getCategories)
-df["location"] = df.location.apply(getLocation)
-# # Uncomment this when connected to backend 
-# df = df.sort_values(by=[sortByMap[sortBySelect]])
-# # Filter by distributor 
-# df = df[df['distributor'] == distributorSelect] #this maybe should sort by distributor ID 
-# # Filter by selected category
-# df = df[df['category'] == categorySelect] 
+df["location"] = df.location.apply(getLocation) 
 
 if userSelect['id'] != -1:
     userIndices = []
@@ -128,9 +122,8 @@ df.drop(columns=['userId'], inplace=True)
 df['exportDate'] = pd.to_datetime(df['exportDate'])
 df['exportDate'] = df['exportDate'].dt.strftime('%m-%d-%Y %H:%M:%S')
 
-
-df.rename(columns={'id': 'ID', 'exportDate': 'Export Date', 'donatedTo': 'Donated To', 'weight': 'Weight', "exportType": "Export Type", 'location': 'Location', 'category': 'Categories'}, inplace=True)
-columns_to_display = ['Entry User', 'Export Date', 'Donated To', 'Weight', 'Location', 'Categories', "Export Type"]
+df.rename(columns={'id': 'ID', 'exportDate': 'Export Date', 'location': 'Location', 'weight': 'Weight', "exportType": "Export Type", 'category': 'Categories'}, inplace=True)
+columns_to_display = ['Entry User', 'Export Date', 'Location', 'Weight', 'Categories', "Export Type"]
 df = df[columns_to_display]
 
 st.dataframe(df, use_container_width=True)
