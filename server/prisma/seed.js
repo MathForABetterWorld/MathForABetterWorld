@@ -128,7 +128,7 @@ const generateFakeData = async () => {
         exportDate: new Date(exportItem.date),
         weight: exportItem.weight,
         categoryId: categoryMap.get(exportItem.category).id,
-        locationId: locationMap.get(exportItem.donatedTo).id,
+        locationId: locationMap.get(exportItem.location).id,
         rackId: rackMap.get(exportItem.rack).id,
         exportType: exportType,
       });
@@ -138,7 +138,7 @@ const generateFakeData = async () => {
         exportDate: new Date(exportItem.date),
         weight: exportItem.weight,
         categoryId: categoryMap.get(exportItem.category).id,
-        locationId: locationMap.get(exportItem.donatedTo).id,
+        locationId: locationMap.get(exportItem.location).id,
         exportType: exportType,
       });
     }
