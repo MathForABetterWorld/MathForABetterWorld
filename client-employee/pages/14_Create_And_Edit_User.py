@@ -49,10 +49,12 @@ if 'token' in st.session_state:
                 if name == "" or email == "":
                     st.error("Please fill in required form elements!")
                 else:
-                    jsonObj = json.loads(userConnector.postUser(email, name, None if phoneNumber == "" else phoneNumber, None if address == "" else address))
-                    newCat = pd.DataFrame(jsonObj["user"], index=[0])
-                    #print(newCat)
-                    st.experimental_rerun()
+                    r = json.loads(userConnector.postUser(email, name, None if phoneNumber == "" else phoneNumber, None if address == "" else address))
+                    if "msg" not in r:
+                        st.balloons()
+                        st.success("🎉 Your user was created!")
+                    else:
+                        st.error(r["msg"])
     elif editType == 'Update User':
         # Input field for User ID
         users = json.loads(employeeConnectors.getUsers())["users"]
