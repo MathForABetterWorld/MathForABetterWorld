@@ -122,50 +122,25 @@ const generateFakeData = async () => {
     if (exportItem.weight < 0) {
       exportType = "Return";
     }
-    if (locationMap.has(exportItem.donatedTo)) {
-      if (rackMap.has(exportItem.rack)) {
-        createExportsList.push({
-          userId: userMap.get(exportItem.name).id,
-          exportDate: new Date(exportItem.date),
-          weight: exportItem.weight,
-          categoryId: categoryMap.get(exportItem.category).id,
-          donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
-          locationId: locationMap.get(exportItem.donatedTo).id,
-          rackId: rackMap.get(exportItem.rack).id,
-          exportType: exportType,
-        });
-      } else {
-        createExportsList.push({
-          userId: userMap.get(exportItem.name).id,
-          exportDate: new Date(exportItem.date),
-          weight: exportItem.weight,
-          categoryId: categoryMap.get(exportItem.category).id,
-          donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
-          locationId: locationMap.get(exportItem.donatedTo).id,
-          exportType: exportType,
-        });
-      }
+    if (rackMap.has(exportItem.rack)) {
+      createExportsList.push({
+        userId: userMap.get(exportItem.name).id,
+        exportDate: new Date(exportItem.date),
+        weight: exportItem.weight,
+        categoryId: categoryMap.get(exportItem.category).id,
+        locationId: locationMap.get(exportItem.location).id,
+        rackId: rackMap.get(exportItem.rack).id,
+        exportType: exportType,
+      });
     } else {
-      if (rackMap.has(exportItem.rack)) {
-        createExportsList.push({
-          userId: userMap.get(exportItem.name).id,
-          exportDate: new Date(exportItem.date),
-          weight: exportItem.weight,
-          categoryId: categoryMap.get(exportItem.category).id,
-          donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
-          rackId: rackMap.get(exportItem.rack).id,
-          exportType: exportType,
-        });
-      } else {
-        createExportsList.push({
-          userId: userMap.get(exportItem.name).id,
-          exportDate: new Date(exportItem.date),
-          weight: exportItem.weight,
-          categoryId: categoryMap.get(exportItem.category).id,
-          donatedTo: JSON.stringify(locationMap.get(exportItem.donatedTo).name),
-          exportType: exportType,
-        });
-      }
+      createExportsList.push({
+        userId: userMap.get(exportItem.name).id,
+        exportDate: new Date(exportItem.date),
+        weight: exportItem.weight,
+        categoryId: categoryMap.get(exportItem.category).id,
+        locationId: locationMap.get(exportItem.location).id,
+        exportType: exportType,
+      });
     }
   });
   await prisma.exportItem.createMany({
