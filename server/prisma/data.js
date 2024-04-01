@@ -480,6 +480,7 @@ export const rackList = [
     weightLimit: 1000,
   },
 ];
+// don't add any racks, don't even pay attention to this
 
 export const usersList = [
   "Aaliyiah Moye-Tati",
@@ -821,6 +822,7 @@ export const usersList = [
   "Zoe",
   "Zyare Abdul-Rahim",
 ];
+// can add user if they appear more than once, otherwise just make it 'Other'
 
 export const categoryList = [
   "Assorted Dry",
@@ -854,6 +856,8 @@ export const categoryList = [
   "Spices",
   "Water",
 ];
+// don't add anything to category list
+// can make category 'Other'
 
 export const distributorList = [
   "Alto Dale Farm",
@@ -877,6 +881,8 @@ export const distributorList = [
   "Sandtown",
   "Walmart",
 ];
+// can add distributor to list if appears a lot (your discretion)
+// can make distributor 'Other'
 
 export const donatedToList = [
   {
@@ -1045,6 +1051,8 @@ export const donatedToList = [
     longitude: "-76.61900046975943",
   },
 ];
+// can make location 'Other Organization' or 'Individual'
+// can add location to list if appears a lot
 
 export const entries = [
   {
@@ -19836,6 +19844,7 @@ export const entries = [
     distributor: "Dole",
   },
 ];
+// imports
 
 export const exportsList = [
   {
@@ -55707,6 +55716,7 @@ export const exportsList = [
     location: "Mack Lewis Foundation",
   },
 ];
+// exports
 
 export const shiftList = [
   {
@@ -64544,3 +64554,4 @@ export const shiftList = [
     name: "Chris Royston",
   },
 ];
+// volunteers
