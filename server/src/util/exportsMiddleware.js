@@ -51,26 +51,27 @@ export const isExportId = async (req, res, next) => {
   }
 };
 
-export const isLocationId = async (req, res, next) => {
+export const isLocationIdOptional = async (req, res, next) => {
   const { locationId } = req.body;
-  const location = await prisma.location.findUnique({
-    where: { id: locationId },
-  });
-  if (location === null || location === undefined) {
-    return res
-      .status(StatusCodes.BAD_REQUEST)
-      .json({ msg: "ERROR: this is not a valid location id" });
+  if (locationId !== null && locationId !== undefined) {
+    const location = await prisma.donationLocation.findUnique({
+      where: { id: locationId },
+    });
+    if (location === null || location === undefined) {
+      return res
+        .status(StatusCodes.BAD_REQUEST)
+        .json({ msg: "ERROR: location id is invalid" });
+    } else {
+      next();
+    }
   } else {
     next();
   }
 };
 
 export const returnIsBCF = async (req, res, next) => {
-  const { locationId, exportType } = req.body;
-  const location = await prisma.location.findUnique({
-    where: { id: locationId },
-  });
-  if (location !== "BCF Curbside" && exportType === "Return") {
+  const { donatedTo, exportType } = req.body;
+  if (donatedTo !== "BCF Curbside" && exportType === "Return") {
     return res
       .status(StatusCodes.BAD_REQUEST)
       .json({ msg: "ERROR: only food from BCF Curbside is returned" });

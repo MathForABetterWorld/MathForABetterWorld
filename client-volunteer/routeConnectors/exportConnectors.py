@@ -11,14 +11,16 @@ def getExports():
   r = http.request("GET", root + curPath + "/", headers={'Content-Type': 'application/json'})
   return r.data
 
-def postExport(userId, categoryId, weight, locationId, exportType):
+def postExport(userId, categoryId, donatedTo, weight, location, exportType):
   jsonDict = {
     "userId": userId,
     "categoryId": categoryId,
+    "donatedTo": donatedTo,
     "weight": weight,
     "exportType": exportType,
-    "locationId": locationId,
   }
+  if location > 0:
+    jsonDict["locationId"] = location
   f = json.dumps(jsonDict)
   r = http.request("POST", root + curPath + "/", body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
@@ -27,13 +29,13 @@ def deleteExport(idField):
   r = http.request("DELETE", root + curPath + "/" + idField, headers={'Content-Type': 'application/json'})
   return r.data
 
-def updateExport(idField, userId, categoryId, weight, exportType, locationId):
+def updateExport(idField, userId, categoryId, donatedTo, weight, exportType):
   f = json.dumps({
     "userId": userId,
     "categoryId": categoryId,
+    "donatedTo": donatedTo,
     "weight": weight,
     "exportType": exportType,
-    "locationId": locationId,
   })
   r = http.request("POST", root + curPath + "/edit/" + idField, body=f, headers={'Content-Type': 'application/json'})
   return r.data.decode('utf-8')
