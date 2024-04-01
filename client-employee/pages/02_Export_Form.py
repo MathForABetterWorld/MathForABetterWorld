@@ -52,21 +52,22 @@ env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 
 with st.form("template_form"):
     left, right = st.columns(2)
-    location = left.selectbox("Location (Who Food Was Donated To)", allLocations, format_func=lambda loc: f'{loc["name"]}')
-    category = right.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
-    exportType = left.selectbox("Export Type", (["Regular", "Damaged", "Recycle", "Compost", "Return"]))
-    weight = right.text_input("Weight", value="")
-    exportedBy = left.selectbox("User", allUsers, format_func=lambda use: f'{use["name"]}')
+    donatedTo = left.text_input("Who is the food going to?", value="")
+    location = right.selectbox("Location (Optional)", allLocations, format_func=lambda loc: f'{loc["name"]}')
+    category = left.selectbox("Category", allCategories, format_func=lambda cat: f'{cat["name"]}')
+
+    exportType = right.selectbox("Export Type", (["Regular", "Damaged", "Recycle", "Compost", "Return"]))
+    weight = left.text_input("Weight", value="")
+    exportedBy = right.selectbox("User", allUsers, format_func=lambda use: f'{use["name"]}')
     submit = st.form_submit_button()
 
 ### TODO:: update userID when sign in functionality is implemented
 if submit:
     categoryIndex = category["id"]
-    locationIndex = location["id"]
-    if weight == "" or locationIndex == -1 or categoryIndex == -1 or exportType == "" or exportedBy['id'] == -1:
+    if weight == "" or donatedTo == "" or categoryIndex == -1 or exportType == "" or exportedBy['id'] == -1:
         st.error('Please fill out the form')
     else:
-        r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, int(weight), location["id"], exportType))
+        r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, donatedTo, int(weight), location["id"], exportType))
         if "msg" not in r:
             st.balloons()
             st.success("🎉 Your export was generated!")

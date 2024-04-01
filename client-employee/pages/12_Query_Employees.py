@@ -6,7 +6,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 import os
-from routeConnectors import authConnectors, employeeConnectors, userConnector
+from routeConnectors import authConnectors, employeeConnectors
 import json
 from nav import nav_page
 
@@ -42,34 +42,18 @@ if 'token' in st.session_state:
     users = json.loads(employeeConnectors.getUsers())["users"]
     usersDF = pd.DataFrame.from_dict(users)
     filtered_usersDF = usersDF.dropna(subset=['employeeId'])
-    filtered_usersDF.loc[:, 'userName'] = filtered_usersDF['employee'].apply(lambda x: x['userName'] if x else None)
-    filtered_usersDF.loc[:, 'role'] = filtered_usersDF['employee'].apply(lambda x: x['role'] if x else None)
-    filtered_usersDF = filtered_usersDF.drop(columns=['employee', 'employeeId','id'])
-    filtered_usersDF.reset_index(drop=True, inplace=True)
-    st.dataframe(filtered_usersDF, use_container_width=True)
+    filtered_usersDF['userName'] = filtered_usersDF['employee'].apply(lambda x: x['userName'] if x else None)
+    filtered_usersDF['role'] = filtered_usersDF['employee'].apply(lambda x: x['role'] if x else None)
+    filtered_usersDF = filtered_usersDF.drop(columns=['employee', 'employeeId'])
+    st.dataframe(filtered_usersDF)
+    selectedIndex = st.selectbox('Select row:', filtered_usersDF.name)
 
-    st.write("Select an Employee to promote to Admin:")
-    filtered_users = [user for user in json.loads(employeeConnectors.getUsers())['users'] if (user["name"] in filtered_usersDF.name.values) and user["employee"]["role"] != "Admin"]
-    users = [{"id": -1, "name": "", "email": ""}] + filtered_users
-    allUsers = sorted(users, key=lambda use: use["name"])   
-    selectedIndex = st.selectbox("Employee Selection", allUsers, format_func=lambda use: f'{use["name"]}')
-
-    promoteToAdmin = st.button("Make Employee an Admin")
+    promoteToAdmin = st.button("Make User an Admin")
 
     if promoteToAdmin:
-        if selectedIndex == -1 :
-            st.error('Please fill out the form')
-        else :
-            idx = int(usersDF.loc[usersDF["name"] == selectedIndex["name"]].iloc[0].id)
-            r = employeeConnectors.promoteToAdmin(idx)
-            if "msg" not in r:
-                st.balloons()
-                st.success("🎉 Your employee was promoted!")
-            else:
-                st.error(r["msg"])
-else :
-    st.error("No access to query users. Please log in if employee.")
-    
+        idx = int(usersDF.loc[usersDF["name"] == selectedIndex].iloc[0].id)
+        r = employeeConnectors.promoteToAdmin(idx)
+
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
 # rerun.

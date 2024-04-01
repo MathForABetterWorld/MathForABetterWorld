@@ -68,10 +68,11 @@ model ExportItem {
   exportDate DateTime          @default(now()) @db.Date
   category   Category          @relation(fields: [categoryId], references: [id])
   categoryId Int
+  donatedTo  String
   user       User              @relation(fields: [userId], references: [id])
   userId     Int
-  location   DonationLocation @relation(fields: [locationId], references: [id])
-  locationId Int
+  location   DonationLocation? @relation(fields: [locationId], references: [id])
+  locationId Int?
   exportType ExportType        @default(Regular)
 }
 
