@@ -6,16 +6,17 @@ export const createExport = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { weight, categoryId, donatedTo, userId, locationId, exportType } =
-    req.body;
-  if (donatedTo == "BCF Curbside" && exportType == "Return") {
+  const { weight, categoryId, userId, locationId, exportType } = req.body;
+  const location = await prisma.location.findUnique({
+    where: { id: locationId },
+  });
+  if (location == "BCF Curbside" && exportType == "Return") {
     weight *= -1;
   }
   const exportItem = await prisma.exportItem.create({
     data: {
       weight,
       userId,
-      donatedTo,
       categoryId,
       locationId,
       exportType,
@@ -55,8 +56,7 @@ export const editExport = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const { weight, categoryId, donatedTo, userId, id, locationId, exportType } =
-    req.body;
+  const { weight, categoryId, userId, id, locationId, exportType } = req.body;
   const exportItem = await prisma.exportItem.update({
     where: {
       id,
@@ -64,7 +64,6 @@ export const editExport = async (req, res) => {
     data: {
       weight,
       userId,
-      donatedTo,
       categoryId,
       locationId,
       exportType,

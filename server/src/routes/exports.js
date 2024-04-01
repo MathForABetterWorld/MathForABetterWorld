@@ -17,20 +17,18 @@ router.post(
   body("categoryId", "Please include the category of the export")
     .notEmpty()
     .isInt(),
-  body(
-    "donatedTo",
-    "Please include the person/location this was donated to"
-  ).notEmpty(),
   body("userId", "Please include the user id that distributed this!")
     .notEmpty()
     .isInt(),
-  body("locationId", "LocationId must be an integer").optional().isInt(),
+  body("locationId", "Please include the person/location this was donated to")
+    .notEmpty()
+    .isInt(),
   body("exportType", "exportType must be a valid export type")
     .notEmpty()
     .isIn(["Regular", "Recycle", "Compost", "Damaged", "Return"]),
   validator.isUserId,
   validator.isCategoryId,
-  validator.isLocationIdOptional,
+  validator.isLocationId,
   validator.returnIsBCF,
   validator.weightUsuallyPositive,
   controller.createExport
@@ -54,21 +52,19 @@ router.post(
   body("categoryId", "Please include the category of the export")
     .notEmpty()
     .isInt(),
-  body(
-    "donatedTo",
-    "Please include the person/location this was donated to"
-  ).notEmpty(),
   body("userId", "Please include the user id that distributed this!")
     .notEmpty()
     .isInt(),
-  body("locationId", "LocationId must be an integer").optional().isInt(),
+  body("locationId", "Please include the person/location this was donated to")
+    .notEmpty()
+    .isInt(),
   body("exportType", "exportType must be a valid export type")
     .notEmpty()
     .isIn(["Regular", "Recycle", "Compost", "Damaged", "Return"]),
   validator.isExportId,
   validator.isUserId,
   validator.isCategoryId,
-  validator.isLocationIdOptional,
+  validator.isLocationId,
   validator.returnIsBCF,
   validator.weightUsuallyPositive,
   controller.createExport
