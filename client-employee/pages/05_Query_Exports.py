@@ -65,11 +65,11 @@ user_dict = json.loads(user_data_str)
 users = [{"id": -1, "name": "", "email": "", "isActive": True}] + user_dict['users']
 allUsers = sorted(users, key=lambda u: u["name"])
 
-userSelect = st.selectbox("Show all import from user", allUsers, format_func=lambda u: f'{u["name"]}')
+userSelect = st.selectbox("Show all exports from user", allUsers, format_func=lambda u: f'{u["name"]}')
 categorySelect = st.selectbox("Show all food of type", categories, format_func=lambda cat: f'{cat["name"]}')
 recSelect = st.selectbox("Show all food going to", sortedLocations, format_func=lambda loc: f'{loc["name"]}')
 
-sortBySelect = st.selectbox("Sort food imports by", sortByMap)
+sortBySelect = st.selectbox("Sort food exports by", sortByMap)
 
 df = pd.DataFrame(json.loads(exportConnectors.getExports().decode('utf-8'))["exports"])
 categoryDF = pd.DataFrame(categories)
@@ -130,7 +130,7 @@ st.dataframe(df, use_container_width=True)
 
 sum = df["Weight"].sum()
 
-s = pd.Series([sum], name='Total Import Weight')
+s = pd.Series([sum], name='Total Export Weight')
 
 st.dataframe(s, use_container_width=True)
 
