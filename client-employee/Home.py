@@ -39,43 +39,45 @@ log_in_button = st.button("Log in")
 logout_button = st.button("Logout")
 
 if log_in_button:
-    try:
-        if not user_input or not password_input:
-            st.error("fill out form")
-        else:
-            res = json.loads(authConnectors.signinEmployee(user_input, password_input))
-            st.session_state.token = res["token"]
+    if "token" not in st.session_state :
+        try:
+            if not user_input or not password_input:
+                st.error("fill out form")
+            else:
+                res = json.loads(authConnectors.signinEmployee(user_input, password_input))
+                st.session_state.token = res["token"]
 
-            # test successfuly login
-            st.write('successful login')
+                # test successfuly login
+                st.success('successful login')
 
-            
-            # connect to the employee data table
-            employee = employeeConnectors.getEmployees()
-            # get the employee table as a pandas df via json file
-            users2 = json.loads(employee)
-            users_df = pd.json_normalize(users2["employees"])
+                
+                # connect to the employee data table
+                employee = employeeConnectors.getEmployees()
+                # get the employee table as a pandas df via json file
+                users2 = json.loads(employee)
+                users_df = pd.json_normalize(users2["employees"])
 
-            # new column in the dataframe
-            #users_df.insert(0,"Blank_Column", " ")
-            # create column for the names of each user in the employee table
-            #user_names = users_df["userName"]
+                # new column in the dataframe
+                #users_df.insert(0,"Blank_Column", " ")
+                # create column for the names of each user in the employee table
+                #user_names = users_df["userName"]
 
 
-            #print(users_df)
-            # set the current time of shirt login
-            idx = users_df[users_df["userName"] == user_input].iloc[0]["user.id"]  # get id of the input username
-            st.write(idx)
-            st.session_state["idx"] = idx
+                #print(users_df)
+                # set the current time of shirt login
+                idx = users_df[users_df["userName"] == user_input].iloc[0]["user.id"]  # get id of the input username
+                st.session_state["idx"] = idx
 
-            st.write("Check in successful!")
-            # wait 2 seconds
-            #time.sleep(2)
-            st.experimental_rerun()
-            # redirect to UsersMain
-            # nav_page("UsersMain")
-    except Exception as e:
-        st.error("Login failed. Username or password incorrect")
+                user_role = users_df[users_df["userName"] == user_input].iloc[0]["role"]
+                if user_role == "Admin" :
+                    st.session_state.role = "Admin"
+
+                st.write("Check in successful!")
+                st.experimental_rerun()
+        except Exception as e:
+            st.error("Login failed. Username or password incorrect.")
+    else :
+        st.error("Login failed. Another user already logged in.")
 
 
 if logout_button: 
@@ -83,6 +85,8 @@ if logout_button:
 
     # add shirt duration time AND amount taken into the respective tables
     if 'token' in st.session_state:
+        if 'role' in st.session_state:
+            del st.session_state.role
         del st.session_state.token
     else:
         st.error("Already logged out")
