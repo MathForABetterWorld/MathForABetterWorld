@@ -7,10 +7,11 @@ from routeConnectors import pallet
 from routeConnectors import distributorConnectors
 from routeConnectors import rackConnector
 from routeConnectors import categoryConnectors
-from routeConnectors import userConnector
+from routeConnectors import shiftConnector
 import json
 import os
 from nav import nav_page
+import pandas as pd
 
 path = os.path.dirname(__file__)
 
@@ -47,10 +48,13 @@ allCategories = sorted(categories, key=lambda cat: cat["name"])
 
 
 allUsers = [{"id": -1, "name": ""}]
-dbUsers = json.loads(userConnector.getUsers().decode("utf-8"))
-if dbUsers:
-    allUsers = allUsers + dbUsers["users"]
-
+active_shifts = shiftConnector.activeShifts()
+active_shifts2 = json.loads(active_shifts)
+shifts = pd.json_normalize(active_shifts2["activateShifts"])
+if shifts.empty:
+    allUsers = []
+else:
+    allUsers = allUsers + shifts.apply(lambda x: {'id': x['user.id'], 'name': x['user.name']}, axis=1).tolist()
 
 title_container = st.container()
 col1, col2 = st.columns([1, 50])

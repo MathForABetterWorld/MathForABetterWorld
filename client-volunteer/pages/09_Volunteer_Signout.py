@@ -38,17 +38,17 @@ with title_container:
         st.markdown("<h1 style='text-align: center; '>Volunteer Sign-Out</h1>", unsafe_allow_html=True)
 
 
+active_users = [{"id": -1, "name": ""}]
 active_shifts = shiftConnector.activeShifts()
 active_shifts2 = json.loads(active_shifts)
-#st.write(active_shifts2)
 shifts = pd.json_normalize(active_shifts2["activateShifts"])
 if shifts.empty:
     active_users = []
 else:
-    active_users = shifts["user.name"]
+    active_users = active_users + shifts.apply(lambda x: {'id': x['user.id'], 'name': x['user.name']}, axis=1).tolist()
 #user_names = users["Name"]
 
-user_input = st.selectbox(label="Please enter your name", options = active_users)
+user_input = st.selectbox("Please enter your name", active_users, format_func=lambda user: f'{user["name"]}' )
 # food_input = st.text_input("Enter lbs of food")
 food_input = st.text_input("Enter lbs of regular food taken")
 damaged_food_input = st.text_input("Enter lbs of damaged food taken")

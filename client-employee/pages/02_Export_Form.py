@@ -4,7 +4,7 @@ from PIL import Image
 import datetime
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import os 
-from routeConnectors import categoryConnectors, locationConnectors, userConnector, exportConnectors
+from routeConnectors import categoryConnectors, locationConnectors, shiftConnector, exportConnectors
 import json
 import pandas as pd
 from nav import nav_page
@@ -37,15 +37,21 @@ with title_container:
     #     st.image(path + '/../assets/bmore_food_logo_dark_theme.png', width=60)
     with col2:
         st.markdown("<h1 style='text-align: center; '>Food export form</h1>", unsafe_allow_html=True)
-users = userConnector.getUsers()
 
 locations = [{"id": -1, "name": "", "longitude":"", "latitude": ""}]  + locationConnectors.getLocations()['location']
 allLocations = sorted(locations, key=lambda location: location["name"])
 
 categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
 allCategories = sorted(categories, key=lambda cat: cat["name"])
-users = [{"id": -1, "name": "", "email": ""}] + json.loads(userConnector.getUsers())['users']
-allUsers = sorted(users, key=lambda use: use["name"])
+
+allUsers = [{"id": -1, "name": ""}]
+active_shifts = shiftConnector.activeShifts()
+active_shifts2 = json.loads(active_shifts)
+shifts = pd.json_normalize(active_shifts2["activateShifts"])
+if shifts.empty:
+    allUsers = []
+else:
+    allUsers = allUsers + shifts.apply(lambda x: {'id': x['user.id'], 'name': x['user.name']}, axis=1).tolist()
 
 env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 
