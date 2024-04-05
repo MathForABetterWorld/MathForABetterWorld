@@ -28,7 +28,6 @@ else:
     log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
 
 
-print("getting racks....")
 racks = rackConnector.getRacks()["rack"]
 rackDF = pd.DataFrame(racks)
 

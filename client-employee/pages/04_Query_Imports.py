@@ -38,7 +38,6 @@ def getCompanyNames(company):
     return company["name"]
 
 # Get rack, distributor and category info 
-print("getting racks....")
 allRacks = ["", 1, 2, 3, 4, 5, 6]
 rackRes = rackConnector.getRacks()
 if rackRes: 
@@ -147,7 +146,7 @@ df.drop(columns=['entryUserId'], inplace=True)
 # df.drop(columns=['rackId'], inplace=True)
 
 df['inputDate'] = pd.to_datetime(df['inputDate'])
-df['inputDate'] = df['inputDate'].dt.strftime('%m-%d-%Y %H:%M:%S')
+df['inputDate'] = df['inputDate'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
 
 df.rename(columns={'id': 'ID', 'inputDate': 'Input Date', 'expirationDate': 'Expiration Date', 'weight': 'Weight', 'description': 'Description', 'categoryIds': 'Category IDs', 'barcodes': 'Barcodes', 'Categories': 'Categories'}, inplace=True)
