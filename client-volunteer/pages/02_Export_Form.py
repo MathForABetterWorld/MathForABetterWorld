@@ -61,6 +61,8 @@ if submit:
     if weight == "" or locationIndex == -1 or categoryIndex == -1 or exportType == "" or exportedBy['id'] == -1:
         st.error('Please fill out the form')
     else:
+        if location["name"] == "BCF Curbside - Remington" or location["name"] == "BCF [Non Curbside] - Remington":
+            st.warning("NOTE: Remington is the old BCF location. Find Employee to edit export if wrong BCF Location entered.")
         r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, int(weight), location["id"], exportType))
         if "msg" not in r:
             st.balloons()
