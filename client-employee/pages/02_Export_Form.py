@@ -55,7 +55,6 @@ else:
 
 env = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape())
 
-
 with st.form("template_form"):
     left, right = st.columns(2)
     location = left.selectbox("Location (Who Food Was Donated To)", allLocations, format_func=lambda loc: f'{loc["name"]}')
@@ -66,22 +65,19 @@ with st.form("template_form"):
     submit = st.form_submit_button()
 
 if submit:
-    if location["name"] == "BCF Curbside - Remington" or location["name"] == "BCF [Non Curbside] - Remington":
-        confirm = st.checkbox("NOTE: Remington is the old BCF location. Click to confirm that you have selected the correct location and did not mean to select the current BCF location: BCF Sandtown.")
-        if confirm:
-            categoryIndex = category["id"]
-            locationIndex = location["id"]
-            if weight == "" or locationIndex == -1 or categoryIndex == -1 or exportType == "" or exportedBy['id'] == -1:
-                st.error('Please fill out the form')
-            else:
-                r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, int(weight), location["id"], exportType))
-                if "msg" not in r:
-                    st.balloons()
-                    st.success("🎉 Your export was generated!")
-                else:
-                    st.error(r["msg"])
+    categoryIndex = category["id"]
+    locationIndex = location["id"]
+    if weight == "" or locationIndex == -1 or categoryIndex == -1 or exportType == "" or exportedBy['id'] == -1:
+        st.error('Please fill out the form')
+    else:
+        if location["name"] == "BCF Curbside - Remington" or location["name"] == "BCF [Non Curbside] - Remington":
+            st.warning("NOTE: Remington is the old BCF location. Find Employee to edit export if wrong BCF Location entered.")
+        r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, int(weight), location["id"], exportType))
+        if "msg" not in r:
+            st.balloons()
+            st.success("🎉 Your export was generated!")
         else:
-            st.warning("Please confirm the location before submitting the export.")
+            st.error(r["msg"])
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
@@ -90,6 +86,8 @@ st.button("Re-run")
 
 if log_button :
     if "token" in st.session_state :
+        if "role" in st.session_state :
+            del st.session_state.role
         del st.session_state.token
         st.experimental_rerun()
     else:

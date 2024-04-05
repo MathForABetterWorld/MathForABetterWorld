@@ -76,6 +76,8 @@ st.button("Re-run")
 
 if log_button :
     if "token" in st.session_state :
+        if "role" in st.session_state :
+            del st.session_state.role
         del st.session_state.token
         st.experimental_rerun()
     else:
