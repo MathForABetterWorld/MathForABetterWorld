@@ -35,12 +35,10 @@ with col3:
 pallets = json.loads(pallet.getFood())
 imports = pd.DataFrame(pallets["Pallet"])
 total_imports = imports["weight"].sum()
-imports
 
 exports = json.loads(exportConnectors.getExports())
 exports = pd.DataFrame(exports["exports"])
 total_exports = exports["weight"].sum()
-exports
 
 formatted_total_imports = "{:,.2f}".format(total_imports)
 formatted_total_exports = "{:,.2f}".format(total_exports)
