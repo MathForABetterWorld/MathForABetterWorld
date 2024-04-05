@@ -34,7 +34,6 @@ else:
     log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
 
 # Get rack, distributor and category info 
-print("getting racks....")
 allRacks = [{"id": -1, "location": "", "description": "", "weightLimit": 0}]
 rackRes = rackConnector.getRacks()
 if rackRes: 

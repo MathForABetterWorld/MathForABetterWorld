@@ -25,7 +25,6 @@ with col3:
     st.write(' ')
 
 # Get rack, distributor and category info 
-print("getting racks....")
 allRacks = [{"id": -1, "location": "", "description": "", "weightLimit": 0}]
 rackRes = rackConnector.getRacks()
 if rackRes: 

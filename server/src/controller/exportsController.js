@@ -7,7 +7,7 @@ export const createExport = async (req, res) => {
     return res;
   }
   const { weight, categoryId, userId, locationId, exportType } = req.body;
-  const location = await prisma.location.findUnique({
+  const location = await prisma.donationLocation.findUnique({
     where: { id: locationId },
   });
   if (location == "BCF Curbside" && exportType == "Return") {

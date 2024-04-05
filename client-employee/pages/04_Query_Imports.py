@@ -38,7 +38,6 @@ def getCompanyNames(company):
     return company["name"]
 
 # Get rack, distributor and category info 
-print("getting racks....")
 allRacks = ["", 1, 2, 3, 4, 5, 6]
 rackRes = rackConnector.getRacks()
 if rackRes: 

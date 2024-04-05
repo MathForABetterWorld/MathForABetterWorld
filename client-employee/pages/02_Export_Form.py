@@ -65,19 +65,23 @@ with st.form("template_form"):
     exportedBy = left.selectbox("User", allUsers, format_func=lambda use: f'{use["name"]}')
     submit = st.form_submit_button()
 
-### TODO:: update userID when sign in functionality is implemented
 if submit:
-    categoryIndex = category["id"]
-    locationIndex = location["id"]
-    if weight == "" or locationIndex == -1 or categoryIndex == -1 or exportType == "" or exportedBy['id'] == -1:
-        st.error('Please fill out the form')
-    else:
-        r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, int(weight), location["id"], exportType))
-        if "msg" not in r:
-            st.balloons()
-            st.success("🎉 Your export was generated!")
+    if location["name"] == "BCF Curbside - Remington" or location["name"] == "BCF [Non Curbside] - Remington":
+        confirm = st.checkbox("NOTE: Remington is the old BCF location. Click to confirm that you have selected the correct location and did not mean to select the current BCF location: BCF Sandtown.")
+        if confirm:
+            categoryIndex = category["id"]
+            locationIndex = location["id"]
+            if weight == "" or locationIndex == -1 or categoryIndex == -1 or exportType == "" or exportedBy['id'] == -1:
+                st.error('Please fill out the form')
+            else:
+                r = json.loads(exportConnectors.postExport(exportedBy["id"], categoryIndex, int(weight), location["id"], exportType))
+                if "msg" not in r:
+                    st.balloons()
+                    st.success("🎉 Your export was generated!")
+                else:
+                    st.error(r["msg"])
         else:
-            st.error(r["msg"])
+            st.warning("Please confirm the location before submitting the export.")
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
