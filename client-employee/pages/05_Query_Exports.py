@@ -120,7 +120,7 @@ df['Entry User'] = df['userId'].apply(getUserById)
 df.drop(columns=['userId'], inplace=True)
 
 df['exportDate'] = pd.to_datetime(df['exportDate'])
-df['exportDate'] = df['exportDate'].dt.strftime('%m-%d-%Y %H:%M:%S')
+df['exportDate'] = df['exportDate'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
 df.rename(columns={'id': 'ID', 'exportDate': 'Export Date', 'location': 'Location', 'weight': 'Weight', "exportType": "Export Type", 'category': 'Categories'}, inplace=True)
 columns_to_display = ['Entry User', 'Export Date', 'Location', 'Weight', 'Categories', "Export Type"]

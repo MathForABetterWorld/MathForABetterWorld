@@ -482,329 +482,331 @@ export const rackList = [
 ];
 
 export const usersList = [
-  "Abisola Adeusi", // final
-  "Adebola Akinwale", // final
-  "Adeola Sulaiman", // final
-  "Adeolu Mojibola", // final
-  "Adriana Hill", // final
-  "Aisha", // final
-  "Akul Umamageswaran", // final
-  "Alex Bauer", // final
-  "Alex Nguyen", // final
-  "Alexia Lilly", // final
-  "Amy Xing ", // final
-  "Andrew Kolodziejczak", // final
-  "Andrew Thampoe", // final
-  "Andy", // final
-  "Angeles", // final
-  "Anita Bryant", // final
-  "Anna Nicosia", // final
-  "Anna West", // final
-  "Arezou Esmaeeli", // final
-  "Ariel Li", // final
-  "Arjun Yogaratnam", // final
-  "Ausar", // final
-  "Aza Shiao", // final
-  "Azel King", // final
-  "Aziza", // final
-  "Barbara Zadek", // final
-  "Benjamin Hung", // final
-  "Bertille", // final
-  "Beth Torres", // final
-  "Beverly Graham", // final
-  "Beverly Pinn", // final
-  "Brad Burton", // final
-  "Brandon Clark", // final
-  "Brendan Wille", // final
-  "Brian Min", // final
-  "Bud Stracker - Sisson Street DPW", // final
-  "Bud Stracker", // final
-  "Cailyn Lawler", // final
-  "Cameron Dong", // final
-  "Cameron Minor", // final
-  "Camille", // final
-  "Carla T", // final
-  "Charisse", // final
-  "Charity Hsu", // final
-  "Charlie", // final
-  "Charmika Burton", // final
-  "Chenoa Martin", // final
-  "Cheryl Utsey", // final
-  "Cindy Silveira", // final
-  "Claire Ahn", // final
-  "Claire Kim", // final
-  "Claire", // final
-  "Clarice", // final
-  "Coach Dunkin", // final
-  "Cody Windley", // final
-  "Connor Gephart", // final
-  "Connor Lu", // final
-  "Dan Pike", // final
-  "Daniel Huff", // final
-  "Daniel Jin", // final
-  "Daphnie Sumah", // final
-  "Daryan Fisher", // final
-  "David Annan", // final
-  "David Ondande", // final
-  "Dean Chien", // final
-  "Dean Sharif", // final
-  "Deborah Claridy", // final
-  "Denise Rivers", // final
-  "Derek Dang", // final
-  "Diego Trafton", // final
-  "Dimpy", // final
-  "Doris Parker Tuggle", // final
-  "Dorja", // final
-  "Dynashia Woodson", // final
-  "Elianna Perlman", // final
-  "Elizabeth Rehn", // final
-  "Ellen Cho", // final
-  "Emi Ochoa", // final
-  "Emily B", // final
-  "Emily Fitzpatrick", // final
-  "Emily Ma", // final
-  "Emily Stucke", // final
-  "Emily Zhang", // final
-  "Eric Alvarado", // final
-  "Erin B", // final
-  "Evelyn Jiang", // final
-  "Fadil Santosa", // final
-  "Faith Obilo", // final
-  "First Fruits Farm", // final
-  "GBMC", // final
-  "GG", // final
-  "Gabriel C", // final
-  "Gene", // final
-  "Gilda Castillo", // final
-  "Gregory", // final
-  "Hannah Johnson", // final
-  "Harris Malik", // final
-  "Hong", // final
-  "Ifeoluwa Akinropo", // final
-  "Imani Armour", // final
-  "Isaiah Gordon", // final
-  "Iyana Gross", // final
-  "JC", // final
-  "Jack Bellows", // final
-  "Jackee", // final
-  "Jackie", // final
-  "Jade Weatherington", // final
-  "Jan Kleinman", // final
-  "Janet Lomax", // final
-  "Jasmine Jones-Howard", // final
-  "Jasmine Rose", // final
-  "Jayla Butler", // final
-  "Jaylen Harvey", // final
-  "Jean", // final
-  "Jelani Dula", // final
-  "Jemila", // final
-  "Jessica Lee", // final
-  "Jessica Martin", // final
-  "Jillayne Clarke", // final
-  "Jilleien Franquelli", // final
-  "Joanna", // final
-  "Jonathan Shay", // final
-  "Jonyce Bland", // final
-  "Josefina Aguilar-Pliszka", // final
-  "Juanita Chandler", // final
-  "Judy", // final
-  "Julia Buckson", // final
-  "Justin Coelho", // final
-  "Justin Huang", // final
-  "Justin Maduka", // final
-  "Justin Zhong", // final
-  "Kaleigh Rudge", // final
-  "Kamau", // final
-  "Kamille", // final
-  "Kamryn Brown", // final
-  "Kaneesha", // final
-  "Karen Moore", // final
-  "Karla Alexander", // final
-  "Kate Weeks", // final
-  "Katelyn", // final
-  "Katherine Wang", // final
-  "Katherine Xiao", // final
-  "Kathleen Lac", // final
-  "Kelly Chen", // final
-  "Kelly Crawford", // final
-  "Kennedy", // final
-  "Kiera Payne", // final
-  "Kira Branch", // final
-  "Kyla", // final
-  "Kyle Cooper", // final
-  "Ladaisha Thompson", // final
-  "Laila", // final
-  "Lanae", // final
-  "Laronda", // final
-  "Latease", // final
-  "Layia", // final
-  "Leap", // final
-  "Lee Little", // final
-  "Liam Stewart", // final
-  "Linda Arce", // final
-  "Luke Mayhew", // final
-  "Luke Pitsenbarger", // final
-  "Lynda Bishop", // final
-  "Lynnette Cromer", // final
-  "Lynwood McDaniel", // final
-  "Mackenzie", // final
-  "Maddie Pardes", // final
-  "Makayla Boyce", // final
-  "Marci Yankelov", // final
-  "Marquise Pearson", // final
-  "Martina Pozzi", // final
-  "Mary Jo Gary", // final
-  "Meghan Alexis", // final
-  "Mekayle", // final
-  "Melissa Thomas", // final
-  "Meredith Snow", // final
-  "Michael Ford", // final
-  "Michael Nwachukwu", // final
-  "Michael Yoo", // final
-  "Mike Foy", // final
-  "Monah Perry", // final
-  "Morgan", // final
-  "Munazza Abraham", // final
-  "Myles Austin", // final
-  "Nader Najjar", // final
-  "Nailah Bishop", // final
-  "Nakia", // final
-  "Nani Herring", // final
-  "Nanrui Gong", // final
-  "Nastaran Keshmiri", // final
-  "Nathan So", // final
-  "Nathaniel McClean", // final
-  "Ngozi Douglas", // final
-  "Nia Bishop", // final
-  "Nicolle Diaz", // final
-  "Nidhi Batra", // final
-  "Nina Early", // final
-  "Norma Kriger", // final
-  "Nyasia Arrington", // final
-  "Obinna Nwokoro", // final
-  "Octavia", // final
-  "Olamilekan Sulaiman", // final
-  "Opeyemi Faleye", // final
-  "Other", // final
-  "Paul H", // final
-  "Perry Faulk", // final
-  "Phillip Blackwell", // final
-  "Polly", // final
-  "Prabhleen", // final
-  "Rachel H", // final
-  "Rachel Lee", // final
-  "Rachel Oh", // final
-  "Raquel Bailey", // final
-  "Rawan Elshobaky", // final
-  "Rewa Hazim", // final
-  "Rilynn White", // final
-  "Romaine Bouldin", // final
-  "Rosemary Hendricks", // final
-  "Roxane", // final
-  "Ryan Murphy", // final
-  "Safeer Rasul", // final
-  "Safire Windley", // final
-  "Sandy W", // final
-  "Sara B", // final
-  "Sarah K", // final
-  "Sean Kwak", // final
-  "Seth Crawford", // final
-  "Sharon", // final
-  "Sheneil Black", // final
-  "Shoshana Kott", // final
-  "Sierra Jai Smith", // final
-  "Spencer Ellsworth", // final
-  "Sue Daja", // final
-  "Sunita Pathik", // final
-  "Susan Larson", // final
-  "Susan May", // final
-  "Sydni Demby", // final
-  "Taja Keitt", // final
-  "Takiya Eastmond", // final
-  "Tam Kelley", // final
-  "Tara Brooky", // final
-  "Tariq", // final
-  "Tashana", // final
-  "Teia", // final
-  "Theresa Columbus", // final
-  "Theresa Keil", // final
-  "Thomas Aloisi", // final
-  "Tina Paquet", // final
-  "Tishea Lester", // final
-  "Torey Wilkins", // final
-  "Tracee Erskine", // final
-  "Tram Nguyen", // final
-  "Travis James", // final
-  "Treston Codrington", // final
-  "Trinity Burge", // final
-  "Tsion Getahun", // final
-  "Tyrese Springer", // final
-  "Vincent Faulk", // final
-  "Waldo", // final
-  "William Middlezong", // final
-  "Xinyue Gu", // final
-  "Xiomara Rodriguez", // final
-  "Yasmine", // final
-  "Young", // final
-  "Yulia", // final
-  "Zanya Jamieson", // final
-  "Zoe", // final
-  "Zyare Abdul-Rahim", // final
+  "2020 Manually Inputted Data",
+  "2021 Manually Inputted Data",
+  "Abisola Adeusi",
+  "Adebola Akinwale",
+  "Adeola Sulaiman",
+  "Adeolu Mojibola",
+  "Adriana Hill",
+  "Aisha",
+  "Akul Umamageswaran",
+  "Alex Bauer",
+  "Alex Nguyen",
+  "Alexia Lilly",
+  "Amy Xing ",
+  "Andrew Kolodziejczak",
+  "Andrew Thampoe",
+  "Andy",
+  "Angeles",
+  "Anita Bryant",
+  "Anna Nicosia",
+  "Anna West",
+  "Arezou Esmaeeli",
+  "Ariel Li",
+  "Arjun Yogaratnam",
+  "Ausar",
+  "Aza Shiao",
+  "Azel King",
+  "Aziza",
+  "Barbara Zadek",
+  "Benjamin Hung",
+  "Bertille",
+  "Beth Torres",
+  "Beverly Graham",
+  "Beverly Pinn",
+  "Brad Burton",
+  "Brandon Clark",
+  "Brendan Wille",
+  "Brian Min",
+  "Bud Stracker - Sisson Street DPW",
+  "Bud Stracker",
+  "Cailyn Lawler",
+  "Cameron Dong",
+  "Cameron Minor",
+  "Camille",
+  "Carla T",
+  "Charisse",
+  "Charity Hsu",
+  "Charlie",
+  "Charmika Burton",
+  "Chenoa Martin",
+  "Cheryl Utsey",
+  "Cindy Silveira",
+  "Claire Ahn",
+  "Claire Kim",
+  "Claire",
+  "Clarice",
+  "Coach Dunkin",
+  "Cody Windley",
+  "Connor Gephart",
+  "Connor Lu",
+  "Dan Pike",
+  "Daniel Huff",
+  "Daniel Jin",
+  "Daphnie Sumah",
+  "Daryan Fisher",
+  "David Annan",
+  "David Ondande",
+  "Dean Chien",
+  "Dean Sharif",
+  "Deborah Claridy",
+  "Denise Rivers",
+  "Derek Dang",
+  "Diego Trafton",
+  "Dimpy",
+  "Doris Parker Tuggle",
+  "Dorja",
+  "Dynashia Woodson",
+  "Elianna Perlman",
+  "Elizabeth Rehn",
+  "Ellen Cho",
+  "Emi Ochoa",
+  "Emily B",
+  "Emily Fitzpatrick",
+  "Emily Ma",
+  "Emily Stucke",
+  "Emily Zhang",
+  "Eric Alvarado",
+  "Erin B",
+  "Evelyn Jiang",
+  "Fadil Santosa",
+  "Faith Obilo",
+  "First Fruits Farm",
+  "GBMC",
+  "GG",
+  "Gabriel C",
+  "Gene",
+  "Gilda Castillo",
+  "Gregory",
+  "Hannah Johnson",
+  "Harris Malik",
+  "Hong",
+  "Ifeoluwa Akinropo",
+  "Imani Armour",
+  "Isaiah Gordon",
+  "Iyana Gross",
+  "JC",
+  "Jack Bellows",
+  "Jackee",
+  "Jackie",
+  "Jade Weatherington",
+  "Jan Kleinman",
+  "Janet Lomax",
+  "Jasmine Jones-Howard",
+  "Jasmine Rose",
+  "Jayla Butler",
+  "Jaylen Harvey",
+  "Jean",
+  "Jelani Dula",
+  "Jemila",
+  "Jessica Lee",
+  "Jessica Martin",
+  "Jillayne Clarke",
+  "Jilleien Franquelli",
+  "Joanna",
+  "Jonathan Shay",
+  "Jonyce Bland",
+  "Josefina Aguilar-Pliszka",
+  "Juanita Chandler",
+  "Judy",
+  "Julia Buckson",
+  "Justin Coelho",
+  "Justin Huang",
+  "Justin Maduka",
+  "Justin Zhong",
+  "Kaleigh Rudge",
+  "Kamau",
+  "Kamille",
+  "Kamryn Brown",
+  "Kaneesha",
+  "Karen Moore",
+  "Karla Alexander",
+  "Kate Weeks",
+  "Katelyn",
+  "Katherine Wang",
+  "Katherine Xiao",
+  "Kathleen Lac",
+  "Kelly Chen",
+  "Kelly Crawford",
+  "Kennedy",
+  "Kiera Payne",
+  "Kira Branch",
+  "Kyla",
+  "Kyle Cooper",
+  "Ladaisha Thompson",
+  "Laila",
+  "Lanae",
+  "Laronda",
+  "Latease",
+  "Layia",
+  "Leap",
+  "Lee Little",
+  "Liam Stewart",
+  "Linda Arce",
+  "Luke Mayhew",
+  "Luke Pitsenbarger",
+  "Lynda Bishop",
+  "Lynnette Cromer",
+  "Lynwood McDaniel",
+  "Mackenzie",
+  "Maddie Pardes",
+  "Makayla Boyce",
+  "Marci Yankelov",
+  "Marquise Pearson",
+  "Martina Pozzi",
+  "Mary Jo Gary",
+  "Meghan Alexis",
+  "Mekayle",
+  "Melissa Thomas",
+  "Meredith Snow",
+  "Michael Ford",
+  "Michael Nwachukwu",
+  "Michael Yoo",
+  "Mike Foy",
+  "Monah Perry",
+  "Morgan",
+  "Munazza Abraham",
+  "Myles Austin",
+  "Nader Najjar",
+  "Nailah Bishop",
+  "Nakia",
+  "Nani Herring",
+  "Nanrui Gong",
+  "Nastaran Keshmiri",
+  "Nathan So",
+  "Nathaniel McClean",
+  "Ngozi Douglas",
+  "Nia Bishop",
+  "Nicolle Diaz",
+  "Nidhi Batra",
+  "Nina Early",
+  "Norma Kriger",
+  "Nyasia Arrington",
+  "Obinna Nwokoro",
+  "Octavia",
+  "Olamilekan Sulaiman",
+  "Opeyemi Faleye",
+  "Other",
+  "Paul H",
+  "Perry Faulk",
+  "Phillip Blackwell",
+  "Polly",
+  "Prabhleen",
+  "Rachel H",
+  "Rachel Lee",
+  "Rachel Oh",
+  "Raquel Bailey",
+  "Rawan Elshobaky",
+  "Rewa Hazim",
+  "Rilynn White",
+  "Romaine Bouldin",
+  "Rosemary Hendricks",
+  "Roxane",
+  "Ryan Murphy",
+  "Safeer Rasul",
+  "Safire Windley",
+  "Sandy W",
+  "Sara B",
+  "Sarah K",
+  "Sean Kwak",
+  "Seth Crawford",
+  "Sharon",
+  "Sheneil Black",
+  "Shoshana Kott",
+  "Sierra Jai Smith",
+  "Spencer Ellsworth",
+  "Sue Daja",
+  "Sunita Pathik",
+  "Susan Larson",
+  "Susan May",
+  "Sydni Demby",
+  "Taja Keitt",
+  "Takiya Eastmond",
+  "Tam Kelley",
+  "Tara Brooky",
+  "Tariq",
+  "Tashana",
+  "Teia",
+  "Theresa Columbus",
+  "Theresa Keil",
+  "Thomas Aloisi",
+  "Tina Paquet",
+  "Tishea Lester",
+  "Torey Wilkins",
+  "Tracee Erskine",
+  "Tram Nguyen",
+  "Travis James",
+  "Treston Codrington",
+  "Trinity Burge",
+  "Tsion Getahun",
+  "Tyrese Springer",
+  "Vincent Faulk",
+  "Waldo",
+  "William Middlezong",
+  "Xinyue Gu",
+  "Xiomara Rodriguez",
+  "Yasmine",
+  "Young",
+  "Yulia",
+  "Zanya Jamieson",
+  "Zoe",
+  "Zyare Abdul-Rahim",
 ];
 
 export const categoryList = [
-  "Assorted Dry", // final
-  "Assorted Fridge", // final
-  "Baby Supplies", // final
-  "Canned Goods", // final
-  "Cleaning Supplies", // final
-  "Condiments", // final
-  "Dairy", // final
-  "Danone - Coffee", // final
-  "Danone - Creamer", // final
-  "Danone - Milk", // final
-  "Danone - Plant Based Drink", // final
-  "Danone - Yogurt", // final
-  "Dole - Fruit Cups", // final
-  "Dole - Juice", // final
-  "Drinks [Dry]", // final
-  "Drinks [Fridge]", // final
-  "Frozen [Not Meat]", // final
-  "Grains (rice, pasta, etc.)", // final
-  "Health & Beauty Products", // final
-  "Household", // final
-  "Meat [Raw]", // final
-  "Oil", // final
+  "Assorted Dry",
+  "Assorted Fridge",
+  "Baby Supplies",
+  "Canned Goods",
+  "Cleaning Supplies",
+  "Condiments",
+  "Dairy",
+  "Danone - Coffee",
+  "Danone - Creamer",
+  "Danone - Milk",
+  "Danone - Plant Based Drink",
+  "Danone - Yogurt",
+  "Dole - Fruit Cups",
+  "Dole - Juice",
+  "Drinks [Dry]",
+  "Drinks [Fridge]",
+  "Frozen [Not Meat]",
+  "Grains (rice, pasta, etc.)",
+  "Health & Beauty Products",
+  "Household",
+  "Meat [Raw]",
+  "Oil",
   "Other", //final
-  "Paper Supplies", // final
-  "Personal Care", // final
-  "Pet Supplies", // final
-  "Produce", // final
-  "Snacks", // final
-  "Spices", // final
-  "Water", // final
+  "Paper Supplies",
+  "Personal Care",
+  "Pet Supplies",
+  "Produce",
+  "Snacks",
+  "Spices",
+  "Water",
 ];
 
 export const distributorList = [
-  "Alto Dale Farm", // final
-  "Amazon", // final
-  "BCF", // final
-  "Clemens Food Group", // final
-  "Common Market", // final
-  "Dannon", // final
-  "Dietz & Watson", // final
-  "Dole", // final
-  "Donation", // final
-  "EMD", // final
-  "Farmlink [Mauricio]", // final
-  "First Fruits Farm", // final
-  "Guinness", // final
-  "H and S Bakery", // final
-  "Henderson-Hopkins", // final
-  "McCormick", // final
-  "Other", // final
-  "Sandtown", // final
-  "Walmart", // final
+  "Alto Dale Farm",
+  "Amazon",
+  "BCF",
+  "Clemens Food Group",
+  "Common Market",
+  "Dannon",
+  "Dietz & Watson",
+  "Dole",
+  "Donation",
+  "EMD",
+  "Farmlink [Mauricio]",
+  "First Fruits Farm",
+  "Guinness",
+  "H and S Bakery",
+  "Henderson-Hopkins",
+  "McCormick",
+  "Other",
+  "Sandtown",
+  "Walmart",
 ];
 
 export const donatedToList = [
@@ -884,11 +886,6 @@ export const donatedToList = [
     longitude: "0",
   },
   {
-    name: "Other Organization",
-    latitude: "0",
-    longitude: "0",
-  },
-  {
     name: "McCollouh Homes [Coach Dunkin]",
     latitude: "39.30086548695787",
     longitude: "-76.62766018898213",
@@ -951,6 +948,20 @@ export const donatedToList = [
 ];
 
 export const entries = [
+  {
+    date: "2020-01-01 00:00:00",
+    name: "2020 Manually Inputted Data",
+    weight: 1123621,
+    category: "Other",
+    distributor: "Other",
+  },
+  {
+    date: "2021-01-01 00:00:00",
+    name: "2021 Manually Inputted Data",
+    weight: 1587992,
+    category: "Other",
+    distributor: "Other",
+  },
   {
     date: "2022-01-04 18:15:08.589000",
     name: "JC",
@@ -16739,6 +16750,20 @@ export const entries = [
 ];
 
 export const exportsList = [
+  {
+    date: "2020-01-01 00:00:00:00",
+    name: "2020 Manually Inputted Data",
+    weight: 821981,
+    category: "Other",
+    location: "Other Organization",
+  },
+  {
+    date: "2021-01-01 00:00:00:00",
+    name: "2021 Manually Inputted Data",
+    weight: 1711977,
+    category: "Other",
+    location: "Other Organization",
+  },
   {
     date: "2022-01-06 14:52:56.276000",
     name: "Teia",
