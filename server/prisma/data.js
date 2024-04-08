@@ -16762,7 +16762,7 @@ export const entries = [
 export const exportsList = [
   {
     date: "2020-01-01 00:00:00:00",
-    name: "TEST EXPORT",
+    name: "2020 Manually Inputted Data",
     weight: 0,
     category: "Other",
     location: "Other Organization",
