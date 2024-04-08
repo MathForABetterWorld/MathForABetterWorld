@@ -16763,13 +16763,6 @@ export const exportsList = [
   {
     date: "2020-01-01 00:00:00:00",
     name: "2020 Manually Inputted Data",
-    weight: 0,
-    category: "Other",
-    location: "Other Organization",
-  },
-  {
-    date: "2020-01-01 00:00:00:00",
-    name: "2020 Manually Inputted Data",
     weight: 821981,
     category: "Other",
     location: "Other Organization",
