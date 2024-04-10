@@ -87,6 +87,7 @@ model Distributor {
   id               Int      @id @default(autoincrement())
   name             String   @unique
   distributedEntry Pallet[]
+  test  Boolean @default(true)
 }
 
 model Rack {
