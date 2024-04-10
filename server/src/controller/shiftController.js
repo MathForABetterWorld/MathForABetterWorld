@@ -17,7 +17,7 @@ export const createShift = async (req, res) => {
     data: {
       userId,
       start: new Date(start),
-      end: new Date(end),
+      end: end !== "1970-01-01T00:00:00.000Z" ? new Date(end) : null,
       regularFoodTaken,
       damagedFoodTaken,
     },
@@ -45,7 +45,8 @@ export const updateShift = async (req, res) => {
     return res;
   }
 
-  const { id, user, userId, start, end, regularFoodTaken, damagedFoodTaken } = req.body;
+  const { id, user, userId, start, end, regularFoodTaken, damagedFoodTaken } =
+    req.body;
   const shift = await prisma.shift.update({
     where: {
       id,
@@ -55,7 +56,7 @@ export const updateShift = async (req, res) => {
       start,
       end,
       regularFoodTaken,
-      damagedFoodTaken
+      damagedFoodTaken,
     },
   });
   return res.status(StatusCodes.ACCEPTED).json({ shift });
@@ -124,18 +125,15 @@ export const getActiveShifts = async (req, res) => {
   if (validate(req, res)) {
     return res;
   }
-  const activateShifts = await prisma.shift.findMany({
+  const activeShifts = await prisma.shift.findMany({
     where: {
-      end: null,
-      user: {
-        employeeId: null,
-      },
+      end: null || "1970-01-01T00:00:00.000Z",
     },
     include: {
       user: true,
     },
   });
-  return res.status(StatusCodes.ACCEPTED).json({ activateShifts });
+  return res.status(StatusCodes.ACCEPTED).json({ activeShifts });
 };
 
 export const getTotalFoodGivenToVolunteers = async (req, res) => {
@@ -152,7 +150,9 @@ export const getTotalFoodGivenToVolunteers = async (req, res) => {
       damagedFoodTaken: true,
     },
   });
-  return res.status(StatusCodes.ACCEPTED).json({ totalRegularFoodToVolunteers, totalDamagedFoodToVolunteers });
+  return res
+    .status(StatusCodes.ACCEPTED)
+    .json({ totalRegularFoodToVolunteers, totalDamagedFoodToVolunteers });
 };
 
 export const getShiftsInRange = async (req, res) => {

@@ -43,7 +43,6 @@ if check_in_button:
     else:
         startTime = datetime.now()
         shiftConnector.postShift(user_input["id"], startTime.isoformat())
-
         st.write("Check in successful!")
 
 # Streamlit widgets automatically run the script from top to bottom. Since
