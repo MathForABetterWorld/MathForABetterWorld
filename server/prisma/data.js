@@ -19918,7 +19918,7 @@ export const exportsList = [
     name: "Coach Dunkin",
     weight: 248,
     category: "Meat [Raw]",
-    location: "",
+    location: "McCollouh Homes [Coach Dunkin]",
   },
   {
     date: "2022-01-06 15:02:58.839000",
