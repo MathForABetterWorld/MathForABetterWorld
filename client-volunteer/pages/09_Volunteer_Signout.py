@@ -65,7 +65,9 @@ if st.session_state['button'] == True:
         st.error("Please enter a user.")
         st.session_state['button'] = False
     else :
-        row = shifts[shifts["user.name"] == user_input].iloc[0]
+        user_id = user_input.get("id")
+        user_name = user_input.get("name")
+        row = shifts[(shifts["user.id"] == user_id) & (shifts["user.name"] == user_name)]
 
         # food_input must be a non-negative float
         if is_non_neg_float(food_input) and is_non_neg_float(damaged_food_input):
@@ -85,16 +87,16 @@ if st.session_state['button'] == True:
                         st.session_state['button'] = False
                         nav_page("Volunteer_Home")
                     else:
-                        current_user_id = user_input
+                        current_user_id = user_id
                         shift_id = row["id"]
-                        shiftConnector.signout(foodAmt, int(shift_id), damagedFoodAmt)
+                        shiftConnector.signout(foodAmt, shift_id, damagedFoodAmt)
                         st.write("Sign out successful!")
                         # wait 2 seconds
                         time.sleep(2)
                         st.session_state['button'] = False
                         nav_page("Volunteer_Home")
             else: 
-                current_user_id = user_input
+                current_user_id = user_id
                 shift_id = row["id"]
                 shiftConnector.signout(foodAmt, int(shift_id), damagedFoodAmt)
                 st.write("Sign out successful!")
