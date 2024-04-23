@@ -85,7 +85,7 @@ if st.session_state['button'] == True:
                         st.error("Invalid admin login, volunteer not signed out")
                         time.sleep(2)
                         st.session_state['button'] = False
-                        nav_page("Volunteer_Home")
+                        nav_page("")
                     else:
                         current_user_id = user_id
                         shift_id = row["id"]
@@ -94,13 +94,14 @@ if st.session_state['button'] == True:
                         # wait 2 seconds
                         time.sleep(2)
                         st.session_state['button'] = False
-                        nav_page("Volunteer_Home")
+                        nav_page("")
             else: 
                 current_user_id = user_id
                 shift_id = row["id"]
                 shiftConnector.signout(foodAmt, int(shift_id), damagedFoodAmt)
                 st.write("Sign out successful!")
                 st.session_state['button'] = False
+                nav_page("")
         else:
             st.error("Please enter a number at least greater than or equal to 0.")
             st.session_state['button'] = False
