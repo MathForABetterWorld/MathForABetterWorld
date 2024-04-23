@@ -941,6 +941,11 @@ export const donatedToList = [
     longitude: "0",
   },
   {
+    name: "First Fruit Farm",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
     name: "GBMC",
     latitude: "39.390878740618675",
     longitude: "-76.62505630699006",
@@ -1036,12 +1041,17 @@ export const donatedToList = [
     longitude: "-76.643036",
   },
   {
+    name: "Share Baby",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
     name: "So What Else",
     latitude: "39.28205808981843",
     longitude: "-76.65066306296282",
   },
   {
-    name: "Sons of Phoenix",
+    name: "Sons Of Phoenix",
     latitude: "0",
     longitude: "0",
   },
@@ -56016,7 +56026,7 @@ export const exportsList = [
     date: "2024-01-18 00:00:00",
     name: "Rochelle Clunie",
     weight: 578,
-    category: "Paper Plate",
+    category: "Paper Supplies",
     location: "Janet Arce",
   },
   {
@@ -57696,7 +57706,7 @@ export const exportsList = [
     date: "2024-02-24 00:00:00",
     name: "Rochelle Clunie",
     weight: 376,
-    category: "Paper Plate",
+    category: "Paper Supplies",
     location: "BCF Curbside [Sandtown]",
   },
   {
@@ -58788,7 +58798,7 @@ export const exportsList = [
     date: "2024-03-14 00:00:00",
     name: "Rochelle Clunie",
     weight: 504,
-    category: "Paper Plate",
+    category: "Paper Supplies",
     location: "Janet Arce",
   },
   {
