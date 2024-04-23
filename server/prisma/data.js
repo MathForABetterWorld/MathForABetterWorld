@@ -55725,3597 +55725,3597 @@ export const exportsList = [
     category: "Dole - Fruit Cups",
     location: "Mack Lewis Foundation",
   },
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 378,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 278,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 291,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 229,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 247,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 258,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 179,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 137,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 237,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 278,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 689,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1723,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 212,
-		category: "Assorted Dry",
-		location: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2024-01-12 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1102,
-		category: "Dairy",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-01-12 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 729,
-		category: "Produce",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-01-12 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 876,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-01-12 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 379,
-		category: "Assorted Dry",
-		location: "Sunita [Delivery]"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1817,
-		category: "Produce",
-		location: "Pedro"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1817,
-		category: "Produce",
-		location: "Pedro"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1816,
-		category: "Produce",
-		location: "Pedro"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1819,
-		category: "Produce",
-		location: "Pedro"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 379,
-		category: "Assorted Dry",
-		location: "Pedro"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 395,
-		category: "Assorted Dry",
-		location: "Pedro"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 394,
-		category: "Assorted Dry",
-		location: "Pedro"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 369,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Pedro"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 367,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Pedro"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 721,
-		category: "Assorted Dry",
-		location: "Pedro"
-	},
-	{
-		date: "2024-01-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 401,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-01-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 20,
-		category: "Pet Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 4200,
-		category: "Assorted Dry",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1819,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1817,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 876,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 722,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 687,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 689,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 656,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 672,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 658,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 686,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 685,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 578,
-		category: "Paper Plate",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1091,
-		category: "Baby Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 722,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 723,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 715,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 719,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1819,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1820,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1815,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1816,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1817,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 257,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-01-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 279,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-01-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 250,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-01-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 207,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-01-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 197,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1602,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1858,
-		category: "Drinks [Fridge]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1566,
-		category: "Drinks [Fridge]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2197,
-		category: "Drinks [Fridge]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1718,
-		category: "Drinks [Fridge]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1823,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1945,
-		category: "Drinks [Fridge]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2287,
-		category: "Drinks [Fridge]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1801,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1819,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1817,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 397,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 352,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1024,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1029,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1019,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1001,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1020,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1038,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 800,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1018,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1018,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1029,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1028,
-		category: "Baby Supplies",
-		location: "Share Baby"
-	},
-	{
-		date: "2024-01-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 491,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-01-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 121,
-		category: "Dairy",
-		location: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2024-01-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 260,
-		category: "Assorted Fridge",
-		location: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2024-01-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 26,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2024-01-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 88,
-		category: "Meat [Raw]",
-		location: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2024-01-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 335,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-01-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 170,
-		category: "Assorted Dry",
-		location: "Sunita [Delivery]"
-	},
-	{
-		date: "2024-01-27 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 391,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-01-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 579,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-01-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 148,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 3264,
-		category: "Assorted Dry",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-01-30 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 353,
-		category: "Dairy",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-01-30 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 522,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-01-30 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 824,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-01-30 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 529,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-01-30 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 623,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-01-30 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1730,
-		category: "Dairy",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-01-30 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1497,
-		category: "Dairy",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-01-30 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 304,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-01-30 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 70,
-		category: "Drinks [Dry]",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-01-31 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 101,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-31 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 522,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-31 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 316,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-31 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1016,
-		category: "Baby Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-31 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 200,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-31 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1412,
-		category: "Cleaning Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-31 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 200,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-31 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1810,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-31 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1468,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-01-31 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 193,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-01 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 101,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-01 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 586,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-01 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 80,
-		category: "Pet Supplies",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-01 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 269,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 364,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-02-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 431,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-02-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 399,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-02-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 445,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-02-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 352,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 36,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 135,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-04 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 295,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-04 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 159,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-04 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 48,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-04 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 36,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-04 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 30,
-		category: "Baby Supplies",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-04 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2516,
-		category: "Assorted Dry",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-02-06 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1052,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-06 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1366,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-06 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1296,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-06 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 701,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-06 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 316,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 854,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 605,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 693,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 603,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 476,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 588,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 747,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 501,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 199,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 195,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 202,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 642,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 228,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1827,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 507,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 807,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 237,
-		category: "Assorted Dry",
-		location: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2024-02-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1290,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-02-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1201,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-02-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 228,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1938,
-		category: "Drinks [Dry]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 114,
-		category: "Snacks",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 960,
-		category: "Health & Beauty Products",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 769,
-		category: "Dole - Fruit Cups",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 348,
-		category: "Canned Goods",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 835,
-		category: "Grains (rice, pasta, etc.)",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1263,
-		category: "Dole - Fruit Cups",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 651,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 120,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 205,
-		category: "Assorted Dry",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 196,
-		category: "Assorted Dry",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1468,
-		category: "Pet Supplies",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 213,
-		category: "Snacks",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 517,
-		category: "Assorted Dry",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -184,
-		category: "Assorted Dry",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -137,
-		category: "Assorted Dry",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -336,
-		category: "Drinks [Dry]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2675,
-		category: "Assorted Dry",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-02-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 190,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-11 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 451,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 300,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 745,
-		category: "Assorted Dry",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-02-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 539,
-		category: "Assorted Dry",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-02-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 530,
-		category: "Assorted Dry",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-02-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 640,
-		category: "Assorted Dry",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-02-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 644,
-		category: "Assorted Dry",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-02-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 509,
-		category: "Assorted Dry",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-02-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 160,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 638,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 637,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 964,
-		category: "Health & Beauty Products",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 567,
-		category: "Drinks [Dry]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1599,
-		category: "Cleaning Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 854,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 534,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 639,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 10560,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 438,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 910,
-		category: "Health & Beauty Products",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1217,
-		category: "Dairy",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 4224,
-		category: "Produce",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 409,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-02-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1226,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-02-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 398,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-02-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1167,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1172,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1733,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -296,
-		category: "Drinks [Dry]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 661,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -355,
-		category: "Assorted Dry",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1316,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1282,
-		category: "Canned Goods",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1291,
-		category: "Produce",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1099,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 315,
-		category: "Health & Beauty Products",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 982,
-		category: "Dairy",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 262,
-		category: "Meat [Raw]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 947,
-		category: "Produce",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 640,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 747,
-		category: "Produce",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1820,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 488,
-		category: "Produce",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2061,
-		category: "Produce",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 592,
-		category: "Assorted Dry",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 241,
-		category: "Health & Beauty Products",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 796,
-		category: "Produce",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 284,
-		category: "Assorted Dry",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 133,
-		category: "Assorted Fridge",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 84,
-		category: "Meat [Raw]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2061,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2062,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2063,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2064,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2065,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2066,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2067,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 456,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 200,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-18 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 3631,
-		category: "Assorted Dry",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-02-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1378,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 984,
-		category: "Produce",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 220,
-		category: "Produce",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 396,
-		category: "Produce",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 100,
-		category: "Dairy",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 480,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 918,
-		category: "Health & Beauty Products",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-02-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1794,
-		category: "Dairy",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-02-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1815,
-		category: "Dairy",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-02-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2037,
-		category: "Dairy",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-02-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 924,
-		category: "Health & Beauty Products",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-02-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1821,
-		category: "Dairy",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-02-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 949,
-		category: "Dairy",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-02-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2010,
-		category: "Produce",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-02-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1019,
-		category: "Produce",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-02-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 475,
-		category: "Assorted Dry",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1242,
-		category: "Dole - Fruit Cups",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 794,
-		category: "Dole - Fruit Cups",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1092,
-		category: "Dole - Fruit Cups",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1218,
-		category: "Dole - Fruit Cups",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1223,
-		category: "Dole - Fruit Cups",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1064,
-		category: "Dole - Fruit Cups",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 787,
-		category: "Produce",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1199,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 318,
-		category: "Produce",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 394,
-		category: "Health & Beauty Products",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 540,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1002,
-		category: "Produce",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 501,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 996,
-		category: "Dairy",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 216,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 526,
-		category: "Assorted Dry",
-		location: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2024-02-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 56,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 43,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2130,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1575,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 324,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1589,
-		category: "Drinks [Dry]",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 589,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1017,
-		category: "Produce",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 882,
-		category: "Health & Beauty Products",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1472,
-		category: "Dairy",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 788,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 471,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 120,
-		category: "Snacks",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 91,
-		category: "Snacks",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -878,
-		category: "Canned Goods",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 411,
-		category: "Canned Goods",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 535,
-		category: "Dole - Fruit Cups",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 376,
-		category: "Paper Plate",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1833,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1821,
-		category: "Produce",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -119,
-		category: "Grains (rice, pasta, etc.)",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 150,
-		category: "Grains (rice, pasta, etc.)",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1818,
-		category: "Grains (rice, pasta, etc.)",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 186,
-		category: "Meat [Raw]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1171,
-		category: "Pet Supplies",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1783,
-		category: "Produce",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -736,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1418,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 601,
-		category: "Pet Supplies",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1626,
-		category: "Assorted Dry",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 208,
-		category: "Grains (rice, pasta, etc.)",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-02-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 487,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 87,
-		category: "Dairy",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 177,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 75,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-25 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 3795,
-		category: "Assorted Dry",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-02-27 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1848,
-		category: "Drinks [Fridge]",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-27 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 984,
-		category: "Dairy",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-27 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 530,
-		category: "Produce",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-27 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 882,
-		category: "Health & Beauty Products",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-27 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 434,
-		category: "Baby Supplies",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-27 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 706,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-27 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 656,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 530,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 50,
-		category: "Pet Supplies",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1017,
-		category: "Baby Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 926,
-		category: "Health & Beauty Products",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 932,
-		category: "Health & Beauty Products",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1020,
-		category: "Health & Beauty Products",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1842,
-		category: "Drinks [Fridge]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1444,
-		category: "Cleaning Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1250,
-		category: "Cleaning Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1373,
-		category: "Cleaning Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-02-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 174,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-29 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 225,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-29 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 180,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-29 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 147,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-02-29 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 12,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-02-29 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 198,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-02-29 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 754,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-29 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 397,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-29 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 380,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-29 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 271,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-02-29 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 520,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-01 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 761,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-03-01 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 573,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-03-01 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 748,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-03-01 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 561,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-03-01 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 300,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 57,
-		category: "Snacks",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 43,
-		category: "Snacks",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 893,
-		category: "Meat [Raw]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 981,
-		category: "Household",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 306,
-		category: "Canned Goods",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 925,
-		category: "Produce",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 621,
-		category: "Health & Beauty Products",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 587,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 257,
-		category: "Grains (rice, pasta, etc.)",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1803,
-		category: "Drinks [Fridge]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 997,
-		category: "Drinks [Fridge]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2107,
-		category: "Pet Supplies",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -300,
-		category: "Pet Supplies",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -201,
-		category: "Canned Goods",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -200,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-02 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -75,
-		category: "Grains (rice, pasta, etc.)",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 320,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 594,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2889,
-		category: "Assorted Dry",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1207,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1374,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 968,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1809,
-		category: "Drinks [Dry]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 325,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 279,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 289,
-		category: "Produce",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-03 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 563,
-		category: "Dairy",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-05 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1848,
-		category: "Drinks [Fridge]",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-05 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 898,
-		category: "Health & Beauty Products",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-05 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 706,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-05 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 658,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-05 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 725,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-05 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 789,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-05 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 379,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-06 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 435,
-		category: "Drinks [Dry]",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 287,
-		category: "Cleaning Supplies",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 587,
-		category: "Assorted Dry",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 933,
-		category: "Health & Beauty Products",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 476,
-		category: "Dairy",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 285,
-		category: "Cleaning Supplies",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 589,
-		category: "Assorted Dry",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 580,
-		category: "Assorted Dry",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 935,
-		category: "Health & Beauty Products",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1651,
-		category: "Dairy",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 964,
-		category: "Dairy",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 574,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-07 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 300,
-		category: "Assorted Dry",
-		location: "Crystal [Kingdom Worship Center]"
-	},
-	{
-		date: "2024-03-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 591,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-03-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 423,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-03-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 479,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-03-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 590,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-03-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 470,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-03-08 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 421,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 379,
-		category: "Snacks",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 921,
-		category: "Drinks [Dry]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -700,
-		category: "Drinks [Dry]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 297,
-		category: "Canned Goods",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2103,
-		category: "Cleaning Supplies",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -950,
-		category: "Cleaning Supplies",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 257,
-		category: "Meat [Raw]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2213,
-		category: "Drinks [Fridge]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1821,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 876,
-		category: "Drinks [Dry]",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1573,
-		category: "Health & Beauty Products",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 15,
-		category: "Health & Beauty Products",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 824,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -300,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1009,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-09 00:00:00",
-		name: "Rochelle Clunie",
-		weight: -300,
-		category: "Dairy",
-		location: "BCF Curbside [Sandtown]"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 301,
-		category: "Other",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 501,
-		category: "Dairy",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 125,
-		category: "Drinks [Dry]",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 100,
-		category: "Cleaning Supplies",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 201,
-		category: "Drinks [Fridge]",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 20,
-		category: "Health & Beauty Products",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 98,
-		category: "Condiments",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 250,
-		category: "Produce",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 371,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 529,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 524,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 798,
-		category: "Drinks [Fridge]",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 359,
-		category: "Drinks [Fridge]",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1004,
-		category: "Health & Beauty Products",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 392,
-		category: "Drinks [Dry]",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 320,
-		category: "Cleaning Supplies",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 794,
-		category: "Dairy",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-10 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 79,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1742,
-		category: "Dole - Fruit Cups",
-		location: "First Fruit Farm"
-	},
-	{
-		date: "2024-03-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 454,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1650,
-		category: "Dairy",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-03-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1750,
-		category: "Drinks [Fridge]",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-03-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1600,
-		category: "Dairy",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-13 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1850,
-		category: "Drinks [Fridge]",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 270,
-		category: "Dairy",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 794,
-		category: "Drinks [Fridge]",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 895,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 390,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1527,
-		category: "Health & Beauty Products",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1507,
-		category: "Health & Beauty Products",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1800,
-		category: "Drinks [Fridge]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1850,
-		category: "Drinks [Fridge]",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1650,
-		category: "Condiments",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1670,
-		category: "Condiments",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 854,
-		category: "Pet Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 504,
-		category: "Paper Plate",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1890,
-		category: "Cleaning Supplies",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 215,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1918,
-		category: "Cleaning Supplies",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1817,
-		category: "Drinks [Fridge]",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-03-14 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1670,
-		category: "Dairy",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-03-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 591,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-03-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 421,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-03-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 590,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-03-15 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 420,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-03-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1850,
-		category: "Cleaning Supplies",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1600,
-		category: "Dairy",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1570,
-		category: "Health & Beauty Products",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1820,
-		category: "Drinks [Fridge]",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 79,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 39,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 30,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-16 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 520,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 375,
-		category: "Assorted Dry",
-		location: "Janet Arce"
-	},
-	{
-		date: "2024-03-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 420,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2750,
-		category: "Assorted Dry",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-17 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 35,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-19 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1600,
-		category: "Dairy",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-19 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1850,
-		category: "Drinks [Fridge]",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-19 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 90,
-		category: "Dairy",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-19 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1170,
-		category: "Dole - Fruit Cups",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-19 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 299,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-19 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 294,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-19 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1096,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 480,
-		category: "Drinks [Fridge]",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 60,
-		category: "Health & Beauty Products",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 108,
-		category: "Dairy",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 81,
-		category: "Condiments",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 891,
-		category: "Dairy",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 200,
-		category: "Dairy",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 840,
-		category: "Assorted Dry",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1800,
-		category: "Other",
-		location: "Gilmor Homes"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1850,
-		category: "Drinks [Fridge]",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1000,
-		category: "Health & Beauty Products",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 390,
-		category: "Assorted Dry",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-20 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 396,
-		category: "Assorted Dry",
-		location: "Sons Of Phoenix"
-	},
-	{
-		date: "2024-03-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 210,
-		category: "Dairy",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-03-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 638,
-		category: "Assorted Dry",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-03-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 300,
-		category: "Drinks [Fridge]",
-		location: "Brooklyn Homes"
-	},
-	{
-		date: "2024-03-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 350,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 298,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 794,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-03-21 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 640,
-		category: "Assorted Dry",
-		location: "Manor Bible Outreach"
-	},
-	{
-		date: "2024-03-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 638,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-03-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 214,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-03-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 900,
-		category: "Assorted Dry",
-		location: "Greenmount West"
-	},
-	{
-		date: "2024-03-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 638,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-03-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 214,
-		category: "Assorted Dry",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-03-22 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 900,
-		category: "Drinks [Fridge]",
-		location: "McCollouh Homes [Coach Dunkin]"
-	},
-	{
-		date: "2024-03-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 650,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 216,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-23 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 183,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-24 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1152,
-		category: "Assorted Dry",
-		location: "Sandtown"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 1106,
-		category: "Cleaning Supplies",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 576,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 586,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 2163,
-		category: "Drinks [Fridge]",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 575,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 587,
-		category: "Assorted Dry",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 132,
-		category: "Grains (rice, pasta, etc.)",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 688,
-		category: "Dairy",
-		location: "Mack Lewis Foundation"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 325,
-		category: "Assorted Dry",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 109,
-		category: "Drinks [Fridge]",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 96,
-		category: "Drinks [Fridge]",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 24,
-		category: "Snacks",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 7,
-		category: "Snacks",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 22,
-		category: "Dole - Fruit Cups",
-		location: "Other Organization"
-	},
-	{
-		date: "2024-03-26 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 30912,
-		category: "Produce",
-		location: "First Fruit Farm"
-	},
-	{
-		date: "2024-03-27 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 270,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-27 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 316,
-		category: "Assorted Dry",
-		location: "Individual"
-	},
-	{
-		date: "2024-03-28 00:00:00",
-		name: "Rochelle Clunie",
-		weight: 484,
-		category: "Canned Goods",
-		location: "Individual"
-	},
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 378,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 278,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 291,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 229,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 247,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 258,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 179,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 137,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 237,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 278,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 689,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1723,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 212,
+    category: "Assorted Dry",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-01-12 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1102,
+    category: "Dairy",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-01-12 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 729,
+    category: "Produce",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-01-12 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 876,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-01-12 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 379,
+    category: "Assorted Dry",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1816,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1819,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 379,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 395,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 394,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 369,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 367,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 721,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 401,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-01-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 20,
+    category: "Pet Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 4200,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1819,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 876,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 722,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 687,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 689,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 656,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 672,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 658,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 686,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 685,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 578,
+    category: "Paper Plate",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1091,
+    category: "Baby Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 722,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 723,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 715,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 719,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1819,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1820,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1815,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1816,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 257,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 279,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-01-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 250,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 207,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-01-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 197,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1602,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1858,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1566,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2197,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1718,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1823,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1945,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2287,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1801,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1819,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 397,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 352,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1024,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1029,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1019,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1001,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1020,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1038,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 800,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1018,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1018,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1029,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1028,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 491,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 121,
+    category: "Dairy",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 260,
+    category: "Assorted Fridge",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 26,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 88,
+    category: "Meat [Raw]",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 335,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 170,
+    category: "Assorted Dry",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2024-01-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 391,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 579,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 148,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 3264,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 353,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 522,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 824,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 529,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 623,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1730,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1497,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 304,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 70,
+    category: "Drinks [Dry]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 101,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 522,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 316,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1016,
+    category: "Baby Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 200,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1412,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 200,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1810,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1468,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 193,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 101,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 586,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 80,
+    category: "Pet Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 269,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 364,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 431,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 399,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 445,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 352,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 36,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 135,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 295,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 159,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 48,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 36,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 30,
+    category: "Baby Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2516,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-02-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1052,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1366,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1296,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 701,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 316,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 854,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 605,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 693,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 603,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 476,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 588,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 747,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 501,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 199,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 195,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 202,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 642,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 228,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1827,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 507,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 807,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 237,
+    category: "Assorted Dry",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-02-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1290,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1201,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 228,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1938,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 114,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 960,
+    category: "Health & Beauty Products",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 769,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 348,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 835,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1263,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 651,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 120,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 205,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 196,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1468,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 213,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 517,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -184,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -137,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -336,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2675,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-02-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 190,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 451,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 300,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 745,
+    category: "Assorted Dry",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 539,
+    category: "Assorted Dry",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 530,
+    category: "Assorted Dry",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 640,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 644,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 509,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 160,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 638,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 637,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 964,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 567,
+    category: "Drinks [Dry]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1599,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 854,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 534,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 639,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 10560,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 438,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 910,
+    category: "Health & Beauty Products",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1217,
+    category: "Dairy",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 4224,
+    category: "Produce",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 409,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1226,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 398,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1167,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1172,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1733,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -296,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 661,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -355,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1316,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1282,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1291,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1099,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 315,
+    category: "Health & Beauty Products",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 982,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 262,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 947,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 640,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 747,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1820,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 488,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2061,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 592,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 241,
+    category: "Health & Beauty Products",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 796,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 284,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 133,
+    category: "Assorted Fridge",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 84,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2061,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2062,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2063,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2064,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2065,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2066,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2067,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 456,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 200,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 3631,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1378,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 984,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 220,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 396,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 100,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 480,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 918,
+    category: "Health & Beauty Products",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1794,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1815,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2037,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 924,
+    category: "Health & Beauty Products",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1821,
+    category: "Dairy",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 949,
+    category: "Dairy",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2010,
+    category: "Produce",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1019,
+    category: "Produce",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 475,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1242,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 794,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1092,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1218,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1223,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1064,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 787,
+    category: "Produce",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1199,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 318,
+    category: "Produce",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 394,
+    category: "Health & Beauty Products",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 540,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1002,
+    category: "Produce",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 501,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 996,
+    category: "Dairy",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 216,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 526,
+    category: "Assorted Dry",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 56,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 43,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2130,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1575,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 324,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1589,
+    category: "Drinks [Dry]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 589,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1017,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 882,
+    category: "Health & Beauty Products",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1472,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 788,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 471,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 120,
+    category: "Snacks",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 91,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -878,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 411,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 535,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 376,
+    category: "Paper Plate",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1833,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1821,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -119,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 150,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1818,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 186,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1171,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1783,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -736,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1418,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 601,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1626,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 208,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 487,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 87,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 177,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 75,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 3795,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1848,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 984,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 530,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 882,
+    category: "Health & Beauty Products",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 434,
+    category: "Baby Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 706,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 656,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 530,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 50,
+    category: "Pet Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1017,
+    category: "Baby Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 926,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 932,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1020,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1842,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1444,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1250,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1373,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 174,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 225,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 180,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 147,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 12,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 198,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 754,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 397,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 380,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 271,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 520,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 761,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 573,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 748,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 561,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 300,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 57,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 43,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 893,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 981,
+    category: "Household",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 306,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 925,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 621,
+    category: "Health & Beauty Products",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 587,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 257,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1803,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 997,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2107,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -300,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -201,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -200,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -75,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 320,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 594,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2889,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1207,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1374,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 968,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1809,
+    category: "Drinks [Dry]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 325,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 279,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 289,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 563,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1848,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 898,
+    category: "Health & Beauty Products",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 706,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 658,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 725,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 789,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 379,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 435,
+    category: "Drinks [Dry]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 287,
+    category: "Cleaning Supplies",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 587,
+    category: "Assorted Dry",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 933,
+    category: "Health & Beauty Products",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 476,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 285,
+    category: "Cleaning Supplies",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 589,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 580,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 935,
+    category: "Health & Beauty Products",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1651,
+    category: "Dairy",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 964,
+    category: "Dairy",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 574,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 300,
+    category: "Assorted Dry",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 591,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 423,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 479,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 590,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 470,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 421,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 379,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 921,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -700,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 297,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2103,
+    category: "Cleaning Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -950,
+    category: "Cleaning Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 257,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2213,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1821,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 876,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1573,
+    category: "Health & Beauty Products",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 15,
+    category: "Health & Beauty Products",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 824,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -300,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1009,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -300,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 301,
+    category: "Other",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 501,
+    category: "Dairy",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 125,
+    category: "Drinks [Dry]",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 100,
+    category: "Cleaning Supplies",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 201,
+    category: "Drinks [Fridge]",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 20,
+    category: "Health & Beauty Products",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 98,
+    category: "Condiments",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 250,
+    category: "Produce",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 371,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 529,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 524,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 798,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 359,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1004,
+    category: "Health & Beauty Products",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 392,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 320,
+    category: "Cleaning Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 794,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 79,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1742,
+    category: "Dole - Fruit Cups",
+    location: "First Fruit Farm",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 454,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1650,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1750,
+    category: "Drinks [Fridge]",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1600,
+    category: "Dairy",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1850,
+    category: "Drinks [Fridge]",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 270,
+    category: "Dairy",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 794,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 895,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 390,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1527,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1507,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1800,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1850,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1650,
+    category: "Condiments",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1670,
+    category: "Condiments",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 854,
+    category: "Pet Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 504,
+    category: "Paper Plate",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1890,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 215,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1918,
+    category: "Cleaning Supplies",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Drinks [Fridge]",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1670,
+    category: "Dairy",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-03-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 591,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 421,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 590,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 420,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1850,
+    category: "Cleaning Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1600,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1570,
+    category: "Health & Beauty Products",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1820,
+    category: "Drinks [Fridge]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 79,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 39,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 30,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 520,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 375,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 420,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2750,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 35,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1600,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1850,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 90,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1170,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 299,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 294,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1096,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 480,
+    category: "Drinks [Fridge]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 60,
+    category: "Health & Beauty Products",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 108,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 81,
+    category: "Condiments",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 891,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 200,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 840,
+    category: "Assorted Dry",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1800,
+    category: "Other",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1850,
+    category: "Drinks [Fridge]",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1000,
+    category: "Health & Beauty Products",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 390,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 396,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 210,
+    category: "Dairy",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 638,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 300,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 350,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 298,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 794,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 640,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 638,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 214,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 900,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 638,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 214,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 900,
+    category: "Drinks [Fridge]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 650,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 216,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 183,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1152,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1106,
+    category: "Cleaning Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 576,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 586,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2163,
+    category: "Drinks [Fridge]",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 575,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 587,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 132,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 688,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 325,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 109,
+    category: "Drinks [Fridge]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 96,
+    category: "Drinks [Fridge]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 24,
+    category: "Snacks",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 7,
+    category: "Snacks",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 22,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 30912,
+    category: "Produce",
+    location: "First Fruit Farm",
+  },
+  {
+    date: "2024-03-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 270,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 316,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 484,
+    category: "Canned Goods",
+    location: "Individual",
+  },
 ];
 // exports
 
@@ -59451,7 +59451,13 @@ export const shiftList = [
     end: "2023-01-05 20:38:12",
     name: "Norma Kriger",
   },
-  { start: "2023-01-05 16:40:45", end: "2023-01-05 20:40:45", name: "Jean" },
+  {
+    start: "2023-01-05 16:40:45",
+    end: "2023-01-05 20:40:45",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-05 00:00:00",
     end: "2023-01-05 04:00:00",
@@ -59568,8 +59574,16 @@ export const shiftList = [
     start: "2023-01-07 00:00:00",
     end: "2023-01-07 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-07 00:00:00", end: "2023-01-07 04:00:00", name: "Angeles" },
+  {
+    start: "2023-01-07 00:00:00",
+    end: "2023-01-07 04:00:00",
+    name: "Angeles",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-07 00:00:00",
     end: "2023-01-07 04:00:00",
@@ -59644,8 +59658,16 @@ export const shiftList = [
     start: "2023-01-08 15:01:32",
     end: "2023-01-08 19:01:32",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-08 00:00:00", end: "2023-01-08 04:00:00", name: "Laila" },
+  {
+    start: "2023-01-08 00:00:00",
+    end: "2023-01-08 04:00:00",
+    name: "Laila",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-08 00:00:00",
     end: "2023-01-08 04:00:00",
@@ -59664,8 +59686,16 @@ export const shiftList = [
     start: "2023-01-10 15:11:56",
     end: "2023-01-10 19:11:56",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-10 15:11:58", end: "2023-01-10 19:11:58", name: "Jean" },
+  {
+    start: "2023-01-10 15:11:58",
+    end: "2023-01-10 19:11:58",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-10 15:14:13",
     end: "2023-01-10 19:14:13",
@@ -59747,10 +59777,30 @@ export const shiftList = [
     start: "2023-01-11 21:03:52",
     end: "2023-01-12 01:03:52",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-12 00:00:00", end: "2023-01-12 04:00:00", name: "Jean" },
-  { start: "2023-01-12 00:00:00", end: "2023-01-12 04:00:00", name: "Dorja" },
-  { start: "2023-01-12 18:54:27", end: "2023-01-12 22:54:27", name: "Aziza Frank" },
+  {
+    start: "2023-01-12 00:00:00",
+    end: "2023-01-12 04:00:00",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-01-12 00:00:00",
+    end: "2023-01-12 04:00:00",
+    name: "Dorja",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-01-12 18:54:27",
+    end: "2023-01-12 22:54:27",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-12 19:08:58",
     end: "2023-01-12 23:08:58",
@@ -59839,8 +59889,16 @@ export const shiftList = [
     start: "2023-01-14 00:00:00",
     end: "2023-01-14 04:00:00",
     name: "Gilda Castillo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-14 00:00:00", end: "2023-01-14 04:00:00", name: "Angeles" },
+  {
+    start: "2023-01-14 00:00:00",
+    end: "2023-01-14 04:00:00",
+    name: "Angeles",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-14 00:00:00",
     end: "2023-01-14 04:00:00",
@@ -59866,8 +59924,16 @@ export const shiftList = [
     start: "2023-01-15 00:00:00",
     end: "2023-01-15 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-15 00:00:00", end: "2023-01-15 04:00:00", name: "Carla T" },
+  {
+    start: "2023-01-15 00:00:00",
+    end: "2023-01-15 04:00:00",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-15 00:00:00",
     end: "2023-01-15 04:00:00",
@@ -59879,14 +59945,30 @@ export const shiftList = [
     start: "2023-01-15 15:51:41",
     end: "2023-01-15 19:51:41",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-15 16:12:10", end: "2023-01-15 20:12:10", name: "Yulia" },
+  {
+    start: "2023-01-15 16:12:10",
+    end: "2023-01-15 20:12:10",
+    name: "Yulia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-15 16:17:45",
     end: "2023-01-15 20:17:45",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-17 00:00:00", end: "2023-01-17 04:00:00", name: "Jean" },
+  {
+    start: "2023-01-17 00:00:00",
+    end: "2023-01-17 04:00:00",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-17 00:00:00",
     end: "2023-01-17 04:00:00",
@@ -59975,8 +60057,16 @@ export const shiftList = [
     start: "2023-01-18 20:46:31",
     end: "2023-01-19 00:46:31",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-19 00:00:00", end: "2023-01-19 04:00:00", name: "Jean" },
+  {
+    start: "2023-01-19 00:00:00",
+    end: "2023-01-19 04:00:00",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-19 00:00:00",
     end: "2023-01-19 04:00:00",
@@ -60009,14 +60099,30 @@ export const shiftList = [
     start: "2023-01-19 19:53:59",
     end: "2023-01-19 23:53:59",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-19 19:54:03", end: "2023-01-19 23:54:03", name: "Aziza Frank" },
+  {
+    start: "2023-01-19 19:54:03",
+    end: "2023-01-19 23:54:03",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-20 00:00:00",
     end: "2023-01-20 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-20 00:00:00", end: "2023-01-20 04:00:00", name: "Jean" },
+  {
+    start: "2023-01-20 00:00:00",
+    end: "2023-01-20 04:00:00",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-20 00:00:00",
     end: "2023-01-20 04:00:00",
@@ -60133,14 +60239,28 @@ export const shiftList = [
     start: "2023-01-21 00:00:00",
     end: "2023-01-21 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-21 00:00:00", end: "2023-01-21 04:00:00", name: "Jackee" },
+  {
+    start: "2023-01-21 00:00:00",
+    end: "2023-01-21 04:00:00",
+    name: "Jackee",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-22 00:00:00",
     end: "2023-01-22 04:00:00",
     name: "Juanita Chandler",
   },
-  { start: "2023-01-22 00:00:00", end: "2023-01-22 04:00:00", name: "Carla T" },
+  {
+    start: "2023-01-22 00:00:00",
+    end: "2023-01-22 04:00:00",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-21 00:00:00",
     end: "2023-01-21 04:00:00",
@@ -60152,8 +60272,16 @@ export const shiftList = [
     start: "2023-01-21 00:00:00",
     end: "2023-01-21 04:00:00",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-21 00:00:00", end: "2023-01-21 04:00:00", name: "Angeles" },
+  {
+    start: "2023-01-21 00:00:00",
+    end: "2023-01-21 04:00:00",
+    name: "Angeles",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-22 15:07:26",
     end: "2023-01-22 19:07:26",
@@ -60228,8 +60356,16 @@ export const shiftList = [
     start: "2023-01-24 16:27:54",
     end: "2023-01-24 20:27:54",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-24 16:40:36", end: "2023-01-24 20:40:36", name: "Jean" },
+  {
+    start: "2023-01-24 16:40:36",
+    end: "2023-01-24 20:40:36",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-25 00:00:00",
     end: "2023-01-25 04:00:00",
@@ -60283,8 +60419,16 @@ export const shiftList = [
     start: "2023-01-26 16:39:03",
     end: "2023-01-26 20:39:03",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-26 16:39:50", end: "2023-01-26 20:39:50", name: "Jean" },
+  {
+    start: "2023-01-26 16:39:50",
+    end: "2023-01-26 20:39:50",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-27 00:00:00",
     end: "2023-01-27 04:00:00",
@@ -60345,8 +60489,16 @@ export const shiftList = [
     start: "2023-01-28 00:00:00",
     end: "2023-01-28 04:00:00",
     name: "Justin Maduka",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-28 00:00:00", end: "2023-01-28 04:00:00", name: "Angeles" },
+  {
+    start: "2023-01-28 00:00:00",
+    end: "2023-01-28 04:00:00",
+    name: "Angeles",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-28 00:00:00",
     end: "2023-01-28 04:00:00",
@@ -60512,14 +60664,30 @@ export const shiftList = [
     start: "2023-01-29 00:00:00",
     end: "2023-01-29 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-29 15:45:39", end: "2023-01-29 19:45:39", name: "Carla T" },
+  {
+    start: "2023-01-29 15:45:39",
+    end: "2023-01-29 19:45:39",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-29 15:49:52",
     end: "2023-01-29 19:49:52",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-29 16:08:10", end: "2023-01-29 20:08:10", name: "Zoe" },
+  {
+    start: "2023-01-29 16:08:10",
+    end: "2023-01-29 20:08:10",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-29 16:08:43",
     end: "2023-01-29 20:08:43",
@@ -60538,8 +60706,16 @@ export const shiftList = [
     start: "2023-01-31 00:00:00",
     end: "2023-01-31 04:00:00",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-31 15:43:22", end: "2023-01-31 19:43:22", name: "Jean" },
+  {
+    start: "2023-01-31 15:43:22",
+    end: "2023-01-31 19:43:22",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-31 15:47:33",
     end: "2023-01-31 19:47:33",
@@ -60656,8 +60832,16 @@ export const shiftList = [
     start: "2023-02-02 19:20:20",
     end: "2023-02-02 23:20:20",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-02 19:20:32", end: "2023-02-02 23:20:32", name: "Aziza Frank" },
+  {
+    start: "2023-02-02 19:20:32",
+    end: "2023-02-02 23:20:32",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-02 19:21:25",
     end: "2023-02-02 23:21:25",
@@ -60683,8 +60867,16 @@ export const shiftList = [
     start: "2023-02-03 16:51:49",
     end: "2023-02-03 20:51:49",
     name: "Ellen Cho",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-04 16:35:37", end: "2023-02-04 20:35:37", name: "Sara B" },
+  {
+    start: "2023-02-04 16:35:37",
+    end: "2023-02-04 20:35:37",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-04 16:36:47",
     end: "2023-02-04 20:36:47",
@@ -60766,8 +60958,16 @@ export const shiftList = [
     start: "2023-02-04 17:45:57",
     end: "2023-02-04 21:45:57",
     name: "Xinyue Gu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-04 00:00:00", end: "2023-02-04 04:00:00", name: "Charlie" },
+  {
+    start: "2023-02-04 00:00:00",
+    end: "2023-02-04 04:00:00",
+    name: "Charlie",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-04 00:00:00",
     end: "2023-02-04 04:00:00",
@@ -60779,8 +60979,16 @@ export const shiftList = [
     start: "2023-02-04 00:00:00",
     end: "2023-02-04 04:00:00",
     name: "Brandon Clark",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-04 00:00:00", end: "2023-02-04 04:00:00", name: "Angeles" },
+  {
+    start: "2023-02-04 00:00:00",
+    end: "2023-02-04 04:00:00",
+    name: "Angeles",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-05 15:14:26",
     end: "2023-02-05 19:14:26",
@@ -60806,20 +61014,44 @@ export const shiftList = [
     start: "2023-02-05 15:19:31",
     end: "2023-02-05 19:19:31",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-05 15:19:36", end: "2023-02-05 19:19:36", name: "Zoe" },
+  {
+    start: "2023-02-05 15:19:36",
+    end: "2023-02-05 19:19:36",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-05 15:23:00",
     end: "2023-02-05 19:23:00",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-05 15:24:29", end: "2023-02-05 19:24:29", name: "Yulia" },
+  {
+    start: "2023-02-05 15:24:29",
+    end: "2023-02-05 19:24:29",
+    name: "Yulia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-05 00:00:00",
     end: "2023-02-05 04:00:00",
     name: "Linda Arce",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-05 00:00:00", end: "2023-02-05 04:00:00", name: "Carla T" },
+  {
+    start: "2023-02-05 00:00:00",
+    end: "2023-02-05 04:00:00",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-05 00:00:00",
     end: "2023-02-05 04:00:00",
@@ -61077,7 +61309,13 @@ export const shiftList = [
     end: "2023-02-11 04:00:00",
     name: "Emily Stucke",
   },
-  { start: "2023-02-12 14:57:12", end: "2023-02-12 18:57:12", name: "Dorja" },
+  {
+    start: "2023-02-12 14:57:12",
+    end: "2023-02-12 18:57:12",
+    name: "Dorja",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-12 14:57:21",
     end: "2023-02-12 18:57:21",
@@ -61103,8 +61341,16 @@ export const shiftList = [
     start: "2023-02-12 15:00:39",
     end: "2023-02-12 19:00:39",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-12 15:05:37", end: "2023-02-12 19:05:37", name: "Zoe" },
+  {
+    start: "2023-02-12 15:05:37",
+    end: "2023-02-12 19:05:37",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-12 00:00:00",
     end: "2023-02-12 04:00:00",
@@ -61123,8 +61369,16 @@ export const shiftList = [
     start: "2023-02-12 00:00:00",
     end: "2023-02-12 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-14 14:18:48", end: "2023-02-14 18:18:48", name: "Jean" },
+  {
+    start: "2023-02-14 14:18:48",
+    end: "2023-02-14 18:18:48",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-14 15:47:07",
     end: "2023-02-14 19:47:07",
@@ -61213,14 +61467,30 @@ export const shiftList = [
     start: "2023-02-16 16:31:56",
     end: "2023-02-16 20:31:56",
     name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-16 19:29:12", end: "2023-02-16 23:29:12", name: "Aziza Frank" },
+  {
+    start: "2023-02-16 19:29:12",
+    end: "2023-02-16 23:29:12",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-16 19:30:42",
     end: "2023-02-16 23:30:42",
     name: "Nathaniel McClean",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-16 00:00:00", end: "2023-02-16 04:00:00", name: "Jean" },
+  {
+    start: "2023-02-16 00:00:00",
+    end: "2023-02-16 04:00:00",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-16 00:00:00",
     end: "2023-02-16 04:00:00",
@@ -61288,8 +61558,16 @@ export const shiftList = [
     start: "2023-02-18 15:51:51",
     end: "2023-02-18 19:51:51",
     name: "Evelyn Jiang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-18 15:56:48", end: "2023-02-18 19:56:48", name: "Sara B" },
+  {
+    start: "2023-02-18 15:56:48",
+    end: "2023-02-18 19:56:48",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-18 15:59:23",
     end: "2023-02-18 19:59:23",
@@ -61399,8 +61677,16 @@ export const shiftList = [
     start: "2023-02-18 16:31:03",
     end: "2023-02-18 20:31:03",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-18 18:05:55", end: "2023-02-18 22:05:55", name: "Sharon" },
+  {
+    start: "2023-02-18 18:05:55",
+    end: "2023-02-18 22:05:55",
+    name: "Sharon",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-18 00:00:00",
     end: "2023-02-18 04:00:00",
@@ -61412,8 +61698,16 @@ export const shiftList = [
     start: "2023-02-18 00:00:00",
     end: "2023-02-18 04:00:00",
     name: "Lee Little",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-19 14:48:42", end: "2023-02-19 18:48:42", name: "Carla T" },
+  {
+    start: "2023-02-19 14:48:42",
+    end: "2023-02-19 18:48:42",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-19 15:11:41",
     end: "2023-02-19 19:11:41",
@@ -61425,8 +61719,16 @@ export const shiftList = [
     start: "2023-02-19 15:14:48",
     end: "2023-02-19 19:14:48",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-19 15:19:49", end: "2023-02-19 19:19:49", name: "Zoe" },
+  {
+    start: "2023-02-19 15:19:49",
+    end: "2023-02-19 19:19:49",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-19 15:20:58",
     end: "2023-02-19 19:20:58",
@@ -61641,8 +61943,16 @@ export const shiftList = [
     start: "2023-02-26 15:05:46",
     end: "2023-02-26 19:05:46",
     name: "Michael Ford",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-26 15:08:09", end: "2023-02-26 19:08:09", name: "Zoe" },
+  {
+    start: "2023-02-26 15:08:09",
+    end: "2023-02-26 19:08:09",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-26 15:09:42",
     end: "2023-02-26 19:09:42",
@@ -61668,8 +61978,16 @@ export const shiftList = [
     start: "2023-02-26 00:00:00",
     end: "2023-02-26 04:00:00",
     name: "Meredith Snow",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-26 00:00:00", end: "2023-02-26 04:00:00", name: "Katelyn" },
+  {
+    start: "2023-02-26 00:00:00",
+    end: "2023-02-26 04:00:00",
+    name: "Katelyn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-26 17:50:16",
     end: "2023-02-26 21:50:16",
@@ -61779,8 +62097,16 @@ export const shiftList = [
     start: "2023-03-02 00:00:00",
     end: "2023-03-02 04:00:00",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-02 00:00:00", end: "2023-03-02 04:00:00", name: "Aziza Frank" },
+  {
+    start: "2023-03-02 00:00:00",
+    end: "2023-03-02 04:00:00",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-02 00:00:00",
     end: "2023-03-02 04:00:00",
@@ -61911,8 +62237,16 @@ export const shiftList = [
     start: "2023-03-04 00:00:00",
     end: "2023-03-04 04:00:00",
     name: "Mackenzie",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-04 00:00:00", end: "2023-03-04 04:00:00", name: "Erin B" },
+  {
+    start: "2023-03-04 00:00:00",
+    end: "2023-03-04 04:00:00",
+    name: "Erin B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-04 00:00:00",
     end: "2023-03-04 04:00:00",
@@ -61932,7 +62266,13 @@ export const shiftList = [
     end: "2023-03-05 19:31:57",
     name: "Kaneesha",
   },
-  { start: "2023-03-05 15:34:46", end: "2023-03-05 19:34:46", name: "Jackie" },
+  {
+    start: "2023-03-05 15:34:46",
+    end: "2023-03-05 19:34:46",
+    name: "Jackie",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-05 23:34:00",
     end: "2023-03-06 03:34:00",
@@ -62014,14 +62354,30 @@ export const shiftList = [
     start: "2023-03-08 00:00:00",
     end: "2023-03-08 04:00:00",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-08 00:00:00", end: "2023-03-08 04:00:00", name: "Latease" },
+  {
+    start: "2023-03-08 00:00:00",
+    end: "2023-03-08 04:00:00",
+    name: "Latease",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-08 00:00:00",
     end: "2023-03-08 04:00:00",
     name: "Maddie Pardes",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-08 00:00:00", end: "2023-03-08 04:00:00", name: "Gregory" },
+  {
+    start: "2023-03-08 00:00:00",
+    end: "2023-03-08 04:00:00",
+    name: "Gregory",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-08 20:44:47",
     end: "2023-03-09 00:44:47",
@@ -62047,9 +62403,23 @@ export const shiftList = [
     start: "2023-03-09 19:23:55",
     end: "2023-03-09 23:23:55",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-09 19:24:07", end: "2023-03-09 23:24:07", name: "Sara B" },
-  { start: "2023-03-09 19:25:51", end: "2023-03-09 23:25:51", name: "Aziza Frank" },
+  {
+    start: "2023-03-09 19:24:07",
+    end: "2023-03-09 23:24:07",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-03-09 19:25:51",
+    end: "2023-03-09 23:25:51",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-09 19:31:22",
     end: "2023-03-09 23:31:22",
@@ -62089,8 +62459,16 @@ export const shiftList = [
     start: "2023-03-10 00:00:00",
     end: "2023-03-10 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-10 00:00:00", end: "2023-03-10 04:00:00", name: "Roxane" },
+  {
+    start: "2023-03-10 00:00:00",
+    end: "2023-03-10 04:00:00",
+    name: "Roxane",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-11 16:45:04",
     end: "2023-03-11 20:45:04",
@@ -62186,14 +62564,30 @@ export const shiftList = [
     start: "2023-03-11 00:00:00",
     end: "2023-03-11 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-11 00:00:00", end: "2023-03-11 04:00:00", name: "Leap" },
+  {
+    start: "2023-03-11 00:00:00",
+    end: "2023-03-11 04:00:00",
+    name: "Leap",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-11 00:00:00",
     end: "2023-03-11 04:00:00",
     name: "Emily Mashqbeh",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-12 15:20:59", end: "2023-03-12 19:20:59", name: "Carla T" },
+  {
+    start: "2023-03-12 15:20:59",
+    end: "2023-03-12 19:20:59",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-12 15:29:08",
     end: "2023-03-12 19:29:08",
@@ -62205,9 +62599,23 @@ export const shiftList = [
     start: "2023-03-12 22:15:05",
     end: "2023-03-13 02:15:05",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-12 00:00:00", end: "2023-03-12 04:00:00", name: "Yulia" },
-  { start: "2023-03-12 00:00:00", end: "2023-03-12 04:00:00", name: "Yulia" },
+  {
+    start: "2023-03-12 00:00:00",
+    end: "2023-03-12 04:00:00",
+    name: "Yulia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-03-12 00:00:00",
+    end: "2023-03-12 04:00:00",
+    name: "Yulia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-12 00:00:00",
     end: "2023-03-12 04:00:00",
@@ -62304,7 +62712,11 @@ export const shiftList = [
     end: "2023-03-16 20:18:09",
     name: "Norma Kriger",
   },
-  { start: "2023-03-16 00:00:00", end: "2023-03-16 04:00:00", name: "Andy Levin" },
+  {
+    start: "2023-03-16 00:00:00",
+    end: "2023-03-16 04:00:00",
+    name: "Andy Levin",
+  },
   {
     start: "2023-03-16 00:00:00",
     end: "2023-03-16 04:00:00",
@@ -62496,13 +62908,21 @@ export const shiftList = [
     end: "2023-03-23 20:16:02",
     name: "Norma Kriger",
   },
-  { start: "2023-03-23 20:14:45", end: "2023-03-24 00:14:45", name: "Aziza Frank" },
+  {
+    start: "2023-03-23 20:14:45",
+    end: "2023-03-24 00:14:45",
+    name: "Aziza Frank",
+  },
   {
     start: "2023-03-23 20:14:58",
     end: "2023-03-24 00:14:58",
     name: "Adeola Sulaiman",
   },
-  { start: "2023-03-23 00:00:00", end: "2023-03-23 04:00:00", name: "Andy Levin" },
+  {
+    start: "2023-03-23 00:00:00",
+    end: "2023-03-23 04:00:00",
+    name: "Andy Levin",
+  },
   {
     start: "2023-03-23 20:21:14",
     end: "2023-03-24 00:21:14",
@@ -62696,7 +63116,11 @@ export const shiftList = [
     name: "Norma Kriger",
   },
   { start: "2023-03-30 20:30:47", end: "2023-03-31 00:30:47", name: "Sara B" },
-  { start: "2023-03-30 00:00:00", end: "2023-03-30 04:00:00", name: "Andy Levin" },
+  {
+    start: "2023-03-30 00:00:00",
+    end: "2023-03-30 04:00:00",
+    name: "Andy Levin",
+  },
   {
     start: "2023-03-30 00:00:00",
     end: "2023-03-30 04:00:00",
@@ -63249,7 +63673,11 @@ export const shiftList = [
     end: "2023-04-14 00:31:17",
     name: "Lynnette Cromer",
   },
-  { start: "2023-04-13 20:31:45", end: "2023-04-14 00:31:45", name: "Aziza Frank" },
+  {
+    start: "2023-04-13 20:31:45",
+    end: "2023-04-14 00:31:45",
+    name: "Aziza Frank",
+  },
   {
     start: "2023-04-13 00:00:00",
     end: "2023-04-13 04:00:00",
@@ -63535,7 +63963,11 @@ export const shiftList = [
     name: "Juanita Chandler",
   },
   { start: "2023-04-20 00:00:00", end: "2023-04-20 04:00:00", name: "Sharon" },
-  { start: "2023-04-20 00:00:00", end: "2023-04-20 04:00:00", name: "Aziza Frank" },
+  {
+    start: "2023-04-20 00:00:00",
+    end: "2023-04-20 04:00:00",
+    name: "Aziza Frank",
+  },
   {
     start: "2023-04-20 00:00:00",
     end: "2023-04-20 04:00:00",
@@ -64042,13 +64474,21 @@ export const shiftList = [
     end: "2023-05-18 20:22:33",
     name: "Norma Kriger",
   },
-  { start: "2023-05-18 16:23:04", end: "2023-05-18 20:23:04", name: "Hong Xue" },
+  {
+    start: "2023-05-18 16:23:04",
+    end: "2023-05-18 20:23:04",
+    name: "Hong Xue",
+  },
   {
     start: "2023-05-18 20:19:30",
     end: "2023-05-19 00:19:30",
     name: "Lynnette Cromer",
   },
-  { start: "2023-05-18 20:36:13", end: "2023-05-19 00:36:13", name: "Aziza Frank" },
+  {
+    start: "2023-05-18 20:36:13",
+    end: "2023-05-19 00:36:13",
+    name: "Aziza Frank",
+  },
   { start: "2023-05-18 20:36:47", end: "2023-05-19 00:36:47", name: "Sara B" },
   {
     start: "2023-05-19 16:52:04",
@@ -64228,7 +64668,11 @@ export const shiftList = [
     end: "2023-05-25 00:35:54",
     name: "Lynnette Cromer",
   },
-  { start: "2023-05-25 00:00:00", end: "2023-05-25 04:00:00", name: "Hong Xue" },
+  {
+    start: "2023-05-25 00:00:00",
+    end: "2023-05-25 04:00:00",
+    name: "Hong Xue",
+  },
   {
     start: "2023-05-25 00:00:00",
     end: "2023-05-25 04:00:00",
@@ -64455,7 +64899,11 @@ export const shiftList = [
     end: "2023-06-02 01:04:03",
     name: "Adeola Sulaiman",
   },
-  { start: "2023-06-01 21:05:29", end: "2023-06-02 01:05:29", name: "Aziza Frank" },
+  {
+    start: "2023-06-01 21:05:29",
+    end: "2023-06-02 01:05:29",
+    name: "Aziza Frank",
+  },
   {
     start: "2023-06-03 16:52:10",
     end: "2023-06-03 20:52:10",
@@ -64858,7 +65306,11 @@ export const shiftList = [
     end: "2023-06-16 00:26:06",
     name: "Tara Brooky",
   },
-  { start: "2023-06-15 00:00:00", end: "2023-06-15 04:00:00", name: "Hong Xue" },
+  {
+    start: "2023-06-15 00:00:00",
+    end: "2023-06-15 04:00:00",
+    name: "Hong Xue",
+  },
   {
     start: "2023-06-17 17:00:08",
     end: "2023-06-17 21:00:08",
