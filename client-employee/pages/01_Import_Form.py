@@ -49,7 +49,7 @@ allCategories = sorted(categories, key=lambda cat: cat["name"])
 allUsers = [{"id": -1, "name": ""}]
 active_shifts = shiftConnector.activeShifts()
 active_shifts2 = json.loads(active_shifts)
-shifts = pd.json_normalize(active_shifts2["activateShifts"])
+shifts = pd.json_normalize(active_shifts2["activeShifts"])
 if shifts.empty:
     allUsers = []
 else:
