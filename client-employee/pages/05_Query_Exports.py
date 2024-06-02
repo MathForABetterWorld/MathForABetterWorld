@@ -7,6 +7,7 @@ import os
 from routeConnectors import categoryConnectors, exportConnectors, locationConnectors, userConnector
 from PIL import Image
 from nav import nav_page
+from datetime import datetime
 
 
 path = os.path.dirname(__file__)
@@ -122,19 +123,60 @@ df.drop(columns=['userId'], inplace=True)
 df['exportDate'] = pd.to_datetime(df['exportDate'])
 df['exportDate'] = df['exportDate'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
-df.rename(columns={'id': 'ID', 'exportDate': 'Export Date', 'location': 'Location', 'weight': 'Weight', "exportType": "Export Type", 'category': 'Categories'}, inplace=True)
+df.rename(columns={'exportDate': 'Export Date', 'location': 'Location', 'weight': 'Weight', "exportType": "Export Type", 'category': 'Categories'}, inplace=True)
 columns_to_display = ['Entry User', 'Export Date', 'Location', 'Weight', 'Categories', "Export Type"]
-df = df[columns_to_display]
+display_df = df[columns_to_display]
 
-st.dataframe(df, use_container_width=True)
+st.dataframe(display_df, use_container_width=True)
 
-sum = df["Weight"].sum()
+sum = display_df["Weight"].sum()
 
 s = pd.Series([sum], name='Total Export Weight')
 
 st.dataframe(s, use_container_width=True)
 
+st.markdown("# Modify Exports: ")
+if 'token' in st.session_state:
+    columns_to_display = ['id', 'Entry User', 'Export Date', 'Location', 'Weight', 'Categories', "Export Type"]
+    df = df[columns_to_display]
+    editType = st.selectbox("Modification Type (Edit) (Select Below)", ["", "Update Export"])
+    if editType == "Update Export":
 
+        export_id_to_update = st.selectbox("Select Export ID to Update:", df['id'].values, index=0)
+        find_export = st.button("Find Export")
+        
+        if find_export:
+            if export_id_to_update in df['id'].values:
+                selected_export = df.loc[df['id'] == export_id_to_update]
+
+                locations = [{"id": -1, "name": "", "longitude":"", "latitude": ""}]  + locationConnectors.getLocations()['location']
+                formLocations = sorted(locations, key=lambda location: location["name"])
+
+                categories = [{"id": -1, "name": "", "description": ""}]  + categoryConnectors.getCategories()['category']
+                formCategories = sorted(categories, key=lambda cat: cat["name"])
+
+                users = [{"id": -1, "name": "", "email": "", "isActive": True}] + user_dict['users']
+                formUsers = sorted(users, key=lambda u: u["name"])
+
+                with st.form("template_form"):
+                    left, right = st.columns(2)
+                    # ADD DEFAULT VALUES index = selected_export['Export Type'].values[0]
+                    entry_user = left.selectbox("Entry User", options = formUsers, format_func=lambda use: f'{use["name"]}')
+                    export_date = right.date_input("Export Date", value = datetime.strptime(selected_export['Export Date'].values[0], '%Y-%m-%d %H:%M:%S'))
+                    location = left.selectbox("Location", options = formLocations, format_func=lambda loc: f'{loc["name"]}')
+                    weight = right.text_input("Weight", selected_export['Weight'].values[0])
+                    category = left.selectbox("Categories", options = formCategories, format_func=lambda cat: f'{cat["name"]}')
+                    export_type = right.selectbox(label = "Export Type", options = (["Regular", "Damaged", "Recycle", "Compost", "Return"]))
+                    update_submit = st.form_submit_button("Update Export")
+
+                    if update_submit:
+                        print("yay")
+                        # jsonObj = json.loads(userConnector.postUser(email, name, None if phoneNumber == "" else phoneNumber, None if address == "" else address, isActive))
+                        # newCat = pd.DataFrame(jsonObj["user"], index=[0])
+                        # st.experimental_rerun()
+            else:
+                st.warning("Export ID not found. Please enter a valid Export ID.")
+        df
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
 # rerun.
