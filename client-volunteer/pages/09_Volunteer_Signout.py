@@ -41,7 +41,7 @@ with title_container:
 active_users = [{"id": -1, "name": ""}]
 active_shifts = shiftConnector.activeShifts()
 active_shifts2 = json.loads(active_shifts)
-shifts = pd.json_normalize(active_shifts2["activateShifts"])
+shifts = pd.json_normalize(active_shifts2["activeshifts"])
 shifts = shifts[shifts["user.employeeId"].isnull()]
 if shifts.empty:
     active_users = []
