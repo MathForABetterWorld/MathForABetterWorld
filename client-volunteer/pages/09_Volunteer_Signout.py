@@ -42,6 +42,7 @@ active_users = [{"id": -1, "name": ""}]
 active_shifts = shiftConnector.activeShifts()
 active_shifts2 = json.loads(active_shifts)
 shifts = pd.json_normalize(active_shifts2["activateShifts"])
+shifts = shifts[shifts["user.employeeId"].isnull()]
 if shifts.empty:
     active_users = []
 else:
@@ -65,46 +66,47 @@ if st.session_state['button'] == True:
         st.error("Please enter a user.")
         st.session_state['button'] = False
     else :
-        user_id = user_input.get("id")
-        user_name = user_input.get("name")
-        row = shifts[(shifts["user.id"] == user_id) & (shifts["user.name"] == user_name)]
+        rows = shifts[shifts["user.name"] == user_input["name"]]
+        if not rows.empty:
+            row = rows.iloc[0]
 
-        # food_input must be a non-negative float
-        if is_non_neg_float(food_input) and is_non_neg_float(damaged_food_input):
-            foodAmt = float(food_input)
-            damagedFoodAmt = float(damaged_food_input)
-            
-            # food amount more than 20lbs requires admin approval
-            if foodAmt > 20:
-                st.write("Please get admin approval.")
-                admin_input = st.text_input("Admin Name")
-                password_input = st.text_input("Password", type="password")
-                if st.button("Login admin"):            
-                    res = json.loads(authConnectors.signinEmployee(admin_input, password_input))
-                    if res["status"]!=200:
-                        st.error("Invalid admin login, volunteer not signed out")
-                        time.sleep(2)
-                        st.session_state['button'] = False
-                        nav_page("")
-                    else:
-                        current_user_id = user_id
-                        shift_id = row["id"]
-                        shiftConnector.signout(foodAmt, shift_id, damagedFoodAmt)
-                        st.write("Sign out successful!")
-                        # wait 2 seconds
-                        time.sleep(2)
-                        st.session_state['button'] = False
-                        nav_page("")
-            else: 
-                current_user_id = user_id
-                shift_id = row["id"]
-                shiftConnector.signout(foodAmt, int(shift_id), damagedFoodAmt)
-                st.write("Sign out successful!")
+            # food_input must be a non-negative float
+            if is_non_neg_float(food_input) and is_non_neg_float(damaged_food_input):
+                foodAmt = float(food_input)
+                damagedFoodAmt = float(damaged_food_input)
+                
+                # food amount more than 20lbs requires admin approval
+                if foodAmt > 20:
+                    st.write("Please get admin approval.")
+                    admin_input = st.text_input("Admin Name")
+                    password_input = st.text_input("Password", type="password")
+                    if st.button("Login admin"):            
+                        res = json.loads(authConnectors.signinEmployee(admin_input, password_input))
+                        if res["status"]!=200:
+                            st.error("Invalid admin login, volunteer not signed out")
+                            time.sleep(2)
+                            st.session_state['button'] = False
+                            nav_page("Volunteer_Home")
+                        else:
+                            current_user_id = user_input
+                            shift_id = row["id"]
+                            shiftConnector.signout(foodAmt, int(shift_id), damagedFoodAmt)
+                            st.write("Sign out successful!")
+                            # wait 2 seconds
+                            time.sleep(2)
+                            st.session_state['button'] = False
+                            nav_page("Volunteer_Home")
+                else: 
+                    current_user_id = user_input
+                    shift_id = row["id"]
+                    shiftConnector.signout(foodAmt, int(shift_id), damagedFoodAmt)
+                    st.write("Sign out successful!")
+                    st.session_state['button'] = False
+            else:
+                st.error("Please enter a number at least greater than or equal to 0.")
                 st.session_state['button'] = False
-                nav_page("")
         else:
-            st.error("Please enter a number at least greater than or equal to 0.")
-            st.session_state['button'] = False
+            st.error("User does not have an active shift")
         
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
