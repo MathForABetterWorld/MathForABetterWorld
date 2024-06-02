@@ -44,6 +44,8 @@ if check_in_button:
         startTime = datetime.now()
         shiftConnector.postShift(user_input["id"], startTime.isoformat())
         st.write("Check in successful!")
+        time.sleep(2)
+        nav_page("")
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
