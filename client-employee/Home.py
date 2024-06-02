@@ -91,7 +91,6 @@ if 'token' in st.session_state :
         
         active_shifts = shiftConnector.activeShifts()
         active_shifts2 = json.loads(active_shifts)
-        active_shifts2
 else :
     log_in_button = st.button("Log in")
 
