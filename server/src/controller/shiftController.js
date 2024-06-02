@@ -127,7 +127,14 @@ export const getActiveShifts = async (req, res) => {
   }
   const activeShifts = await prisma.shift.findMany({
     where: {
-      end: null || "1970-01-01T00:00:00.000Z",
+      OR: [
+        {
+          end: null,
+        },
+        {
+          end: "1970-01-01T00:00:00.000Z",
+        },
+      ],
     },
     include: {
       user: true,
