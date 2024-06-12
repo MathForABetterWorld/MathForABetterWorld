@@ -69,6 +69,7 @@ const generateFakeData = async () => {
 
   const createEntryList = [];
   importsList.forEach((entry) => {
+    console.log(entry);
     if (rackMap.has(entry.rack)) {
       createEntryList.push({
         entryUserId: userMap.get(entry.name.toLowerCase()).id,
@@ -96,6 +97,7 @@ const generateFakeData = async () => {
     if (exportItem.weight < 0) {
       exportType = "Return";
     }
+    console.log(exportItem);
     if (rackMap.has(exportItem.rack)) {
       createExportsList.push({
         userId: userMap.get(exportItem.name.toLowerCase()).id,
