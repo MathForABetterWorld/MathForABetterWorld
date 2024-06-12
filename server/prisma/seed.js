@@ -182,8 +182,8 @@ const generateFakeData = async () => {
         userId: userMap.get(entry.name).id,
         start: new Date(entry.start),
         end: new Date(entry.end),
-        regularFoodTaken: 0,
-        damagedFoodTaken: 0,
+        regularFoodTaken: entry.regularTaken,
+        damagedFoodTaken: entry.damagedTaken,
       });
     } else {
       console.log(entry.name);
