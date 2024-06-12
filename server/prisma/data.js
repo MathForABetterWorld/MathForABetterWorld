@@ -483,19 +483,28 @@ export const rackList = [
 // don't add any racks, don't even pay attention to this
 
 export const usersList = [
+<<<<<<< HEAD
   "Aaliyiah Moye-Tati",
   "Aaron Oldenburg",
+=======
+  "2020 Manually Inputted Data",
+  "2021 Manually Inputted Data",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Abisola Adeusi",
   "Adebola Akinwale",
   "Adeola Sulaiman",
   "Adeolu Mojibola",
   "Adriana Hill",
   "Aisha",
+<<<<<<< HEAD
   "Akeel Carter",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Akul Umamageswaran",
   "Alex Bauer",
   "Alex Nguyen",
   "Alexia Lilly",
+<<<<<<< HEAD
   "Amiee Padilla",
   "Amy Xing",
   "Andrew Kolodziejczak",
@@ -508,22 +517,39 @@ export const usersList = [
   "Anna Nicosia",
   "Anna West",
   "Anne Rosenthal",
+=======
+  "Amy Xing ",
+  "Andrew Kolodziejczak",
+  "Andrew Thampoe",
+  "Andy",
+  "Angeles",
+  "Anita Bryant",
+  "Anna Nicosia",
+  "Anna West",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Arezou Esmaeeli",
   "Ariel Li",
   "Arjun Yogaratnam",
   "Ausar",
   "Aza Shiao",
   "Azel King",
+<<<<<<< HEAD
   "Aziza Frank",
   "Barbara Zadek",
   "Benjamin Hung",
   "Bernard McCormick",
+=======
+  "Aziza",
+  "Barbara Zadek",
+  "Benjamin Hung",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Bertille",
   "Beth Torres",
   "Beverly Graham",
   "Beverly Pinn",
   "Brad Burton",
   "Brandon Clark",
+<<<<<<< HEAD
   "Brenda Ames",
   "Brendan Wille",
   "Breyonna Pittman",
@@ -532,6 +558,13 @@ export const usersList = [
   "Bud Stracker",
   "Cailyn Lawler",
   "Calvin Bethea",
+=======
+  "Brendan Wille",
+  "Brian Min",
+  "Bud Stracker - Sisson Street DPW",
+  "Bud Stracker",
+  "Cailyn Lawler",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Cameron Dong",
   "Cameron Minor",
   "Camille",
@@ -540,6 +573,7 @@ export const usersList = [
   "Charity Hsu",
   "Charlie",
   "Charmika Burton",
+<<<<<<< HEAD
   "Catherine Carey",
   "Chaz Edwards",
   "Chenoa Martin",
@@ -548,6 +582,10 @@ export const usersList = [
   "Chloe Foster",
   "Christina",
   "Chris Royston",
+=======
+  "Chenoa Martin",
+  "Cheryl Utsey",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Cindy Silveira",
   "Claire Ahn",
   "Claire Kim",
@@ -555,51 +593,74 @@ export const usersList = [
   "Clarice",
   "Coach Dunkin",
   "Cody Windley",
+<<<<<<< HEAD
   "Connie Huang",
   "Connor Gephart",
   "Connor Lu",
   "Crystal Shaw",
+=======
+  "Connor Gephart",
+  "Connor Lu",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Dan Pike",
   "Daniel Huff",
   "Daniel Jin",
   "Daphnie Sumah",
+<<<<<<< HEAD
   "Darrell Grant",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Daryan Fisher",
   "David Annan",
   "David Ondande",
   "Dean Chien",
   "Dean Sharif",
   "Deborah Claridy",
+<<<<<<< HEAD
   "Deborah Cousin",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Denise Rivers",
   "Derek Dang",
   "Diego Trafton",
   "Dimpy",
   "Doris Parker Tuggle",
   "Dorja",
+<<<<<<< HEAD
   "Dylan Zhu",
   "Dynashia Woodson",
   "Edward Benner",
   "Eli Kengmana",
+=======
+  "Dynashia Woodson",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Elianna Perlman",
   "Elizabeth Rehn",
   "Ellen Cho",
   "Emi Ochoa",
   "Emily B",
   "Emily Fitzpatrick",
+<<<<<<< HEAD
   "Emily Mashqbeh",
+=======
+  "Emily Ma",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Emily Stucke",
   "Emily Zhang",
   "Eric Alvarado",
   "Erin B",
   "Evelyn Jiang",
+<<<<<<< HEAD
   "Eyitayo Enitan",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Fadil Santosa",
   "Faith Obilo",
   "First Fruits Farm",
   "GBMC",
   "GG",
   "Gabriel C",
+<<<<<<< HEAD
   "Galen Spikes",
   "Gene",
   "Gilda Castillo",
@@ -610,6 +671,14 @@ export const usersList = [
   "Hannah Johnson",
   "Harris Malik",
   "Hong Xue",
+=======
+  "Gene",
+  "Gilda Castillo",
+  "Gregory",
+  "Hannah Johnson",
+  "Harris Malik",
+  "Hong",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Ifeoluwa Akinropo",
   "Imani Armour",
   "Isaiah Gordon",
@@ -619,12 +688,18 @@ export const usersList = [
   "Jackee",
   "Jackie",
   "Jade Weatherington",
+<<<<<<< HEAD
   "Jamie Fleishman",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Jan Kleinman",
   "Janet Lomax",
   "Jasmine Jones-Howard",
   "Jasmine Rose",
+<<<<<<< HEAD
   "Jaydan Ziglar",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Jayla Butler",
   "Jaylen Harvey",
   "Jean",
@@ -634,28 +709,41 @@ export const usersList = [
   "Jessica Martin",
   "Jillayne Clarke",
   "Jilleien Franquelli",
+<<<<<<< HEAD
   "JoAnn Benbow",
   "Joanna",
   "Johanna Galat",
   "JoNathan Cousin",
+=======
+  "Joanna",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Jonathan Shay",
   "Jonyce Bland",
   "Josefina Aguilar-Pliszka",
   "Juanita Chandler",
   "Judy",
   "Julia Buckson",
+<<<<<<< HEAD
   "Julia Nelson",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Justin Coelho",
   "Justin Huang",
   "Justin Maduka",
   "Justin Zhong",
+<<<<<<< HEAD
   "Kae Dennis",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Kaleigh Rudge",
   "Kamau",
   "Kamille",
   "Kamryn Brown",
   "Kaneesha",
+<<<<<<< HEAD
   "Karas Leeks",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Karen Moore",
   "Karla Alexander",
   "Kate Weeks",
@@ -666,7 +754,10 @@ export const usersList = [
   "Kelly Chen",
   "Kelly Crawford",
   "Kennedy",
+<<<<<<< HEAD
   "Kevin James",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Kiera Payne",
   "Kira Branch",
   "Kyla",
@@ -676,14 +767,20 @@ export const usersList = [
   "Lanae",
   "Laronda",
   "Latease",
+<<<<<<< HEAD
   "Lauren Crouch",
   "Lawryn Johnson",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Layia",
   "Leap",
   "Lee Little",
   "Liam Stewart",
   "Linda Arce",
+<<<<<<< HEAD
   "Liz Simon-Higgs",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Luke Mayhew",
   "Luke Pitsenbarger",
   "Lynda Bishop",
@@ -697,32 +794,49 @@ export const usersList = [
   "Martina Pozzi",
   "Mary Jo Gary",
   "Meghan Alexis",
+<<<<<<< HEAD
   "Mekayle Powell",
+=======
+  "Mekayle",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Melissa Thomas",
   "Meredith Snow",
   "Michael Ford",
   "Michael Nwachukwu",
   "Michael Yoo",
+<<<<<<< HEAD
   "Michelle Collins",
   "Mike Foy",
   "Miguel Velasco",
+=======
+  "Mike Foy",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Monah Perry",
   "Morgan",
   "Munazza Abraham",
   "Myles Austin",
+<<<<<<< HEAD
   "Myra McDonald",
   "Nader Najjar",
   "Nailah Bishop",
   "Najah White",
   "Nakia",
   "Nana Alesia Richards",
+=======
+  "Nader Najjar",
+  "Nailah Bishop",
+  "Nakia",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Nani Herring",
   "Nanrui Gong",
   "Nastaran Keshmiri",
   "Nathan So",
   "Nathaniel McClean",
+<<<<<<< HEAD
   "Nathaniel Sheps",
   "Nevaeh Christy",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Ngozi Douglas",
   "Nia Bishop",
   "Nicolle Diaz",
@@ -736,6 +850,7 @@ export const usersList = [
   "Opeyemi Faleye",
   "Other",
   "Paul H",
+<<<<<<< HEAD
   "Pedro",
   "Perry Faulk",
   "Phillip Blackwell",
@@ -746,12 +861,24 @@ export const usersList = [
   "Rachel Lee",
   "Rachel Oh",
   "Raphael Gadot",
+=======
+  "Perry Faulk",
+  "Phillip Blackwell",
+  "Polly",
+  "Prabhleen",
+  "Rachel H",
+  "Rachel Lee",
+  "Rachel Oh",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Raquel Bailey",
   "Rawan Elshobaky",
   "Rewa Hazim",
   "Rilynn White",
+<<<<<<< HEAD
   "Robin Gibbs",
   "Rochelle Clunie",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Romaine Bouldin",
   "Rosemary Hendricks",
   "Roxane",
@@ -760,16 +887,23 @@ export const usersList = [
   "Safire Windley",
   "Sandy W",
   "Sara B",
+<<<<<<< HEAD
   "Sarah Krensky",
   "Scott Fox",
   "Sean Kwak",
   "Seth Crawford",
   "Shaan",
   "Shami M",
+=======
+  "Sarah K",
+  "Sean Kwak",
+  "Seth Crawford",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Sharon",
   "Sheneil Black",
   "Shoshana Kott",
   "Sierra Jai Smith",
+<<<<<<< HEAD
   "Sophia Skolnick",
   "Spencer Ellsworth",
   "Sue Daja",
@@ -778,6 +912,13 @@ export const usersList = [
   "Susan Larson",
   "Susan May",
   "Sybil Subiaur",
+=======
+  "Spencer Ellsworth",
+  "Sue Daja",
+  "Sunita Pathik",
+  "Susan Larson",
+  "Susan May",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Sydni Demby",
   "Taja Keitt",
   "Takiya Eastmond",
@@ -786,12 +927,18 @@ export const usersList = [
   "Tariq",
   "Tashana",
   "Teia",
+<<<<<<< HEAD
   "Temiloluwa Osunjimi",
   "Terell Little",
   "Theresa Columbus",
   "Theresa Keil",
   "Thomas Aloisi",
   "Timothy Chen",
+=======
+  "Theresa Columbus",
+  "Theresa Keil",
+  "Thomas Aloisi",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Tina Paquet",
   "Tishea Lester",
   "Torey Wilkins",
@@ -801,6 +948,7 @@ export const usersList = [
   "Treston Codrington",
   "Trinity Burge",
   "Tsion Getahun",
+<<<<<<< HEAD
   "Tyree Reka Vinson",
   "Tyrese Springer",
   "Vanessa Smith",
@@ -812,12 +960,21 @@ export const usersList = [
   "William Middlezong",
   "Wyatt Ray",
   "Wylder Voegele",
+=======
+  "Tyrese Springer",
+  "Vincent Faulk",
+  "Waldo",
+  "William Middlezong",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Xinyue Gu",
   "Xiomara Rodriguez",
   "Yasmine",
   "Young",
   "Yulia",
+<<<<<<< HEAD
   "Zachary Jackson",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Zanya Jamieson",
   "Zoe",
   "Zyare Abdul-Rahim",
@@ -847,7 +1004,11 @@ export const categoryList = [
   "Household",
   "Meat [Raw]",
   "Oil",
+<<<<<<< HEAD
   "Other",
+=======
+  "Other", //final
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Paper Supplies",
   "Personal Care",
   "Pet Supplies",
@@ -875,7 +1036,10 @@ export const distributorList = [
   "Guinness",
   "H and S Bakery",
   "Henderson-Hopkins",
+<<<<<<< HEAD
   "Jack and Sudznos",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "McCormick",
   "Other",
   "Sandtown",
@@ -891,16 +1055,30 @@ export const donatedToList = [
     longitude: "0",
   },
   {
+<<<<<<< HEAD
     name: "BCF [Non Curbside] [Sandtown]",
+=======
+    name: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
     latitude: "39.31654827746684",
     longitude: "-76.62063478994395",
   },
   {
+<<<<<<< HEAD
     name: "BCF Curbside [Sandtown]",
+=======
+    name: "BCF [Non Curbside] - Sandtown",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
     latitude: "39.316390",
     longitude: "-76.620630",
   },
   {
+<<<<<<< HEAD
     name: "BCF [Non Curbside] [Remington - Current]",
     latitude: "0",
     longitude: "0",
@@ -912,6 +1090,9 @@ export const donatedToList = [
   },
   {
     name: "Boys & Girls Club",
+=======
+    name: "BCF Curbside - Sandtown",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
     latitude: "0",
     longitude: "0",
   },
@@ -986,6 +1167,7 @@ export const donatedToList = [
     longitude: "0",
   },
   {
+<<<<<<< HEAD
     name: "Other Organization",
     latitude: "0",
     longitude: "0",
@@ -1001,6 +1183,8 @@ export const donatedToList = [
     longitude: "0",
   },
   {
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
     name: "McCollouh Homes [Coach Dunkin]",
     latitude: "39.30086548695787",
     longitude: "-76.62766018898213",
@@ -1075,6 +1259,20 @@ export const donatedToList = [
 // can add location to list if appears a lot
 
 export const entries = [
+  {
+    date: "2020-01-01 00:00:00",
+    name: "2020 Manually Inputted Data",
+    weight: 1123621,
+    category: "Other",
+    distributor: "Other",
+  },
+  {
+    date: "2021-01-01 00:00:00",
+    name: "2021 Manually Inputted Data",
+    weight: 1587992,
+    category: "Other",
+    distributor: "Other",
+  },
   {
     date: "2022-01-04 18:15:08.589000",
     name: "JC",
@@ -19868,6 +20066,20 @@ export const entries = [
 
 export const exportsList = [
   {
+    date: "2020-01-01 00:00:00:00",
+    name: "2020 Manually Inputted Data",
+    weight: 821981,
+    category: "Other",
+    location: "Other Organization",
+  },
+  {
+    date: "2021-01-01 00:00:00:00",
+    name: "2021 Manually Inputted Data",
+    weight: 1711977,
+    category: "Other",
+    location: "Other Organization",
+  },
+  {
     date: "2022-01-06 14:52:56.276000",
     name: "Teia",
     weight: 729,
@@ -20061,28 +20273,44 @@ export const exportsList = [
     name: "JC",
     weight: 660,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-07 00:00:00",
     name: "JC",
     weight: 520,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-07 00:00:00",
     name: "JC",
     weight: 646,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-07 00:00:00",
     name: "JC",
     weight: 437,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-07 00:00:00",
@@ -20285,105 +20513,165 @@ export const exportsList = [
     name: "Ausar",
     weight: 1544,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:32:14.048000",
     name: "Ausar",
     weight: 424,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:32:33.021000",
     name: "Ausar",
     weight: 65,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:33:10.860000",
     name: "Ausar",
     weight: 765,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:33:35.259000",
     name: "Ausar",
     weight: 529,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:33:53.197000",
     name: "Ausar",
     weight: 722,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:34:51.399000",
     name: "Ausar",
     weight: 920,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:35:33.433000",
     name: "Ausar",
     weight: 821,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:35:53.469000",
     name: "Ausar",
     weight: 363,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:36:16.287000",
     name: "Ausar",
     weight: 2198,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:36:39.422000",
     name: "Ausar",
     weight: 870,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:37:59.054000",
     name: "Ausar",
     weight: 1010,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:38:26.127000",
     name: "Ausar",
     weight: 907,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:38:45.210000",
     name: "Ausar",
     weight: 821,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:39:01.583000",
     name: "Ausar",
     weight: 1057,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-16 14:20:00.826000",
@@ -20537,77 +20825,121 @@ export const exportsList = [
     name: "Emily Stucke",
     weight: 732,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:07:06.468000",
     name: "Emily Stucke",
     weight: 1491,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:07:25.093000",
     name: "Emily Stucke",
     weight: 1038,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:07:44.008000",
     name: "Emily Stucke",
     weight: 221,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:08:15.142000",
     name: "Emily Stucke",
     weight: 266,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:08:47.602000",
     name: "Emily Stucke",
     weight: 880,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:09:18.569000",
     name: "Emily Stucke",
     weight: 861,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:10:48.713000",
     name: "Emily Stucke",
     weight: 821,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:11:16.404000",
     name: "Emily Stucke",
     weight: 874,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:11:30.710000",
     name: "Emily Stucke",
     weight: 459,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:12:02.028000",
     name: "Emily Stucke",
     weight: 1829,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:12:51.395000",
@@ -20656,35 +20988,55 @@ export const exportsList = [
     name: "Ausar",
     weight: 807,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 15:21:37.328000",
     name: "Ausar",
     weight: 874,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 15:22:07.121000",
     name: "Ausar",
     weight: 382,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 15:24:47.914000",
     name: "Ausar",
     weight: 894,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 15:25:05.269000",
     name: "Ausar",
     weight: 405,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-23 12:35:11.190000",
@@ -20964,154 +21316,242 @@ export const exportsList = [
     name: "Clarice",
     weight: 2316,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 12:33:01.294000",
     name: "Clarice",
     weight: 1642,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 12:37:28.942000",
     name: "Clarice",
     weight: 1570,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 12:41:39.150000",
     name: "Clarice",
     weight: 862,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 12:43:39.081000",
     name: "Clarice",
     weight: 869,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 12:47:43.022000",
     name: "Clarice",
     weight: 960,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:21:38.421000",
     name: "Clarice",
     weight: 321,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:22:24.764000",
     name: "Clarice",
     weight: 465,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:23:42.779000",
     name: "Clarice",
     weight: 465,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:27:13.437000",
     name: "Clarice",
     weight: 440,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:28:15.469000",
     name: "Clarice",
     weight: 470,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:29:07.468000",
     name: "Clarice",
     weight: 1271,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:37:00.160000",
     name: "Clarice",
     weight: 730,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:47:47.577000",
     name: "Clarice",
     weight: 265,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:53:36.484000",
     name: "Clarice",
     weight: 761,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:44:00.074000",
     name: "Clarice",
     weight: 715,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:44:37.853000",
     name: "Clarice",
     weight: 201,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:45:56.772000",
     name: "Clarice",
     weight: 623,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:46:30.346000",
     name: "Clarice",
     weight: 961,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:47:05.841000",
     name: "Clarice",
     weight: 552,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:47:32.589000",
     name: "Clarice",
     weight: 377,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:48:05.431000",
     name: "Clarice",
     weight: 501,
     category: "Danone - Plant Based Drink",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-30 12:58:40.290000",
@@ -21622,56 +22062,88 @@ export const exportsList = [
     name: "Emily Stucke",
     weight: 1452,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:08:15.681000",
     name: "Emily Stucke",
     weight: 1462,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:08:32.191000",
     name: "Emily Stucke",
     weight: 2159,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:08:52.333000",
     name: "Emily Stucke",
     weight: 988,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:09:07.574000",
     name: "Emily Stucke",
     weight: 843,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:09:24.842000",
     name: "Emily Stucke",
     weight: 905,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:09:43.578000",
     name: "Emily Stucke",
     weight: 945,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:09:58.718000",
     name: "Emily Stucke",
     weight: 843,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:10:34.829000",
@@ -21685,63 +22157,99 @@ export const exportsList = [
     name: "Emily Stucke",
     weight: 204,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:11:19.577000",
     name: "Emily Stucke",
     weight: 279,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:20:30.686000",
     name: "Emily Stucke",
     weight: 1480,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:29:25.479000",
     name: "Emily Stucke",
     weight: 2154,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:35:53.956000",
     name: "Emily Stucke",
     weight: 850,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:43:04.726000",
     name: "Emily Stucke",
     weight: 886,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 16:22:36.106000",
     name: "Emily Stucke",
     weight: 1645,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 16:22:51.787000",
     name: "Emily Stucke",
     weight: 2160,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 16:23:06.028000",
     name: "Emily Stucke",
     weight: 207,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-06 15:56:17.031000",
@@ -22364,49 +22872,77 @@ export const exportsList = [
     name: "JC",
     weight: 629,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:14:26.648000",
     name: "JC",
     weight: 2093,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:14:58.506000",
     name: "JC",
     weight: 134,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:15:15.620000",
     name: "JC",
     weight: 320,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:15:33.287000",
     name: "JC",
     weight: 2309,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:15:56.962000",
     name: "JC",
     weight: 1454,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:18:41.673000",
     name: "JC",
     weight: 4640,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 13:13:02.510000",
@@ -22427,7 +22963,11 @@ export const exportsList = [
     name: "JC",
     weight: 2083,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 13:15:44.681000",
@@ -22448,84 +22988,132 @@ export const exportsList = [
     name: "JC",
     weight: 1054,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 13:17:00.690000",
     name: "JC",
     weight: 1182,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 13:30:52.615000",
     name: "Sara B",
     weight: 1466,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:47:58.241000",
     name: "JC",
     weight: 649,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:48:29.073000",
     name: "JC",
     weight: 1141,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:48:53.155000",
     name: "JC",
     weight: 2045,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:49:54.863000",
     name: "JC",
     weight: 1470,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:50:15.486000",
     name: "JC",
     weight: 1064,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:50:53.365000",
     name: "JC",
     weight: 101,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 17:08:34.820000",
     name: "Ausar",
     weight: 245,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 17:09:00.575000",
     name: "Ausar",
     weight: 1202,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 17:10:09.957000",
     name: "Ausar",
     weight: 1480,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-13 12:20:49.735000",
@@ -22854,84 +23442,132 @@ export const exportsList = [
     name: "Marci Yankelov",
     weight: 1449,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:08:35.659000",
     name: "Marci Yankelov",
     weight: 1444,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:09:01.765000",
     name: "Marci Yankelov",
     weight: 354,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:09:28.833000",
     name: "Marci Yankelov",
     weight: 564,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:09:51.930000",
     name: "Marci Yankelov",
     weight: 1297,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:10:20.804000",
     name: "Marci Yankelov",
     weight: 843,
     category: "Spices",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:10:52.373000",
     name: "Marci Yankelov",
     weight: 193,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:11:29.917000",
     name: "Marci Yankelov",
     weight: 1747,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:12:18.728000",
     name: "Marci Yankelov",
     weight: 2010,
     category: "Danone - Plant Based Drink",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:12:38.435000",
     name: "Marci Yankelov",
     weight: 1868,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:13:05.885000",
     name: "Marci Yankelov",
     weight: 218,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:13:23.015000",
     name: "Marci Yankelov",
     weight: 82,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:14:09.084000",
@@ -22987,63 +23623,99 @@ export const exportsList = [
     name: "Marci Yankelov",
     weight: 2021,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:19:53.063000",
     name: "Marci Yankelov",
     weight: 2915,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:20:13.072000",
     name: "Marci Yankelov",
     weight: 1778,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:20:41.186000",
     name: "Marci Yankelov",
     weight: 845,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:21:04.027000",
     name: "Marci Yankelov",
     weight: 836,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:21:22.206000",
     name: "Marci Yankelov",
     weight: 124,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:21:59.948000",
     name: "Marci Yankelov",
     weight: 808,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:22:21.205000",
     name: "Marci Yankelov",
     weight: 861,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:22:37.767000",
     name: "Marci Yankelov",
     weight: 900,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-20 15:21:57.467000",
@@ -23309,84 +23981,132 @@ export const exportsList = [
     name: "Taja Keitt",
     weight: 677,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:39:05.838000",
     name: "Taja Keitt",
     weight: 671,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:39:33.280000",
     name: "Taja Keitt",
     weight: 723,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:39:50.354000",
     name: "Iyana Gross",
     weight: 1449,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:40:19.123000",
     name: "Iyana Gross",
     weight: 1450,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:40:32.281000",
     name: "Taja Keitt",
     weight: 772,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:40:47.322000",
     name: "Taja Keitt",
     weight: 2184,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:41:05.810000",
     name: "Iyana Gross",
     weight: 895,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:43:02.902000",
     name: "Iyana Gross",
     weight: 764,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:43:23.058000",
     name: "Taja Keitt",
     weight: 2402,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:43:36.665000",
     name: "Taja Keitt",
     weight: 807,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:45:57.451000",
     name: "Taja Keitt",
     weight: 905,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:55:51.666000",
@@ -23428,28 +24148,44 @@ export const exportsList = [
     name: "Iyana Gross",
     weight: 526,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 16:57:38.344000",
     name: "Ausar",
     weight: 512,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 16:57:57.862000",
     name: "Ausar",
     weight: 577,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 16:58:39.402000",
     name: "Ausar",
     weight: 312,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-27 13:46:56.560000",
@@ -23722,56 +24458,88 @@ export const exportsList = [
     name: "Ausar",
     weight: 1735,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:37:54.710000",
     name: "Ausar",
     weight: 2116,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:38:31.547000",
     name: "Ausar",
     weight: 1465,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:39:02.934000",
     name: "Ausar",
     weight: 1500,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:39:55.008000",
     name: "Ausar",
     weight: 1116,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:40:17.804000",
     name: "Ausar",
     weight: 314,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:53:11.616000",
     name: "Ausar",
     weight: 1380,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:54:55.336000",
     name: "Ausar",
     weight: 700,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:56:37.079000",
@@ -23799,14 +24567,22 @@ export const exportsList = [
     name: "Ausar",
     weight: 1217,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 13:07:39.868000",
     name: "Ausar",
     weight: 125,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 13:15:40.175000",
@@ -23827,91 +24603,143 @@ export const exportsList = [
     name: "Ausar",
     weight: 2247,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:17:25.491000",
     name: "Ausar",
     weight: 703,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:18:01.683000",
     name: "Ausar",
     weight: 710,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:18:38.422000",
     name: "Ausar",
     weight: 710,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:18:59.048000",
     name: "Ausar",
     weight: 764,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:19:44.688000",
     name: "Ausar",
     weight: 704,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:20:25.198000",
     name: "Ausar",
     weight: 790,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:51:39.560000",
     name: "JC",
     weight: 519,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:52:11.520000",
     name: "JC",
     weight: 298,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:53:07.252000",
     name: "JC",
     weight: 2445,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:53:44.351000",
     name: "JC",
     weight: 249,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:54:22.795000",
     name: "JC",
     weight: 125,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:54:57.114000",
     name: "JC",
     weight: 311,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-06 13:02:04.220000",
@@ -24128,70 +24956,110 @@ export const exportsList = [
     name: "JC",
     weight: 829,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:38:21.555000",
     name: "JC",
     weight: 818,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:38:39.806000",
     name: "JC",
     weight: 819,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:38:55.035000",
     name: "JC",
     weight: 820,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:39:28.476000",
     name: "JC",
     weight: 846,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:39:44.364000",
     name: "JC",
     weight: 817,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:40:12.463000",
     name: "JC",
     weight: 1502,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:40:35.749000",
     name: "JC",
     weight: 1585,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:41:01.016000",
     name: "JC",
     weight: 1522,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:41:16.486000",
     name: "JC",
     weight: 2311,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:43:59.070000",
@@ -24205,56 +25073,88 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 908,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 12:31:31.035000",
     name: "Torey Wilkins",
     weight: 1462,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 12:33:27.469000",
     name: "Torey Wilkins",
     weight: 569,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 12:38:37.517000",
     name: "Torey Wilkins",
     weight: 903,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 12:42:39.397000",
     name: "Torey Wilkins",
     weight: 1775,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 13:26:12.774000",
     name: "Torey Wilkins",
     weight: 708,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 14:57:30.018000",
     name: "Torey Wilkins",
     weight: 2144,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 15:36:47.175000",
     name: "Torey Wilkins",
     weight: 1364,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-13 14:41:56.118000",
@@ -24597,7 +25497,11 @@ export const exportsList = [
     name: "Melissa Thomas",
     weight: 656,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:46:28.716000",
@@ -24625,126 +25529,198 @@ export const exportsList = [
     name: "Melissa Thomas",
     weight: 774,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:50:19.685000",
     name: "Melissa Thomas",
     weight: 924,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:51:52.178000",
     name: "Melissa Thomas",
     weight: 679,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:52:54.068000",
     name: "Melissa Thomas",
     weight: 674,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:54:15.952000",
     name: "Melissa Thomas",
     weight: 2134,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:55:19.723000",
     name: "Melissa Thomas",
     weight: 2140,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:55:53.397000",
     name: "Melissa Thomas",
     weight: 149,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:57:19.745000",
     name: "Melissa Thomas",
     weight: 1857,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:58:26.292000",
     name: "Melissa Thomas",
     weight: 1145,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 14:01:36.652000",
     name: "Melissa Thomas",
     weight: 1129,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 14:04:11.638000",
     name: "Melissa Thomas",
     weight: 2176,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:34:16.441000",
     name: "JC",
     weight: 2126,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:35:08.826000",
     name: "JC",
     weight: 998,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:35:28.821000",
     name: "JC",
     weight: 408,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:35:52.360000",
     name: "JC",
     weight: 2150,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:36:11.391000",
     name: "JC",
     weight: 548,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:36:53.759000",
     name: "JC",
     weight: 1428,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:37:14.040000",
     name: "JC",
     weight: 341,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-20 13:18:26.295000",
@@ -24779,7 +25755,11 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 1667,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-20 16:31:59.605000",
@@ -24954,98 +25934,154 @@ export const exportsList = [
     name: "Kyla",
     weight: 358,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:38:42.006000",
     name: "Kyla",
     weight: 2151,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:40:44.438000",
     name: "Kyla",
     weight: 2025,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:41:15.267000",
     name: "Kyla",
     weight: 1036,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:41:46.395000",
     name: "Nakia",
     weight: 276,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:43:09.566000",
     name: "Kyla",
     weight: 1907,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:44:00.604000",
     name: "Nakia",
     weight: 680,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:44:19.196000",
     name: "Kyla",
     weight: 651,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:44:30.556000",
     name: "Nakia",
     weight: 690,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:44:49.377000",
     name: "Kyla",
     weight: 663,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:45:04.043000",
     name: "Nakia",
     weight: 715,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:45:19.533000",
     name: "Kyla",
     weight: 679,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:46:27.669000",
     name: "Nakia",
     weight: 1192,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:46:47.585000",
     name: "Nakia",
     weight: 620,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:46:48.480000",
@@ -25059,7 +26095,11 @@ export const exportsList = [
     name: "Nakia",
     weight: 1178,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:47:11.504000",
@@ -25087,70 +26127,110 @@ export const exportsList = [
     name: "Kyla",
     weight: 660,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:49:49.832000",
     name: "Nakia",
     weight: 2049,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:50:28.884000",
     name: "Kyla",
     weight: 690,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:50:44.947000",
     name: "Nakia",
     weight: 651,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:51:15.917000",
     name: "Kyla",
     weight: 715,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:52:01.392000",
     name: "Nakia",
     weight: 1372,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:52:05.966000",
     name: "Kyla",
     weight: 2118,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 16:58:43.157000",
     name: "Ausar",
     weight: 2118,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 16:59:14.909000",
     name: "Ausar",
     weight: 634,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 16:59:48.032000",
     name: "Ausar",
     weight: 1372,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-27 12:52:30.011000",
@@ -25381,42 +26461,66 @@ export const exportsList = [
     name: "Other",
     weight: 807,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:26:56.584000",
     name: "Other",
     weight: 1249,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:27:20.443000",
     name: "Other",
     weight: 630,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:27:51.483000",
     name: "Other",
     weight: 325,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:28:10.619000",
     name: "Other",
     weight: 386,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:28:30.706000",
     name: "Other",
     weight: 313,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:30:30.328000",
@@ -25430,77 +26534,121 @@ export const exportsList = [
     name: "Other",
     weight: 905,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:31:32.113000",
     name: "Other",
     weight: 986,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:31:58.789000",
     name: "Other",
     weight: 981,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:32:19.600000",
     name: "Other",
     weight: 971,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:32:38.566000",
     name: "Other",
     weight: 945,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 12:40:28.515000",
     name: "Ausar",
     weight: 1443,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 12:59:19.493000",
     name: "Other",
     weight: 1249,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 13:00:21.834000",
     name: "Other",
     weight: 201,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 13:01:19.434000",
     name: "Monah Perry",
     weight: 2561,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 13:01:53.414000",
     name: "Monah Perry",
     weight: 661,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 13:02:32.509000",
     name: "Monah Perry",
     weight: 137,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 13:03:31.994000",
@@ -25675,70 +26823,110 @@ export const exportsList = [
     name: "Dean Chien",
     weight: 232,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 13:29:57.528000",
     name: "Dean Chien",
     weight: 373,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:10:40.351000",
     name: "Dean Chien",
     weight: 107,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:15:02.373000",
     name: "Dean Chien",
     weight: 582,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:20:53.927000",
     name: "Dean Chien",
     weight: 753,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:24:14.049000",
     name: "Dean Chien",
     weight: 568,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:27:32.374000",
     name: "Dean Chien",
     weight: 206,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:30:44.784000",
     name: "Dean Chien",
     weight: 703,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:33:01.538000",
     name: "Dean Chien",
     weight: 247,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:37:33.570000",
     name: "Dean Chien",
     weight: 338,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-10 13:54:54.682000",
@@ -25871,21 +27059,33 @@ export const exportsList = [
     name: "Ausar",
     weight: 472,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:51:08.430000",
     name: "Ausar",
     weight: 382,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:51:43.231000",
     name: "Ausar",
     weight: 646,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:52:30.017000",
@@ -25899,70 +27099,110 @@ export const exportsList = [
     name: "Ausar",
     weight: 1336,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:53:22.564000",
     name: "Ausar",
     weight: 843,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:53:46.205000",
     name: "Ausar",
     weight: 1283,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:54:25.219000",
     name: "Ausar",
     weight: 576,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:54:43.497000",
     name: "Ausar",
     weight: 616,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:55:07.801000",
     name: "Ausar",
     weight: 551,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:55:35.272000",
     name: "Ausar",
     weight: 570,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:55:58.903000",
     name: "Ausar",
     weight: 525,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:56:27.437000",
     name: "Ausar",
     weight: 572,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:57:13.188000",
     name: "Ausar",
     weight: 1744,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-14 13:07:48.900000",
@@ -26039,266 +27279,418 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 582,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:29:09.999000",
     name: "Deborah Claridy",
     weight: 668,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:31:41.814000",
     name: "Deborah Claridy",
     weight: 715,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:32:19.804000",
     name: "Deborah Claridy",
     weight: 731,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:33:03.299000",
     name: "Deborah Claridy",
     weight: 679,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:34:06.725000",
     name: "Deborah Claridy",
     weight: 128,
     category: "Spices",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:35:11.716000",
     name: "Deborah Claridy",
     weight: 1482,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:35:56.552000",
     name: "Deborah Claridy",
     weight: 639,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:39:11.303000",
     name: "Deborah Claridy",
     weight: 636,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:42:12.049000",
     name: "Deborah Claridy",
     weight: 415,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:43:12.441000",
     name: "Deborah Claridy",
     weight: 376,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:49:45.146000",
     name: "Deborah Claridy",
     weight: 604,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:55:36.919000",
     name: "Deborah Claridy",
     weight: 667,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:02:22.058000",
     name: "Deborah Claridy",
     weight: 722,
     category: "Danone - Plant Based Drink",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:05:50.325000",
     name: "Deborah Claridy",
     weight: 1051,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:12:52.901000",
     name: "Deborah Claridy",
     weight: 917,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:21:28.758000",
     name: "Deborah Claridy",
     weight: 276,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:25:38.057000",
     name: "Deborah Claridy",
     weight: 904,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:32:16.462000",
     name: "Deborah Claridy",
     weight: 1088,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:41:34.363000",
     name: "Deborah Claridy",
     weight: 155,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:40:54.371000",
     name: "Ausar",
     weight: 281,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:41:36.383000",
     name: "Ausar",
     weight: 165,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:42:02.224000",
     name: "Ausar",
     weight: 290,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:42:32.401000",
     name: "Ausar",
     weight: 142,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:43:05.059000",
     name: "Ausar",
     weight: 470,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:43:46.094000",
     name: "Ausar",
     weight: 495,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:44:32.625000",
     name: "Ausar",
     weight: 15,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:45:42.262000",
     name: "Ausar",
     weight: 663,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:46:24.857000",
     name: "Ausar",
     weight: 407,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:46:51.655000",
     name: "Ausar",
     weight: 423,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:48:21.703000",
     name: "Ausar",
     weight: 611,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:48:52.897000",
     name: "Ausar",
     weight: 635,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:50:08.897000",
     name: "Ausar",
     weight: 821,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:50:56.533000",
     name: "Ausar",
     weight: 69,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:51:55.062000",
     name: "Ausar",
     weight: 363,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:53:16.090000",
     name: "Ausar",
     weight: 134,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:53:48.677000",
     name: "Ausar",
     weight: 77,
     category: "Spices",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:54:54.589000",
     name: "Ausar",
     weight: 727,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 21:16:11.038000",
@@ -26522,203 +27914,319 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 923,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:22:35.231000",
     name: "Deborah Claridy",
     weight: 924,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:23:27.912000",
     name: "Deborah Claridy",
     weight: 944,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:24:48.474000",
     name: "Deborah Claridy",
     weight: 614,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:25:22.989000",
     name: "Deborah Claridy",
     weight: 179,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:29:36.986000",
     name: "Deborah Claridy",
     weight: 419,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:32:51.308000",
     name: "Deborah Claridy",
     weight: 801,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:35:03.582000",
     name: "Deborah Claridy",
     weight: 195,
     category: "Spices",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:37:35.360000",
     name: "Deborah Claridy",
     weight: 640,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:41:27.946000",
     name: "Deborah Claridy",
     weight: 1070,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 13:43:41.103000",
     name: "Deborah Claridy",
     weight: 271,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 13:49:03.155000",
     name: "Dorja",
     weight: 551,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 13:51:59.272000",
     name: "Dorja",
     weight: 698,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:22:11.568000",
     name: "Dorja",
     weight: 218,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:24:00.949000",
     name: "Dorja",
     weight: 276,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:27:31.581000",
     name: "Dorja",
     weight: 107,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:29:40.887000",
     name: "Dorja",
     weight: 31,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:35:56.292000",
     name: "Dorja",
     weight: 217,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:41:19.415000",
     name: "Judy",
     weight: 359,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:42:49.712000",
     name: "Dorja",
     weight: 480,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:44:49.161000",
     name: "Dorja",
     weight: 91,
     category: "Spices",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:48:38.171000",
     name: "Dorja",
     weight: 192,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:27:33.146000",
     name: "Ausar",
     weight: 168,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:27:49.247000",
     name: "Ausar",
     weight: 243,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:28:07.592000",
     name: "Ausar",
     weight: 41,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:28:33.538000",
     name: "Ausar",
     weight: 160,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:28:50.513000",
     name: "Ausar",
     weight: 476,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:29:13.041000",
     name: "Ausar",
     weight: 193,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:29:34.252000",
     name: "Ausar",
     weight: 651,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-24 12:25:36.061000",
@@ -26886,175 +28394,275 @@ export const exportsList = [
     name: "Ausar",
     weight: 858,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:14:14.842000",
     name: "Ausar",
     weight: 388,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:14:43.161000",
     name: "Ausar",
     weight: 810,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:15:15.051000",
     name: "Ausar",
     weight: 359,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:15:40.260000",
     name: "Ausar",
     weight: 790,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:16:12.028000",
     name: "Ausar",
     weight: 411,
     category: "Spices",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:16:44.904000",
     name: "Ausar",
     weight: 199,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:18:33.419000",
     name: "Ausar",
     weight: 3945,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:19:02.056000",
     name: "Ausar",
     weight: 1576,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:19:47.140000",
     name: "Ausar",
     weight: 1378,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:20:17.456000",
     name: "Ausar",
     weight: 609,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:21:10.844000",
     name: "Ausar",
     weight: 1024,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:21:55.327000",
     name: "Ausar",
     weight: 61,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:23:06.819000",
     name: "Ausar",
     weight: 272,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:23:35.351000",
     name: "Ausar",
     weight: 603,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:23:56.950000",
     name: "Ausar",
     weight: 809,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:24:26.212000",
     name: "Ausar",
     weight: 809,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:24:42.760000",
     name: "Ausar",
     weight: 809,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:25:01.381000",
     name: "Ausar",
     weight: 70,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:25:44.937000",
     name: "Ausar",
     weight: 596,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:26:13.526000",
     name: "Ausar",
     weight: 559,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:26:49.044000",
     name: "Ausar",
     weight: 565,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:27:26.812000",
     name: "Ausar",
     weight: 163,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:28:07.046000",
     name: "Ausar",
     weight: 595,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:28:44.053000",
     name: "Ausar",
     weight: 159,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-01 12:13:08.778000",
@@ -27292,140 +28900,220 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 904,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:10:29.393000",
     name: "Deborah Claridy",
     weight: 562,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 267,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:16:21.345000",
     name: "Deborah Claridy",
     weight: 921,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:19:33.888000",
     name: "Deborah Claridy",
     weight: 506,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:23:11.995000",
     name: "Deborah Claridy",
     weight: 451,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 296,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:25:59.794000",
     name: "Deborah Claridy",
     weight: 543,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 518,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:29:55.288000",
     name: "Deborah Claridy",
     weight: 795,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 325,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 13:25:46.251000",
     name: "Deborah Claridy",
     weight: 574,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 13:26:19.065000",
     name: "Deborah Claridy",
     weight: 373,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 13:26:53.296000",
     name: "Deborah Claridy",
     weight: 748,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 426,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 13:34:08.680000",
     name: "Juanita Chandler",
     weight: 714,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 13:54:22.977000",
     name: "Juanita Chandler",
     weight: 1223,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 269,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 261,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 403,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-08 13:30:26.573000",
@@ -27635,168 +29323,264 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 563,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 11:47:46.330000",
     name: "Vincent Faulk",
     weight: 146,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 11:48:20.760000",
     name: "Vincent Faulk",
     weight: 378,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 11:49:08.834000",
     name: "Vincent Faulk",
     weight: 631,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:09:34.912000",
     name: "Deborah Claridy",
     weight: 894,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:10:46.407000",
     name: "Deborah Claridy",
     weight: 631,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:11:26.158000",
     name: "Deborah Claridy",
     weight: 168,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:14:04.225000",
     name: "Deborah Claridy",
     weight: 781,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:19:50.442000",
     name: "Deborah Claridy",
     weight: 1442,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:25:43.524000",
     name: "Deborah Claridy",
     weight: 709,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:29:16.480000",
     name: "Deborah Claridy",
     weight: 709,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:33:28.452000",
     name: "Deborah Claridy",
     weight: 166,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:56:15.068000",
     name: "Deborah Claridy",
     weight: 385,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:57:14.280000",
     name: "Deborah Claridy",
     weight: 280,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:57:47.693000",
     name: "Deborah Claridy",
     weight: 173,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:04:05.133000",
     name: "Deborah Claridy",
     weight: 185,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:04:55.259000",
     name: "Deborah Claridy",
     weight: 442,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:07:15.268000",
     name: "Deborah Claridy",
     weight: 279,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:07:58.742000",
     name: "Deborah Claridy",
     weight: 461,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:09:36.742000",
     name: "Deborah Claridy",
     weight: 312,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:24:21.923000",
     name: "Deborah Claridy",
     weight: 1442,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:26:47.052000",
     name: "Deborah Claridy",
     weight: 514,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:30:29.320000",
     name: "Deborah Claridy",
     weight: 188,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:33:11.623000",
     name: "Deborah Claridy",
     weight: 116,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 17:19:14.885000",
@@ -28006,84 +29790,132 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 243,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:14:26.330000",
     name: "Deborah Claridy",
     weight: 319,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:16:22.216000",
     name: "Deborah Claridy",
     weight: 1160,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:20:31.268000",
     name: "Deborah Claridy",
     weight: 1000,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:23:20.539000",
     name: "Deborah Claridy",
     weight: 926,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:27:39.220000",
     name: "Deborah Claridy",
     weight: 151,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:28:34.331000",
     name: "Deborah Claridy",
     weight: 243,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:34:27.974000",
     name: "Deborah Claridy",
     weight: 370,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:40:10.500000",
     name: "Deborah Claridy",
     weight: 253,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:42:45.492000",
     name: "Deborah Claridy",
     weight: 423,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:45:44.886000",
     name: "Deborah Claridy",
     weight: 192,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:55:26.686000",
     name: "Deborah Claridy",
     weight: 281,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:56:56.586000",
@@ -28097,77 +29929,121 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 385,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 13:39:45.677000",
     name: "Deborah Claridy",
     weight: 389,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 13:43:25.290000",
     name: "Deborah Claridy",
     weight: 410,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 13:48:32.640000",
     name: "Deborah Claridy",
     weight: 89,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:25:27.897000",
     name: "Vincent Faulk",
     weight: 165,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:26:18.345000",
     name: "Vincent Faulk",
     weight: 980,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:27:02.015000",
     name: "Vincent Faulk",
     weight: 281,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:27:37.413000",
     name: "Vincent Faulk",
     weight: 838,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:28:11.607000",
     name: "Vincent Faulk",
     weight: 82,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:29:06.898000",
     name: "Vincent Faulk",
     weight: 887,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:29:41.365000",
     name: "Vincent Faulk",
     weight: 140,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:30:27.866000",
@@ -28181,21 +30057,33 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 298,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:32:16.492000",
     name: "Vincent Faulk",
     weight: 264,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:33:14.645000",
     name: "Vincent Faulk",
     weight: 102,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-22 13:38:16.613000",
@@ -28517,126 +30405,198 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 452,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:14:27.033000",
     name: "Vincent Faulk",
     weight: 270,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:15:01.422000",
     name: "Vincent Faulk",
     weight: 173,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:15:57.032000",
     name: "Vincent Faulk",
     weight: 166,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:17:03.064000",
     name: "Vincent Faulk",
     weight: 1604,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:17:41.926000",
     name: "Vincent Faulk",
     weight: 819,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:18:19.575000",
     name: "Vincent Faulk",
     weight: 1496,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:18:52.469000",
     name: "Vincent Faulk",
     weight: 931,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:19:37.240000",
     name: "Vincent Faulk",
     weight: 410,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:20:06.463000",
     name: "Vincent Faulk",
     weight: 140,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:20:46.411000",
     name: "Vincent Faulk",
     weight: 135,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:21:13.020000",
     name: "Vincent Faulk",
     weight: 543,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:21:39.671000",
     name: "Vincent Faulk",
     weight: 304,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:22:33.704000",
     name: "Vincent Faulk",
     weight: 405,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:23:02.776000",
     name: "Vincent Faulk",
     weight: 801,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:23:33.754000",
     name: "Vincent Faulk",
     weight: 492,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:24:40.485000",
     name: "Vincent Faulk",
     weight: 823,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:25:11.215000",
     name: "Vincent Faulk",
     weight: 203,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-29 15:17:59.115000",
@@ -28797,63 +30757,99 @@ export const exportsList = [
     name: "Karen Moore",
     weight: 1056,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 16:13:18.599000",
     name: "Karen Moore",
     weight: 1027,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 16:13:45.308000",
     name: "Karen Moore",
     weight: 295,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 16:31:32.192000",
     name: "Karen Moore",
     weight: 494,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 16:34:39.914000",
     name: "Karen Moore",
     weight: 290,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 17:40:37.977000",
     name: "JC",
     weight: 1149,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 17:41:02.143000",
     name: "JC",
     weight: 410,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 17:41:34.111000",
     name: "JC",
     weight: 88,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 17:41:52.036000",
     name: "JC",
     weight: 563,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 17:42:13.417000",
@@ -28867,7 +30863,11 @@ export const exportsList = [
     name: "Other",
     weight: 107,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-03 15:04:08.830000",
@@ -28909,49 +30909,77 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 360,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 12:25:46.275000",
     name: "Deborah Claridy",
     weight: 107,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 13:24:26.371000",
     name: "Deborah Claridy",
     weight: 48,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:25:34.895000",
     name: "Deborah Claridy",
     weight: 249,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:26:24.486000",
     name: "Deborah Claridy",
     weight: 516,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:26:58.985000",
     name: "Deborah Claridy",
     weight: 710,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:30:39.023000",
     name: "Deborah Claridy",
     weight: 457,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:34:57.048000",
@@ -28965,21 +30993,33 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 289,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:36:37.074000",
     name: "Deborah Claridy",
     weight: 67,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:37:32.725000",
     name: "Deborah Claridy",
     weight: 419,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:38:21.994000",
@@ -28993,7 +31033,11 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 518,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:40:14.938000",
@@ -29035,7 +31079,11 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 300,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-05 13:22:47.017000",
@@ -29133,35 +31181,55 @@ export const exportsList = [
     name: "Claire",
     weight: 574,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-07 15:08:04.865000",
     name: "Claire",
     weight: 355,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-07 15:08:22.071000",
     name: "Claire",
     weight: 388,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-07 15:10:11.053000",
     name: "Claire",
     weight: 2308,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-07 15:12:05.440000",
     name: "Claire",
     weight: 1553,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-08 12:33:28.672000",
@@ -29224,7 +31292,11 @@ export const exportsList = [
     name: "Laronda",
     weight: 96,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-09 15:49:41.645000",
@@ -29294,21 +31366,33 @@ export const exportsList = [
     name: "Seth Crawford",
     weight: 97,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-09 19:25:42.178000",
     name: "Seth Crawford",
     weight: 121,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-09 19:26:15.268000",
     name: "Seth Crawford",
     weight: 177,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-10 15:40:21.879000",
@@ -29371,14 +31455,22 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 860,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-11 13:36:50.678000",
     name: "Deborah Claridy",
     weight: 472,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-11 17:21:33.037000",
@@ -29441,7 +31533,11 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 2674,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-11 00:00:00",
@@ -29644,126 +31740,198 @@ export const exportsList = [
     name: "Claire",
     weight: 303,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 1869,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 210,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 1120,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 475,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 492,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 210,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 122,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 171,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 634,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 916,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 716,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 736,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 206,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 478,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 586,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 240,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 285,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
@@ -29777,63 +31945,99 @@ export const exportsList = [
     name: "Claire",
     weight: 397,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 385,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 694,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 232,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 344,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 317,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 368,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 32,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 44,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-19 16:06:37.390000",
@@ -30050,182 +32254,286 @@ export const exportsList = [
     name: "Emily Stucke",
     weight: 199,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:07:16.671000",
     name: "Emily Stucke",
     weight: 181,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:07:53.385000",
     name: "Emily Stucke",
     weight: 372,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:08:26.385000",
     name: "Emily Stucke",
     weight: 596,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:09:18.685000",
     name: "Emily Stucke",
     weight: 1305,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:09:39.890000",
     name: "Emily Stucke",
     weight: 580,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:09:59.050000",
     name: "Emily Stucke",
     weight: 296,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:10:38.881000",
     name: "Emily Stucke",
     weight: 1485,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:11:52.084000",
     name: "Emily Stucke",
     weight: 1728,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:12:20.633000",
     name: "Emily Stucke",
     weight: 1224,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:12:53.316000",
     name: "Emily Stucke",
     weight: 244,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:13:15.163000",
     name: "Emily Stucke",
     weight: 900,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:22:21.029000",
     name: "Emily Stucke",
     weight: 788,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:22:42.671000",
     name: "Emily Stucke",
     weight: 832,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:23:32.434000",
     name: "Emily Stucke",
     weight: 470,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:24:37.247000",
     name: "Emily Stucke",
     weight: 389,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:26:17.678000",
     name: "Emily Stucke",
     weight: 398,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 16:39:50.087000",
     name: "Claire",
     weight: 48,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 16:40:13.055000",
     name: "Claire",
     weight: 323,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 16:40:40.723000",
     name: "Claire",
     weight: 254,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 227,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 262,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 446,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 1278,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 428,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 251,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-26 15:17:09.504000",
@@ -30463,147 +32771,231 @@ export const exportsList = [
     name: "Claire",
     weight: 221,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:13:34.280000",
     name: "Claire",
     weight: 1379,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:14:20.634000",
     name: "Claire",
     weight: 1210,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:15:18.834000",
     name: "Claire",
     weight: 1666,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:15:50.409000",
     name: "Claire",
     weight: 1238,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:16:25.757000",
     name: "Claire",
     weight: 164,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:18:01.660000",
     name: "Claire",
     weight: 502,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:17:39.101000",
     name: "Claire",
     weight: 371,
     category: "Baby Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:17:13.701000",
     name: "Claire",
     weight: 600,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:18:21.175000",
     name: "Claire",
     weight: 866,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:18:42.492000",
     name: "Claire",
     weight: 197,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:19:13.233000",
     name: "Claire",
     weight: 853,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:19:31.793000",
     name: "Claire",
     weight: 639,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:20:02.892000",
     name: "Claire",
     weight: 710,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:20:20.085000",
     name: "Claire",
     weight: 660,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:20:47.934000",
     name: "Claire",
     weight: 1157,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:21:23.953000",
     name: "Claire",
     weight: 230,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:21:45.550000",
     name: "Claire",
     weight: 237,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:22:04.142000",
     name: "Claire",
     weight: 721,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:22:28.724000",
     name: "Claire",
     weight: 872,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:22:52.068000",
     name: "Claire",
     weight: 542,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:53:35.865000",
@@ -30617,35 +33009,55 @@ export const exportsList = [
     name: "Zoe",
     weight: 410,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:55:13.240000",
     name: "Zoe",
     weight: 73,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:55:47.140000",
     name: "Zoe",
     weight: 228,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:56:18.505000",
     name: "Zoe",
     weight: 474,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:56:42.239000",
     name: "Zoe",
     weight: 188,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:57:43.547000",
@@ -30925,203 +33337,319 @@ export const exportsList = [
     name: "Claire",
     weight: 674,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:20:56.184000",
     name: "Claire",
     weight: 949,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:21:39.528000",
     name: "Claire",
     weight: 156,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:22:15.905000",
     name: "Claire",
     weight: 518,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:24:36.677000",
     name: "Claire",
     weight: 204,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:25:07.366000",
     name: "Claire",
     weight: 710,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:25:23.824000",
     name: "Claire",
     weight: 130,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:25:50.618000",
     name: "Claire",
     weight: 179,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:28:55.753000",
     name: "Claire",
     weight: 1005,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:29:21.607000",
     name: "Claire",
     weight: 128,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:29:59.796000",
     name: "Claire",
     weight: 759,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:30:29.051000",
     name: "Claire",
     weight: 2073,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:30:53.831000",
     name: "Claire",
     weight: 1253,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:31:32.434000",
     name: "Claire",
     weight: 1000,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:31:59.930000",
     name: "Claire",
     weight: 1105,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:32:36.266000",
     name: "Claire",
     weight: 173,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:33:13.140000",
     name: "Claire",
     weight: 180,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:33:53.411000",
     name: "Claire",
     weight: 223,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:34:32.252000",
     name: "Claire",
     weight: 1278,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:35:04.217000",
     name: "Claire",
     weight: 554,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:35:27.460000",
     name: "Claire",
     weight: 441,
     category: "Oil",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:35:54.244000",
     name: "Claire",
     weight: 889,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:36:16.497000",
     name: "Claire",
     weight: 1463,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:36:50.775000",
     name: "Claire",
     weight: 400,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:37:10.828000",
     name: "Claire",
     weight: 65,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:37:35.427000",
     name: "Claire",
     weight: 352,
     category: "Oil",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:38:00.014000",
     name: "Claire",
     weight: 337,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:38:22.097000",
     name: "Claire",
     weight: 30,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:39:35.504000",
     name: "Claire",
     weight: 1486,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-10 16:45:13.566000",
@@ -31359,126 +33887,198 @@ export const exportsList = [
     name: "Claire",
     weight: 247,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 609,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 256,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 300,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 312,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 131,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 764,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 287,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:14:08.487000",
     name: "JC",
     weight: 1496,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:14:40.754000",
     name: "JC",
     weight: 1433,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:15:19.763000",
     name: "JC",
     weight: 798,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:15:57.355000",
     name: "JC",
     weight: 417,
     category: "Baby Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:16:46.602000",
     name: "JC",
     weight: 1134,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:17:38.350000",
     name: "JC",
     weight: 630,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:18:03.629000",
     name: "JC",
     weight: 675,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:18:32.950000",
     name: "JC",
     weight: 133,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:19:01.246000",
     name: "JC",
     weight: 131,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:43:46.076000",
     name: "Kaneesha",
     weight: 429,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:45:26.638000",
@@ -31492,56 +34092,88 @@ export const exportsList = [
     name: "Kaneesha",
     weight: 1080,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:47:06.720000",
     name: "Kaneesha",
     weight: 495,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:47:43.958000",
     name: "Kaneesha",
     weight: 614,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:49:23.191000",
     name: "Kaneesha",
     weight: 390,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:50:32.087000",
     name: "Kaneesha",
     weight: 205,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:51:53.170000",
     name: "Kaneesha",
     weight: 139,
     category: "Baby Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:52:48.241000",
     name: "Kaneesha",
     weight: 70,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:53:49.171000",
     name: "Kaneesha",
     weight: 148,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 17:05:38.440000",
@@ -31751,175 +34383,275 @@ export const exportsList = [
     name: "Ausar",
     weight: 87,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 11:58:58.115000",
     name: "Ausar",
     weight: 260,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:09:08.476000",
     name: "Claire",
     weight: 1094,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:09:39.368000",
     name: "Claire",
     weight: 390,
     category: "Baby Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:10:08.240000",
     name: "Claire",
     weight: 1030,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:10:30.970000",
     name: "Claire",
     weight: 1614,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:10:56.879000",
     name: "Claire",
     weight: 280,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:11:19.581000",
     name: "Claire",
     weight: 146,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:46:28.382000",
     name: "Emily Stucke",
     weight: 306,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:47:03.607000",
     name: "Emily Stucke",
     weight: 666,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:47:29.034000",
     name: "Emily Stucke",
     weight: 578,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:47:58.449000",
     name: "Emily Stucke",
     weight: 578,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:48:17.932000",
     name: "Emily Stucke",
     weight: 424,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:48:37.684000",
     name: "Emily Stucke",
     weight: 707,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:48:54.956000",
     name: "Emily Stucke",
     weight: 552,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 15:07:57.617000",
     name: "Ausar",
     weight: 475,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 15:25:16.210000",
     name: "Ausar",
     weight: 944,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 15:55:59.378000",
     name: "Ausar",
     weight: 122,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 16:28:27.005000",
     name: "Ausar",
     weight: 200,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 16:49:59.807000",
     name: "Ausar",
     weight: 42,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 16:52:47.740000",
     name: "Ausar",
     weight: 129,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 16:58:48.824000",
     name: "Ausar",
     weight: 123,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 17:05:54.856000",
     name: "Ausar",
     weight: 103,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 17:28:55.851000",
     name: "Claire",
     weight: 122,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 17:31:29.263000",
     name: "Claire",
     weight: 37,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 18:08:55.628000",
@@ -32038,35 +34770,55 @@ export const exportsList = [
     name: "JC",
     weight: 1897,
     category: "Water",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-29 13:44:17.717000",
     name: "JC",
     weight: 349,
     category: "Baby Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-29 13:44:53.990000",
     name: "JC",
     weight: 969,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-29 13:45:25.026000",
     name: "JC",
     weight: 228,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-29 13:46:06.905000",
     name: "JC",
     weight: 915,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-29 14:21:33.046000",
@@ -32108,14 +34860,22 @@ export const exportsList = [
     name: "JC",
     weight: 643,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 15:06:18.168000",
     name: "JC",
     weight: 242,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:32:30.170000",
@@ -32136,77 +34896,121 @@ export const exportsList = [
     name: "Claire",
     weight: 671,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:34:57.753000",
     name: "Claire",
     weight: 327,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:35:19.052000",
     name: "Claire",
     weight: 1087,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:36:40.970000",
     name: "Claire",
     weight: 242,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:37:30.091000",
     name: "Claire",
     weight: 531,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:38:04.871000",
     name: "Claire",
     weight: 510,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:52:14.373000",
     name: "Claire",
     weight: 659,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:52:44.175000",
     name: "Claire",
     weight: 126,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 00:00:00",
     name: "JC",
     weight: 212,
     category: "Baby Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 00:00:00",
     name: "JC",
     weight: 902,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 00:00:00",
     name: "JC",
     weight: 557,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-31 16:19:31.497000",
@@ -32423,98 +35227,154 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 323,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:50:28.617000",
     name: "Vincent Faulk",
     weight: 182,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:51:18.807000",
     name: "Vincent Faulk",
     weight: 183,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:53:09.432000",
     name: "Vincent Faulk",
     weight: 1085,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:54:16.909000",
     name: "Vincent Faulk",
     weight: 306,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:54:56.424000",
     name: "Vincent Faulk",
     weight: 281,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:55:25.483000",
     name: "Vincent Faulk",
     weight: 165,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:55:58.743000",
     name: "Vincent Faulk",
     weight: 266,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:56:30.721000",
     name: "Vincent Faulk",
     weight: 787,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:57:07.702000",
     name: "Vincent Faulk",
     weight: 751,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:57:37.326000",
     name: "Vincent Faulk",
     weight: 820,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:58:09.669000",
     name: "Vincent Faulk",
     weight: 604,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:58:40.182000",
     name: "Vincent Faulk",
     weight: 260,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:59:18.513000",
     name: "Vincent Faulk",
     weight: 242,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-11 16:40:29.710000",
@@ -32563,119 +35423,187 @@ export const exportsList = [
     name: "Claire",
     weight: 260,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:02:36.688000",
     name: "Claire",
     weight: 933,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:03:07.038000",
     name: "Claire",
     weight: 1095,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:03:36.906000",
     name: "Claire",
     weight: 275,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:04:15.860000",
     name: "Claire",
     weight: 1438,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:05:14.733000",
     name: "Claire",
     weight: 1108,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:09:18.714000",
     name: "Claire",
     weight: 1480,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:10:38.041000",
     name: "Claire",
     weight: 593,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:10:59.161000",
     name: "Claire",
     weight: 701,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:11:39.875000",
     name: "Claire",
     weight: 1501,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:12:10.133000",
     name: "Claire",
     weight: 582,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:12:47.892000",
     name: "Claire",
     weight: 531,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:13:09.608000",
     name: "Claire",
     weight: 523,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:13:35.816000",
     name: "Claire",
     weight: 1246,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:13:57.602000",
     name: "Claire",
     weight: 1084,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:17:32.778000",
     name: "Claire",
     weight: 195,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:23:06.193000",
     name: "Claire",
     weight: 177,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-14 13:41:30.668000",
@@ -32808,133 +35736,209 @@ export const exportsList = [
     name: "Claire",
     weight: 466,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:37:57.720000",
     name: "Claire",
     weight: 315,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:38:14.405000",
     name: "Claire",
     weight: 776,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:38:59.688000",
     name: "Claire",
     weight: 218,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:39:25.273000",
     name: "Claire",
     weight: 273,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:39:44.316000",
     name: "Claire",
     weight: 1923,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:40:01.982000",
     name: "Claire",
     weight: 705,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:40:16.928000",
     name: "Claire",
     weight: 706,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:40:35.610000",
     name: "Claire",
     weight: 598,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:40:54.418000",
     name: "Claire",
     weight: 627,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:41:13.552000",
     name: "Claire",
     weight: 1311,
     category: "Danone - Plant Based Drink",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:41:49.161000",
     name: "Claire",
     weight: 262,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:42:07.043000",
     name: "Claire",
     weight: 656,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:42:25.922000",
     name: "Claire",
     weight: 583,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:42:42.189000",
     name: "Claire",
     weight: 424,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:43:01.480000",
     name: "Claire",
     weight: 54,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:43:29.249000",
     name: "Claire",
     weight: 1436,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:43:48.126000",
     name: "Claire",
     weight: 391,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:58:52.060000",
     name: "Claire",
     weight: 250,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-21 15:51:15.187000",
@@ -33081,140 +36085,220 @@ export const exportsList = [
     name: "Claire",
     weight: 1474,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:01:30.460000",
     name: "Claire",
     weight: 201,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:01:45.499000",
     name: "Claire",
     weight: 339,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:02:06.260000",
     name: "Claire",
     weight: 1206,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:02:24.151000",
     name: "Claire",
     weight: 1164,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:03:02.012000",
     name: "Claire",
     weight: 596,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:04:23.516000",
     name: "Claire",
     weight: 239,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:04:44.971000",
     name: "Claire",
     weight: 1670,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:07:29.122000",
     name: "Claire",
     weight: 537,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:09:16.021000",
     name: "Claire",
     weight: 1338,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:09:40.350000",
     name: "Claire",
     weight: 894,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:09:55.075000",
     name: "Claire",
     weight: 701,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:31:13.691000",
     name: "Claire",
     weight: 202,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:31:33.953000",
     name: "Claire",
     weight: 302,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:31:51.799000",
     name: "Claire",
     weight: 640,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:32:24.753000",
     name: "Claire",
     weight: 414,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:32:51.629000",
     name: "Claire",
     weight: 996,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:33:13.313000",
     name: "Claire",
     weight: 217,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:35:40.684000",
     name: "Claire",
     weight: 700,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:36:48.060000",
     name: "Claire",
     weight: 160,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-28 16:01:30.598000",
@@ -33347,140 +36431,220 @@ export const exportsList = [
     name: "Claire",
     weight: 67,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:19:10.330000",
     name: "Claire",
     weight: 77,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:19:40.360000",
     name: "Claire",
     weight: 275,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:20:37.556000",
     name: "Claire",
     weight: 542,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:21:04.095000",
     name: "Claire",
     weight: 69,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:22:02.726000",
     name: "Claire",
     weight: 953,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:22:37.431000",
     name: "Claire",
     weight: 955,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:22:54.891000",
     name: "Claire",
     weight: 1038,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:23:21.814000",
     name: "Claire",
     weight: 938,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:23:47.649000",
     name: "Claire",
     weight: 926,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:24:34.568000",
     name: "Claire",
     weight: 376,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:24:59.393000",
     name: "Claire",
     weight: 605,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:31:20.781000",
     name: "Claire",
     weight: 256,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:31:37.717000",
     name: "Claire",
     weight: 508,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:32:55.511000",
     name: "Claire",
     weight: 527,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:33:51.151000",
     name: "Claire",
     weight: 99,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:34:14.871000",
     name: "Claire",
     weight: 121,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:34:44.961000",
     name: "Claire",
     weight: 589,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:37:56.948000",
     name: "Claire",
     weight: 175,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:38:15.808000",
     name: "Claire",
     weight: 33,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-04 14:43:18.744000",
@@ -33634,168 +36798,264 @@ export const exportsList = [
     name: "Claire",
     weight: 250,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:34:06.531000",
     name: "Claire",
     weight: 61,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:35:43.403000",
     name: "Claire",
     weight: 1094,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:36:11.945000",
     name: "Claire",
     weight: 154,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:36:28.699000",
     name: "Claire",
     weight: 177,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:36:48.157000",
     name: "Claire",
     weight: 1026,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:37:05.190000",
     name: "Claire",
     weight: 225,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:37:23.060000",
     name: "Claire",
     weight: 271,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:38:00.950000",
     name: "Claire",
     weight: 248,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:40:12.052000",
     name: "Claire",
     weight: 200,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:41:12.964000",
     name: "Claire",
     weight: 818,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:44:19.600000",
     name: "Claire",
     weight: 916,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:44:44.740000",
     name: "Claire",
     weight: 491,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:45:02.791000",
     name: "Claire",
     weight: 75,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:46:51.142000",
     name: "Claire",
     weight: 552,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:47:35.088000",
     name: "Claire",
     weight: 602,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:47:51.183000",
     name: "Claire",
     weight: 84,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:50:36.143000",
     name: "Claire",
     weight: 604,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:53:28.339000",
     name: "Claire",
     weight: 374,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:54:12.332000",
     name: "Claire",
     weight: 934,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:56:34.494000",
     name: "Claire",
     weight: 231,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:56:56.845000",
     name: "Claire",
     weight: 1299,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:57:45.569000",
     name: "Claire",
     weight: 199,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:58:43.773000",
     name: "Claire",
     weight: 316,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-11 13:08:06.681000",
@@ -33970,168 +37230,264 @@ export const exportsList = [
     name: "Claire",
     weight: 186,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:33:31.109000",
     name: "Claire",
     weight: 444,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:33:49.908000",
     name: "Claire",
     weight: 122,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:34:32.666000",
     name: "Claire",
     weight: 791,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:35:09.371000",
     name: "Claire",
     weight: 817,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:35:39.981000",
     name: "Claire",
     weight: 872,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:37:53.838000",
     name: "Claire",
     weight: 940,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:39:39.468000",
     name: "Claire",
     weight: 106,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:40:00.051000",
     name: "Claire",
     weight: 430,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:42:58.408000",
     name: "Claire",
     weight: 542,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:43:45.161000",
     name: "Claire",
     weight: 555,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:44:18.382000",
     name: "Claire",
     weight: 576,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:54:54.972000",
     name: "Claire",
     weight: 271,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:57:28.888000",
     name: "Claire",
     weight: 528,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:57:54.274000",
     name: "Claire",
     weight: 39,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:58:18.138000",
     name: "Claire",
     weight: 137,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:58:37.836000",
     name: "Claire",
     weight: 217,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:59:13.458000",
     name: "Claire",
     weight: 435,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:59:31.816000",
     name: "Claire",
     weight: 345,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:59:50.178000",
     name: "Claire",
     weight: 799,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 17:00:06.182000",
     name: "Claire",
     weight: 107,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 17:00:28.947000",
     name: "Claire",
     weight: 112,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 17:01:22.847000",
     name: "Claire",
     weight: 553,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 17:01:59.752000",
     name: "Claire",
     weight: 122,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-18 15:23:13.633000",
@@ -34411,70 +37767,110 @@ export const exportsList = [
     name: "Claire",
     weight: 177,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:26:39.701000",
     name: "Claire",
     weight: 267,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:26:57.862000",
     name: "Claire",
     weight: 1348,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:27:37.231000",
     name: "Claire",
     weight: 907,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:28:22.373000",
     name: "Claire",
     weight: 177,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:28:42.111000",
     name: "Claire",
     weight: 854,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:29:14.541000",
     name: "Claire",
     weight: 2197,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:29:35.297000",
     name: "Claire",
     weight: 201,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:29:55.132000",
     name: "Claire",
     weight: 187,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:31:15.386000",
     name: "Claire",
     weight: 199,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:31:44.099000",
@@ -34516,28 +37912,44 @@ export const exportsList = [
     name: "Claire",
     weight: 480,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:38:20.758000",
     name: "Claire",
     weight: 852,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:38:42.510000",
     name: "Claire",
     weight: 170,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:41:33.541000",
     name: "Claire",
     weight: 250,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-25 00:00:00",
@@ -34775,182 +38187,286 @@ export const exportsList = [
     name: "Claire",
     weight: 48,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:34:10.621000",
     name: "Claire",
     weight: 71,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:35:20.415000",
     name: "Claire",
     weight: 187,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:35:46.820000",
     name: "Claire",
     weight: 358,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:36:10.421000",
     name: "Claire",
     weight: 785,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:36:32.699000",
     name: "Claire",
     weight: 536,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:36:55.341000",
     name: "Claire",
     weight: 80,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:37:13.052000",
     name: "Claire",
     weight: 115,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:37:32.811000",
     name: "Claire",
     weight: 856,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:37:49.502000",
     name: "Claire",
     weight: 115,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:38:24.098000",
     name: "Claire",
     weight: 264,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:39:19.116000",
     name: "Claire",
     weight: 73,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:40:18.166000",
     name: "Claire",
     weight: 836,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:40:56.707000",
     name: "Claire",
     weight: 392,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:41:25.290000",
     name: "Claire",
     weight: 239,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:41:50.125000",
     name: "Claire",
     weight: 505,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:42:13.393000",
     name: "Claire",
     weight: 95,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:42:48.406000",
     name: "Claire",
     weight: 158,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:43:08.501000",
     name: "Claire",
     weight: 415,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:43:34.452000",
     name: "Claire",
     weight: 484,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:43:55.597000",
     name: "Claire",
     weight: 300,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:44:13.208000",
     name: "Claire",
     weight: 16,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:44:33.581000",
     name: "Claire",
     weight: 30,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:45:39.426000",
     name: "Claire",
     weight: 17,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:46:41.739000",
     name: "Claire",
     weight: 28,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:48:54.584000",
     name: "Claire",
     weight: 97,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 17:10:53.830000",
@@ -35167,168 +38683,264 @@ export const exportsList = [
     name: "Claire",
     weight: 362,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:05:18.504000",
     name: "Claire",
     weight: 617,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:06:06.610000",
     name: "Claire",
     weight: 527,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:06:26.180000",
     name: "Claire",
     weight: 143,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:06:50.028000",
     name: "Claire",
     weight: 119,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:07:10.009000",
     name: "Claire",
     weight: 136,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:07:30.988000",
     name: "Claire",
     weight: 34,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:08:02.517000",
     name: "Claire",
     weight: 332,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:08:17.728000",
     name: "Claire",
     weight: 599,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:08:33.055000",
     name: "Claire",
     weight: 102,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:08:54.563000",
     name: "Claire",
     weight: 227,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:09:59.820000",
     name: "Claire",
     weight: 160,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:10:21.457000",
     name: "Claire",
     weight: 324,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:10:38.594000",
     name: "Claire",
     weight: 433,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:10:57.419000",
     name: "Claire",
     weight: 739,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:14:12.373000",
     name: "Claire",
     weight: 22,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:14:36.174000",
     name: "Claire",
     weight: 58,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:14:59.314000",
     name: "Claire",
     weight: 684,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:15:17.927000",
     name: "Claire",
     weight: 159,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:15:49.586000",
     name: "Claire",
     weight: 101,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:16:17.723000",
     name: "Claire",
     weight: 245,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:16:35.951000",
     name: "Claire",
     weight: 66,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:17:07.880000",
     name: "Claire",
     weight: 130,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:17:26.898000",
     name: "Claire",
     weight: 214,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-09 12:44:10.397000",
@@ -35797,189 +39409,297 @@ export const exportsList = [
     name: "Dean Chien",
     weight: 75,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 151,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 191,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 90,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 143,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 914,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 241,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 1395,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 1312,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 614,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 757,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 299,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 781,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 788,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 1224,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 200,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 870,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 312,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 126,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 186,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 811,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 33,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 664,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 456,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 216,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 136,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 108,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-23 15:37:52.393000",
@@ -36189,203 +39909,319 @@ export const exportsList = [
     name: "Claire",
     weight: 556,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 188,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 115,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 193,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 750,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 1012,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 1263,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 1405,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 537,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:50:41.047000",
     name: "Beverly Pinn",
     weight: 80,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:51:57.328000",
     name: "Beverly Pinn",
     weight: 320,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:52:52.727000",
     name: "Beverly Pinn",
     weight: 290,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:53:38.008000",
     name: "Beverly Pinn",
     weight: 389,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:54:37.092000",
     name: "Beverly Pinn",
     weight: 530,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:55:18.546000",
     name: "Beverly Pinn",
     weight: 179,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:56:10.539000",
     name: "Beverly Pinn",
     weight: 150,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:56:54.313000",
     name: "Beverly Pinn",
     weight: 263,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:58:10.061000",
     name: "Beverly Pinn",
     weight: 155,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:58:56.979000",
     name: "Beverly Pinn",
     weight: 87,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:00:34.948000",
     name: "Beverly Pinn",
     weight: 126,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:01:57.885000",
     name: "Beverly Pinn",
     weight: 173,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:04:14.232000",
     name: "Beverly Pinn",
     weight: 646,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:05:05.267000",
     name: "Beverly Pinn",
     weight: 64,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:05:47.965000",
     name: "Beverly Pinn",
     weight: 468,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:10:13.472000",
     name: "Beverly Pinn",
     weight: 112,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:34:29.656000",
     name: "Beverly Pinn",
     weight: 49,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:52:24.673000",
     name: "Beverly Pinn",
     weight: 97,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:53:06.658000",
     name: "Beverly Pinn",
     weight: 116,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:53:49.186000",
     name: "Beverly Pinn",
     weight: 33,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-30 15:20:55.367000",
@@ -36623,168 +40459,264 @@ export const exportsList = [
     name: "Other",
     weight: 1051,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:40:38.675000",
     name: "Other",
     weight: 76,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:41:14.637000",
     name: "Other",
     weight: 1052,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:41:46.668000",
     name: "Other",
     weight: 166,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:45:07.778000",
     name: "Beverly Pinn",
     weight: 1140,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:45:40.975000",
     name: "Beverly Pinn",
     weight: 106,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:46:14.755000",
     name: "Beverly Pinn",
     weight: 330,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:46:55.840000",
     name: "Beverly Pinn",
     weight: 154,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:47:32.684000",
     name: "Beverly Pinn",
     weight: 473,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:48:05.546000",
     name: "Beverly Pinn",
     weight: 402,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:48:43.793000",
     name: "Beverly Pinn",
     weight: 383,
     category: "Personal Care",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:49:14.465000",
     name: "Beverly Pinn",
     weight: 414,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:50:38.442000",
     name: "Beverly Pinn",
     weight: 205,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:51:11.449000",
     name: "Beverly Pinn",
     weight: 496,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:51:41.655000",
     name: "Beverly Pinn",
     weight: 386,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:52:17.102000",
     name: "Beverly Pinn",
     weight: 1446,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:52:45.217000",
     name: "Beverly Pinn",
     weight: 195,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:53:53.351000",
     name: "Beverly Pinn",
     weight: 201,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:54:27.051000",
     name: "Beverly Pinn",
     weight: 516,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:55:00.622000",
     name: "Beverly Pinn",
     weight: 567,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:55:29.324000",
     name: "Beverly Pinn",
     weight: 363,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:56:15.444000",
     name: "Beverly Pinn",
     weight: 652,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:56:41.767000",
     name: "Beverly Pinn",
     weight: 198,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 16:01:46.733000",
     name: "Beverly Pinn",
     weight: 32,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-06 12:58:55.999000",
@@ -36966,70 +40898,110 @@ export const exportsList = [
     name: "Bertille",
     weight: 838,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:01:22.213000",
     name: "Bertille",
     weight: 1365,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:01:42.791000",
     name: "Bertille",
     weight: 70,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:02:20.829000",
     name: "Bertille",
     weight: 979,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:02:53.530000",
     name: "Bertille",
     weight: 1080,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:03:18.339000",
     name: "Bertille",
     weight: 478,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:03:39.767000",
     name: "Bertille",
     weight: 60,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:31:15.387000",
     name: "Claire",
     weight: 294,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:32:37.794000",
     name: "Claire",
     weight: 333,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:32:58.036000",
     name: "Claire",
     weight: 294,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-11 16:51:08.586000",
@@ -37043,119 +41015,187 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 429,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 13:24:24.032000",
     name: "Juanita Chandler",
     weight: 387,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 13:25:45.525000",
     name: "Juanita Chandler",
     weight: 416,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 13:28:51.681000",
     name: "Juanita Chandler",
     weight: 460,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 13:29:49.343000",
     name: "Juanita Chandler",
     weight: 481,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 13:30:23.650000",
     name: "Juanita Chandler",
     weight: 449,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 14:35:41.549000",
     name: "JC",
     weight: 53,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 14:49:01.047000",
     name: "Dean Chien",
     weight: 184,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:00:23.677000",
     name: "Juanita Chandler",
     weight: 275,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:00:59.377000",
     name: "Juanita Chandler",
     weight: 180,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:06:09.146000",
     name: "Juanita Chandler",
     weight: 138,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:07:10.647000",
     name: "Juanita Chandler",
     weight: 791,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:09:18.171000",
     name: "Juanita Chandler",
     weight: 48,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:09:58.130000",
     name: "Juanita Chandler",
     weight: 70,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:12:02.842000",
     name: "Juanita Chandler",
     weight: 334,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:16:03.432000",
     name: "Juanita Chandler",
     weight: 390,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:19:53.325000",
     name: "Other",
     weight: 146,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-13 12:22:39.082000",
@@ -37365,182 +41405,286 @@ export const exportsList = [
     name: "Claire",
     weight: 491,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 00:00:00",
     name: "Claire",
     weight: 695,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 00:00:00",
     name: "Claire",
     weight: 876,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 16:50:46.972000",
     name: "Claire",
     weight: 1460,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 16:51:53.589000",
     name: "Claire",
     weight: 1234,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 16:52:12.321000",
     name: "Claire",
     weight: 964,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 16:52:36.014000",
     name: "Claire",
     weight: 87,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 16:52:52.082000",
     name: "Claire",
     weight: 171,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:09:34.273000",
     name: "Claire",
     weight: 307,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:10:34.915000",
     name: "Claire",
     weight: 620,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:10:57.851000",
     name: "Claire",
     weight: 108,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:11:15.942000",
     name: "Claire",
     weight: 219,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:11:37.751000",
     name: "Claire",
     weight: 1486,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:12:00.101000",
     name: "Claire",
     weight: 1023,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:12:22.953000",
     name: "Claire",
     weight: 241,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:12:42.575000",
     name: "Claire",
     weight: 37,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:13:01.468000",
     name: "Claire",
     weight: 165,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:13:18.566000",
     name: "Claire",
     weight: 262,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:13:46.608000",
     name: "Claire",
     weight: 127,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 00:00:00",
     name: "Claire",
     weight: 120,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:14:04.051000",
     name: "Claire",
     weight: 162,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:14:21.831000",
     name: "Claire",
     weight: 451,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:14:41.264000",
     name: "Claire",
     weight: 627,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:15:00.104000",
     name: "Claire",
     weight: 540,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:15:16.655000",
     name: "Claire",
     weight: 50,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:15:33.403000",
     name: "Claire",
     weight: 615,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-20 13:15:39.686000",
@@ -37827,154 +41971,242 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1033,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:18:14.786000",
     name: "Juanita Chandler",
     weight: 218,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:19:01.129000",
     name: "Juanita Chandler",
     weight: 592,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:19:50.135000",
     name: "Juanita Chandler",
     weight: 1235,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:23:24.958000",
     name: "Juanita Chandler",
     weight: 108,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:24:49.790000",
     name: "Juanita Chandler",
     weight: 73,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:25:30.634000",
     name: "Juanita Chandler",
     weight: 272,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:27:22.913000",
     name: "Juanita Chandler",
     weight: 446,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:30:26.088000",
     name: "Juanita Chandler",
     weight: 261,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:31:08.038000",
     name: "Juanita Chandler",
     weight: 219,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:31:51.651000",
     name: "Juanita Chandler",
     weight: 190,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:33:51.648000",
     name: "Juanita Chandler",
     weight: 477,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 00:00:00",
     name: "Claire",
     weight: 1080,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:35:12.873000",
     name: "Juanita Chandler",
     weight: 464,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:36:26.928000",
     name: "Juanita Chandler",
     weight: 366,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:38:03.720000",
     name: "Juanita Chandler",
     weight: 52,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:39:00.641000",
     name: "Juanita Chandler",
     weight: 54,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:39:52.184000",
     name: "Juanita Chandler",
     weight: 681,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:41:29.890000",
     name: "Juanita Chandler",
     weight: 100,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:42:18.189000",
     name: "Juanita Chandler",
     weight: 409,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:50:12.230000",
     name: "Claire",
     weight: 52,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:52:18.744000",
     name: "Claire",
     weight: 102,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-04 15:00:34.403000",
@@ -38128,189 +42360,297 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 477,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:12:04.519000",
     name: "Juanita Chandler",
     weight: 246,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:12:59.814000",
     name: "Juanita Chandler",
     weight: 1043,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:13:35.404000",
     name: "Juanita Chandler",
     weight: 401,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:15:22.740000",
     name: "Juanita Chandler",
     weight: 158,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:16:21.248000",
     name: "Juanita Chandler",
     weight: 139,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:20:19.914000",
     name: "Juanita Chandler",
     weight: 512,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:41:01.781000",
     name: "Nicolle Diaz",
     weight: 325,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:44:16.215000",
     name: "Nicolle Diaz",
     weight: 640,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:54:09.886000",
     name: "Nicolle Diaz",
     weight: 406,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 14:01:10.480000",
     name: "Nicolle Diaz",
     weight: 273,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 14:06:11.743000",
     name: "Nicolle Diaz",
     weight: 222,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 15:58:57.007000",
     name: "Juanita Chandler",
     weight: 115,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:04:04.985000",
     name: "Juanita Chandler",
     weight: 1033,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:07:21.346000",
     name: "Juanita Chandler",
     weight: 53,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:12:19.874000",
     name: "Juanita Chandler",
     weight: 138,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:14:47.661000",
     name: "Juanita Chandler",
     weight: 143,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:16:04.306000",
     name: "Juanita Chandler",
     weight: 165,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:17:02.249000",
     name: "Juanita Chandler",
     weight: 479,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:20:21.020000",
     name: "Juanita Chandler",
     weight: 328,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:21:20.419000",
     name: "Juanita Chandler",
     weight: 76,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:22:15.953000",
     name: "Juanita Chandler",
     weight: 221,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:22:29.484000",
     name: "Juanita Chandler",
     weight: 985,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:23:55.202000",
     name: "Juanita Chandler",
     weight: 61,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:25:15.379000",
     name: "Juanita Chandler",
     weight: 86,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:25:53.305000",
     name: "Juanita Chandler",
     weight: 400,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:27:10.388000",
     name: "Juanita Chandler",
     weight: 158,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-11 14:50:12.293000",
@@ -38667,147 +43007,231 @@ export const exportsList = [
     name: "Claire",
     weight: 586,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:32:01.165000",
     name: "Claire",
     weight: 677,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:33:08.784000",
     name: "Claire",
     weight: 765,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:33:30.492000",
     name: "Claire",
     weight: 199,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:33:50.987000",
     name: "Claire",
     weight: 587,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:34:32.540000",
     name: "Claire",
     weight: 599,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:35:01.957000",
     name: "Claire",
     weight: 723,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:35:22.751000",
     name: "Claire",
     weight: 271,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:35:46.751000",
     name: "Claire",
     weight: 136,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:36:16.301000",
     name: "Claire",
     weight: 87,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:36:34.363000",
     name: "Claire",
     weight: 890,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:36:52.402000",
     name: "Claire",
     weight: 477,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:37:16.436000",
     name: "Claire",
     weight: 433,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:37:40.319000",
     name: "Claire",
     weight: 579,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:38:00.545000",
     name: "Claire",
     weight: 104,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:38:53.905000",
     name: "Claire",
     weight: 623,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:39:17.297000",
     name: "Claire",
     weight: 912,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:39:39.263000",
     name: "Claire",
     weight: 181,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:40:25.889000",
     name: "Claire",
     weight: 689,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:40:46.259000",
     name: "Claire",
     weight: 131,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:41:11.577000",
     name: "Claire",
     weight: 117,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 15:32:25.338000",
@@ -38954,112 +43378,176 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 667,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:05:37.782000",
     name: "Juanita Chandler",
     weight: 1112,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:06:38.648000",
     name: "Juanita Chandler",
     weight: 295,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:10:49.192000",
     name: "Juanita Chandler",
     weight: 1124,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:12:25.619000",
     name: "Juanita Chandler",
     weight: 1141,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:13:01.549000",
     name: "Juanita Chandler",
     weight: 424,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:24:39.339000",
     name: "Nicolle Diaz",
     weight: 274,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:51:38.574000",
     name: "Juanita Chandler",
     weight: 785,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:55:53.628000",
     name: "Juanita Chandler",
     weight: 375,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 00:00:00",
     name: "Claire",
     weight: 846,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 15:47:21.970000",
     name: "Juanita Chandler",
     weight: 138,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 15:48:04.131000",
     name: "Juanita Chandler",
     weight: 315,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 15:50:55.986000",
     name: "Juanita Chandler",
     weight: 936,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 15:54:59.330000",
     name: "Juanita Chandler",
     weight: 1135,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 15:59:13.366000",
     name: "Juanita Chandler",
     weight: 529,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 00:00:00",
     name: "Claire",
     weight: 208,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-01 13:05:46",
@@ -39087,14 +43575,22 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 181,
     category: "Spices",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-06 15:44:31",
     name: "Juanita Chandler",
     weight: 713,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-06 15:45:39",
@@ -39108,21 +43604,33 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 61,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-06 15:51:34",
     name: "Juanita Chandler",
     weight: 220,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-06 15:52:10",
     name: "Juanita Chandler",
     weight: 455,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-06 15:53:19",
@@ -39157,161 +43665,253 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 360,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 12:59:50",
     name: "Juanita Chandler",
     weight: 683,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:00:37",
     name: "Juanita Chandler",
     weight: 978,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:01:26",
     name: "Juanita Chandler",
     weight: 146,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:03:15",
     name: "Juanita Chandler",
     weight: 624,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:03:58",
     name: "Juanita Chandler",
     weight: 131,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:05:13",
     name: "Juanita Chandler",
     weight: 1125,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:06:08",
     name: "Juanita Chandler",
     weight: 1071,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:08:38",
     name: "Juanita Chandler",
     weight: 184,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:41:57",
     name: "Juanita Chandler",
     weight: 690,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 00:00:00",
     name: "Claire",
     weight: 480,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 00:00:00",
     name: "Claire",
     weight: 334,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 00:00:00",
     name: "Claire",
     weight: 125,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 15:59:45",
     name: "Juanita Chandler",
     weight: -62,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:00:19",
     name: "Juanita Chandler",
     weight: -548,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:10:35",
     name: "Juanita Chandler",
     weight: -499,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:11:24",
     name: "Juanita Chandler",
     weight: -529,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:15:42",
     name: "Juanita Chandler",
     weight: -693,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:20:31",
     name: "Juanita Chandler",
     weight: -172,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:23:32",
     name: "Juanita Chandler",
     weight: -83,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:26:09",
     name: "Juanita Chandler",
     weight: -254,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:28:59",
     name: "Juanita Chandler",
     weight: -75,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:33:42",
     name: "Juanita Chandler",
     weight: -277,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-08 15:00:48",
@@ -39458,126 +44058,198 @@ export const exportsList = [
     name: "Claire",
     weight: 1579,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 1024,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 496,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 544,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 312,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 1663,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 265,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 673,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 162,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 1299,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -739,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -28,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -918,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -640,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -1499,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -129,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -130,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -58,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-15 00:00:00",
@@ -39696,168 +44368,264 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 51,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:34:28",
     name: "Juanita Chandler",
     weight: 1051,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:35:07",
     name: "Juanita Chandler",
     weight: 1337,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:36:25",
     name: "Juanita Chandler",
     weight: 1301,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:39:17",
     name: "Juanita Chandler",
     weight: 413,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:40:25",
     name: "Juanita Chandler",
     weight: 235,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:42:19",
     name: "Juanita Chandler",
     weight: 245,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:43:22",
     name: "Juanita Chandler",
     weight: 356,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:46:10",
     name: "Juanita Chandler",
     weight: 131,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:48:05",
     name: "Juanita Chandler",
     weight: 1329,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:49:01",
     name: "Juanita Chandler",
     weight: 184,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:49:44",
     name: "Juanita Chandler",
     weight: 320,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:51:05",
     name: "Juanita Chandler",
     weight: 972,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:52:18",
     name: "Juanita Chandler",
     weight: 135,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:54:00",
     name: "Juanita Chandler",
     weight: -402,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:54:43",
     name: "Juanita Chandler",
     weight: -749,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:55:58",
     name: "Juanita Chandler",
     weight: -736,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:56:48",
     name: "Juanita Chandler",
     weight: -1098,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:57:27",
     name: "Juanita Chandler",
     weight: -299,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:59:22",
     name: "Juanita Chandler",
     weight: -167,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 16:02:06",
     name: "Juanita Chandler",
     weight: -106,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 16:05:18",
     name: "Juanita Chandler",
     weight: -173,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 16:14:41",
     name: "Juanita Chandler",
     weight: -84,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 16:15:46",
     name: "Juanita Chandler",
     weight: -129,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-22 00:00:00",
@@ -39913,133 +44681,209 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 352,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:00:12",
     name: "Juanita Chandler",
     weight: 304,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:01:16",
     name: "Juanita Chandler",
     weight: 255,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:02:17",
     name: "Juanita Chandler",
     weight: 1061,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:05:00",
     name: "Juanita Chandler",
     weight: 66,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:05:50",
     name: "Juanita Chandler",
     weight: 1098,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:06:40",
     name: "Juanita Chandler",
     weight: 1111,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:07:16",
     name: "Juanita Chandler",
     weight: 841,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:08:10",
     name: "Juanita Chandler",
     weight: 905,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:08:59",
     name: "Juanita Chandler",
     weight: 626,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:12:58",
     name: "Juanita Chandler",
     weight: 307,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:14:01",
     name: "Juanita Chandler",
     weight: 158,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:14:37",
     name: "Juanita Chandler",
     weight: 178,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:15:35",
     name: "Juanita Chandler",
     weight: 505,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 00:00:00",
     name: "Claire",
     weight: 352,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:17:54",
     name: "Juanita Chandler",
     weight: -55,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:19:33",
     name: "Juanita Chandler",
     weight: -175,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:20:18",
     name: "Juanita Chandler",
     weight: -1108,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:21:13",
     name: "Juanita Chandler",
     weight: -763,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-29 14:50:21",
@@ -40137,112 +44981,176 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 369,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 15:59:23",
     name: "Juanita Chandler",
     weight: 1876,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:02:13",
     name: "Juanita Chandler",
     weight: 1108,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:03:21",
     name: "Juanita Chandler",
     weight: 117,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:04:42",
     name: "Juanita Chandler",
     weight: 130,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:06:34",
     name: "Juanita Chandler",
     weight: 129,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:08:16",
     name: "Juanita Chandler",
     weight: 204,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:09:08",
     name: "Juanita Chandler",
     weight: 56,
     category: "Paper Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:10:34",
     name: "Juanita Chandler",
     weight: 411,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:12:51",
     name: "Juanita Chandler",
     weight: 181,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:14:41",
     name: "Juanita Chandler",
     weight: 313,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:15:23",
     name: "Juanita Chandler",
     weight: 150,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:16:33",
     name: "Juanita Chandler",
     weight: -76,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:20:39",
     name: "Juanita Chandler",
     weight: -97,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:21:44",
     name: "Juanita Chandler",
     weight: -47,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 00:00:00",
     name: "Claire",
     weight: -143,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-05 14:31:42",
@@ -40445,126 +45353,198 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 130,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:04:48",
     name: "Beverly Pinn",
     weight: 1856,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:08:07",
     name: "Beverly Pinn",
     weight: 102,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:13:04",
     name: "Beverly Pinn",
     weight: 143,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:16:13",
     name: "Beverly Pinn",
     weight: 94,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:38:01",
     name: "Cameron Minor",
     weight: 799,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:38:54",
     name: "Cameron Minor",
     weight: 331,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:39:36",
     name: "Cameron Minor",
     weight: 766,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:40:06",
     name: "Cameron Minor",
     weight: 399,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:44:41",
     name: "Cameron Minor",
     weight: 616,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:54:37",
     name: "JC",
     weight: 1895,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 13:28:22",
     name: "Juanita Chandler",
     weight: 1053,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 13:29:17",
     name: "Juanita Chandler",
     weight: 157,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 00:00:00",
     name: "Claire",
     weight: -12,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 00:00:00",
     name: "Claire",
     weight: -435,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 00:00:00",
     name: "Claire",
     weight: -1042,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 00:00:00",
     name: "Claire",
     weight: -181,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 00:00:00",
     name: "Claire",
     weight: -32,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-19 13:09:55",
@@ -40788,126 +45768,198 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 175,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 12:37:15",
     name: "Juanita Chandler",
     weight: 1867,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 12:38:25",
     name: "Juanita Chandler",
     weight: 14,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:23:34",
     name: "Juanita Chandler",
     weight: 2073,
     category: "Danone - Milk",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:24:39",
     name: "Juanita Chandler",
     weight: 132,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:26:10",
     name: "Juanita Chandler",
     weight: 1595,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:27:03",
     name: "Juanita Chandler",
     weight: 619,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:28:11",
     name: "Juanita Chandler",
     weight: 360,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:28:50",
     name: "Juanita Chandler",
     weight: 172,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:33:22",
     name: "Juanita Chandler",
     weight: -9,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:35:30",
     name: "Juanita Chandler",
     weight: 224,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:37:59",
     name: "Juanita Chandler",
     weight: -297,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:38:54",
     name: "Juanita Chandler",
     weight: -1264,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:41:00",
     name: "Juanita Chandler",
     weight: -210,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:41:41",
     name: "Juanita Chandler",
     weight: -265,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:42:44",
     name: "Juanita Chandler",
     weight: -157,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:47:25",
     name: "Juanita Chandler",
     weight: -1417,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:50:17",
     name: "Juanita Chandler",
     weight: -1563,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-26 12:32:03",
@@ -41257,14 +46309,22 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1175,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 12:16:36",
     name: "Beverly Pinn",
     weight: 624,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 12:17:12",
@@ -41278,7 +46338,11 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 583,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 12:19:05",
@@ -41306,133 +46370,209 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 389,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 12:42:10",
     name: "Beverly Pinn",
     weight: 417,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:40:13",
     name: "Beverly Pinn",
     weight: 945,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:40:52",
     name: "Beverly Pinn",
     weight: 641,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:42:50",
     name: "Beverly Pinn",
     weight: 507,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:43:38",
     name: "Beverly Pinn",
     weight: 581,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:44:42",
     name: "Beverly Pinn",
     weight: 1175,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:45:33",
     name: "Beverly Pinn",
     weight: 1263,
     category: "Danone - Milk",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:46:21",
     name: "Beverly Pinn",
     weight: 1065,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:46:48",
     name: "Beverly Pinn",
     weight: 519,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:57:56",
     name: "Beverly Pinn",
     weight: 1598,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:41:31",
     name: "Juanita Chandler",
     weight: -486,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:47:51",
     name: "Juanita Chandler",
     weight: -47,
     category: "Household",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:48:47",
     name: "Juanita Chandler",
     weight: -717,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:51:31",
     name: "Juanita Chandler",
     weight: -23,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:55:50",
     name: "Juanita Chandler",
     weight: -1210,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:59:14",
     name: "Juanita Chandler",
     weight: -282,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 16:00:19",
     name: "Juanita Chandler",
     weight: -155,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 16:01:37",
     name: "Juanita Chandler",
     weight: -880,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-05 13:44:10",
@@ -41796,154 +46936,242 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1826,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 12:50:25",
     name: "Beverly Pinn",
     weight: 1281,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 12:58:35",
     name: "Beverly Pinn",
     weight: 1949,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:18:55",
     name: "Juanita Chandler",
     weight: 185,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:21:40",
     name: "Juanita Chandler",
     weight: 1342,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:22:32",
     name: "Juanita Chandler",
     weight: 1155,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:28:03",
     name: "Juanita Chandler",
     weight: 492,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:36:17",
     name: "Juanita Chandler",
     weight: 1570,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:46:40",
     name: "Juanita Chandler",
     weight: 534,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:53:13",
     name: "Juanita Chandler",
     weight: 430,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:58:33",
     name: "Juanita Chandler",
     weight: 831,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 14:02:52",
     name: "Juanita Chandler",
     weight: 340,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:11:20",
     name: "Beverly Pinn",
     weight: 1087,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:41:37",
     name: "Juanita Chandler",
     weight: -534,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:48:22",
     name: "Juanita Chandler",
     weight: 1271,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:50:32",
     name: "Juanita Chandler",
     weight: -1485,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:51:13",
     name: "Juanita Chandler",
     weight: -713,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:52:19",
     name: "Juanita Chandler",
     weight: -1483,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 16:03:49",
     name: "Juanita Chandler",
     weight: -415,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 16:05:38",
     name: "Juanita Chandler",
     weight: -1052,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 16:11:36",
     name: "Juanita Chandler",
     weight: -119,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 16:12:26",
     name: "Juanita Chandler",
     weight: -287,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-12 12:25:29",
@@ -42216,147 +47444,231 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1049,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 12:49:21",
     name: "Juanita Chandler",
     weight: 1398,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 12:56:05",
     name: "Juanita Chandler",
     weight: 1394,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 13:06:26",
     name: "Juanita Chandler",
     weight: 1023,
     category: "Danone - Creamer",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 13:15:03",
     name: "Juanita Chandler",
     weight: 1764,
     category: "Danone - Creamer",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 13:22:11",
     name: "Juanita Chandler",
     weight: 218,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 00:00:00",
     name: "Claire",
     weight: 200,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 13:23:05",
     name: "Juanita Chandler",
     weight: 287,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 13:36:24",
     name: "Juanita Chandler",
     weight: 150,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:34:11",
     name: "Juanita Chandler",
     weight: -1475,
     category: "Danone - Creamer",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:39:21",
     name: "Juanita Chandler",
     weight: 1877,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:41:43",
     name: "Juanita Chandler",
     weight: 43,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 00:00:00",
     name: "Safire Windley",
     weight: 1475,
     category: "Danone - Creamer",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:43:25",
     name: "Juanita Chandler",
     weight: -768,
     category: "Danone - Creamer",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:45:25",
     name: "Juanita Chandler",
     weight: -1091,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:46:17",
     name: "Juanita Chandler",
     weight: -163,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:48:01",
     name: "Juanita Chandler",
     weight: 607,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:49:13",
     name: "Juanita Chandler",
     weight: -748,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:53:36",
     name: "Juanita Chandler",
     weight: -717,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:55:53",
     name: "Juanita Chandler",
     weight: -369,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:57:52",
     name: "Juanita Chandler",
     weight: -149,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-19 13:22:22",
@@ -42573,161 +47885,253 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1134,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 00:00:00",
     name: "Safire Windley",
     weight: 513,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:39:18",
     name: "Juanita Chandler",
     weight: 162,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:46:35",
     name: "Juanita Chandler",
     weight: 1937,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:47:32",
     name: "Juanita Chandler",
     weight: 282,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:48:23",
     name: "Juanita Chandler",
     weight: 587,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:55:06",
     name: "Juanita Chandler",
     weight: 281,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:58:39",
     name: "Juanita Chandler",
     weight: 239,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 14:00:55",
     name: "Juanita Chandler",
     weight: 70,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 14:04:18",
     name: "Juanita Chandler",
     weight: 124,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 14:07:36",
     name: "Juanita Chandler",
     weight: 695,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 00:00:00",
     name: "Safire Windley",
     weight: 201,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 14:12:22",
     name: "Juanita Chandler",
     weight: 1501,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:44:44",
     name: "Juanita Chandler",
     weight: 336,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:47:37",
     name: "Juanita Chandler",
     weight: -213,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:48:36",
     name: "Juanita Chandler",
     weight: -24,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:51:15",
     name: "Juanita Chandler",
     weight: -1379,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:56:52",
     name: "Juanita Chandler",
     weight: -147,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:59:30",
     name: "Juanita Chandler",
     weight: -496,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 16:01:39",
     name: "Juanita Chandler",
     weight: -760,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 16:06:16",
     name: "Juanita Chandler",
     weight: -535,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 16:11:30",
     name: "Juanita Chandler",
     weight: -365,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 16:22:07",
     name: "Juanita Chandler",
     weight: -316,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-26 12:28:58",
@@ -42972,154 +48376,242 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1184,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:21:34",
     name: "Juanita Chandler",
     weight: 804,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:22:18",
     name: "Juanita Chandler",
     weight: 256,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:24:30",
     name: "Juanita Chandler",
     weight: 1171,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:31:20",
     name: "Juanita Chandler",
     weight: 443,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:35:24",
     name: "Juanita Chandler",
     weight: 113,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:37:30",
     name: "Juanita Chandler",
     weight: 240,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:39:53",
     name: "Juanita Chandler",
     weight: 571,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:47:21",
     name: "Juanita Chandler",
     weight: 1658,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:51:45",
     name: "Juanita Chandler",
     weight: 1849,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:54:18",
     name: "Juanita Chandler",
     weight: 513,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:56:40",
     name: "Juanita Chandler",
     weight: 147,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 14:51:12",
     name: "Beverly Pinn",
     weight: 190,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 14:51:38",
     name: "Beverly Pinn",
     weight: 151,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 14:52:17",
     name: "Beverly Pinn",
     weight: 685,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 15:11:13",
     name: "Beverly Pinn",
     weight: 333,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 15:38:39",
     name: "Juanita Chandler",
     weight: -331,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 15:46:50",
     name: "Juanita Chandler",
     weight: -927,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 15:47:54",
     name: "Juanita Chandler",
     weight: -69,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 15:49:47",
     name: "Juanita Chandler",
     weight: -1428,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 16:02:15",
     name: "Juanita Chandler",
     weight: -131,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 16:03:33",
     name: "Juanita Chandler",
     weight: -611,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 01:00:01",
@@ -43371,7 +48863,11 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 776,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:17:15",
@@ -43392,84 +48888,132 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1228,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:20:42",
     name: "Juanita Chandler",
     weight: 1164,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:22:15",
     name: "Juanita Chandler",
     weight: 1920,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:25:18",
     name: "Juanita Chandler",
     weight: 1276,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:37:59",
     name: "Juanita Chandler",
     weight: 967,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:38:55",
     name: "Juanita Chandler",
     weight: 128,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:42:51",
     name: "Juanita Chandler",
     weight: 1116,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:50:20",
     name: "Juanita Chandler",
     weight: 565,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:51:04",
     name: "Juanita Chandler",
     weight: 222,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:52:16",
     name: "Juanita Chandler",
     weight: 1270,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 15:25:41",
     name: "Opeyemi Faleye",
     weight: 309,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 15:26:12",
     name: "Opeyemi Faleye",
     weight: 1713,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF [Non Curbside] [Sandtown]",
+=======
+    location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 15:28:35",
@@ -43483,63 +49027,99 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1429,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 16:41:58",
     name: "Juanita Chandler",
     weight: -149,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 16:42:50",
     name: "Juanita Chandler",
     weight: -296,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 16:43:54",
     name: "Juanita Chandler",
     weight: -532,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 16:57:45",
     name: "Juanita Chandler",
     weight: -763,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 17:20:58",
     name: "Juanita Chandler",
     weight: -342,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 17:22:01",
     name: "Juanita Chandler",
     weight: -1663,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 17:23:01",
     name: "Juanita Chandler",
     weight: -1558,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 17:24:25",
     name: "Juanita Chandler",
     weight: -389,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-09 15:17:05",
@@ -43931,7 +49511,11 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1713,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 12:34:14",
@@ -43945,70 +49529,110 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 953,
     category: "Danone - Coffee",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 12:38:04",
     name: "Beverly Pinn",
     weight: 793,
     category: "Danone - Creamer",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 12:47:02",
     name: "Beverly Pinn",
     weight: 1456,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 13:20:32",
     name: "Juanita Chandler",
     weight: 381,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 13:21:46",
     name: "Juanita Chandler",
     weight: 1679,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 14:11:59",
     name: "Juanita Chandler",
     weight: 443,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 15:27:01",
     name: "Juanita Chandler",
     weight: 25,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 15:27:39",
     name: "Juanita Chandler",
     weight: 30,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 17:01:51",
     name: "Juanita Chandler",
     weight: -153,
     category: "Canned Goods",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 17:08:05",
     name: "Juanita Chandler",
     weight: -1173,
     category: "Condiments",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-16 16:27:52",
@@ -44358,49 +49982,77 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 2138,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:11:45",
     name: "Beverly Pinn",
     weight: 286,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:12:53",
     name: "Beverly Pinn",
     weight: 249,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:13:29",
     name: "Beverly Pinn",
     weight: 1907,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:19:09",
     name: "Beverly Pinn",
     weight: 257,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:20:46",
     name: "Beverly Pinn",
     weight: 240,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:21:15",
     name: "Beverly Pinn",
     weight: 98,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:43:10",
@@ -44414,21 +50066,33 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 947,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:46:13",
     name: "Beverly Pinn",
     weight: 970,
     category: "Other",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 13:47:54",
     name: "Juanita Chandler",
     weight: 2423,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 13:53:24",
@@ -44442,35 +50106,55 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 2447,
     category: "Danone - Creamer",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 14:19:00",
     name: "Juanita Chandler",
     weight: 196,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 14:20:08",
     name: "Juanita Chandler",
     weight: 1992,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 14:21:04",
     name: "Juanita Chandler",
     weight: -163,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 15:13:40",
     name: "Juanita Chandler",
     weight: 1857,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 15:15:04",
@@ -44484,63 +50168,99 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: -249,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:10:10",
     name: "Juanita Chandler",
     weight: 1393,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:12:05",
     name: "Juanita Chandler",
     weight: -522,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:13:14",
     name: "Juanita Chandler",
     weight: -112,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:15:42",
     name: "Juanita Chandler",
     weight: -2138,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:16:29",
     name: "Juanita Chandler",
     weight: -108,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:18:46",
     name: "Juanita Chandler",
     weight: -224,
     category: "Pet Supplies",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:19:40",
     name: "Juanita Chandler",
     weight: -1724,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:35:57",
     name: "Juanita Chandler",
     weight: -300,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-23 13:18:57",
@@ -45177,35 +50897,55 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 139,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 13:37:29",
     name: "Juanita Chandler",
     weight: 878,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 13:38:22",
     name: "Juanita Chandler",
     weight: 1675,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 13:39:30",
     name: "Juanita Chandler",
     weight: 1454,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 13:40:12",
     name: "Juanita Chandler",
     weight: 1221,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 13:41:16",
@@ -45233,98 +50973,154 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 2030,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 00:00:00",
     name: "Claire",
     weight: 288,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:31:22",
     name: "Juanita Chandler",
     weight: -50,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:33:06",
     name: "Juanita Chandler",
     weight: -1660,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:34:30",
     name: "Juanita Chandler",
     weight: -658,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:35:12",
     name: "Juanita Chandler",
     weight: -666,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:36:00",
     name: "Juanita Chandler",
     weight: -1174,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:37:09",
     name: "Juanita Chandler",
     weight: 356,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:37:43",
     name: "Juanita Chandler",
     weight: 2159,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:39:00",
     name: "Juanita Chandler",
     weight: 415,
     category: "Spices",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:39:37",
     name: "Juanita Chandler",
     weight: 425,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:41:03",
     name: "Juanita Chandler",
     weight: 435,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:41:51",
     name: "Juanita Chandler",
     weight: -136,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 00:00:00",
     name: "Claire",
     weight: -356,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-16 15:31:31",
@@ -45576,154 +51372,242 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1350,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 12:01:29",
     name: "Beverly Pinn",
     weight: 1796,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 12:04:08",
     name: "Beverly Pinn",
     weight: 348,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 12:36:24",
     name: "Beverly Pinn",
     weight: 1689,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 12:49:32",
     name: "Juanita Chandler",
     weight: 1906,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:11:28",
     name: "Juanita Chandler",
     weight: 476,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:23:40",
     name: "Juanita Chandler",
     weight: 960,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:33:44",
     name: "Juanita Chandler",
     weight: 0,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:48:16",
     name: "Juanita Chandler",
     weight: 186,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:48:52",
     name: "Juanita Chandler",
     weight: 135,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:58:11",
     name: "Juanita Chandler",
     weight: 1523,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:03:42",
     name: "Juanita Chandler",
     weight: 698,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:04:24",
     name: "Juanita Chandler",
     weight: -1028,
     category: "Dairy",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:05:00",
     name: "Juanita Chandler",
     weight: -1310,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:05:46",
     name: "Juanita Chandler",
     weight: -91,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:16:56",
     name: "Juanita Chandler",
     weight: -736,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:17:33",
     name: "Juanita Chandler",
     weight: -711,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:23:17",
     name: "Juanita Chandler",
     weight: -1646,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:25:10",
     name: "Juanita Chandler",
     weight: -293,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:29:57",
     name: "Juanita Chandler",
     weight: -392,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:31:58",
     name: "Juanita Chandler",
     weight: -1563,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:36:20",
     name: "Juanita Chandler",
     weight: -82,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-21 15:45:30",
@@ -46052,133 +51936,209 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 666,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 12:18:04",
     name: "Beverly Pinn",
     weight: 250,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 12:18:45",
     name: "Beverly Pinn",
     weight: 1046,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 12:19:22",
     name: "Beverly Pinn",
     weight: 1179,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 12:36:30",
     name: "Beverly Pinn",
     weight: 1934,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 13:46:40",
     name: "Juanita Chandler",
     weight: 949,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 14:15:21",
     name: "Juanita Chandler",
     weight: 1576,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 14:16:07",
     name: "Juanita Chandler",
     weight: 607,
     category: "Danone - Coffee",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 14:16:37",
     name: "Juanita Chandler",
     weight: 297,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 15:56:32",
     name: "Juanita Chandler",
     weight: -907,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 15:58:01",
     name: "Juanita Chandler",
     weight: -321,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 15:58:54",
     name: "Juanita Chandler",
     weight: -1356,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 15:59:40",
     name: "Juanita Chandler",
     weight: -185,
     category: "Snacks",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:07:23",
     name: "Juanita Chandler",
     weight: -586,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:07:58",
     name: "Juanita Chandler",
     weight: -849,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:12:12",
     name: "Juanita Chandler",
     weight: 340,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:12:57",
     name: "Juanita Chandler",
     weight: -117,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:17:15",
     name: "Juanita Chandler",
     weight: -768,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:19:22",
     name: "Juanita Chandler",
     weight: -408,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-28 14:10:34",
@@ -46640,105 +52600,165 @@ export const exportsList = [
     name: "Other",
     weight: 171,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 13:53:26",
     name: "Rawan Elshobaky",
     weight: 1822,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 13:59:21",
     name: "Rawan Elshobaky",
     weight: 766,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 14:05:30",
     name: "Rawan Elshobaky",
     weight: 605,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 14:07:10",
     name: "Rawan Elshobaky",
     weight: 1207,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 14:21:11",
     name: "Juanita Chandler",
     weight: 1533,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 14:30:10",
     name: "Juanita Chandler",
     weight: 2361,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 15:58:55",
     name: "Juanita Chandler",
     weight: -104,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 16:00:36",
     name: "Juanita Chandler",
     weight: -10,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 16:09:24",
     name: "Juanita Chandler",
     weight: -1286,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 16:10:03",
     name: "Juanita Chandler",
     weight: 78,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 16:13:09",
     name: "Juanita Chandler",
     weight: -1444,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 16:30:18",
     name: "Juanita Chandler",
     weight: -496,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 17:06:24",
     name: "Juanita Chandler",
     weight: -104,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 17:07:13",
     name: "Juanita Chandler",
     weight: -1326,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 00:00:00",
@@ -47039,14 +53059,22 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1806,
     category: "Dole - Juice",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 12:23:39",
     name: "Beverly Pinn",
     weight: 750,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 12:47:52",
@@ -47088,14 +53116,22 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 329,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 13:48:42",
     name: "Beverly Pinn",
     weight: 343,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 13:49:37",
@@ -47109,7 +53145,11 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 231,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 14:07:49",
@@ -47123,28 +53163,44 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 743,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 14:26:06",
     name: "Beverly Pinn",
     weight: 1151,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 14:26:38",
     name: "Beverly Pinn",
     weight: 532,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 14:30:03",
     name: "Beverly Pinn",
     weight: 281,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 14:31:06",
@@ -47179,42 +53235,66 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1166,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 16:37:04",
     name: "Beverly Pinn",
     weight: -91,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 16:37:37",
     name: "Beverly Pinn",
     weight: -237,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 16:38:06",
     name: "Beverly Pinn",
     weight: -864,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 16:38:49",
     name: "Beverly Pinn",
     weight: -501,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 16:39:21",
     name: "Beverly Pinn",
     weight: -394,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-11 16:42:54",
@@ -47648,56 +53728,88 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 131,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:03:48",
     name: "Beverly Pinn",
     weight: 901,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:04:25",
     name: "Beverly Pinn",
     weight: 1524,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:05:20",
     name: "Beverly Pinn",
     weight: 532,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:06:00",
     name: "Beverly Pinn",
     weight: 404,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:06:41",
     name: "Beverly Pinn",
     weight: 1427,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:07:28",
     name: "Beverly Pinn",
     weight: 1471,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:08:06",
     name: "Beverly Pinn",
     weight: 885,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:08:58",
@@ -47809,42 +53921,66 @@ export const exportsList = [
     name: "Claire",
     weight: -705,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 18:09:24",
     name: "Claire",
     weight: -178,
     category: "Meat [Raw]",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 18:09:44",
     name: "Claire",
     weight: -1082,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 18:10:26",
     name: "Claire",
     weight: -437,
     category: "Produce",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 18:12:15",
     name: "Claire",
     weight: -603,
     category: "Assorted Fridge",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 18:16:16",
     name: "Claire",
     weight: -1532,
     category: "Assorted Dry",
+<<<<<<< HEAD
     location: "BCF Curbside [Sandtown]",
+=======
+    location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-20 00:00:00",

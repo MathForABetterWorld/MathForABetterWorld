@@ -28,7 +28,6 @@ else:
     log_button = st.button("Employee Log-in", key=".my-button", use_container_width=True)
 
 
-print("getting racks....")
 racks = rackConnector.getRacks()["rack"]
 rackDF = pd.DataFrame(racks)
 
@@ -83,6 +82,8 @@ st.button("Re-run")
 
 if log_button :
     if "token" in st.session_state :
+        if "role" in st.session_state :
+            del st.session_state.role
         del st.session_state.token
         st.experimental_rerun()
     else:

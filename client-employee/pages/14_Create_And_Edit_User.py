@@ -35,7 +35,7 @@ with title_container:
     with col2:
         st.markdown("<h1 style='text-align: center; '>Create & Edit Users</h1>", unsafe_allow_html=True)
 
-if 'token' in st.session_state:
+if 'token' in st.session_state and 'role' in st.session_state:
     editType = st.selectbox("Modification Type (Add, Edit) (Select Below)", ["", "New User", "Update User"])
     if editType == 'New User':
         with st.form("template_form"):
@@ -86,7 +86,7 @@ if 'token' in st.session_state:
                 st.warning("User ID not found. Please enter a valid User ID.")
         st.dataframe(filtered_usersDF)
 else:
-    st.error("No access to create user. Please log in if employee.")
+    st.error("No access to create user. Please log in if admin.")
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
@@ -95,6 +95,8 @@ st.button("Re-run")
 
 if log_button :
     if "token" in st.session_state :
+        if "role" in st.session_state :
+            del st.session_state.role
         del st.session_state.token
         st.experimental_rerun()
     else:

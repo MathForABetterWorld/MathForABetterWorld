@@ -7,9 +7,10 @@ from routeConnectors import pallet
 from routeConnectors import distributorConnectors
 from routeConnectors import rackConnector
 from routeConnectors import categoryConnectors
-from routeConnectors import userConnector
+from routeConnectors import shiftConnector
 import json
 import os
+import pandas as pd
 
 path = os.path.dirname(__file__)
 st.set_page_config(layout="centered", page_icon=path + "/assets/bmore_food_logo_dark_theme.png", page_title="Import Form")
@@ -24,7 +25,6 @@ with col3:
     st.write(' ')
 
 # Get rack, distributor and category info 
-print("getting racks....")
 allRacks = [{"id": -1, "location": "", "description": "", "weightLimit": 0}]
 rackRes = rackConnector.getRacks()
 if rackRes: 
@@ -38,9 +38,13 @@ allCategories = sorted(categories, key=lambda cat: cat["name"])
 
 
 allUsers = [{"id": -1, "name": ""}]
-dbUsers = json.loads(userConnector.getUsers().decode("utf-8"))
-if dbUsers:
-    allUsers = allUsers + dbUsers["users"]
+active_shifts = shiftConnector.activeShifts()
+active_shifts2 = json.loads(active_shifts)
+shifts = pd.json_normalize(active_shifts2["activateShifts"])
+if shifts.empty:
+    allUsers = []
+else:
+    allUsers = allUsers + shifts.apply(lambda x: {'id': x['user.id'], 'name': x['user.name']}, axis=1).tolist()
 
 
 title_container = st.container()

@@ -65,11 +65,11 @@ user_dict = json.loads(user_data_str)
 users = [{"id": -1, "name": "", "email": "", "isActive": True}] + user_dict['users']
 allUsers = sorted(users, key=lambda u: u["name"])
 
-userSelect = st.selectbox("Show all import from user", allUsers, format_func=lambda u: f'{u["name"]}')
+userSelect = st.selectbox("Show all exports from user", allUsers, format_func=lambda u: f'{u["name"]}')
 categorySelect = st.selectbox("Show all food of type", categories, format_func=lambda cat: f'{cat["name"]}')
 recSelect = st.selectbox("Show all food going to", sortedLocations, format_func=lambda loc: f'{loc["name"]}')
 
-sortBySelect = st.selectbox("Sort food imports by", sortByMap)
+sortBySelect = st.selectbox("Sort food exports by", sortByMap)
 
 df = pd.DataFrame(json.loads(exportConnectors.getExports().decode('utf-8'))["exports"])
 categoryDF = pd.DataFrame(categories)
@@ -120,7 +120,7 @@ df['Entry User'] = df['userId'].apply(getUserById)
 df.drop(columns=['userId'], inplace=True)
 
 df['exportDate'] = pd.to_datetime(df['exportDate'])
-df['exportDate'] = df['exportDate'].dt.strftime('%m-%d-%Y %H:%M:%S')
+df['exportDate'] = df['exportDate'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
 df.rename(columns={'id': 'ID', 'exportDate': 'Export Date', 'location': 'Location', 'weight': 'Weight', "exportType": "Export Type", 'category': 'Categories'}, inplace=True)
 columns_to_display = ['Entry User', 'Export Date', 'Location', 'Weight', 'Categories', "Export Type"]
@@ -130,7 +130,7 @@ st.dataframe(df, use_container_width=True)
 
 sum = df["Weight"].sum()
 
-s = pd.Series([sum], name='Total Import Weight')
+s = pd.Series([sum], name='Total Export Weight')
 
 st.dataframe(s, use_container_width=True)
 
@@ -149,6 +149,8 @@ st.button("Re-run")
 
 if log_button :
     if "token" in st.session_state :
+        if "role" in st.session_state :
+            del st.session_state.role
         del st.session_state.token
         st.experimental_rerun()
     else:

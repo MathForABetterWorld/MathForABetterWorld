@@ -68,15 +68,15 @@ st.pyplot(fig)
 
 export_items = json.loads(exportConnectors.getExports())
 Exports = pd.DataFrame(export_items["exports"])
+Exports['location_name'] = Exports['location'].apply(lambda x: x['name'])
 
-grouped_df = Exports.groupby('donatedTo')['weight'].sum().reset_index()
-grouped_df['donatedTo'] = grouped_df['donatedTo'].str.strip('"')
+grouped_df = Exports.groupby('location_name')['weight'].sum().reset_index()
 grouped_df = grouped_df[(grouped_df['weight'] >= 0.02 * grouped_df['weight'].sum())]
 
 st.title('Distribution of Weights by Recipient')
 
 fig, ax = plt.subplots(figsize=(8, 8))
-ax.pie(grouped_df['weight'], labels=grouped_df['donatedTo'], autopct='%1.1f%%', startangle=140, counterclock=False)
+ax.pie(grouped_df['weight'], labels=grouped_df['location_name'], autopct='%1.1f%%', startangle=140, counterclock=False)
 ax.axis('equal')
 
 st.pyplot(fig)

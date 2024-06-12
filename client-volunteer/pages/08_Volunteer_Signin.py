@@ -28,27 +28,24 @@ with title_container:
     with col2:
         st.markdown("<h1 style='text-align: center; '>Volunteer Sign-In</h1>", unsafe_allow_html=True)
 
+allUsers = [{"id": -1, "name": ""}]
+dbUsers = json.loads(userConnector.getUsers().decode("utf-8"))
+if dbUsers:
+    allUsers = allUsers + dbUsers["users"]
 
-users = userConnector.getUsers()
-
-users2 = json.loads(users)
-users_df = pd.json_normalize(users2["users"])
-
-users_df.insert(0,"Blank_Column", " ")
-
-user_names = users_df["name"]
-user_input = st.selectbox(label="Please enter your name", options = user_names.sort_values())
+user_input = st.selectbox("Please enter your name", allUsers, format_func=lambda user: f'{user["name"]}' )
 check_in_button = st.button("Check in")
 
+
 if check_in_button:
-    if users_df["name"].iloc[0]  in shiftConnector.activeShifts():
+    if user_input["name"] in shiftConnector.activeShifts():
         st.error("ERROR: User is currently signed in. Please sign out.")
     else:
         startTime = datetime.now()
-        id = users_df[users_df["name"] == user_input]["id"]
-        shiftConnector.postShift(int(id.iloc[0]), startTime.isoformat())
-
+        shiftConnector.postShift(user_input["id"], startTime.isoformat())
         st.write("Check in successful!")
+        time.sleep(2)
+        nav_page("")
 
 # Streamlit widgets automatically run the script from top to bottom. Since
 # this button is not connected to any other logic, it just causes a plain
