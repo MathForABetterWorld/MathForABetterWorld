@@ -17,8 +17,8 @@ const generateFakeData = async () => {
   const locations = await prisma.donationLocation.findMany();
   locations.forEach((loc) => locationMap.set(loc.name.toLowerCase(), loc));
   const userMap = new Map();
-  const users = await prisma.user.findMany();
-  users.forEach((user) => userMap.set(user.name.toLowerCase(), user));
+  const existingUsers = await prisma.user.findMany();
+  existingUsers.forEach((user) => userMap.set(user.name.toLowerCase(), user));
   const categoryMap = new Map();
   const categories = await prisma.category.findMany();
   categories.forEach((category) =>
@@ -37,6 +37,36 @@ const generateFakeData = async () => {
   const rackMap = new Map();
   const racks = await prisma.rack.findMany();
   racks.forEach((rack) => rackMap.set(rack.location.toLowerCase(), rack));
+
+  // Collect users to be created from volunteerList
+  const newUsers = [];
+  const userSet = new Set();
+  volunteerList.forEach((entry) => {
+    if (
+      !userMap.has(entry.name.toLowerCase()) &&
+      !userSet.has(entry.name.toLowerCase())
+    ) {
+      newUsers.push({
+        name: entry.name,
+        email: entry.name.replace(/\s+/g, "") + "@gmail.com",
+      });
+      userSet.add(entry.name.toLowerCase());
+    }
+  });
+
+  // Create new users in bulk
+  if (newUsers.length > 0) {
+    const createdUsers = await prisma.user.createMany({ data: newUsers });
+    const updatedUsers = await prisma.user.findMany({
+      where: {
+        name: {
+          in: newUsers.map((u) => u.name),
+        },
+      },
+    });
+    updatedUsers.forEach((user) => userMap.set(user.name.toLowerCase(), user));
+  }
+
   const createEntryList = [];
   importsList.forEach((entry) => {
     if (rackMap.has(entry.rack)) {
@@ -49,7 +79,6 @@ const generateFakeData = async () => {
         rackId: rackMap.get(entry.rack).id,
       });
     } else {
-      console.log(entry);
       createEntryList.push({
         entryUserId: userMap.get(entry.name.toLowerCase()).id,
         inputDate: new Date(entry.date),
@@ -78,7 +107,6 @@ const generateFakeData = async () => {
         exportType: exportType,
       });
     } else {
-      console.log(exportItem);
       createExportsList.push({
         userId: userMap.get(exportItem.name.toLowerCase()).id,
         exportDate: new Date(exportItem.date),
@@ -94,17 +122,13 @@ const generateFakeData = async () => {
   });
   const createShiftList = [];
   volunteerList.forEach((entry) => {
-    if (userMap.get(entry.name)) {
-      createShiftList.push({
-        userId: userMap.get(entry.name.toLowerCase()).id,
-        start: new Date(entry.start),
-        end: new Date(entry.end),
-        regularFoodTaken: entry.regularTaken,
-        damagedFoodTaken: entry.damagedTaken,
-      });
-    } else {
-      console.log(entry.name);
-    }
+    createShiftList.push({
+      userId: userMap.get(entry.name.toLowerCase()).id,
+      start: new Date(entry.start),
+      end: new Date(entry.end),
+      regularFoodTaken: entry.regularTaken,
+      damagedFoodTaken: entry.damagedTaken,
+    });
   });
   await prisma.shift.createMany({ data: createShiftList });
 };
