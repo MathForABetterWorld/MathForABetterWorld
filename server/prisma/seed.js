@@ -193,6 +193,18 @@ const generateFakeData = async () => {
 };
 
 try {
+  await prisma.$transaction([
+    prisma.shift.deleteMany(),
+    prisma.exportItem.deleteMany(),
+    prisma.pallet.deleteMany(),
+    prisma.rack.deleteMany(),
+    prisma.distributor.deleteMany(),
+    prisma.category.deleteMany(),
+    prisma.donationLocation.deleteMany(),
+    prisma.location.deleteMany(),
+    prisma.employee.deleteMany(),
+    prisma.user.deleteMany(),
+  ]);
   generateFakeData();
 } catch (err) {
   console.log(err);
