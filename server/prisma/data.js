@@ -480,20 +480,44 @@ export const rackList = [
     weightLimit: 1000,
   },
 ];
+// don't add any racks, don't even pay attention to this
 
 export const usersList = [
+<<<<<<< HEAD
+  "Aaliyiah Moye-Tati",
+  "Aaron Oldenburg",
+=======
   "2020 Manually Inputted Data",
   "2021 Manually Inputted Data",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Abisola Adeusi",
   "Adebola Akinwale",
   "Adeola Sulaiman",
   "Adeolu Mojibola",
   "Adriana Hill",
   "Aisha",
+<<<<<<< HEAD
+  "Akeel Carter",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Akul Umamageswaran",
   "Alex Bauer",
   "Alex Nguyen",
   "Alexia Lilly",
+<<<<<<< HEAD
+  "Amiee Padilla",
+  "Amy Xing",
+  "Andrew Kolodziejczak",
+  "Andrew Thampoe",
+  "Andy Levin",
+  "Anisa Hamilton",
+  "Angeles",
+  "Anita Bryant",
+  "Ann Walker Kennedy",
+  "Anna Nicosia",
+  "Anna West",
+  "Anne Rosenthal",
+=======
   "Amy Xing ",
   "Andrew Kolodziejczak",
   "Andrew Thampoe",
@@ -502,26 +526,45 @@ export const usersList = [
   "Anita Bryant",
   "Anna Nicosia",
   "Anna West",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Arezou Esmaeeli",
   "Ariel Li",
   "Arjun Yogaratnam",
   "Ausar",
   "Aza Shiao",
   "Azel King",
+<<<<<<< HEAD
+  "Aziza Frank",
+  "Barbara Zadek",
+  "Benjamin Hung",
+  "Bernard McCormick",
+=======
   "Aziza",
   "Barbara Zadek",
   "Benjamin Hung",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Bertille",
   "Beth Torres",
   "Beverly Graham",
   "Beverly Pinn",
   "Brad Burton",
   "Brandon Clark",
+<<<<<<< HEAD
+  "Brenda Ames",
+  "Brendan Wille",
+  "Breyonna Pittman",
+  "Brian Min",
+  "Bryant Martin",
+  "Bud Stracker",
+  "Cailyn Lawler",
+  "Calvin Bethea",
+=======
   "Brendan Wille",
   "Brian Min",
   "Bud Stracker - Sisson Street DPW",
   "Bud Stracker",
   "Cailyn Lawler",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Cameron Dong",
   "Cameron Minor",
   "Camille",
@@ -530,8 +573,19 @@ export const usersList = [
   "Charity Hsu",
   "Charlie",
   "Charmika Burton",
+<<<<<<< HEAD
+  "Catherine Carey",
+  "Chaz Edwards",
   "Chenoa Martin",
   "Cheryl Utsey",
+  "Chi Chi",
+  "Chloe Foster",
+  "Christina",
+  "Chris Royston",
+=======
+  "Chenoa Martin",
+  "Cheryl Utsey",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Cindy Silveira",
   "Claire Ahn",
   "Claire Kim",
@@ -539,49 +593,92 @@ export const usersList = [
   "Clarice",
   "Coach Dunkin",
   "Cody Windley",
+<<<<<<< HEAD
+  "Connie Huang",
   "Connor Gephart",
   "Connor Lu",
+  "Crystal Shaw",
+=======
+  "Connor Gephart",
+  "Connor Lu",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Dan Pike",
   "Daniel Huff",
   "Daniel Jin",
   "Daphnie Sumah",
+<<<<<<< HEAD
+  "Darrell Grant",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Daryan Fisher",
   "David Annan",
   "David Ondande",
   "Dean Chien",
   "Dean Sharif",
   "Deborah Claridy",
+<<<<<<< HEAD
+  "Deborah Cousin",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Denise Rivers",
   "Derek Dang",
   "Diego Trafton",
   "Dimpy",
   "Doris Parker Tuggle",
   "Dorja",
+<<<<<<< HEAD
+  "Dylan Zhu",
   "Dynashia Woodson",
+  "Edward Benner",
+  "Eli Kengmana",
+=======
+  "Dynashia Woodson",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Elianna Perlman",
   "Elizabeth Rehn",
   "Ellen Cho",
   "Emi Ochoa",
   "Emily B",
   "Emily Fitzpatrick",
+<<<<<<< HEAD
+  "Emily Mashqbeh",
+=======
   "Emily Ma",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Emily Stucke",
   "Emily Zhang",
   "Eric Alvarado",
   "Erin B",
   "Evelyn Jiang",
+<<<<<<< HEAD
+  "Eyitayo Enitan",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Fadil Santosa",
   "Faith Obilo",
   "First Fruits Farm",
   "GBMC",
   "GG",
   "Gabriel C",
+<<<<<<< HEAD
+  "Galen Spikes",
+  "Gene",
+  "Gilda Castillo",
+  "Grace Franczyk",
+  "Gregory",
+  "Gustavo Velazquez",
+  "H Higgins-Tan",
+  "Hannah Johnson",
+  "Harris Malik",
+  "Hong Xue",
+=======
   "Gene",
   "Gilda Castillo",
   "Gregory",
   "Hannah Johnson",
   "Harris Malik",
   "Hong",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Ifeoluwa Akinropo",
   "Imani Armour",
   "Isaiah Gordon",
@@ -591,10 +688,18 @@ export const usersList = [
   "Jackee",
   "Jackie",
   "Jade Weatherington",
+<<<<<<< HEAD
+  "Jamie Fleishman",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Jan Kleinman",
   "Janet Lomax",
   "Jasmine Jones-Howard",
   "Jasmine Rose",
+<<<<<<< HEAD
+  "Jaydan Ziglar",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Jayla Butler",
   "Jaylen Harvey",
   "Jean",
@@ -604,22 +709,41 @@ export const usersList = [
   "Jessica Martin",
   "Jillayne Clarke",
   "Jilleien Franquelli",
+<<<<<<< HEAD
+  "JoAnn Benbow",
   "Joanna",
+  "Johanna Galat",
+  "JoNathan Cousin",
+=======
+  "Joanna",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Jonathan Shay",
   "Jonyce Bland",
   "Josefina Aguilar-Pliszka",
   "Juanita Chandler",
   "Judy",
   "Julia Buckson",
+<<<<<<< HEAD
+  "Julia Nelson",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Justin Coelho",
   "Justin Huang",
   "Justin Maduka",
   "Justin Zhong",
+<<<<<<< HEAD
+  "Kae Dennis",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Kaleigh Rudge",
   "Kamau",
   "Kamille",
   "Kamryn Brown",
   "Kaneesha",
+<<<<<<< HEAD
+  "Karas Leeks",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Karen Moore",
   "Karla Alexander",
   "Kate Weeks",
@@ -630,6 +754,10 @@ export const usersList = [
   "Kelly Chen",
   "Kelly Crawford",
   "Kennedy",
+<<<<<<< HEAD
+  "Kevin James",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Kiera Payne",
   "Kira Branch",
   "Kyla",
@@ -639,11 +767,20 @@ export const usersList = [
   "Lanae",
   "Laronda",
   "Latease",
+<<<<<<< HEAD
+  "Lauren Crouch",
+  "Lawryn Johnson",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Layia",
   "Leap",
   "Lee Little",
   "Liam Stewart",
   "Linda Arce",
+<<<<<<< HEAD
+  "Liz Simon-Higgs",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Luke Mayhew",
   "Luke Pitsenbarger",
   "Lynda Bishop",
@@ -657,25 +794,49 @@ export const usersList = [
   "Martina Pozzi",
   "Mary Jo Gary",
   "Meghan Alexis",
+<<<<<<< HEAD
+  "Mekayle Powell",
+=======
   "Mekayle",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Melissa Thomas",
   "Meredith Snow",
   "Michael Ford",
   "Michael Nwachukwu",
   "Michael Yoo",
+<<<<<<< HEAD
+  "Michelle Collins",
   "Mike Foy",
+  "Miguel Velasco",
+=======
+  "Mike Foy",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Monah Perry",
   "Morgan",
   "Munazza Abraham",
   "Myles Austin",
+<<<<<<< HEAD
+  "Myra McDonald",
+  "Nader Najjar",
+  "Nailah Bishop",
+  "Najah White",
+  "Nakia",
+  "Nana Alesia Richards",
+=======
   "Nader Najjar",
   "Nailah Bishop",
   "Nakia",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Nani Herring",
   "Nanrui Gong",
   "Nastaran Keshmiri",
   "Nathan So",
   "Nathaniel McClean",
+<<<<<<< HEAD
+  "Nathaniel Sheps",
+  "Nevaeh Christy",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Ngozi Douglas",
   "Nia Bishop",
   "Nicolle Diaz",
@@ -689,6 +850,18 @@ export const usersList = [
   "Opeyemi Faleye",
   "Other",
   "Paul H",
+<<<<<<< HEAD
+  "Pedro",
+  "Perry Faulk",
+  "Phillip Blackwell",
+  "Polly Mott",
+  "Prabhleen",
+  "Rabia Chaudhry",
+  "Rachel H",
+  "Rachel Lee",
+  "Rachel Oh",
+  "Raphael Gadot",
+=======
   "Perry Faulk",
   "Phillip Blackwell",
   "Polly",
@@ -696,10 +869,16 @@ export const usersList = [
   "Rachel H",
   "Rachel Lee",
   "Rachel Oh",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Raquel Bailey",
   "Rawan Elshobaky",
   "Rewa Hazim",
   "Rilynn White",
+<<<<<<< HEAD
+  "Robin Gibbs",
+  "Rochelle Clunie",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Romaine Bouldin",
   "Rosemary Hendricks",
   "Roxane",
@@ -708,18 +887,38 @@ export const usersList = [
   "Safire Windley",
   "Sandy W",
   "Sara B",
+<<<<<<< HEAD
+  "Sarah Krensky",
+  "Scott Fox",
+  "Sean Kwak",
+  "Seth Crawford",
+  "Shaan",
+  "Shami M",
+=======
   "Sarah K",
   "Sean Kwak",
   "Seth Crawford",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Sharon",
   "Sheneil Black",
   "Shoshana Kott",
   "Sierra Jai Smith",
+<<<<<<< HEAD
+  "Sophia Skolnick",
+  "Spencer Ellsworth",
+  "Sue Daja",
+  "Sunita Pathik",
+  "Sunny Choi",
+  "Susan Larson",
+  "Susan May",
+  "Sybil Subiaur",
+=======
   "Spencer Ellsworth",
   "Sue Daja",
   "Sunita Pathik",
   "Susan Larson",
   "Susan May",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Sydni Demby",
   "Taja Keitt",
   "Takiya Eastmond",
@@ -728,9 +927,18 @@ export const usersList = [
   "Tariq",
   "Tashana",
   "Teia",
+<<<<<<< HEAD
+  "Temiloluwa Osunjimi",
+  "Terell Little",
   "Theresa Columbus",
   "Theresa Keil",
   "Thomas Aloisi",
+  "Timothy Chen",
+=======
+  "Theresa Columbus",
+  "Theresa Keil",
+  "Thomas Aloisi",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Tina Paquet",
   "Tishea Lester",
   "Torey Wilkins",
@@ -740,19 +948,38 @@ export const usersList = [
   "Treston Codrington",
   "Trinity Burge",
   "Tsion Getahun",
+<<<<<<< HEAD
+  "Tyree Reka Vinson",
+  "Tyrese Springer",
+  "Vanessa Smith",
+  "Veronica McDonald",
+  "Vincent Faulk",
+  "Virginia Peters-Rodbell",
+  "Waldo Alvarez",
+  "Will Arenas",
+  "William Middlezong",
+  "Wyatt Ray",
+  "Wylder Voegele",
+=======
   "Tyrese Springer",
   "Vincent Faulk",
   "Waldo",
   "William Middlezong",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Xinyue Gu",
   "Xiomara Rodriguez",
   "Yasmine",
   "Young",
   "Yulia",
+<<<<<<< HEAD
+  "Zachary Jackson",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Zanya Jamieson",
   "Zoe",
   "Zyare Abdul-Rahim",
 ];
+// can add user if they appear more than once, otherwise just make it 'Other'
 
 export const categoryList = [
   "Assorted Dry",
@@ -777,7 +1004,11 @@ export const categoryList = [
   "Household",
   "Meat [Raw]",
   "Oil",
+<<<<<<< HEAD
+  "Other",
+=======
   "Other", //final
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "Paper Supplies",
   "Personal Care",
   "Pet Supplies",
@@ -786,6 +1017,8 @@ export const categoryList = [
   "Spices",
   "Water",
 ];
+// don't add anything to category list
+// can make category 'Other'
 
 export const distributorList = [
   "Alto Dale Farm",
@@ -803,11 +1036,17 @@ export const distributorList = [
   "Guinness",
   "H and S Bakery",
   "Henderson-Hopkins",
+<<<<<<< HEAD
+  "Jack and Sudznos",
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   "McCormick",
   "Other",
   "Sandtown",
   "Walmart",
 ];
+// can add distributor to list if appears a lot (your discretion)
+// can make distributor 'Other'
 
 export const donatedToList = [
   {
@@ -816,27 +1055,54 @@ export const donatedToList = [
     longitude: "0",
   },
   {
+<<<<<<< HEAD
+    name: "BCF [Non Curbside] [Sandtown]",
+=======
     name: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
     latitude: "39.31654827746684",
     longitude: "-76.62063478994395",
   },
   {
+<<<<<<< HEAD
+    name: "BCF Curbside [Sandtown]",
+=======
     name: "BCF [Non Curbside] - Sandtown",
     latitude: "0",
     longitude: "0",
   },
   {
     name: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
     latitude: "39.316390",
     longitude: "-76.620630",
   },
   {
+<<<<<<< HEAD
+    name: "BCF [Non Curbside] [Remington - Current]",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "BCF Curbside [Remington - Current]",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Boys & Girls Club",
+=======
     name: "BCF Curbside - Sandtown",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
     latitude: "0",
     longitude: "0",
   },
   {
     name: "Bowery",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Brooklyn Homes",
     latitude: "0",
     longitude: "0",
   },
@@ -852,6 +1118,11 @@ export const donatedToList = [
   },
   {
     name: "Farmlink [Mauricio]",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "First Fruit Farm",
     latitude: "0",
     longitude: "0",
   },
@@ -896,6 +1167,24 @@ export const donatedToList = [
     longitude: "0",
   },
   {
+<<<<<<< HEAD
+    name: "Other Organization",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Mack Lewis Foundation",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+    name: "Manor Bible Outreach",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
+=======
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
     name: "McCollouh Homes [Coach Dunkin]",
     latitude: "39.30086548695787",
     longitude: "-76.62766018898213",
@@ -936,9 +1225,19 @@ export const donatedToList = [
     longitude: "-76.643036",
   },
   {
+    name: "Share Baby",
+    latitude: "0",
+    longitude: "0",
+  },
+  {
     name: "So What Else",
     latitude: "39.28205808981843",
     longitude: "-76.65066306296282",
+  },
+  {
+    name: "Sons Of Phoenix",
+    latitude: "0",
+    longitude: "0",
   },
   {
     name: "Sunita [Delivery]",
@@ -956,6 +1255,8 @@ export const donatedToList = [
     longitude: "-76.61900046975943",
   },
 ];
+// can make location 'Other Organization' or 'Individual'
+// can add location to list if appears a lot
 
 export const entries = [
   {
@@ -16757,7 +17058,3011 @@ export const entries = [
     category: "Drinks [Fridge]",
     distributor: "Farmlink [Mauricio]",
   },
+  {
+    date: "2023-07-06 10:47:19",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-07-11 14:03:04",
+    name: "Other",
+    weight: 1512,
+    category: "Other",
+    distributor: "Other",
+  },
+  {
+    date: "2023-07-12 09:36:53",
+    name: "Claire",
+    weight: 205,
+    category: "Meat [Raw]",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-07-12 13:17:16",
+    name: "Claire",
+    weight: 36720,
+    category: "Assorted Dry",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-07-14 15:11:41",
+    name: "Claire",
+    weight: 27236,
+    category: "Meat [Raw]",
+    distributor: "Clemens Food Group",
+  },
+  {
+    date: "2023-07-16 19:30:13",
+    name: "Safire Windley",
+    weight: 499,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:31:23",
+    name: "Safire Windley",
+    weight: 665,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:32:14",
+    name: "Safire Windley",
+    weight: 218,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:33:12",
+    name: "Safire Windley",
+    weight: 382,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:34:03",
+    name: "Safire Windley",
+    weight: 326,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:34:40",
+    name: "Safire Windley",
+    weight: 608,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-16 19:35:14",
+    name: "Safire Windley",
+    weight: 680,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:23:27",
+    name: "Robin Gibbs",
+    weight: 307,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:24:14",
+    name: "Robin Gibbs",
+    weight: 845,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:24:40",
+    name: "Robin Gibbs",
+    weight: 640,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:25:21",
+    name: "Robin Gibbs",
+    weight: 707,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:25:43",
+    name: "Robin Gibbs",
+    weight: 715,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 12:26:02",
+    name: "Robin Gibbs",
+    weight: 252,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-23 23:25:12",
+    name: "JC",
+    weight: 490,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-27 16:49:28",
+    name: "Claire",
+    weight: 39,
+    category: "Assorted Fridge",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-07-29 14:30:56",
+    name: "Claire",
+    weight: 35532,
+    category: "Drinks [Dry]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-07-29 16:39:57",
+    name: "Claire",
+    weight: 1503,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-29 16:40:23",
+    name: "Claire",
+    weight: 2301,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-29 16:41:02",
+    name: "Claire",
+    weight: 704,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-29 16:41:25",
+    name: "Claire",
+    weight: 645,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-30 12:24:47",
+    name: "Claire",
+    weight: 161,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-30 12:26:52",
+    name: "Robin Gibbs",
+    weight: 533,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-07-30 12:36:41",
+    name: "Robin Gibbs",
+    weight: 650,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-01 14:40:15",
+    name: "Claire",
+    weight: 30,
+    category: "Snacks",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-08-02 16:55:08",
+    name: "Safire Windley",
+    weight: 765,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-02 17:33:25",
+    name: "Claire",
+    weight: 901,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-02 17:33:49",
+    name: "Claire",
+    weight: 789,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-02 17:34:10",
+    name: "Claire",
+    weight: 946,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-02 17:34:32",
+    name: "Claire",
+    weight: 610,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-02 18:15:21",
+    name: "Claire",
+    weight: 685,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-06 12:33:58",
+    name: "Other",
+    weight: 58,
+    category: "Personal Care",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-06 13:06:33",
+    name: "Other",
+    weight: 65,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-06 13:18:56",
+    name: "Other",
+    weight: 468,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 445,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1020,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 109,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 360,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1334,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 2442,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 624,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 316,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 572,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1291,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1076,
+    category: "Produce",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1347,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 1044,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 2552,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-08-11 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 107,
+    category: "Assorted Dry",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-15 17:19:55",
+    name: "Beverly Pinn",
+    weight: 34,
+    category: "Baby Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-08-15 17:20:39",
+    name: "Beverly Pinn",
+    weight: 1701,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:21:15",
+    name: "Beverly Pinn",
+    weight: 134,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:21:57",
+    name: "Beverly Pinn",
+    weight: 232,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:21:57",
+    name: "Chi Chi",
+    weight: 441,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:23:10",
+    name: "Beverly Pinn",
+    weight: 341,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:23:45",
+    name: "Beverly Pinn",
+    weight: 931,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:24:27",
+    name: "Beverly Pinn",
+    weight: 965,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:25:00",
+    name: "Beverly Pinn",
+    weight: 744,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 17:25:36",
+    name: "Beverly Pinn",
+    weight: 34,
+    category: "Baby Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-08-16 16:02:46",
+    name: "Beverly Pinn",
+    weight: 331,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 16:04:29",
+    name: "Beverly Pinn",
+    weight: 403,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 16:11:41",
+    name: "Beverly Pinn",
+    weight: 584,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 16:15:54",
+    name: "Beverly Pinn",
+    weight: 364,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 16:21:31",
+    name: "Beverly Pinn",
+    weight: 1364,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 00:00:00",
+    name: "Safire Windley",
+    weight: 973,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-16 16:27:11",
+    name: "Beverly Pinn",
+    weight: 1407,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-18 17:23:27",
+    name: "Safire Windley",
+    weight: 36386,
+    category: "Baby Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-20 12:22:38",
+    name: "Aaron Oldenburg",
+    weight: -117,
+    category: "Meat [Raw]",
+    distributor: "BCF",
+  },
+  {
+    date: "2023-08-20 12:23:10",
+    name: "Aaron Oldenburg",
+    weight: -97,
+    category: "Dole - Fruit Cups",
+    distributor: "BCF",
+  },
+  {
+    date: "2023-08-20 12:23:39",
+    name: "Aaron Oldenburg",
+    weight: -55,
+    category: "Other",
+    distributor: "BCF",
+  },
+  {
+    date: "2023-08-20 12:24:08",
+    name: "Aaron Oldenburg",
+    weight: -50,
+    category: "Paper Supplies",
+    distributor: "BCF",
+  },
+  {
+    date: "2023-08-20 12:24:36",
+    name: "Aaron Oldenburg",
+    weight: -139,
+    category: "Drinks [Fridge]",
+    distributor: "BCF",
+  },
+  {
+    date: "2023-08-20 12:25:22",
+    name: "Aaron Oldenburg",
+    weight: 639,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-20 12:26:15",
+    name: "Aaron Oldenburg",
+    weight: 461,
+    category: "Other",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-20 12:26:54",
+    name: "Aaron Oldenburg",
+    weight: 340,
+    category: "Other",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-20 13:55:43",
+    name: "Liz Simon-Higgs",
+    weight: 24,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Beverly Pinn",
+    weight: 15096,
+    category: "Assorted Fridge",
+    distributor: "Clemens Food Group",
+  },
+  {
+    date: "2023-08-22 15:01:05",
+    name: "Beverly Pinn",
+    weight: 611,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-22 15:02:18",
+    name: "Beverly Pinn",
+    weight: 418,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-22 15:02:47",
+    name: "Beverly Pinn",
+    weight: 273,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-22 15:03:28",
+    name: "Beverly Pinn",
+    weight: 100,
+    category: "Health & Beauty Products",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-08-22 15:05:56",
+    name: "Beverly Pinn",
+    weight: 24,
+    category: "Assorted Dry",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-22 15:07:12",
+    name: "Beverly Pinn",
+    weight: 8,
+    category: "Baby Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-22 15:08:26",
+    name: "Beverly Pinn",
+    weight: 831,
+    category: "Assorted Dry",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-24 16:20:17",
+    name: "Beverly Pinn",
+    weight: 943,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-24 16:20:45",
+    name: "Beverly Pinn",
+    weight: 925,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-24 16:21:28",
+    name: "Beverly Pinn",
+    weight: 1345,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-08-27 12:03:40",
+    name: "Other",
+    weight: 298,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 12:39:40",
+    name: "Ann Walker Kennedy",
+    weight: 65,
+    category: "Cleaning Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-08-27 12:52:58",
+    name: "Other",
+    weight: 242,
+    category: "Other",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:26:03",
+    name: "Aaron Oldenburg",
+    weight: 443,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:26:33",
+    name: "Aaron Oldenburg",
+    weight: 298,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:26:52",
+    name: "Aaron Oldenburg",
+    weight: 406,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:27:20",
+    name: "Aaron Oldenburg",
+    weight: 542,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:27:43",
+    name: "Aaron Oldenburg",
+    weight: 390,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-27 13:28:51",
+    name: "Aaron Oldenburg",
+    weight: 65,
+    category: "Baby Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-08-27 13:29:06",
+    name: "Aaron Oldenburg",
+    weight: 242,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-30 16:58:37",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:58:46",
+    name: "Karen Moore",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:59:04",
+    name: "Sara B",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:59:12",
+    name: "Karen Moore",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:59:31",
+    name: "Sara B",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:59:46",
+    name: "Karen Moore",
+    weight: 2317,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 16:59:53",
+    name: "Sara B",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:00:10",
+    name: "Karen Moore",
+    weight: 2317,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:00:15",
+    name: "Sara B",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:01:11",
+    name: "Karen Moore",
+    weight: 2014,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:01:16",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:01:32",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:01:46",
+    name: "Karen Moore",
+    weight: 2014,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:01:57",
+    name: "Sara B",
+    weight: 1028,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:02:19",
+    name: "Sara B",
+    weight: 943,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:02:24",
+    name: "Karen Moore",
+    weight: 2019,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:02:38",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:02:54",
+    name: "Karen Moore",
+    weight: 2019,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:02:55",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:03:15",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:03:35",
+    name: "Karen Moore",
+    weight: 102,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:03:45",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:04:05",
+    name: "Karen Moore",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:04:09",
+    name: "Sara B",
+    weight: 226,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:04:31",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:04:38",
+    name: "Karen Moore",
+    weight: 222,
+    category: "Other",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:05:01",
+    name: "Sara B",
+    weight: 134,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:05:20",
+    name: "Karen Moore",
+    weight: 198,
+    category: "Dole - Juice",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-30 17:05:26",
+    name: "Sara B",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-08-31 00:00:00",
+    name: "Safire Windley",
+    weight: 28358.65,
+    category: "Meat [Raw]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-01 18:49:54",
+    name: "Safire Windley",
+    weight: 571,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-01 18:50:55",
+    name: "Safire Windley",
+    weight: 536,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-01 18:51:24",
+    name: "Safire Windley",
+    weight: 477,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-01 18:52:09",
+    name: "Safire Windley",
+    weight: 1355,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-03 12:51:24",
+    name: "Aaron Oldenburg",
+    weight: 123,
+    category: "Baby Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-09-03 13:22:56",
+    name: "Aaron Oldenburg",
+    weight: 395,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-03 13:23:26",
+    name: "Aaron Oldenburg",
+    weight: 368,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-06 11:12:03",
+    name: "Michelle Collins",
+    weight: 8923,
+    category: "Danone - Milk",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-06 12:07:47",
+    name: "Chloe Foster",
+    weight: 5,
+    category: "Pet Supplies",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-09-10 15:27:04",
+    name: "Denise Rivers",
+    weight: 662,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-10 15:27:53",
+    name: "Denise Rivers",
+    weight: 376,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-10 15:28:26",
+    name: "Denise Rivers",
+    weight: 369,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-15 10:12:13",
+    name: "Michelle Collins",
+    weight: 13755,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
+  {
+    date: "2023-09-16 16:04:10",
+    name: "Waldo Alvarez",
+    weight: 1221,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-16 16:05:19",
+    name: "Waldo Alvarez",
+    weight: 387,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-16 16:05:52",
+    name: "Waldo Alvarez",
+    weight: 430,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-16 16:06:14",
+    name: "Waldo Alvarez",
+    weight: 433,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-16 16:06:34",
+    name: "Waldo Alvarez",
+    weight: 442,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-16 16:06:57",
+    name: "Waldo Alvarez",
+    weight: 500,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-17 15:27:44",
+    name: "Kate Weeks",
+    weight: 49,
+    category: "Baby Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-09-17 15:28:10",
+    name: "Kate Weeks",
+    weight: 57,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-17 15:28:43",
+    name: "Kate Weeks",
+    weight: 145,
+    category: "Drinks [Dry]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-17 15:29:09",
+    name: "Kate Weeks",
+    weight: 644,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-17 15:29:31",
+    name: "Kate Weeks",
+    weight: 244,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-20 14:18:31",
+    name: "Karen Moore",
+    weight: 257,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-20 14:19:01",
+    name: "Karen Moore",
+    weight: 251,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-20 14:19:31",
+    name: "Karen Moore",
+    weight: 1030,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-20 14:21:22",
+    name: "Karen Moore",
+    weight: 1229,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-24 12:58:44",
+    name: "Aaron Oldenburg",
+    weight: 228,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 12:59:26",
+    name: "Aaron Oldenburg",
+    weight: 646,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 14:08:14",
+    name: "Aaron Oldenburg",
+    weight: 546,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 14:08:42",
+    name: "Aaron Oldenburg",
+    weight: 571,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 14:09:08",
+    name: "Aaron Oldenburg",
+    weight: 405,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 14:09:51",
+    name: "Aaron Oldenburg",
+    weight: 318,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-09-24 14:10:22",
+    name: "Aaron Oldenburg",
+    weight: 54,
+    category: "Assorted Dry",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-09-26 16:38:09",
+    name: "Chi Chi",
+    weight: 202,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-28 11:21:30",
+    name: "Chi Chi",
+    weight: 4591,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-28 11:22:38",
+    name: "Other",
+    weight: 4,
+    category: "Snacks",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-28 11:26:04",
+    name: "Chi Chi",
+    weight: 19602.1,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-09-29 12:44:22",
+    name: "Chi Chi",
+    weight: 1794,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:44:50",
+    name: "Chi Chi",
+    weight: 1715,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:45:24",
+    name: "Chi Chi",
+    weight: 1722,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:46:08",
+    name: "Chi Chi",
+    weight: 2076,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:46:31",
+    name: "Chi Chi",
+    weight: 1481,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:47:17",
+    name: "Chi Chi",
+    weight: 2108,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:48:10",
+    name: "Chi Chi",
+    weight: 763,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:48:58",
+    name: "Chi Chi",
+    weight: 1457,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:49:36",
+    name: "Chi Chi",
+    weight: 940,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:50:24",
+    name: "Chi Chi",
+    weight: 1549,
+    category: "Condiments",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-09-29 12:52:37",
+    name: "Chi Chi",
+    weight: 221,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-29 12:53:11",
+    name: "Chi Chi",
+    weight: 553,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-29 12:53:42",
+    name: "Chi Chi",
+    weight: 534,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-29 12:54:13",
+    name: "Chi Chi",
+    weight: 512,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-09-29 12:54:59",
+    name: "Chi Chi",
+    weight: 24,
+    category: "Personal Care",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-10-01 13:09:35",
+    name: "Rochelle Clunie",
+    weight: 2840,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-01 13:15:07",
+    name: "Rochelle Clunie",
+    weight: 520,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-01 14:04:28",
+    name: "Rochelle Clunie",
+    weight: 135,
+    category: "Assorted Fridge",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-03 13:22:32",
+    name: "Chi Chi",
+    weight: 30433,
+    category: "Meat [Raw]",
+    distributor: "Clemens Food Group",
+  },
+  {
+    date: "2023-10-03 14:01:52",
+    name: "Chi Chi",
+    weight: 40000,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-10-04 18:31:05",
+    name: "Sunny Choi",
+    weight: 1201,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-04 18:35:51",
+    name: "Sunny Choi",
+    weight: 1270,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-04 18:39:15",
+    name: "Sunny Choi",
+    weight: 539,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-04 18:42:06",
+    name: "Sunny Choi",
+    weight: 689,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-04 20:21:19",
+    name: "Chi Chi",
+    weight: 358,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-05 14:40:22",
+    name: "Chi Chi",
+    weight: 2405,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:40:51",
+    name: "Chi Chi",
+    weight: 779,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:41:43",
+    name: "Chi Chi",
+    weight: 1126,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:44:16",
+    name: "Chi Chi",
+    weight: 1281,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:44:47",
+    name: "Chi Chi",
+    weight: 471,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:47:02",
+    name: "Chi Chi",
+    weight: 696,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:49:03",
+    name: "Chi Chi",
+    weight: 3601,
+    category: "Canned Goods",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:50:20",
+    name: "Chi Chi",
+    weight: 575,
+    category: "Spices",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:50:42",
+    name: "Chi Chi",
+    weight: 861,
+    category: "Spices",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:51:16",
+    name: "Chi Chi",
+    weight: 1551,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:52:30",
+    name: "Chi Chi",
+    weight: 627,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:53:05",
+    name: "Chi Chi",
+    weight: 114,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:53:25",
+    name: "Chi Chi",
+    weight: 637,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-05 14:53:57",
+    name: "Chi Chi",
+    weight: 1896,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-10-08 12:21:48",
+    name: "Other",
+    weight: 48,
+    category: "Health & Beauty Products",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-10-08 14:27:45",
+    name: "Aaron Oldenburg",
+    weight: 99,
+    category: "Snacks",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-10-08 14:28:17",
+    name: "Aaron Oldenburg",
+    weight: 237,
+    category: "Water",
+    distributor: "Walmart",
+  },
+  {
+    date: "2023-10-10 13:54:08",
+    name: "Marci Yankelov",
+    weight: 702,
+    category: "Other",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-12 14:01:34",
+    name: "Rochelle Clunie",
+    weight: 103,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-12 14:03:17",
+    name: "Rochelle Clunie",
+    weight: 637,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-12 14:04:57",
+    name: "Rochelle Clunie",
+    weight: 633,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-12 14:05:40",
+    name: "Rochelle Clunie",
+    weight: 338,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-12 14:06:14",
+    name: "Rochelle Clunie",
+    weight: 947,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-12 14:06:44",
+    name: "Rochelle Clunie",
+    weight: 674,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 15:39:10",
+    name: "Chi Chi",
+    weight: 321,
+    category: "Other",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-13 15:42:05",
+    name: "Chi Chi",
+    weight: 381,
+    category: "Other",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-13 16:03:44",
+    name: "Chi Chi",
+    weight: 765,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:04:04",
+    name: "Chi Chi",
+    weight: 901,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:04:28",
+    name: "Chi Chi",
+    weight: 789,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:04:47",
+    name: "Chi Chi",
+    weight: 946,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:05:04",
+    name: "Chi Chi",
+    weight: 688,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:05:19",
+    name: "Chi Chi",
+    weight: 610,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-13 16:06:08",
+    name: "Chi Chi",
+    weight: 30,
+    category: "Snacks",
+    distributor: "Donation",
+  },
+  {
+    date: "2023-10-15 13:16:41",
+    name: "Rochelle Clunie",
+    weight: 530,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-15 13:17:26",
+    name: "Rochelle Clunie",
+    weight: 14,
+    category: "Baby Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-15 13:18:16",
+    name: "Other",
+    weight: 609,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-15 13:19:12",
+    name: "Rochelle Clunie",
+    weight: 610,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-15 13:36:43",
+    name: "Rochelle Clunie",
+    weight: 331,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-15 13:37:33",
+    name: "Rochelle Clunie",
+    weight: 32,
+    category: "Household",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-15 13:44:57",
+    name: "Rochelle Clunie",
+    weight: 196,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-16 14:41:26",
+    name: "Chi Chi",
+    weight: 30000,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-18 18:02:43",
+    name: "Sunny Choi",
+    weight: 237,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:08:02",
+    name: "Sunny Choi",
+    weight: 1010,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:08:53",
+    name: "Sunny Choi",
+    weight: 1010,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:11:59",
+    name: "Sunny Choi",
+    weight: 286,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:16:39",
+    name: "Sunny Choi",
+    weight: 266,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:22:52",
+    name: "Sunny Choi",
+    weight: 194,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:28:14",
+    name: "Sunny Choi",
+    weight: 235,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 18:36:09",
+    name: "Chi Chi",
+    weight: 41496,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-18 18:36:48",
+    name: "Chi Chi",
+    weight: 41081.04,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-18 19:47:33",
+    name: "Chi Chi",
+    weight: 807,
+    category: "Meat [Raw]",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-10-18 19:49:00",
+    name: "Chi Chi",
+    weight: 535,
+    category: "Dairy",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-10-18 19:49:30",
+    name: "Chi Chi",
+    weight: 182,
+    category: "Meat [Raw]",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-10-18 19:50:05",
+    name: "Chi Chi",
+    weight: 208,
+    category: "Meat [Raw]",
+    distributor: "Dietz & Watson",
+  },
+  {
+    date: "2023-10-18 19:50:56",
+    name: "Chi Chi",
+    weight: 512,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-18 19:51:31",
+    name: "Chi Chi",
+    weight: 525,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-10-20 11:38:54",
+    name: "Chi Chi",
+    weight: 31823,
+    category: "Frozen [Not Meat]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-22 12:11:33",
+    name: "Christina",
+    weight: 152,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-22 12:12:34",
+    name: "Christina",
+    weight: 321,
+    category: "Frozen [Not Meat]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-22 12:13:22",
+    name: "Christina",
+    weight: 63,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-22 12:14:09",
+    name: "Christina",
+    weight: 394,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-22 13:14:07",
+    name: "Christina",
+    weight: 153,
+    category: "Personal Care",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-10-24 16:21:26",
+    name: "Marci Yankelov",
+    weight: 945,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-25 13:52:25",
+    name: "Chi Chi",
+    weight: 35000,
+    category: "Pet Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-25 13:55:00",
+    name: "Chi Chi",
+    weight: 42376,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-10-29 14:03:31",
+    name: "Aaron Oldenburg",
+    weight: 176,
+    category: "Snacks",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-29 14:03:57",
+    name: "Aaron Oldenburg",
+    weight: 142,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-29 14:04:30",
+    name: "Aaron Oldenburg",
+    weight: 49,
+    category: "Snacks",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-10-29 14:05:18",
+    name: "Aaron Oldenburg",
+    weight: 98,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-01 11:50:00",
+    name: "Rochelle Clunie",
+    weight: 1106,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-01 11:53:24",
+    name: "Rochelle Clunie",
+    weight: 648,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-01 11:54:05",
+    name: "Rochelle Clunie",
+    weight: 984,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-01 11:54:35",
+    name: "Rochelle Clunie",
+    weight: 1051,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-04 12:56:47",
+    name: "Chi Chi",
+    weight: 26578,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-04 17:11:19",
+    name: "Rochelle Clunie",
+    weight: 26869,
+    category: "Drinks [Fridge]",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-05 15:13:14",
+    name: "Rochelle Clunie",
+    weight: 682,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:13:38",
+    name: "Rochelle Clunie",
+    weight: 351,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:14:27",
+    name: "Rochelle Clunie",
+    weight: 465,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:16:42",
+    name: "Rochelle Clunie",
+    weight: 405,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:17:05",
+    name: "Rochelle Clunie",
+    weight: 647,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:17:53",
+    name: "Rochelle Clunie",
+    weight: 128,
+    category: "Meat [Raw]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:18:26",
+    name: "Rochelle Clunie",
+    weight: 78,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:19:09",
+    name: "Rochelle Clunie",
+    weight: 96,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:20:30",
+    name: "Rochelle Clunie",
+    weight: 38,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:26:13",
+    name: "Rochelle Clunie",
+    weight: 109,
+    category: "Drinks [Dry]",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:26:53",
+    name: "Rochelle Clunie",
+    weight: 77,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:27:27",
+    name: "Rochelle Clunie",
+    weight: 401,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:27:54",
+    name: "Rochelle Clunie",
+    weight: 135,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-05 15:28:20",
+    name: "Rochelle Clunie",
+    weight: 203,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-08 14:06:21",
+    name: "Chi Chi",
+    weight: 11480,
+    category: "Dairy",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-08 17:01:20",
+    name: "Rochelle Clunie",
+    weight: 147,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-08 17:02:01",
+    name: "Rochelle Clunie",
+    weight: 505,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-08 17:03:04",
+    name: "Rochelle Clunie",
+    weight: 393,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-08 17:03:47",
+    name: "Rochelle Clunie",
+    weight: 1073,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-12 14:36:18",
+    name: "Aaron Oldenburg",
+    weight: 40,
+    category: "Health & Beauty Products",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-12 14:36:55",
+    name: "Aaron Oldenburg",
+    weight: 643,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-12 14:37:15",
+    name: "Aaron Oldenburg",
+    weight: 655,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-12 14:37:42",
+    name: "Aaron Oldenburg",
+    weight: 424,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-12 14:38:07",
+    name: "Aaron Oldenburg",
+    weight: 292,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-15 15:02:42",
+    name: "Other",
+    weight: 1710,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-15 15:11:32",
+    name: "Other",
+    weight: 208,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-15 15:12:17",
+    name: "Other",
+    weight: 610,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-15 15:16:46",
+    name: "Rochelle Clunie",
+    weight: 1047,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-15 15:21:12",
+    name: "Rochelle Clunie",
+    weight: 1309,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-16 13:32:06",
+    name: "Rochelle Clunie",
+    weight: 1836,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:32:46",
+    name: "Rochelle Clunie",
+    weight: 2249,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:33:26",
+    name: "Rochelle Clunie",
+    weight: 1567,
+    category: "Drinks [Fridge]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:34:21",
+    name: "Rochelle Clunie",
+    weight: 1156,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:34:54",
+    name: "Rochelle Clunie",
+    weight: 2662,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:35:25",
+    name: "Rochelle Clunie",
+    weight: 2118,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 13:36:20",
+    name: "Rochelle Clunie",
+    weight: 2009,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:29:23",
+    name: "Rochelle Clunie",
+    weight: 495,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:29:55",
+    name: "Rochelle Clunie",
+    weight: 1644,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:30:21",
+    name: "Rochelle Clunie",
+    weight: 322,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:30:50",
+    name: "Rochelle Clunie",
+    weight: 130,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:31:26",
+    name: "Rochelle Clunie",
+    weight: 979,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:31:58",
+    name: "Rochelle Clunie",
+    weight: 161,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:32:26",
+    name: "Rochelle Clunie",
+    weight: 1951,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-16 16:32:56",
+    name: "Rochelle Clunie",
+    weight: 1358,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-11-19 14:33:43",
+    name: "Rochelle Clunie",
+    weight: 135,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:34:13",
+    name: "Rochelle Clunie",
+    weight: 558,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:36:45",
+    name: "Rochelle Clunie",
+    weight: 463,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:38:04",
+    name: "Rochelle Clunie",
+    weight: 192,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:38:44",
+    name: "Rochelle Clunie",
+    weight: 682,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:39:11",
+    name: "Rochelle Clunie",
+    weight: 660,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:40:05",
+    name: "Rochelle Clunie",
+    weight: 446,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 14:40:38",
+    name: "Rochelle Clunie",
+    weight: 820,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-19 15:28:16",
+    name: "Aaron Oldenburg",
+    weight: 145,
+    category: "Cleaning Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-11-19 15:28:43",
+    name: "Aaron Oldenburg",
+    weight: 120,
+    category: "Cleaning Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-11-25 13:18:35",
+    name: "Chi Chi",
+    weight: 119,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-25 13:18:58",
+    name: "Chi Chi",
+    weight: 1251,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-25 13:19:19",
+    name: "Chi Chi",
+    weight: 1320,
+    category: "Canned Goods",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-25 13:19:47",
+    name: "Chi Chi",
+    weight: 549,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-25 13:20:09",
+    name: "Chi Chi",
+    weight: 1098,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-25 13:20:28",
+    name: "Chi Chi",
+    weight: 993,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-11-26 14:50:35",
+    name: "Rochelle Clunie",
+    weight: 460,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:51:03",
+    name: "Rochelle Clunie",
+    weight: 422,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:51:47",
+    name: "Rochelle Clunie",
+    weight: 476,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:52:16",
+    name: "Rochelle Clunie",
+    weight: 184,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:52:57",
+    name: "Rochelle Clunie",
+    weight: 394,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:53:32",
+    name: "Rochelle Clunie",
+    weight: 573,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:54:15",
+    name: "Rochelle Clunie",
+    weight: 86,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:54:37",
+    name: "Rochelle Clunie",
+    weight: 13,
+    category: "Cleaning Supplies",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-26 14:55:09",
+    name: "Rochelle Clunie",
+    weight: 58,
+    category: "Cleaning Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-28 11:48:25",
+    name: "Chi Chi",
+    weight: 29,
+    category: "Canned Goods",
+    distributor: "Other",
+  },
+  {
+    date: "2023-11-30 15:05:24",
+    name: "Beverly Pinn",
+    weight: 465,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-30 15:05:53",
+    name: "Beverly Pinn",
+    weight: 472,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-30 15:06:27",
+    name: "Beverly Pinn",
+    weight: 422,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-30 15:07:04",
+    name: "Beverly Pinn",
+    weight: 460,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-11-30 15:07:35",
+    name: "Beverly Pinn",
+    weight: 429,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-01 15:36:45",
+    name: "Rochelle Clunie",
+    weight: 304,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-01 15:37:13",
+    name: "Rochelle Clunie",
+    weight: 159,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-01 15:38:03",
+    name: "Rochelle Clunie",
+    weight: 269,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-03 11:39:15",
+    name: "Rochelle Clunie",
+    weight: 547,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 11:39:45",
+    name: "Rochelle Clunie",
+    weight: 362,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 11:41:47",
+    name: "Rochelle Clunie",
+    weight: 830,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 11:43:13",
+    name: "Rochelle Clunie",
+    weight: 178,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 11:48:20",
+    name: "Rochelle Clunie",
+    weight: 197,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 11:49:45",
+    name: "Rochelle Clunie",
+    weight: 668,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-03 12:37:29",
+    name: "Rochelle Clunie",
+    weight: 36,
+    category: "Baby Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-05 11:54:57",
+    name: "Chi Chi",
+    weight: 25628.0,
+    category: "Dairy",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-05 11:56:06",
+    name: "Chi Chi",
+    weight: 28206,
+    category: "Dairy",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-06 16:04:09",
+    name: "Rochelle Clunie",
+    weight: 164,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:05:02",
+    name: "Rochelle Clunie",
+    weight: 943,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:05:39",
+    name: "Rochelle Clunie",
+    weight: 1072,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:07:01",
+    name: "Rochelle Clunie",
+    weight: 1340,
+    category: "Canned Goods",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:07:47",
+    name: "Rochelle Clunie",
+    weight: 664,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:08:43",
+    name: "Rochelle Clunie",
+    weight: 164,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:09:15",
+    name: "Rochelle Clunie",
+    weight: 209,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-06 16:10:28",
+    name: "Rochelle Clunie",
+    weight: 149,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-06 16:15:36",
+    name: "Rochelle Clunie",
+    weight: 2369,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:16:43",
+    name: "Rochelle Clunie",
+    weight: 1994,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:17:21",
+    name: "Rochelle Clunie",
+    weight: 2398,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:18:19",
+    name: "Rochelle Clunie",
+    weight: 2398,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:19:06",
+    name: "Rochelle Clunie",
+    weight: 2400,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:20:06",
+    name: "Rochelle Clunie",
+    weight: 246,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:20:49",
+    name: "Rochelle Clunie",
+    weight: 117,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-06 16:21:21",
+    name: "Rochelle Clunie",
+    weight: 2425,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-10 12:57:19",
+    name: "Other",
+    weight: 78,
+    category: "Cleaning Supplies",
+    distributor: "Sandtown",
+  },
+  {
+    date: "2023-12-10 14:15:25",
+    name: "Rochelle Clunie",
+    weight: 364,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-10 14:16:32",
+    name: "Rochelle Clunie",
+    weight: 339,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-10 14:17:34",
+    name: "Rochelle Clunie",
+    weight: 78,
+    category: "Cleaning Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-12 15:16:47",
+    name: "Rochelle Clunie",
+    weight: 283,
+    category: "Grains (rice, pasta, etc.)",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-12 15:17:17",
+    name: "Rochelle Clunie",
+    weight: 1259,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-12 15:17:48",
+    name: "Rochelle Clunie",
+    weight: 2669,
+    category: "Canned Goods",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-13 13:49:31",
+    name: "Rochelle Clunie",
+    weight: 40000,
+    category: "Cleaning Supplies",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-14 15:12:30",
+    name: "Rochelle Clunie",
+    weight: 147,
+    category: "Produce",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-19 12:43:46",
+    name: "Rochelle Clunie",
+    weight: 698,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:45:19",
+    name: "Rochelle Clunie",
+    weight: 415,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:45:55",
+    name: "Rochelle Clunie",
+    weight: 385,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:46:55",
+    name: "Rochelle Clunie",
+    weight: 388,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:47:35",
+    name: "Rochelle Clunie",
+    weight: 27,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:49:01",
+    name: "Rochelle Clunie",
+    weight: 84,
+    category: "Personal Care",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-19 12:49:50",
+    name: "Rochelle Clunie",
+    weight: 168,
+    category: "Snacks",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-19 12:50:40",
+    name: "Rochelle Clunie",
+    weight: 630,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-19 12:51:23",
+    name: "Rochelle Clunie",
+    weight: 400,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-21 10:19:51",
+    name: "Rochelle Clunie",
+    weight: 202,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-21 10:20:33",
+    name: "Rochelle Clunie",
+    weight: 2640,
+    category: "Produce",
+    distributor: "First Fruits Farm",
+  },
+  {
+    date: "2023-12-21 15:48:49",
+    name: "Rochelle Clunie",
+    weight: 794,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 15:49:52",
+    name: "Rochelle Clunie",
+    weight: 1145,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 15:51:04",
+    name: "Rochelle Clunie",
+    weight: 980,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 15:53:51",
+    name: "Rochelle Clunie",
+    weight: 1283,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 15:57:26",
+    name: "Rochelle Clunie",
+    weight: 1123,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:00:55",
+    name: "Rochelle Clunie",
+    weight: 1123,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:01:41",
+    name: "Rochelle Clunie",
+    weight: 1146,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:07:51",
+    name: "Rochelle Clunie",
+    weight: 1408,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:08:33",
+    name: "Rochelle Clunie",
+    weight: 1409,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:09:31",
+    name: "Rochelle Clunie",
+    weight: 1410,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-21 16:11:41",
+    name: "Rochelle Clunie",
+    weight: 77,
+    category: "Produce",
+    distributor: "Jack and Sudznos",
+  },
+  {
+    date: "2023-12-23 14:07:29",
+    name: "Beverly Pinn",
+    weight: 34263,
+    category: "Danone - Creamer",
+    distributor: "Other",
+  },
+  {
+    date: "2023-12-23 15:00:00",
+    name: "Beverly Pinn",
+    weight: 30000,
+    category: "Produce",
+    distributor: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-12-23 15:00:33",
+    name: "Beverly Pinn",
+    weight: 924,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:02:03",
+    name: "Beverly Pinn",
+    weight: 558,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:02:40",
+    name: "Beverly Pinn",
+    weight: 624,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:03:10",
+    name: "Beverly Pinn",
+    weight: 241,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:04:02",
+    name: "Beverly Pinn",
+    weight: 686,
+    category: "Snacks",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:05:08",
+    name: "Beverly Pinn",
+    weight: 824,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:05:38",
+    name: "Beverly Pinn",
+    weight: 917,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:06:08",
+    name: "Beverly Pinn",
+    weight: 528,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:06:43",
+    name: "Beverly Pinn",
+    weight: 760,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:07:17",
+    name: "Beverly Pinn",
+    weight: 1326,
+    category: "Assorted Dry",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-23 15:07:57",
+    name: "Beverly Pinn",
+    weight: 1070,
+    category: "Drinks [Dry]",
+    distributor: "EMD",
+  },
+  {
+    date: "2023-12-27 09:59:55",
+    name: "JC",
+    weight: 401,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:00:27",
+    name: "JC",
+    weight: 414,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:00:53",
+    name: "JC",
+    weight: 503,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:01:23",
+    name: "JC",
+    weight: 684,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:01:51",
+    name: "JC",
+    weight: 434,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:02:20",
+    name: "JC",
+    weight: 339,
+    category: "Produce",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-27 10:02:52",
+    name: "JC",
+    weight: 206,
+    category: "Snacks",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-31 14:31:17",
+    name: "Rochelle Clunie",
+    weight: 680,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-31 14:32:00",
+    name: "Rochelle Clunie",
+    weight: 584,
+    category: "Assorted Fridge",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-31 14:32:32",
+    name: "Rochelle Clunie",
+    weight: 428,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-12-31 14:33:12",
+    name: "Rochelle Clunie",
+    weight: 414,
+    category: "Assorted Dry",
+    distributor: "Amazon",
+  },
+  {
+    date: "2023-08-15 00:00:00",
+    name: "JC",
+    weight: 40571,
+    category: "Dole - Fruit Cups",
+    distributor: "Dole",
+  },
 ];
+// imports
 
 export const exportsList = [
   {
@@ -16968,28 +20273,44 @@ export const exportsList = [
     name: "JC",
     weight: 660,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-07 00:00:00",
     name: "JC",
     weight: 520,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-07 00:00:00",
     name: "JC",
     weight: 646,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-07 00:00:00",
     name: "JC",
     weight: 437,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-07 00:00:00",
@@ -17192,105 +20513,165 @@ export const exportsList = [
     name: "Ausar",
     weight: 1544,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:32:14.048000",
     name: "Ausar",
     weight: 424,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:32:33.021000",
     name: "Ausar",
     weight: 65,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:33:10.860000",
     name: "Ausar",
     weight: 765,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:33:35.259000",
     name: "Ausar",
     weight: 529,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:33:53.197000",
     name: "Ausar",
     weight: 722,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:34:51.399000",
     name: "Ausar",
     weight: 920,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:35:33.433000",
     name: "Ausar",
     weight: 821,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:35:53.469000",
     name: "Ausar",
     weight: 363,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:36:16.287000",
     name: "Ausar",
     weight: 2198,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:36:39.422000",
     name: "Ausar",
     weight: 870,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:37:59.054000",
     name: "Ausar",
     weight: 1010,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:38:26.127000",
     name: "Ausar",
     weight: 907,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:38:45.210000",
     name: "Ausar",
     weight: 821,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-15 16:39:01.583000",
     name: "Ausar",
     weight: 1057,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-16 14:20:00.826000",
@@ -17444,77 +20825,121 @@ export const exportsList = [
     name: "Emily Stucke",
     weight: 732,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:07:06.468000",
     name: "Emily Stucke",
     weight: 1491,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:07:25.093000",
     name: "Emily Stucke",
     weight: 1038,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:07:44.008000",
     name: "Emily Stucke",
     weight: 221,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:08:15.142000",
     name: "Emily Stucke",
     weight: 266,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:08:47.602000",
     name: "Emily Stucke",
     weight: 880,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:09:18.569000",
     name: "Emily Stucke",
     weight: 861,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:10:48.713000",
     name: "Emily Stucke",
     weight: 821,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:11:16.404000",
     name: "Emily Stucke",
     weight: 874,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:11:30.710000",
     name: "Emily Stucke",
     weight: 459,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:12:02.028000",
     name: "Emily Stucke",
     weight: 1829,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 13:12:51.395000",
@@ -17563,35 +20988,55 @@ export const exportsList = [
     name: "Ausar",
     weight: 807,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 15:21:37.328000",
     name: "Ausar",
     weight: 874,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 15:22:07.121000",
     name: "Ausar",
     weight: 382,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 15:24:47.914000",
     name: "Ausar",
     weight: 894,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-22 15:25:05.269000",
     name: "Ausar",
     weight: 405,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-23 12:35:11.190000",
@@ -17871,154 +21316,242 @@ export const exportsList = [
     name: "Clarice",
     weight: 2316,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 12:33:01.294000",
     name: "Clarice",
     weight: 1642,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 12:37:28.942000",
     name: "Clarice",
     weight: 1570,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 12:41:39.150000",
     name: "Clarice",
     weight: 862,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 12:43:39.081000",
     name: "Clarice",
     weight: 869,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 12:47:43.022000",
     name: "Clarice",
     weight: 960,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:21:38.421000",
     name: "Clarice",
     weight: 321,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:22:24.764000",
     name: "Clarice",
     weight: 465,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:23:42.779000",
     name: "Clarice",
     weight: 465,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:27:13.437000",
     name: "Clarice",
     weight: 440,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:28:15.469000",
     name: "Clarice",
     weight: 470,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:29:07.468000",
     name: "Clarice",
     weight: 1271,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:37:00.160000",
     name: "Clarice",
     weight: 730,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:47:47.577000",
     name: "Clarice",
     weight: 265,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 13:53:36.484000",
     name: "Clarice",
     weight: 761,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:44:00.074000",
     name: "Clarice",
     weight: 715,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:44:37.853000",
     name: "Clarice",
     weight: 201,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:45:56.772000",
     name: "Clarice",
     weight: 623,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:46:30.346000",
     name: "Clarice",
     weight: 961,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:47:05.841000",
     name: "Clarice",
     weight: 552,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:47:32.589000",
     name: "Clarice",
     weight: 377,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-29 15:48:05.431000",
     name: "Clarice",
     weight: 501,
     category: "Danone - Plant Based Drink",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-01-30 12:58:40.290000",
@@ -18529,56 +22062,88 @@ export const exportsList = [
     name: "Emily Stucke",
     weight: 1452,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:08:15.681000",
     name: "Emily Stucke",
     weight: 1462,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:08:32.191000",
     name: "Emily Stucke",
     weight: 2159,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:08:52.333000",
     name: "Emily Stucke",
     weight: 988,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:09:07.574000",
     name: "Emily Stucke",
     weight: 843,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:09:24.842000",
     name: "Emily Stucke",
     weight: 905,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:09:43.578000",
     name: "Emily Stucke",
     weight: 945,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:09:58.718000",
     name: "Emily Stucke",
     weight: 843,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:10:34.829000",
@@ -18592,63 +22157,99 @@ export const exportsList = [
     name: "Emily Stucke",
     weight: 204,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:11:19.577000",
     name: "Emily Stucke",
     weight: 279,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:20:30.686000",
     name: "Emily Stucke",
     weight: 1480,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:29:25.479000",
     name: "Emily Stucke",
     weight: 2154,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:35:53.956000",
     name: "Emily Stucke",
     weight: 850,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 13:43:04.726000",
     name: "Emily Stucke",
     weight: 886,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 16:22:36.106000",
     name: "Emily Stucke",
     weight: 1645,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 16:22:51.787000",
     name: "Emily Stucke",
     weight: 2160,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-05 16:23:06.028000",
     name: "Emily Stucke",
     weight: 207,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-06 15:56:17.031000",
@@ -19271,49 +22872,77 @@ export const exportsList = [
     name: "JC",
     weight: 629,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:14:26.648000",
     name: "JC",
     weight: 2093,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:14:58.506000",
     name: "JC",
     weight: 134,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:15:15.620000",
     name: "JC",
     weight: 320,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:15:33.287000",
     name: "JC",
     weight: 2309,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:15:56.962000",
     name: "JC",
     weight: 1454,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-11 17:18:41.673000",
     name: "JC",
     weight: 4640,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 13:13:02.510000",
@@ -19334,7 +22963,11 @@ export const exportsList = [
     name: "JC",
     weight: 2083,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 13:15:44.681000",
@@ -19355,84 +22988,132 @@ export const exportsList = [
     name: "JC",
     weight: 1054,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 13:17:00.690000",
     name: "JC",
     weight: 1182,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 13:30:52.615000",
     name: "Sara B",
     weight: 1466,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:47:58.241000",
     name: "JC",
     weight: 649,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:48:29.073000",
     name: "JC",
     weight: 1141,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:48:53.155000",
     name: "JC",
     weight: 2045,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:49:54.863000",
     name: "JC",
     weight: 1470,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:50:15.486000",
     name: "JC",
     weight: 1064,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 16:50:53.365000",
     name: "JC",
     weight: 101,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 17:08:34.820000",
     name: "Ausar",
     weight: 245,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 17:09:00.575000",
     name: "Ausar",
     weight: 1202,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-12 17:10:09.957000",
     name: "Ausar",
     weight: 1480,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-13 12:20:49.735000",
@@ -19761,84 +23442,132 @@ export const exportsList = [
     name: "Marci Yankelov",
     weight: 1449,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:08:35.659000",
     name: "Marci Yankelov",
     weight: 1444,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:09:01.765000",
     name: "Marci Yankelov",
     weight: 354,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:09:28.833000",
     name: "Marci Yankelov",
     weight: 564,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:09:51.930000",
     name: "Marci Yankelov",
     weight: 1297,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:10:20.804000",
     name: "Marci Yankelov",
     weight: 843,
     category: "Spices",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:10:52.373000",
     name: "Marci Yankelov",
     weight: 193,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:11:29.917000",
     name: "Marci Yankelov",
     weight: 1747,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:12:18.728000",
     name: "Marci Yankelov",
     weight: 2010,
     category: "Danone - Plant Based Drink",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:12:38.435000",
     name: "Marci Yankelov",
     weight: 1868,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:13:05.885000",
     name: "Marci Yankelov",
     weight: 218,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:13:23.015000",
     name: "Marci Yankelov",
     weight: 82,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:14:09.084000",
@@ -19894,63 +23623,99 @@ export const exportsList = [
     name: "Marci Yankelov",
     weight: 2021,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:19:53.063000",
     name: "Marci Yankelov",
     weight: 2915,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:20:13.072000",
     name: "Marci Yankelov",
     weight: 1778,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:20:41.186000",
     name: "Marci Yankelov",
     weight: 845,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:21:04.027000",
     name: "Marci Yankelov",
     weight: 836,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:21:22.206000",
     name: "Marci Yankelov",
     weight: 124,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:21:59.948000",
     name: "Marci Yankelov",
     weight: 808,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:22:21.205000",
     name: "Marci Yankelov",
     weight: 861,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-19 15:22:37.767000",
     name: "Marci Yankelov",
     weight: 900,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-20 15:21:57.467000",
@@ -20216,84 +23981,132 @@ export const exportsList = [
     name: "Taja Keitt",
     weight: 677,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:39:05.838000",
     name: "Taja Keitt",
     weight: 671,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:39:33.280000",
     name: "Taja Keitt",
     weight: 723,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:39:50.354000",
     name: "Iyana Gross",
     weight: 1449,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:40:19.123000",
     name: "Iyana Gross",
     weight: 1450,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:40:32.281000",
     name: "Taja Keitt",
     weight: 772,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:40:47.322000",
     name: "Taja Keitt",
     weight: 2184,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:41:05.810000",
     name: "Iyana Gross",
     weight: 895,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:43:02.902000",
     name: "Iyana Gross",
     weight: 764,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:43:23.058000",
     name: "Taja Keitt",
     weight: 2402,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:43:36.665000",
     name: "Taja Keitt",
     weight: 807,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:45:57.451000",
     name: "Taja Keitt",
     weight: 905,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 12:55:51.666000",
@@ -20335,28 +24148,44 @@ export const exportsList = [
     name: "Iyana Gross",
     weight: 526,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 16:57:38.344000",
     name: "Ausar",
     weight: 512,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 16:57:57.862000",
     name: "Ausar",
     weight: 577,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-26 16:58:39.402000",
     name: "Ausar",
     weight: 312,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-02-27 13:46:56.560000",
@@ -20629,56 +24458,88 @@ export const exportsList = [
     name: "Ausar",
     weight: 1735,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:37:54.710000",
     name: "Ausar",
     weight: 2116,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:38:31.547000",
     name: "Ausar",
     weight: 1465,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:39:02.934000",
     name: "Ausar",
     weight: 1500,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:39:55.008000",
     name: "Ausar",
     weight: 1116,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:40:17.804000",
     name: "Ausar",
     weight: 314,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:53:11.616000",
     name: "Ausar",
     weight: 1380,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:54:55.336000",
     name: "Ausar",
     weight: 700,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 12:56:37.079000",
@@ -20706,14 +24567,22 @@ export const exportsList = [
     name: "Ausar",
     weight: 1217,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 13:07:39.868000",
     name: "Ausar",
     weight: 125,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 13:15:40.175000",
@@ -20734,91 +24603,143 @@ export const exportsList = [
     name: "Ausar",
     weight: 2247,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:17:25.491000",
     name: "Ausar",
     weight: 703,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:18:01.683000",
     name: "Ausar",
     weight: 710,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:18:38.422000",
     name: "Ausar",
     weight: 710,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:18:59.048000",
     name: "Ausar",
     weight: 764,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:19:44.688000",
     name: "Ausar",
     weight: 704,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 14:20:25.198000",
     name: "Ausar",
     weight: 790,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:51:39.560000",
     name: "JC",
     weight: 519,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:52:11.520000",
     name: "JC",
     weight: 298,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:53:07.252000",
     name: "JC",
     weight: 2445,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:53:44.351000",
     name: "JC",
     weight: 249,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:54:22.795000",
     name: "JC",
     weight: 125,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-05 16:54:57.114000",
     name: "JC",
     weight: 311,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-06 13:02:04.220000",
@@ -21035,70 +24956,110 @@ export const exportsList = [
     name: "JC",
     weight: 829,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:38:21.555000",
     name: "JC",
     weight: 818,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:38:39.806000",
     name: "JC",
     weight: 819,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:38:55.035000",
     name: "JC",
     weight: 820,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:39:28.476000",
     name: "JC",
     weight: 846,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:39:44.364000",
     name: "JC",
     weight: 817,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:40:12.463000",
     name: "JC",
     weight: 1502,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:40:35.749000",
     name: "JC",
     weight: 1585,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:41:01.016000",
     name: "JC",
     weight: 1522,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:41:16.486000",
     name: "JC",
     weight: 2311,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 11:43:59.070000",
@@ -21112,56 +25073,88 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 908,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 12:31:31.035000",
     name: "Torey Wilkins",
     weight: 1462,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 12:33:27.469000",
     name: "Torey Wilkins",
     weight: 569,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 12:38:37.517000",
     name: "Torey Wilkins",
     weight: 903,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 12:42:39.397000",
     name: "Torey Wilkins",
     weight: 1775,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 13:26:12.774000",
     name: "Torey Wilkins",
     weight: 708,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 14:57:30.018000",
     name: "Torey Wilkins",
     weight: 2144,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-12 15:36:47.175000",
     name: "Torey Wilkins",
     weight: 1364,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-13 14:41:56.118000",
@@ -21504,7 +25497,11 @@ export const exportsList = [
     name: "Melissa Thomas",
     weight: 656,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:46:28.716000",
@@ -21532,126 +25529,198 @@ export const exportsList = [
     name: "Melissa Thomas",
     weight: 774,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:50:19.685000",
     name: "Melissa Thomas",
     weight: 924,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:51:52.178000",
     name: "Melissa Thomas",
     weight: 679,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:52:54.068000",
     name: "Melissa Thomas",
     weight: 674,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:54:15.952000",
     name: "Melissa Thomas",
     weight: 2134,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:55:19.723000",
     name: "Melissa Thomas",
     weight: 2140,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:55:53.397000",
     name: "Melissa Thomas",
     weight: 149,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:57:19.745000",
     name: "Melissa Thomas",
     weight: 1857,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 13:58:26.292000",
     name: "Melissa Thomas",
     weight: 1145,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 14:01:36.652000",
     name: "Melissa Thomas",
     weight: 1129,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 14:04:11.638000",
     name: "Melissa Thomas",
     weight: 2176,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:34:16.441000",
     name: "JC",
     weight: 2126,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:35:08.826000",
     name: "JC",
     weight: 998,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:35:28.821000",
     name: "JC",
     weight: 408,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:35:52.360000",
     name: "JC",
     weight: 2150,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:36:11.391000",
     name: "JC",
     weight: 548,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:36:53.759000",
     name: "JC",
     weight: 1428,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-19 16:37:14.040000",
     name: "JC",
     weight: 341,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-20 13:18:26.295000",
@@ -21686,7 +25755,11 @@ export const exportsList = [
     name: "Torey Wilkins",
     weight: 1667,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-20 16:31:59.605000",
@@ -21861,98 +25934,154 @@ export const exportsList = [
     name: "Kyla",
     weight: 358,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:38:42.006000",
     name: "Kyla",
     weight: 2151,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:40:44.438000",
     name: "Kyla",
     weight: 2025,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:41:15.267000",
     name: "Kyla",
     weight: 1036,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:41:46.395000",
     name: "Nakia",
     weight: 276,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:43:09.566000",
     name: "Kyla",
     weight: 1907,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:44:00.604000",
     name: "Nakia",
     weight: 680,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:44:19.196000",
     name: "Kyla",
     weight: 651,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:44:30.556000",
     name: "Nakia",
     weight: 690,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:44:49.377000",
     name: "Kyla",
     weight: 663,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:45:04.043000",
     name: "Nakia",
     weight: 715,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:45:19.533000",
     name: "Kyla",
     weight: 679,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:46:27.669000",
     name: "Nakia",
     weight: 1192,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:46:47.585000",
     name: "Nakia",
     weight: 620,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:46:48.480000",
@@ -21966,7 +26095,11 @@ export const exportsList = [
     name: "Nakia",
     weight: 1178,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:47:11.504000",
@@ -21994,70 +26127,110 @@ export const exportsList = [
     name: "Kyla",
     weight: 660,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:49:49.832000",
     name: "Nakia",
     weight: 2049,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:50:28.884000",
     name: "Kyla",
     weight: 690,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:50:44.947000",
     name: "Nakia",
     weight: 651,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:51:15.917000",
     name: "Kyla",
     weight: 715,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:52:01.392000",
     name: "Nakia",
     weight: 1372,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 14:52:05.966000",
     name: "Kyla",
     weight: 2118,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 16:58:43.157000",
     name: "Ausar",
     weight: 2118,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 16:59:14.909000",
     name: "Ausar",
     weight: 634,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-26 16:59:48.032000",
     name: "Ausar",
     weight: 1372,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-03-27 12:52:30.011000",
@@ -22288,42 +26461,66 @@ export const exportsList = [
     name: "Other",
     weight: 807,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:26:56.584000",
     name: "Other",
     weight: 1249,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:27:20.443000",
     name: "Other",
     weight: 630,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:27:51.483000",
     name: "Other",
     weight: 325,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:28:10.619000",
     name: "Other",
     weight: 386,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:28:30.706000",
     name: "Other",
     weight: 313,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:30:30.328000",
@@ -22337,77 +26534,121 @@ export const exportsList = [
     name: "Other",
     weight: 905,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:31:32.113000",
     name: "Other",
     weight: 986,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:31:58.789000",
     name: "Other",
     weight: 981,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:32:19.600000",
     name: "Other",
     weight: 971,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-02 12:32:38.566000",
     name: "Other",
     weight: 945,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 12:40:28.515000",
     name: "Ausar",
     weight: 1443,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 12:59:19.493000",
     name: "Other",
     weight: 1249,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 13:00:21.834000",
     name: "Other",
     weight: 201,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 13:01:19.434000",
     name: "Monah Perry",
     weight: 2561,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 13:01:53.414000",
     name: "Monah Perry",
     weight: 661,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 13:02:32.509000",
     name: "Monah Perry",
     weight: 137,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-03 13:03:31.994000",
@@ -22582,70 +26823,110 @@ export const exportsList = [
     name: "Dean Chien",
     weight: 232,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 13:29:57.528000",
     name: "Dean Chien",
     weight: 373,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:10:40.351000",
     name: "Dean Chien",
     weight: 107,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:15:02.373000",
     name: "Dean Chien",
     weight: 582,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:20:53.927000",
     name: "Dean Chien",
     weight: 753,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:24:14.049000",
     name: "Dean Chien",
     weight: 568,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:27:32.374000",
     name: "Dean Chien",
     weight: 206,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:30:44.784000",
     name: "Dean Chien",
     weight: 703,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:33:01.538000",
     name: "Dean Chien",
     weight: 247,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-09 16:37:33.570000",
     name: "Dean Chien",
     weight: 338,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-10 13:54:54.682000",
@@ -22778,21 +27059,33 @@ export const exportsList = [
     name: "Ausar",
     weight: 472,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:51:08.430000",
     name: "Ausar",
     weight: 382,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:51:43.231000",
     name: "Ausar",
     weight: 646,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:52:30.017000",
@@ -22806,70 +27099,110 @@ export const exportsList = [
     name: "Ausar",
     weight: 1336,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:53:22.564000",
     name: "Ausar",
     weight: 843,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:53:46.205000",
     name: "Ausar",
     weight: 1283,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:54:25.219000",
     name: "Ausar",
     weight: 576,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:54:43.497000",
     name: "Ausar",
     weight: 616,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:55:07.801000",
     name: "Ausar",
     weight: 551,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:55:35.272000",
     name: "Ausar",
     weight: 570,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:55:58.903000",
     name: "Ausar",
     weight: 525,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:56:27.437000",
     name: "Ausar",
     weight: 572,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-13 19:57:13.188000",
     name: "Ausar",
     weight: 1744,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-14 13:07:48.900000",
@@ -22946,266 +27279,418 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 582,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:29:09.999000",
     name: "Deborah Claridy",
     weight: 668,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:31:41.814000",
     name: "Deborah Claridy",
     weight: 715,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:32:19.804000",
     name: "Deborah Claridy",
     weight: 731,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:33:03.299000",
     name: "Deborah Claridy",
     weight: 679,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:34:06.725000",
     name: "Deborah Claridy",
     weight: 128,
     category: "Spices",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:35:11.716000",
     name: "Deborah Claridy",
     weight: 1482,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:35:56.552000",
     name: "Deborah Claridy",
     weight: 639,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:39:11.303000",
     name: "Deborah Claridy",
     weight: 636,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:42:12.049000",
     name: "Deborah Claridy",
     weight: 415,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:43:12.441000",
     name: "Deborah Claridy",
     weight: 376,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:49:45.146000",
     name: "Deborah Claridy",
     weight: 604,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 12:55:36.919000",
     name: "Deborah Claridy",
     weight: 667,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:02:22.058000",
     name: "Deborah Claridy",
     weight: 722,
     category: "Danone - Plant Based Drink",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:05:50.325000",
     name: "Deborah Claridy",
     weight: 1051,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:12:52.901000",
     name: "Deborah Claridy",
     weight: 917,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:21:28.758000",
     name: "Deborah Claridy",
     weight: 276,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:25:38.057000",
     name: "Deborah Claridy",
     weight: 904,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:32:16.462000",
     name: "Deborah Claridy",
     weight: 1088,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 13:41:34.363000",
     name: "Deborah Claridy",
     weight: 155,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:40:54.371000",
     name: "Ausar",
     weight: 281,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:41:36.383000",
     name: "Ausar",
     weight: 165,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:42:02.224000",
     name: "Ausar",
     weight: 290,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:42:32.401000",
     name: "Ausar",
     weight: 142,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:43:05.059000",
     name: "Ausar",
     weight: 470,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:43:46.094000",
     name: "Ausar",
     weight: 495,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:44:32.625000",
     name: "Ausar",
     weight: 15,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:45:42.262000",
     name: "Ausar",
     weight: 663,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:46:24.857000",
     name: "Ausar",
     weight: 407,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:46:51.655000",
     name: "Ausar",
     weight: 423,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:48:21.703000",
     name: "Ausar",
     weight: 611,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:48:52.897000",
     name: "Ausar",
     weight: 635,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:50:08.897000",
     name: "Ausar",
     weight: 821,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:50:56.533000",
     name: "Ausar",
     weight: 69,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:51:55.062000",
     name: "Ausar",
     weight: 363,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:53:16.090000",
     name: "Ausar",
     weight: 134,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:53:48.677000",
     name: "Ausar",
     weight: 77,
     category: "Spices",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 16:54:54.589000",
     name: "Ausar",
     weight: 727,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-16 21:16:11.038000",
@@ -23429,203 +27914,319 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 923,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:22:35.231000",
     name: "Deborah Claridy",
     weight: 924,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:23:27.912000",
     name: "Deborah Claridy",
     weight: 944,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:24:48.474000",
     name: "Deborah Claridy",
     weight: 614,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:25:22.989000",
     name: "Deborah Claridy",
     weight: 179,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:29:36.986000",
     name: "Deborah Claridy",
     weight: 419,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:32:51.308000",
     name: "Deborah Claridy",
     weight: 801,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:35:03.582000",
     name: "Deborah Claridy",
     weight: 195,
     category: "Spices",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:37:35.360000",
     name: "Deborah Claridy",
     weight: 640,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 12:41:27.946000",
     name: "Deborah Claridy",
     weight: 1070,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 13:43:41.103000",
     name: "Deborah Claridy",
     weight: 271,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 13:49:03.155000",
     name: "Dorja",
     weight: 551,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 13:51:59.272000",
     name: "Dorja",
     weight: 698,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:22:11.568000",
     name: "Dorja",
     weight: 218,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:24:00.949000",
     name: "Dorja",
     weight: 276,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:27:31.581000",
     name: "Dorja",
     weight: 107,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:29:40.887000",
     name: "Dorja",
     weight: 31,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:35:56.292000",
     name: "Dorja",
     weight: 217,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:41:19.415000",
     name: "Judy",
     weight: 359,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:42:49.712000",
     name: "Dorja",
     weight: 480,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:44:49.161000",
     name: "Dorja",
     weight: 91,
     category: "Spices",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 16:48:38.171000",
     name: "Dorja",
     weight: 192,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:27:33.146000",
     name: "Ausar",
     weight: 168,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:27:49.247000",
     name: "Ausar",
     weight: 243,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:28:07.592000",
     name: "Ausar",
     weight: 41,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:28:33.538000",
     name: "Ausar",
     weight: 160,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:28:50.513000",
     name: "Ausar",
     weight: 476,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:29:13.041000",
     name: "Ausar",
     weight: 193,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-23 19:29:34.252000",
     name: "Ausar",
     weight: 651,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-24 12:25:36.061000",
@@ -23793,175 +28394,275 @@ export const exportsList = [
     name: "Ausar",
     weight: 858,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:14:14.842000",
     name: "Ausar",
     weight: 388,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:14:43.161000",
     name: "Ausar",
     weight: 810,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:15:15.051000",
     name: "Ausar",
     weight: 359,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:15:40.260000",
     name: "Ausar",
     weight: 790,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:16:12.028000",
     name: "Ausar",
     weight: 411,
     category: "Spices",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:16:44.904000",
     name: "Ausar",
     weight: 199,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:18:33.419000",
     name: "Ausar",
     weight: 3945,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:19:02.056000",
     name: "Ausar",
     weight: 1576,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:19:47.140000",
     name: "Ausar",
     weight: 1378,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:20:17.456000",
     name: "Ausar",
     weight: 609,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:21:10.844000",
     name: "Ausar",
     weight: 1024,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:21:55.327000",
     name: "Ausar",
     weight: 61,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:23:06.819000",
     name: "Ausar",
     weight: 272,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:23:35.351000",
     name: "Ausar",
     weight: 603,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:23:56.950000",
     name: "Ausar",
     weight: 809,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:24:26.212000",
     name: "Ausar",
     weight: 809,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:24:42.760000",
     name: "Ausar",
     weight: 809,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:25:01.381000",
     name: "Ausar",
     weight: 70,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:25:44.937000",
     name: "Ausar",
     weight: 596,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:26:13.526000",
     name: "Ausar",
     weight: 559,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:26:49.044000",
     name: "Ausar",
     weight: 565,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:27:26.812000",
     name: "Ausar",
     weight: 163,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:28:07.046000",
     name: "Ausar",
     weight: 595,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-04-30 18:28:44.053000",
     name: "Ausar",
     weight: 159,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-01 12:13:08.778000",
@@ -24199,140 +28900,220 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 904,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:10:29.393000",
     name: "Deborah Claridy",
     weight: 562,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 267,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:16:21.345000",
     name: "Deborah Claridy",
     weight: 921,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:19:33.888000",
     name: "Deborah Claridy",
     weight: 506,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:23:11.995000",
     name: "Deborah Claridy",
     weight: 451,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 296,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:25:59.794000",
     name: "Deborah Claridy",
     weight: 543,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 518,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 12:29:55.288000",
     name: "Deborah Claridy",
     weight: 795,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 325,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 13:25:46.251000",
     name: "Deborah Claridy",
     weight: 574,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 13:26:19.065000",
     name: "Deborah Claridy",
     weight: 373,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 13:26:53.296000",
     name: "Deborah Claridy",
     weight: 748,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 426,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 13:34:08.680000",
     name: "Juanita Chandler",
     weight: 714,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 13:54:22.977000",
     name: "Juanita Chandler",
     weight: 1223,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 269,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 261,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-07 00:00:00",
     name: "Claire",
     weight: 403,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-08 13:30:26.573000",
@@ -24542,168 +29323,264 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 563,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 11:47:46.330000",
     name: "Vincent Faulk",
     weight: 146,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 11:48:20.760000",
     name: "Vincent Faulk",
     weight: 378,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 11:49:08.834000",
     name: "Vincent Faulk",
     weight: 631,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:09:34.912000",
     name: "Deborah Claridy",
     weight: 894,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:10:46.407000",
     name: "Deborah Claridy",
     weight: 631,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:11:26.158000",
     name: "Deborah Claridy",
     weight: 168,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:14:04.225000",
     name: "Deborah Claridy",
     weight: 781,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:19:50.442000",
     name: "Deborah Claridy",
     weight: 1442,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:25:43.524000",
     name: "Deborah Claridy",
     weight: 709,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:29:16.480000",
     name: "Deborah Claridy",
     weight: 709,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:33:28.452000",
     name: "Deborah Claridy",
     weight: 166,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:56:15.068000",
     name: "Deborah Claridy",
     weight: 385,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:57:14.280000",
     name: "Deborah Claridy",
     weight: 280,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 12:57:47.693000",
     name: "Deborah Claridy",
     weight: 173,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:04:05.133000",
     name: "Deborah Claridy",
     weight: 185,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:04:55.259000",
     name: "Deborah Claridy",
     weight: 442,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:07:15.268000",
     name: "Deborah Claridy",
     weight: 279,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:07:58.742000",
     name: "Deborah Claridy",
     weight: 461,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:09:36.742000",
     name: "Deborah Claridy",
     weight: 312,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:24:21.923000",
     name: "Deborah Claridy",
     weight: 1442,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:26:47.052000",
     name: "Deborah Claridy",
     weight: 514,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:30:29.320000",
     name: "Deborah Claridy",
     weight: 188,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 16:33:11.623000",
     name: "Deborah Claridy",
     weight: 116,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-14 17:19:14.885000",
@@ -24913,84 +29790,132 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 243,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:14:26.330000",
     name: "Deborah Claridy",
     weight: 319,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:16:22.216000",
     name: "Deborah Claridy",
     weight: 1160,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:20:31.268000",
     name: "Deborah Claridy",
     weight: 1000,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:23:20.539000",
     name: "Deborah Claridy",
     weight: 926,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:27:39.220000",
     name: "Deborah Claridy",
     weight: 151,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:28:34.331000",
     name: "Deborah Claridy",
     weight: 243,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:34:27.974000",
     name: "Deborah Claridy",
     weight: 370,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:40:10.500000",
     name: "Deborah Claridy",
     weight: 253,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:42:45.492000",
     name: "Deborah Claridy",
     weight: 423,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:45:44.886000",
     name: "Deborah Claridy",
     weight: 192,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:55:26.686000",
     name: "Deborah Claridy",
     weight: 281,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 12:56:56.586000",
@@ -25004,77 +29929,121 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 385,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 13:39:45.677000",
     name: "Deborah Claridy",
     weight: 389,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 13:43:25.290000",
     name: "Deborah Claridy",
     weight: 410,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 13:48:32.640000",
     name: "Deborah Claridy",
     weight: 89,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:25:27.897000",
     name: "Vincent Faulk",
     weight: 165,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:26:18.345000",
     name: "Vincent Faulk",
     weight: 980,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:27:02.015000",
     name: "Vincent Faulk",
     weight: 281,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:27:37.413000",
     name: "Vincent Faulk",
     weight: 838,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:28:11.607000",
     name: "Vincent Faulk",
     weight: 82,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:29:06.898000",
     name: "Vincent Faulk",
     weight: 887,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:29:41.365000",
     name: "Vincent Faulk",
     weight: 140,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:30:27.866000",
@@ -25088,21 +30057,33 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 298,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:32:16.492000",
     name: "Vincent Faulk",
     weight: 264,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-21 17:33:14.645000",
     name: "Vincent Faulk",
     weight: 102,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-22 13:38:16.613000",
@@ -25424,126 +30405,198 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 452,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:14:27.033000",
     name: "Vincent Faulk",
     weight: 270,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:15:01.422000",
     name: "Vincent Faulk",
     weight: 173,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:15:57.032000",
     name: "Vincent Faulk",
     weight: 166,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:17:03.064000",
     name: "Vincent Faulk",
     weight: 1604,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:17:41.926000",
     name: "Vincent Faulk",
     weight: 819,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:18:19.575000",
     name: "Vincent Faulk",
     weight: 1496,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:18:52.469000",
     name: "Vincent Faulk",
     weight: 931,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:19:37.240000",
     name: "Vincent Faulk",
     weight: 410,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:20:06.463000",
     name: "Vincent Faulk",
     weight: 140,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:20:46.411000",
     name: "Vincent Faulk",
     weight: 135,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:21:13.020000",
     name: "Vincent Faulk",
     weight: 543,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:21:39.671000",
     name: "Vincent Faulk",
     weight: 304,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:22:33.704000",
     name: "Vincent Faulk",
     weight: 405,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:23:02.776000",
     name: "Vincent Faulk",
     weight: 801,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:23:33.754000",
     name: "Vincent Faulk",
     weight: 492,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:24:40.485000",
     name: "Vincent Faulk",
     weight: 823,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-28 17:25:11.215000",
     name: "Vincent Faulk",
     weight: 203,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-05-29 15:17:59.115000",
@@ -25704,63 +30757,99 @@ export const exportsList = [
     name: "Karen Moore",
     weight: 1056,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 16:13:18.599000",
     name: "Karen Moore",
     weight: 1027,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 16:13:45.308000",
     name: "Karen Moore",
     weight: 295,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 16:31:32.192000",
     name: "Karen Moore",
     weight: 494,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 16:34:39.914000",
     name: "Karen Moore",
     weight: 290,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 17:40:37.977000",
     name: "JC",
     weight: 1149,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 17:41:02.143000",
     name: "JC",
     weight: 410,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 17:41:34.111000",
     name: "JC",
     weight: 88,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 17:41:52.036000",
     name: "JC",
     weight: 563,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-02 17:42:13.417000",
@@ -25774,7 +30863,11 @@ export const exportsList = [
     name: "Other",
     weight: 107,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-03 15:04:08.830000",
@@ -25816,49 +30909,77 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 360,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 12:25:46.275000",
     name: "Deborah Claridy",
     weight: 107,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 13:24:26.371000",
     name: "Deborah Claridy",
     weight: 48,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:25:34.895000",
     name: "Deborah Claridy",
     weight: 249,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:26:24.486000",
     name: "Deborah Claridy",
     weight: 516,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:26:58.985000",
     name: "Deborah Claridy",
     weight: 710,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:30:39.023000",
     name: "Deborah Claridy",
     weight: 457,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:34:57.048000",
@@ -25872,21 +30993,33 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 289,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:36:37.074000",
     name: "Deborah Claridy",
     weight: 67,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:37:32.725000",
     name: "Deborah Claridy",
     weight: 419,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:38:21.994000",
@@ -25900,7 +31033,11 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 518,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-04 16:40:14.938000",
@@ -25942,7 +31079,11 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 300,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-05 13:22:47.017000",
@@ -26040,35 +31181,55 @@ export const exportsList = [
     name: "Claire",
     weight: 574,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-07 15:08:04.865000",
     name: "Claire",
     weight: 355,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-07 15:08:22.071000",
     name: "Claire",
     weight: 388,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-07 15:10:11.053000",
     name: "Claire",
     weight: 2308,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-07 15:12:05.440000",
     name: "Claire",
     weight: 1553,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-08 12:33:28.672000",
@@ -26131,7 +31292,11 @@ export const exportsList = [
     name: "Laronda",
     weight: 96,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-09 15:49:41.645000",
@@ -26201,21 +31366,33 @@ export const exportsList = [
     name: "Seth Crawford",
     weight: 97,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-09 19:25:42.178000",
     name: "Seth Crawford",
     weight: 121,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-09 19:26:15.268000",
     name: "Seth Crawford",
     weight: 177,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-10 15:40:21.879000",
@@ -26278,14 +31455,22 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 860,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-11 13:36:50.678000",
     name: "Deborah Claridy",
     weight: 472,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-11 17:21:33.037000",
@@ -26348,7 +31533,11 @@ export const exportsList = [
     name: "Deborah Claridy",
     weight: 2674,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-11 00:00:00",
@@ -26551,126 +31740,198 @@ export const exportsList = [
     name: "Claire",
     weight: 303,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 1869,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 210,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 1120,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 475,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 492,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 210,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 122,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 171,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 634,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 916,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 716,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 736,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 206,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 478,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 586,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 240,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 285,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
@@ -26684,63 +31945,99 @@ export const exportsList = [
     name: "Claire",
     weight: 397,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 385,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 694,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 232,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 344,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 317,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 368,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 32,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-18 00:00:00",
     name: "Claire",
     weight: 44,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-19 16:06:37.390000",
@@ -26957,182 +32254,286 @@ export const exportsList = [
     name: "Emily Stucke",
     weight: 199,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:07:16.671000",
     name: "Emily Stucke",
     weight: 181,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:07:53.385000",
     name: "Emily Stucke",
     weight: 372,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:08:26.385000",
     name: "Emily Stucke",
     weight: 596,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:09:18.685000",
     name: "Emily Stucke",
     weight: 1305,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:09:39.890000",
     name: "Emily Stucke",
     weight: 580,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:09:59.050000",
     name: "Emily Stucke",
     weight: 296,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:10:38.881000",
     name: "Emily Stucke",
     weight: 1485,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:11:52.084000",
     name: "Emily Stucke",
     weight: 1728,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:12:20.633000",
     name: "Emily Stucke",
     weight: 1224,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:12:53.316000",
     name: "Emily Stucke",
     weight: 244,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:13:15.163000",
     name: "Emily Stucke",
     weight: 900,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:22:21.029000",
     name: "Emily Stucke",
     weight: 788,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:22:42.671000",
     name: "Emily Stucke",
     weight: 832,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:23:32.434000",
     name: "Emily Stucke",
     weight: 470,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:24:37.247000",
     name: "Emily Stucke",
     weight: 389,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 13:26:17.678000",
     name: "Emily Stucke",
     weight: 398,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 16:39:50.087000",
     name: "Claire",
     weight: 48,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 16:40:13.055000",
     name: "Claire",
     weight: 323,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 16:40:40.723000",
     name: "Claire",
     weight: 254,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 227,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 262,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 446,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 1278,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 428,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-25 00:00:00",
     name: "Claire",
     weight: 251,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-06-26 15:17:09.504000",
@@ -27370,147 +32771,231 @@ export const exportsList = [
     name: "Claire",
     weight: 221,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:13:34.280000",
     name: "Claire",
     weight: 1379,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:14:20.634000",
     name: "Claire",
     weight: 1210,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:15:18.834000",
     name: "Claire",
     weight: 1666,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:15:50.409000",
     name: "Claire",
     weight: 1238,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:16:25.757000",
     name: "Claire",
     weight: 164,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:18:01.660000",
     name: "Claire",
     weight: 502,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:17:39.101000",
     name: "Claire",
     weight: 371,
     category: "Baby Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:17:13.701000",
     name: "Claire",
     weight: 600,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:18:21.175000",
     name: "Claire",
     weight: 866,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:18:42.492000",
     name: "Claire",
     weight: 197,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:19:13.233000",
     name: "Claire",
     weight: 853,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:19:31.793000",
     name: "Claire",
     weight: 639,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:20:02.892000",
     name: "Claire",
     weight: 710,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:20:20.085000",
     name: "Claire",
     weight: 660,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:20:47.934000",
     name: "Claire",
     weight: 1157,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:21:23.953000",
     name: "Claire",
     weight: 230,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:21:45.550000",
     name: "Claire",
     weight: 237,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:22:04.142000",
     name: "Claire",
     weight: 721,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:22:28.724000",
     name: "Claire",
     weight: 872,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-02 18:22:52.068000",
     name: "Claire",
     weight: 542,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:53:35.865000",
@@ -27524,35 +33009,55 @@ export const exportsList = [
     name: "Zoe",
     weight: 410,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:55:13.240000",
     name: "Zoe",
     weight: 73,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:55:47.140000",
     name: "Zoe",
     weight: 228,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:56:18.505000",
     name: "Zoe",
     weight: 474,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:56:42.239000",
     name: "Zoe",
     weight: 188,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-03 16:57:43.547000",
@@ -27832,203 +33337,319 @@ export const exportsList = [
     name: "Claire",
     weight: 674,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:20:56.184000",
     name: "Claire",
     weight: 949,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:21:39.528000",
     name: "Claire",
     weight: 156,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:22:15.905000",
     name: "Claire",
     weight: 518,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:24:36.677000",
     name: "Claire",
     weight: 204,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:25:07.366000",
     name: "Claire",
     weight: 710,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:25:23.824000",
     name: "Claire",
     weight: 130,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:25:50.618000",
     name: "Claire",
     weight: 179,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:28:55.753000",
     name: "Claire",
     weight: 1005,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:29:21.607000",
     name: "Claire",
     weight: 128,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:29:59.796000",
     name: "Claire",
     weight: 759,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:30:29.051000",
     name: "Claire",
     weight: 2073,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:30:53.831000",
     name: "Claire",
     weight: 1253,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:31:32.434000",
     name: "Claire",
     weight: 1000,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:31:59.930000",
     name: "Claire",
     weight: 1105,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:32:36.266000",
     name: "Claire",
     weight: 173,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:33:13.140000",
     name: "Claire",
     weight: 180,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:33:53.411000",
     name: "Claire",
     weight: 223,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:34:32.252000",
     name: "Claire",
     weight: 1278,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:35:04.217000",
     name: "Claire",
     weight: 554,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:35:27.460000",
     name: "Claire",
     weight: 441,
     category: "Oil",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:35:54.244000",
     name: "Claire",
     weight: 889,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:36:16.497000",
     name: "Claire",
     weight: 1463,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:36:50.775000",
     name: "Claire",
     weight: 400,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:37:10.828000",
     name: "Claire",
     weight: 65,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:37:35.427000",
     name: "Claire",
     weight: 352,
     category: "Oil",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:38:00.014000",
     name: "Claire",
     weight: 337,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:38:22.097000",
     name: "Claire",
     weight: 30,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-09 18:39:35.504000",
     name: "Claire",
     weight: 1486,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-10 16:45:13.566000",
@@ -28266,126 +33887,198 @@ export const exportsList = [
     name: "Claire",
     weight: 247,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 609,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 256,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 300,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 312,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 131,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 764,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 00:00:00",
     name: "Claire",
     weight: 287,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:14:08.487000",
     name: "JC",
     weight: 1496,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:14:40.754000",
     name: "JC",
     weight: 1433,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:15:19.763000",
     name: "JC",
     weight: 798,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:15:57.355000",
     name: "JC",
     weight: 417,
     category: "Baby Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:16:46.602000",
     name: "JC",
     weight: 1134,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:17:38.350000",
     name: "JC",
     weight: 630,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:18:03.629000",
     name: "JC",
     weight: 675,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:18:32.950000",
     name: "JC",
     weight: 133,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-16 12:19:01.246000",
     name: "JC",
     weight: 131,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:43:46.076000",
     name: "Kaneesha",
     weight: 429,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:45:26.638000",
@@ -28399,56 +34092,88 @@ export const exportsList = [
     name: "Kaneesha",
     weight: 1080,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:47:06.720000",
     name: "Kaneesha",
     weight: 495,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:47:43.958000",
     name: "Kaneesha",
     weight: 614,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:49:23.191000",
     name: "Kaneesha",
     weight: 390,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:50:32.087000",
     name: "Kaneesha",
     weight: 205,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:51:53.170000",
     name: "Kaneesha",
     weight: 139,
     category: "Baby Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:52:48.241000",
     name: "Kaneesha",
     weight: 70,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 12:53:49.171000",
     name: "Kaneesha",
     weight: 148,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-17 17:05:38.440000",
@@ -28658,175 +34383,275 @@ export const exportsList = [
     name: "Ausar",
     weight: 87,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 11:58:58.115000",
     name: "Ausar",
     weight: 260,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:09:08.476000",
     name: "Claire",
     weight: 1094,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:09:39.368000",
     name: "Claire",
     weight: 390,
     category: "Baby Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:10:08.240000",
     name: "Claire",
     weight: 1030,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:10:30.970000",
     name: "Claire",
     weight: 1614,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:10:56.879000",
     name: "Claire",
     weight: 280,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 12:11:19.581000",
     name: "Claire",
     weight: 146,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:46:28.382000",
     name: "Emily Stucke",
     weight: 306,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:47:03.607000",
     name: "Emily Stucke",
     weight: 666,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:47:29.034000",
     name: "Emily Stucke",
     weight: 578,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:47:58.449000",
     name: "Emily Stucke",
     weight: 578,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:48:17.932000",
     name: "Emily Stucke",
     weight: 424,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:48:37.684000",
     name: "Emily Stucke",
     weight: 707,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 13:48:54.956000",
     name: "Emily Stucke",
     weight: 552,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 15:07:57.617000",
     name: "Ausar",
     weight: 475,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 15:25:16.210000",
     name: "Ausar",
     weight: 944,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 15:55:59.378000",
     name: "Ausar",
     weight: 122,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 16:28:27.005000",
     name: "Ausar",
     weight: 200,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 16:49:59.807000",
     name: "Ausar",
     weight: 42,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 16:52:47.740000",
     name: "Ausar",
     weight: 129,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 16:58:48.824000",
     name: "Ausar",
     weight: 123,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 17:05:54.856000",
     name: "Ausar",
     weight: 103,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 17:28:55.851000",
     name: "Claire",
     weight: 122,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 17:31:29.263000",
     name: "Claire",
     weight: 37,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-23 18:08:55.628000",
@@ -28945,35 +34770,55 @@ export const exportsList = [
     name: "JC",
     weight: 1897,
     category: "Water",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-29 13:44:17.717000",
     name: "JC",
     weight: 349,
     category: "Baby Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-29 13:44:53.990000",
     name: "JC",
     weight: 969,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-29 13:45:25.026000",
     name: "JC",
     weight: 228,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-29 13:46:06.905000",
     name: "JC",
     weight: 915,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-29 14:21:33.046000",
@@ -29015,14 +34860,22 @@ export const exportsList = [
     name: "JC",
     weight: 643,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 15:06:18.168000",
     name: "JC",
     weight: 242,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:32:30.170000",
@@ -29043,77 +34896,121 @@ export const exportsList = [
     name: "Claire",
     weight: 671,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:34:57.753000",
     name: "Claire",
     weight: 327,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:35:19.052000",
     name: "Claire",
     weight: 1087,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:36:40.970000",
     name: "Claire",
     weight: 242,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:37:30.091000",
     name: "Claire",
     weight: 531,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:38:04.871000",
     name: "Claire",
     weight: 510,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:52:14.373000",
     name: "Claire",
     weight: 659,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 16:52:44.175000",
     name: "Claire",
     weight: 126,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 00:00:00",
     name: "JC",
     weight: 212,
     category: "Baby Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 00:00:00",
     name: "JC",
     weight: 902,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-30 00:00:00",
     name: "JC",
     weight: 557,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-07-31 16:19:31.497000",
@@ -29330,98 +35227,154 @@ export const exportsList = [
     name: "Vincent Faulk",
     weight: 323,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:50:28.617000",
     name: "Vincent Faulk",
     weight: 182,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:51:18.807000",
     name: "Vincent Faulk",
     weight: 183,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:53:09.432000",
     name: "Vincent Faulk",
     weight: 1085,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:54:16.909000",
     name: "Vincent Faulk",
     weight: 306,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:54:56.424000",
     name: "Vincent Faulk",
     weight: 281,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:55:25.483000",
     name: "Vincent Faulk",
     weight: 165,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:55:58.743000",
     name: "Vincent Faulk",
     weight: 266,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:56:30.721000",
     name: "Vincent Faulk",
     weight: 787,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:57:07.702000",
     name: "Vincent Faulk",
     weight: 751,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:57:37.326000",
     name: "Vincent Faulk",
     weight: 820,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:58:09.669000",
     name: "Vincent Faulk",
     weight: 604,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:58:40.182000",
     name: "Vincent Faulk",
     weight: 260,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-07 16:59:18.513000",
     name: "Vincent Faulk",
     weight: 242,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-11 16:40:29.710000",
@@ -29470,119 +35423,187 @@ export const exportsList = [
     name: "Claire",
     weight: 260,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:02:36.688000",
     name: "Claire",
     weight: 933,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:03:07.038000",
     name: "Claire",
     weight: 1095,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:03:36.906000",
     name: "Claire",
     weight: 275,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:04:15.860000",
     name: "Claire",
     weight: 1438,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:05:14.733000",
     name: "Claire",
     weight: 1108,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:09:18.714000",
     name: "Claire",
     weight: 1480,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:10:38.041000",
     name: "Claire",
     weight: 593,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:10:59.161000",
     name: "Claire",
     weight: 701,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:11:39.875000",
     name: "Claire",
     weight: 1501,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:12:10.133000",
     name: "Claire",
     weight: 582,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:12:47.892000",
     name: "Claire",
     weight: 531,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:13:09.608000",
     name: "Claire",
     weight: 523,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:13:35.816000",
     name: "Claire",
     weight: 1246,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:13:57.602000",
     name: "Claire",
     weight: 1084,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:17:32.778000",
     name: "Claire",
     weight: 195,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-13 16:23:06.193000",
     name: "Claire",
     weight: 177,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-14 13:41:30.668000",
@@ -29715,133 +35736,209 @@ export const exportsList = [
     name: "Claire",
     weight: 466,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:37:57.720000",
     name: "Claire",
     weight: 315,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:38:14.405000",
     name: "Claire",
     weight: 776,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:38:59.688000",
     name: "Claire",
     weight: 218,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:39:25.273000",
     name: "Claire",
     weight: 273,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:39:44.316000",
     name: "Claire",
     weight: 1923,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:40:01.982000",
     name: "Claire",
     weight: 705,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:40:16.928000",
     name: "Claire",
     weight: 706,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:40:35.610000",
     name: "Claire",
     weight: 598,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:40:54.418000",
     name: "Claire",
     weight: 627,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:41:13.552000",
     name: "Claire",
     weight: 1311,
     category: "Danone - Plant Based Drink",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:41:49.161000",
     name: "Claire",
     weight: 262,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:42:07.043000",
     name: "Claire",
     weight: 656,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:42:25.922000",
     name: "Claire",
     weight: 583,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:42:42.189000",
     name: "Claire",
     weight: 424,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:43:01.480000",
     name: "Claire",
     weight: 54,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:43:29.249000",
     name: "Claire",
     weight: 1436,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:43:48.126000",
     name: "Claire",
     weight: 391,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-20 17:58:52.060000",
     name: "Claire",
     weight: 250,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-21 15:51:15.187000",
@@ -29988,140 +36085,220 @@ export const exportsList = [
     name: "Claire",
     weight: 1474,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:01:30.460000",
     name: "Claire",
     weight: 201,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:01:45.499000",
     name: "Claire",
     weight: 339,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:02:06.260000",
     name: "Claire",
     weight: 1206,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:02:24.151000",
     name: "Claire",
     weight: 1164,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:03:02.012000",
     name: "Claire",
     weight: 596,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:04:23.516000",
     name: "Claire",
     weight: 239,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:04:44.971000",
     name: "Claire",
     weight: 1670,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:07:29.122000",
     name: "Claire",
     weight: 537,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:09:16.021000",
     name: "Claire",
     weight: 1338,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:09:40.350000",
     name: "Claire",
     weight: 894,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:09:55.075000",
     name: "Claire",
     weight: 701,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:31:13.691000",
     name: "Claire",
     weight: 202,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:31:33.953000",
     name: "Claire",
     weight: 302,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:31:51.799000",
     name: "Claire",
     weight: 640,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:32:24.753000",
     name: "Claire",
     weight: 414,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:32:51.629000",
     name: "Claire",
     weight: 996,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:33:13.313000",
     name: "Claire",
     weight: 217,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:35:40.684000",
     name: "Claire",
     weight: 700,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-27 16:36:48.060000",
     name: "Claire",
     weight: 160,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-08-28 16:01:30.598000",
@@ -30254,140 +36431,220 @@ export const exportsList = [
     name: "Claire",
     weight: 67,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:19:10.330000",
     name: "Claire",
     weight: 77,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:19:40.360000",
     name: "Claire",
     weight: 275,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:20:37.556000",
     name: "Claire",
     weight: 542,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:21:04.095000",
     name: "Claire",
     weight: 69,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:22:02.726000",
     name: "Claire",
     weight: 953,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:22:37.431000",
     name: "Claire",
     weight: 955,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:22:54.891000",
     name: "Claire",
     weight: 1038,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:23:21.814000",
     name: "Claire",
     weight: 938,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:23:47.649000",
     name: "Claire",
     weight: 926,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:24:34.568000",
     name: "Claire",
     weight: 376,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:24:59.393000",
     name: "Claire",
     weight: 605,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:31:20.781000",
     name: "Claire",
     weight: 256,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:31:37.717000",
     name: "Claire",
     weight: 508,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:32:55.511000",
     name: "Claire",
     weight: 527,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:33:51.151000",
     name: "Claire",
     weight: 99,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:34:14.871000",
     name: "Claire",
     weight: 121,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:34:44.961000",
     name: "Claire",
     weight: 589,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:37:56.948000",
     name: "Claire",
     weight: 175,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-03 17:38:15.808000",
     name: "Claire",
     weight: 33,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-04 14:43:18.744000",
@@ -30541,168 +36798,264 @@ export const exportsList = [
     name: "Claire",
     weight: 250,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:34:06.531000",
     name: "Claire",
     weight: 61,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:35:43.403000",
     name: "Claire",
     weight: 1094,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:36:11.945000",
     name: "Claire",
     weight: 154,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:36:28.699000",
     name: "Claire",
     weight: 177,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:36:48.157000",
     name: "Claire",
     weight: 1026,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:37:05.190000",
     name: "Claire",
     weight: 225,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:37:23.060000",
     name: "Claire",
     weight: 271,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:38:00.950000",
     name: "Claire",
     weight: 248,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:40:12.052000",
     name: "Claire",
     weight: 200,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:41:12.964000",
     name: "Claire",
     weight: 818,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:44:19.600000",
     name: "Claire",
     weight: 916,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:44:44.740000",
     name: "Claire",
     weight: 491,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:45:02.791000",
     name: "Claire",
     weight: 75,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:46:51.142000",
     name: "Claire",
     weight: 552,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:47:35.088000",
     name: "Claire",
     weight: 602,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:47:51.183000",
     name: "Claire",
     weight: 84,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:50:36.143000",
     name: "Claire",
     weight: 604,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:53:28.339000",
     name: "Claire",
     weight: 374,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:54:12.332000",
     name: "Claire",
     weight: 934,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:56:34.494000",
     name: "Claire",
     weight: 231,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:56:56.845000",
     name: "Claire",
     weight: 1299,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:57:45.569000",
     name: "Claire",
     weight: 199,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-10 16:58:43.773000",
     name: "Claire",
     weight: 316,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-11 13:08:06.681000",
@@ -30877,168 +37230,264 @@ export const exportsList = [
     name: "Claire",
     weight: 186,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:33:31.109000",
     name: "Claire",
     weight: 444,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:33:49.908000",
     name: "Claire",
     weight: 122,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:34:32.666000",
     name: "Claire",
     weight: 791,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:35:09.371000",
     name: "Claire",
     weight: 817,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:35:39.981000",
     name: "Claire",
     weight: 872,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:37:53.838000",
     name: "Claire",
     weight: 940,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:39:39.468000",
     name: "Claire",
     weight: 106,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:40:00.051000",
     name: "Claire",
     weight: 430,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:42:58.408000",
     name: "Claire",
     weight: 542,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:43:45.161000",
     name: "Claire",
     weight: 555,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:44:18.382000",
     name: "Claire",
     weight: 576,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:54:54.972000",
     name: "Claire",
     weight: 271,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:57:28.888000",
     name: "Claire",
     weight: 528,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:57:54.274000",
     name: "Claire",
     weight: 39,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:58:18.138000",
     name: "Claire",
     weight: 137,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:58:37.836000",
     name: "Claire",
     weight: 217,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:59:13.458000",
     name: "Claire",
     weight: 435,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:59:31.816000",
     name: "Claire",
     weight: 345,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 16:59:50.178000",
     name: "Claire",
     weight: 799,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 17:00:06.182000",
     name: "Claire",
     weight: 107,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 17:00:28.947000",
     name: "Claire",
     weight: 112,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 17:01:22.847000",
     name: "Claire",
     weight: 553,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-17 17:01:59.752000",
     name: "Claire",
     weight: 122,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-18 15:23:13.633000",
@@ -31318,70 +37767,110 @@ export const exportsList = [
     name: "Claire",
     weight: 177,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:26:39.701000",
     name: "Claire",
     weight: 267,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:26:57.862000",
     name: "Claire",
     weight: 1348,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:27:37.231000",
     name: "Claire",
     weight: 907,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:28:22.373000",
     name: "Claire",
     weight: 177,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:28:42.111000",
     name: "Claire",
     weight: 854,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:29:14.541000",
     name: "Claire",
     weight: 2197,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:29:35.297000",
     name: "Claire",
     weight: 201,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:29:55.132000",
     name: "Claire",
     weight: 187,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:31:15.386000",
     name: "Claire",
     weight: 199,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:31:44.099000",
@@ -31423,28 +37912,44 @@ export const exportsList = [
     name: "Claire",
     weight: 480,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:38:20.758000",
     name: "Claire",
     weight: 852,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:38:42.510000",
     name: "Claire",
     weight: 170,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-24 16:41:33.541000",
     name: "Claire",
     weight: 250,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-09-25 00:00:00",
@@ -31682,182 +38187,286 @@ export const exportsList = [
     name: "Claire",
     weight: 48,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:34:10.621000",
     name: "Claire",
     weight: 71,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:35:20.415000",
     name: "Claire",
     weight: 187,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:35:46.820000",
     name: "Claire",
     weight: 358,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:36:10.421000",
     name: "Claire",
     weight: 785,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:36:32.699000",
     name: "Claire",
     weight: 536,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:36:55.341000",
     name: "Claire",
     weight: 80,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:37:13.052000",
     name: "Claire",
     weight: 115,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:37:32.811000",
     name: "Claire",
     weight: 856,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:37:49.502000",
     name: "Claire",
     weight: 115,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:38:24.098000",
     name: "Claire",
     weight: 264,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:39:19.116000",
     name: "Claire",
     weight: 73,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:40:18.166000",
     name: "Claire",
     weight: 836,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:40:56.707000",
     name: "Claire",
     weight: 392,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:41:25.290000",
     name: "Claire",
     weight: 239,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:41:50.125000",
     name: "Claire",
     weight: 505,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:42:13.393000",
     name: "Claire",
     weight: 95,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:42:48.406000",
     name: "Claire",
     weight: 158,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:43:08.501000",
     name: "Claire",
     weight: 415,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:43:34.452000",
     name: "Claire",
     weight: 484,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:43:55.597000",
     name: "Claire",
     weight: 300,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:44:13.208000",
     name: "Claire",
     weight: 16,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:44:33.581000",
     name: "Claire",
     weight: 30,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:45:39.426000",
     name: "Claire",
     weight: 17,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:46:41.739000",
     name: "Claire",
     weight: 28,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 16:48:54.584000",
     name: "Claire",
     weight: 97,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-01 17:10:53.830000",
@@ -32074,168 +38683,264 @@ export const exportsList = [
     name: "Claire",
     weight: 362,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:05:18.504000",
     name: "Claire",
     weight: 617,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:06:06.610000",
     name: "Claire",
     weight: 527,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:06:26.180000",
     name: "Claire",
     weight: 143,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:06:50.028000",
     name: "Claire",
     weight: 119,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:07:10.009000",
     name: "Claire",
     weight: 136,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:07:30.988000",
     name: "Claire",
     weight: 34,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:08:02.517000",
     name: "Claire",
     weight: 332,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:08:17.728000",
     name: "Claire",
     weight: 599,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:08:33.055000",
     name: "Claire",
     weight: 102,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:08:54.563000",
     name: "Claire",
     weight: 227,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:09:59.820000",
     name: "Claire",
     weight: 160,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:10:21.457000",
     name: "Claire",
     weight: 324,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:10:38.594000",
     name: "Claire",
     weight: 433,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:10:57.419000",
     name: "Claire",
     weight: 739,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:14:12.373000",
     name: "Claire",
     weight: 22,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:14:36.174000",
     name: "Claire",
     weight: 58,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:14:59.314000",
     name: "Claire",
     weight: 684,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:15:17.927000",
     name: "Claire",
     weight: 159,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:15:49.586000",
     name: "Claire",
     weight: 101,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:16:17.723000",
     name: "Claire",
     weight: 245,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:16:35.951000",
     name: "Claire",
     weight: 66,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:17:07.880000",
     name: "Claire",
     weight: 130,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-08 16:17:26.898000",
     name: "Claire",
     weight: 214,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-09 12:44:10.397000",
@@ -32704,189 +39409,297 @@ export const exportsList = [
     name: "Dean Chien",
     weight: 75,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 151,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 191,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 90,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 143,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 914,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 241,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 1395,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 1312,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 614,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 757,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 299,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 781,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 788,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 1224,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 200,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 870,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 312,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 126,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 186,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 811,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 33,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 664,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 456,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 216,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 136,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-22 00:00:00",
     name: "Claire",
     weight: 108,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-23 15:37:52.393000",
@@ -33096,203 +39909,319 @@ export const exportsList = [
     name: "Claire",
     weight: 556,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 188,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 115,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 193,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 750,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 1012,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 1263,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 1405,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 00:00:00",
     name: "Claire",
     weight: 537,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:50:41.047000",
     name: "Beverly Pinn",
     weight: 80,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:51:57.328000",
     name: "Beverly Pinn",
     weight: 320,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:52:52.727000",
     name: "Beverly Pinn",
     weight: 290,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:53:38.008000",
     name: "Beverly Pinn",
     weight: 389,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:54:37.092000",
     name: "Beverly Pinn",
     weight: 530,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:55:18.546000",
     name: "Beverly Pinn",
     weight: 179,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:56:10.539000",
     name: "Beverly Pinn",
     weight: 150,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:56:54.313000",
     name: "Beverly Pinn",
     weight: 263,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:58:10.061000",
     name: "Beverly Pinn",
     weight: 155,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 15:58:56.979000",
     name: "Beverly Pinn",
     weight: 87,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:00:34.948000",
     name: "Beverly Pinn",
     weight: 126,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:01:57.885000",
     name: "Beverly Pinn",
     weight: 173,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:04:14.232000",
     name: "Beverly Pinn",
     weight: 646,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:05:05.267000",
     name: "Beverly Pinn",
     weight: 64,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:05:47.965000",
     name: "Beverly Pinn",
     weight: 468,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:10:13.472000",
     name: "Beverly Pinn",
     weight: 112,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:34:29.656000",
     name: "Beverly Pinn",
     weight: 49,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:52:24.673000",
     name: "Beverly Pinn",
     weight: 97,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:53:06.658000",
     name: "Beverly Pinn",
     weight: 116,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-29 16:53:49.186000",
     name: "Beverly Pinn",
     weight: 33,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-10-30 15:20:55.367000",
@@ -33530,168 +40459,264 @@ export const exportsList = [
     name: "Other",
     weight: 1051,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:40:38.675000",
     name: "Other",
     weight: 76,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:41:14.637000",
     name: "Other",
     weight: 1052,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:41:46.668000",
     name: "Other",
     weight: 166,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:45:07.778000",
     name: "Beverly Pinn",
     weight: 1140,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:45:40.975000",
     name: "Beverly Pinn",
     weight: 106,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:46:14.755000",
     name: "Beverly Pinn",
     weight: 330,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:46:55.840000",
     name: "Beverly Pinn",
     weight: 154,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:47:32.684000",
     name: "Beverly Pinn",
     weight: 473,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:48:05.546000",
     name: "Beverly Pinn",
     weight: 402,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:48:43.793000",
     name: "Beverly Pinn",
     weight: 383,
     category: "Personal Care",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:49:14.465000",
     name: "Beverly Pinn",
     weight: 414,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:50:38.442000",
     name: "Beverly Pinn",
     weight: 205,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:51:11.449000",
     name: "Beverly Pinn",
     weight: 496,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:51:41.655000",
     name: "Beverly Pinn",
     weight: 386,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:52:17.102000",
     name: "Beverly Pinn",
     weight: 1446,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:52:45.217000",
     name: "Beverly Pinn",
     weight: 195,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:53:53.351000",
     name: "Beverly Pinn",
     weight: 201,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:54:27.051000",
     name: "Beverly Pinn",
     weight: 516,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:55:00.622000",
     name: "Beverly Pinn",
     weight: 567,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:55:29.324000",
     name: "Beverly Pinn",
     weight: 363,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:56:15.444000",
     name: "Beverly Pinn",
     weight: 652,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 15:56:41.767000",
     name: "Beverly Pinn",
     weight: 198,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-05 16:01:46.733000",
     name: "Beverly Pinn",
     weight: 32,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-06 12:58:55.999000",
@@ -33873,70 +40898,110 @@ export const exportsList = [
     name: "Bertille",
     weight: 838,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:01:22.213000",
     name: "Bertille",
     weight: 1365,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:01:42.791000",
     name: "Bertille",
     weight: 70,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:02:20.829000",
     name: "Bertille",
     weight: 979,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:02:53.530000",
     name: "Bertille",
     weight: 1080,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:03:18.339000",
     name: "Bertille",
     weight: 478,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:03:39.767000",
     name: "Bertille",
     weight: 60,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:31:15.387000",
     name: "Claire",
     weight: 294,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:32:37.794000",
     name: "Claire",
     weight: 333,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-10 16:32:58.036000",
     name: "Claire",
     weight: 294,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-11 16:51:08.586000",
@@ -33950,119 +41015,187 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 429,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 13:24:24.032000",
     name: "Juanita Chandler",
     weight: 387,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 13:25:45.525000",
     name: "Juanita Chandler",
     weight: 416,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 13:28:51.681000",
     name: "Juanita Chandler",
     weight: 460,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 13:29:49.343000",
     name: "Juanita Chandler",
     weight: 481,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 13:30:23.650000",
     name: "Juanita Chandler",
     weight: 449,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 14:35:41.549000",
     name: "JC",
     weight: 53,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 14:49:01.047000",
     name: "Dean Chien",
     weight: 184,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:00:23.677000",
     name: "Juanita Chandler",
     weight: 275,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:00:59.377000",
     name: "Juanita Chandler",
     weight: 180,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:06:09.146000",
     name: "Juanita Chandler",
     weight: 138,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:07:10.647000",
     name: "Juanita Chandler",
     weight: 791,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:09:18.171000",
     name: "Juanita Chandler",
     weight: 48,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:09:58.130000",
     name: "Juanita Chandler",
     weight: 70,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:12:02.842000",
     name: "Juanita Chandler",
     weight: 334,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:16:03.432000",
     name: "Juanita Chandler",
     weight: 390,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-12 16:19:53.325000",
     name: "Other",
     weight: 146,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-13 12:22:39.082000",
@@ -34272,182 +41405,286 @@ export const exportsList = [
     name: "Claire",
     weight: 491,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 00:00:00",
     name: "Claire",
     weight: 695,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 00:00:00",
     name: "Claire",
     weight: 876,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 16:50:46.972000",
     name: "Claire",
     weight: 1460,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 16:51:53.589000",
     name: "Claire",
     weight: 1234,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 16:52:12.321000",
     name: "Claire",
     weight: 964,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 16:52:36.014000",
     name: "Claire",
     weight: 87,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 16:52:52.082000",
     name: "Claire",
     weight: 171,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:09:34.273000",
     name: "Claire",
     weight: 307,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:10:34.915000",
     name: "Claire",
     weight: 620,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:10:57.851000",
     name: "Claire",
     weight: 108,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:11:15.942000",
     name: "Claire",
     weight: 219,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:11:37.751000",
     name: "Claire",
     weight: 1486,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:12:00.101000",
     name: "Claire",
     weight: 1023,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:12:22.953000",
     name: "Claire",
     weight: 241,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:12:42.575000",
     name: "Claire",
     weight: 37,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:13:01.468000",
     name: "Claire",
     weight: 165,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:13:18.566000",
     name: "Claire",
     weight: 262,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:13:46.608000",
     name: "Claire",
     weight: 127,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 00:00:00",
     name: "Claire",
     weight: 120,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:14:04.051000",
     name: "Claire",
     weight: 162,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:14:21.831000",
     name: "Claire",
     weight: 451,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:14:41.264000",
     name: "Claire",
     weight: 627,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:15:00.104000",
     name: "Claire",
     weight: 540,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:15:16.655000",
     name: "Claire",
     weight: 50,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-19 17:15:33.403000",
     name: "Claire",
     weight: 615,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-11-20 13:15:39.686000",
@@ -34734,154 +41971,242 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1033,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:18:14.786000",
     name: "Juanita Chandler",
     weight: 218,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:19:01.129000",
     name: "Juanita Chandler",
     weight: 592,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:19:50.135000",
     name: "Juanita Chandler",
     weight: 1235,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:23:24.958000",
     name: "Juanita Chandler",
     weight: 108,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:24:49.790000",
     name: "Juanita Chandler",
     weight: 73,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:25:30.634000",
     name: "Juanita Chandler",
     weight: 272,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:27:22.913000",
     name: "Juanita Chandler",
     weight: 446,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:30:26.088000",
     name: "Juanita Chandler",
     weight: 261,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:31:08.038000",
     name: "Juanita Chandler",
     weight: 219,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:31:51.651000",
     name: "Juanita Chandler",
     weight: 190,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:33:51.648000",
     name: "Juanita Chandler",
     weight: 477,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 00:00:00",
     name: "Claire",
     weight: 1080,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:35:12.873000",
     name: "Juanita Chandler",
     weight: 464,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:36:26.928000",
     name: "Juanita Chandler",
     weight: 366,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:38:03.720000",
     name: "Juanita Chandler",
     weight: 52,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:39:00.641000",
     name: "Juanita Chandler",
     weight: 54,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:39:52.184000",
     name: "Juanita Chandler",
     weight: 681,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:41:29.890000",
     name: "Juanita Chandler",
     weight: 100,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:42:18.189000",
     name: "Juanita Chandler",
     weight: 409,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:50:12.230000",
     name: "Claire",
     weight: 52,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-03 16:52:18.744000",
     name: "Claire",
     weight: 102,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-04 15:00:34.403000",
@@ -35035,189 +42360,297 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 477,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:12:04.519000",
     name: "Juanita Chandler",
     weight: 246,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:12:59.814000",
     name: "Juanita Chandler",
     weight: 1043,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:13:35.404000",
     name: "Juanita Chandler",
     weight: 401,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:15:22.740000",
     name: "Juanita Chandler",
     weight: 158,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:16:21.248000",
     name: "Juanita Chandler",
     weight: 139,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:20:19.914000",
     name: "Juanita Chandler",
     weight: 512,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:41:01.781000",
     name: "Nicolle Diaz",
     weight: 325,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:44:16.215000",
     name: "Nicolle Diaz",
     weight: 640,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 13:54:09.886000",
     name: "Nicolle Diaz",
     weight: 406,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 14:01:10.480000",
     name: "Nicolle Diaz",
     weight: 273,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 14:06:11.743000",
     name: "Nicolle Diaz",
     weight: 222,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 15:58:57.007000",
     name: "Juanita Chandler",
     weight: 115,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:04:04.985000",
     name: "Juanita Chandler",
     weight: 1033,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:07:21.346000",
     name: "Juanita Chandler",
     weight: 53,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:12:19.874000",
     name: "Juanita Chandler",
     weight: 138,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:14:47.661000",
     name: "Juanita Chandler",
     weight: 143,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:16:04.306000",
     name: "Juanita Chandler",
     weight: 165,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:17:02.249000",
     name: "Juanita Chandler",
     weight: 479,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:20:21.020000",
     name: "Juanita Chandler",
     weight: 328,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:21:20.419000",
     name: "Juanita Chandler",
     weight: 76,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:22:15.953000",
     name: "Juanita Chandler",
     weight: 221,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:22:29.484000",
     name: "Juanita Chandler",
     weight: 985,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:23:55.202000",
     name: "Juanita Chandler",
     weight: 61,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:25:15.379000",
     name: "Juanita Chandler",
     weight: 86,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:25:53.305000",
     name: "Juanita Chandler",
     weight: 400,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-10 16:27:10.388000",
     name: "Juanita Chandler",
     weight: 158,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-11 14:50:12.293000",
@@ -35574,147 +43007,231 @@ export const exportsList = [
     name: "Claire",
     weight: 586,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:32:01.165000",
     name: "Claire",
     weight: 677,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:33:08.784000",
     name: "Claire",
     weight: 765,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:33:30.492000",
     name: "Claire",
     weight: 199,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:33:50.987000",
     name: "Claire",
     weight: 587,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:34:32.540000",
     name: "Claire",
     weight: 599,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:35:01.957000",
     name: "Claire",
     weight: 723,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:35:22.751000",
     name: "Claire",
     weight: 271,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:35:46.751000",
     name: "Claire",
     weight: 136,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:36:16.301000",
     name: "Claire",
     weight: 87,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:36:34.363000",
     name: "Claire",
     weight: 890,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:36:52.402000",
     name: "Claire",
     weight: 477,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:37:16.436000",
     name: "Claire",
     weight: 433,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:37:40.319000",
     name: "Claire",
     weight: 579,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:38:00.545000",
     name: "Claire",
     weight: 104,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:38:53.905000",
     name: "Claire",
     weight: 623,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:39:17.297000",
     name: "Claire",
     weight: 912,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:39:39.263000",
     name: "Claire",
     weight: 181,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:40:25.889000",
     name: "Claire",
     weight: 689,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:40:46.259000",
     name: "Claire",
     weight: 131,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 12:41:11.577000",
     name: "Claire",
     weight: 117,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-27 15:32:25.338000",
@@ -35861,112 +43378,176 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 667,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:05:37.782000",
     name: "Juanita Chandler",
     weight: 1112,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:06:38.648000",
     name: "Juanita Chandler",
     weight: 295,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:10:49.192000",
     name: "Juanita Chandler",
     weight: 1124,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:12:25.619000",
     name: "Juanita Chandler",
     weight: 1141,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:13:01.549000",
     name: "Juanita Chandler",
     weight: 424,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:24:39.339000",
     name: "Nicolle Diaz",
     weight: 274,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:51:38.574000",
     name: "Juanita Chandler",
     weight: 785,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 13:55:53.628000",
     name: "Juanita Chandler",
     weight: 375,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 00:00:00",
     name: "Claire",
     weight: 846,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 15:47:21.970000",
     name: "Juanita Chandler",
     weight: 138,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 15:48:04.131000",
     name: "Juanita Chandler",
     weight: 315,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 15:50:55.986000",
     name: "Juanita Chandler",
     weight: 936,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 15:54:59.330000",
     name: "Juanita Chandler",
     weight: 1135,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 15:59:13.366000",
     name: "Juanita Chandler",
     weight: 529,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2022-12-31 00:00:00",
     name: "Claire",
     weight: 208,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-01 13:05:46",
@@ -35994,14 +43575,22 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 181,
     category: "Spices",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-06 15:44:31",
     name: "Juanita Chandler",
     weight: 713,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-06 15:45:39",
@@ -36015,21 +43604,33 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 61,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-06 15:51:34",
     name: "Juanita Chandler",
     weight: 220,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-06 15:52:10",
     name: "Juanita Chandler",
     weight: 455,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-06 15:53:19",
@@ -36064,161 +43665,253 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 360,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 12:59:50",
     name: "Juanita Chandler",
     weight: 683,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:00:37",
     name: "Juanita Chandler",
     weight: 978,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:01:26",
     name: "Juanita Chandler",
     weight: 146,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:03:15",
     name: "Juanita Chandler",
     weight: 624,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:03:58",
     name: "Juanita Chandler",
     weight: 131,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:05:13",
     name: "Juanita Chandler",
     weight: 1125,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:06:08",
     name: "Juanita Chandler",
     weight: 1071,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:08:38",
     name: "Juanita Chandler",
     weight: 184,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 13:41:57",
     name: "Juanita Chandler",
     weight: 690,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 00:00:00",
     name: "Claire",
     weight: 480,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 00:00:00",
     name: "Claire",
     weight: 334,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 00:00:00",
     name: "Claire",
     weight: 125,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 15:59:45",
     name: "Juanita Chandler",
     weight: -62,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:00:19",
     name: "Juanita Chandler",
     weight: -548,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:10:35",
     name: "Juanita Chandler",
     weight: -499,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:11:24",
     name: "Juanita Chandler",
     weight: -529,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:15:42",
     name: "Juanita Chandler",
     weight: -693,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:20:31",
     name: "Juanita Chandler",
     weight: -172,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:23:32",
     name: "Juanita Chandler",
     weight: -83,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:26:09",
     name: "Juanita Chandler",
     weight: -254,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:28:59",
     name: "Juanita Chandler",
     weight: -75,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-07 16:33:42",
     name: "Juanita Chandler",
     weight: -277,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-08 15:00:48",
@@ -36365,126 +44058,198 @@ export const exportsList = [
     name: "Claire",
     weight: 1579,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 1024,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 496,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 544,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 312,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 1663,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 265,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 673,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 162,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: 1299,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -739,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -28,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -918,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -640,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -1499,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -129,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -130,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-14 00:00:00",
     name: "Claire",
     weight: -58,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-15 00:00:00",
@@ -36603,168 +44368,264 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 51,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:34:28",
     name: "Juanita Chandler",
     weight: 1051,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:35:07",
     name: "Juanita Chandler",
     weight: 1337,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:36:25",
     name: "Juanita Chandler",
     weight: 1301,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:39:17",
     name: "Juanita Chandler",
     weight: 413,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:40:25",
     name: "Juanita Chandler",
     weight: 235,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:42:19",
     name: "Juanita Chandler",
     weight: 245,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:43:22",
     name: "Juanita Chandler",
     weight: 356,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:46:10",
     name: "Juanita Chandler",
     weight: 131,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:48:05",
     name: "Juanita Chandler",
     weight: 1329,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:49:01",
     name: "Juanita Chandler",
     weight: 184,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:49:44",
     name: "Juanita Chandler",
     weight: 320,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:51:05",
     name: "Juanita Chandler",
     weight: 972,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:52:18",
     name: "Juanita Chandler",
     weight: 135,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:54:00",
     name: "Juanita Chandler",
     weight: -402,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:54:43",
     name: "Juanita Chandler",
     weight: -749,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:55:58",
     name: "Juanita Chandler",
     weight: -736,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:56:48",
     name: "Juanita Chandler",
     weight: -1098,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:57:27",
     name: "Juanita Chandler",
     weight: -299,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 15:59:22",
     name: "Juanita Chandler",
     weight: -167,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 16:02:06",
     name: "Juanita Chandler",
     weight: -106,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 16:05:18",
     name: "Juanita Chandler",
     weight: -173,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 16:14:41",
     name: "Juanita Chandler",
     weight: -84,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-21 16:15:46",
     name: "Juanita Chandler",
     weight: -129,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-22 00:00:00",
@@ -36820,133 +44681,209 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 352,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:00:12",
     name: "Juanita Chandler",
     weight: 304,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:01:16",
     name: "Juanita Chandler",
     weight: 255,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:02:17",
     name: "Juanita Chandler",
     weight: 1061,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:05:00",
     name: "Juanita Chandler",
     weight: 66,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:05:50",
     name: "Juanita Chandler",
     weight: 1098,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:06:40",
     name: "Juanita Chandler",
     weight: 1111,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:07:16",
     name: "Juanita Chandler",
     weight: 841,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:08:10",
     name: "Juanita Chandler",
     weight: 905,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:08:59",
     name: "Juanita Chandler",
     weight: 626,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:12:58",
     name: "Juanita Chandler",
     weight: 307,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:14:01",
     name: "Juanita Chandler",
     weight: 158,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:14:37",
     name: "Juanita Chandler",
     weight: 178,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:15:35",
     name: "Juanita Chandler",
     weight: 505,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 00:00:00",
     name: "Claire",
     weight: 352,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:17:54",
     name: "Juanita Chandler",
     weight: -55,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:19:33",
     name: "Juanita Chandler",
     weight: -175,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:20:18",
     name: "Juanita Chandler",
     weight: -1108,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-28 16:21:13",
     name: "Juanita Chandler",
     weight: -763,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-01-29 14:50:21",
@@ -36992,28 +44929,28 @@ export const exportsList = [
   },
   {
     date: "2023-02-02 17:57:44",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1112,
     category: "Dole - Fruit Cups",
     location: "Morgan State University",
   },
   {
     date: "2023-02-02 17:58:02",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1090,
     category: "Dole - Fruit Cups",
     location: "Morgan State University",
   },
   {
     date: "2023-02-02 17:58:27",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1102,
     category: "Dole - Fruit Cups",
     location: "Morgan State University",
   },
   {
     date: "2023-02-02 17:59:06",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 2020,
     category: "Dairy",
     location: "Morgan State University",
@@ -37044,112 +44981,176 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 369,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 15:59:23",
     name: "Juanita Chandler",
     weight: 1876,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:02:13",
     name: "Juanita Chandler",
     weight: 1108,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:03:21",
     name: "Juanita Chandler",
     weight: 117,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:04:42",
     name: "Juanita Chandler",
     weight: 130,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:06:34",
     name: "Juanita Chandler",
     weight: 129,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:08:16",
     name: "Juanita Chandler",
     weight: 204,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:09:08",
     name: "Juanita Chandler",
     weight: 56,
     category: "Paper Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:10:34",
     name: "Juanita Chandler",
     weight: 411,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:12:51",
     name: "Juanita Chandler",
     weight: 181,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:14:41",
     name: "Juanita Chandler",
     weight: 313,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:15:23",
     name: "Juanita Chandler",
     weight: 150,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:16:33",
     name: "Juanita Chandler",
     weight: -76,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:20:39",
     name: "Juanita Chandler",
     weight: -97,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 16:21:44",
     name: "Juanita Chandler",
     weight: -47,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-04 00:00:00",
     name: "Claire",
     weight: -143,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-05 14:31:42",
@@ -37352,126 +45353,198 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 130,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:04:48",
     name: "Beverly Pinn",
     weight: 1856,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:08:07",
     name: "Beverly Pinn",
     weight: 102,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:13:04",
     name: "Beverly Pinn",
     weight: 143,
     category: "Cleaning Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:16:13",
     name: "Beverly Pinn",
     weight: 94,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:38:01",
     name: "Cameron Minor",
     weight: 799,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:38:54",
     name: "Cameron Minor",
     weight: 331,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:39:36",
     name: "Cameron Minor",
     weight: 766,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:40:06",
     name: "Cameron Minor",
     weight: 399,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:44:41",
     name: "Cameron Minor",
     weight: 616,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 12:54:37",
     name: "JC",
     weight: 1895,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 13:28:22",
     name: "Juanita Chandler",
     weight: 1053,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 13:29:17",
     name: "Juanita Chandler",
     weight: 157,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 00:00:00",
     name: "Claire",
     weight: -12,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 00:00:00",
     name: "Claire",
     weight: -435,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 00:00:00",
     name: "Claire",
     weight: -1042,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 00:00:00",
     name: "Claire",
     weight: -181,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-18 00:00:00",
     name: "Claire",
     weight: -32,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-19 13:09:55",
@@ -37695,126 +45768,198 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 175,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 12:37:15",
     name: "Juanita Chandler",
     weight: 1867,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 12:38:25",
     name: "Juanita Chandler",
     weight: 14,
     category: "Health & Beauty Products",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:23:34",
     name: "Juanita Chandler",
     weight: 2073,
     category: "Danone - Milk",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:24:39",
     name: "Juanita Chandler",
     weight: 132,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:26:10",
     name: "Juanita Chandler",
     weight: 1595,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:27:03",
     name: "Juanita Chandler",
     weight: 619,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:28:11",
     name: "Juanita Chandler",
     weight: 360,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 13:28:50",
     name: "Juanita Chandler",
     weight: 172,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:33:22",
     name: "Juanita Chandler",
     weight: -9,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:35:30",
     name: "Juanita Chandler",
     weight: 224,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:37:59",
     name: "Juanita Chandler",
     weight: -297,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:38:54",
     name: "Juanita Chandler",
     weight: -1264,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:41:00",
     name: "Juanita Chandler",
     weight: -210,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:41:41",
     name: "Juanita Chandler",
     weight: -265,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:42:44",
     name: "Juanita Chandler",
     weight: -157,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:47:25",
     name: "Juanita Chandler",
     weight: -1417,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-25 15:50:17",
     name: "Juanita Chandler",
     weight: -1563,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-02-26 12:32:03",
@@ -38164,14 +46309,22 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1175,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 12:16:36",
     name: "Beverly Pinn",
     weight: 624,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 12:17:12",
@@ -38185,7 +46338,11 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 583,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 12:19:05",
@@ -38213,133 +46370,209 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 389,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 12:42:10",
     name: "Beverly Pinn",
     weight: 417,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:40:13",
     name: "Beverly Pinn",
     weight: 945,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:40:52",
     name: "Beverly Pinn",
     weight: 641,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:42:50",
     name: "Beverly Pinn",
     weight: 507,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:43:38",
     name: "Beverly Pinn",
     weight: 581,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:44:42",
     name: "Beverly Pinn",
     weight: 1175,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:45:33",
     name: "Beverly Pinn",
     weight: 1263,
     category: "Danone - Milk",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:46:21",
     name: "Beverly Pinn",
     weight: 1065,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:46:48",
     name: "Beverly Pinn",
     weight: 519,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 13:57:56",
     name: "Beverly Pinn",
     weight: 1598,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:41:31",
     name: "Juanita Chandler",
     weight: -486,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:47:51",
     name: "Juanita Chandler",
     weight: -47,
     category: "Household",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:48:47",
     name: "Juanita Chandler",
     weight: -717,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:51:31",
     name: "Juanita Chandler",
     weight: -23,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:55:50",
     name: "Juanita Chandler",
     weight: -1210,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 15:59:14",
     name: "Juanita Chandler",
     weight: -282,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 16:00:19",
     name: "Juanita Chandler",
     weight: -155,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-04 16:01:37",
     name: "Juanita Chandler",
     weight: -880,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-05 13:44:10",
@@ -38703,154 +46936,242 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1826,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 12:50:25",
     name: "Beverly Pinn",
     weight: 1281,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 12:58:35",
     name: "Beverly Pinn",
     weight: 1949,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:18:55",
     name: "Juanita Chandler",
     weight: 185,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:21:40",
     name: "Juanita Chandler",
     weight: 1342,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:22:32",
     name: "Juanita Chandler",
     weight: 1155,
     category: "Drinks [Fridge]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:28:03",
     name: "Juanita Chandler",
     weight: 492,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:36:17",
     name: "Juanita Chandler",
     weight: 1570,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:46:40",
     name: "Juanita Chandler",
     weight: 534,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:53:13",
     name: "Juanita Chandler",
     weight: 430,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 13:58:33",
     name: "Juanita Chandler",
     weight: 831,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 14:02:52",
     name: "Juanita Chandler",
     weight: 340,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:11:20",
     name: "Beverly Pinn",
     weight: 1087,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:41:37",
     name: "Juanita Chandler",
     weight: -534,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:48:22",
     name: "Juanita Chandler",
     weight: 1271,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:50:32",
     name: "Juanita Chandler",
     weight: -1485,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:51:13",
     name: "Juanita Chandler",
     weight: -713,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 15:52:19",
     name: "Juanita Chandler",
     weight: -1483,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 16:03:49",
     name: "Juanita Chandler",
     weight: -415,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 16:05:38",
     name: "Juanita Chandler",
     weight: -1052,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 16:11:36",
     name: "Juanita Chandler",
     weight: -119,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-11 16:12:26",
     name: "Juanita Chandler",
     weight: -287,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-12 12:25:29",
@@ -39123,147 +47444,231 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1049,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 12:49:21",
     name: "Juanita Chandler",
     weight: 1398,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 12:56:05",
     name: "Juanita Chandler",
     weight: 1394,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 13:06:26",
     name: "Juanita Chandler",
     weight: 1023,
     category: "Danone - Creamer",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 13:15:03",
     name: "Juanita Chandler",
     weight: 1764,
     category: "Danone - Creamer",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 13:22:11",
     name: "Juanita Chandler",
     weight: 218,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 00:00:00",
     name: "Claire",
     weight: 200,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 13:23:05",
     name: "Juanita Chandler",
     weight: 287,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 13:36:24",
     name: "Juanita Chandler",
     weight: 150,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:34:11",
     name: "Juanita Chandler",
     weight: -1475,
     category: "Danone - Creamer",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:39:21",
     name: "Juanita Chandler",
     weight: 1877,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:41:43",
     name: "Juanita Chandler",
     weight: 43,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 00:00:00",
     name: "Safire Windley",
     weight: 1475,
     category: "Danone - Creamer",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:43:25",
     name: "Juanita Chandler",
     weight: -768,
     category: "Danone - Creamer",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:45:25",
     name: "Juanita Chandler",
     weight: -1091,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:46:17",
     name: "Juanita Chandler",
     weight: -163,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:48:01",
     name: "Juanita Chandler",
     weight: 607,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:49:13",
     name: "Juanita Chandler",
     weight: -748,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:53:36",
     name: "Juanita Chandler",
     weight: -717,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:55:53",
     name: "Juanita Chandler",
     weight: -369,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-18 15:57:52",
     name: "Juanita Chandler",
     weight: -149,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-19 13:22:22",
@@ -39480,161 +47885,253 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1134,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 00:00:00",
     name: "Safire Windley",
     weight: 513,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:39:18",
     name: "Juanita Chandler",
     weight: 162,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:46:35",
     name: "Juanita Chandler",
     weight: 1937,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:47:32",
     name: "Juanita Chandler",
     weight: 282,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:48:23",
     name: "Juanita Chandler",
     weight: 587,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:55:06",
     name: "Juanita Chandler",
     weight: 281,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 13:58:39",
     name: "Juanita Chandler",
     weight: 239,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 14:00:55",
     name: "Juanita Chandler",
     weight: 70,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 14:04:18",
     name: "Juanita Chandler",
     weight: 124,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 14:07:36",
     name: "Juanita Chandler",
     weight: 695,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 00:00:00",
     name: "Safire Windley",
     weight: 201,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 14:12:22",
     name: "Juanita Chandler",
     weight: 1501,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:44:44",
     name: "Juanita Chandler",
     weight: 336,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:47:37",
     name: "Juanita Chandler",
     weight: -213,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:48:36",
     name: "Juanita Chandler",
     weight: -24,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:51:15",
     name: "Juanita Chandler",
     weight: -1379,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:56:52",
     name: "Juanita Chandler",
     weight: -147,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 15:59:30",
     name: "Juanita Chandler",
     weight: -496,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 16:01:39",
     name: "Juanita Chandler",
     weight: -760,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 16:06:16",
     name: "Juanita Chandler",
     weight: -535,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 16:11:30",
     name: "Juanita Chandler",
     weight: -365,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-25 16:22:07",
     name: "Juanita Chandler",
     weight: -316,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-03-26 12:28:58",
@@ -39879,154 +48376,242 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1184,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:21:34",
     name: "Juanita Chandler",
     weight: 804,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:22:18",
     name: "Juanita Chandler",
     weight: 256,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:24:30",
     name: "Juanita Chandler",
     weight: 1171,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:31:20",
     name: "Juanita Chandler",
     weight: 443,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:35:24",
     name: "Juanita Chandler",
     weight: 113,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:37:30",
     name: "Juanita Chandler",
     weight: 240,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:39:53",
     name: "Juanita Chandler",
     weight: 571,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:47:21",
     name: "Juanita Chandler",
     weight: 1658,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:51:45",
     name: "Juanita Chandler",
     weight: 1849,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:54:18",
     name: "Juanita Chandler",
     weight: 513,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 13:56:40",
     name: "Juanita Chandler",
     weight: 147,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 14:51:12",
     name: "Beverly Pinn",
     weight: 190,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 14:51:38",
     name: "Beverly Pinn",
     weight: 151,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 14:52:17",
     name: "Beverly Pinn",
     weight: 685,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 15:11:13",
     name: "Beverly Pinn",
     weight: 333,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 15:38:39",
     name: "Juanita Chandler",
     weight: -331,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 15:46:50",
     name: "Juanita Chandler",
     weight: -927,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 15:47:54",
     name: "Juanita Chandler",
     weight: -69,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 15:49:47",
     name: "Juanita Chandler",
     weight: -1428,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 16:02:15",
     name: "Juanita Chandler",
     weight: -131,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 16:03:33",
     name: "Juanita Chandler",
     weight: -611,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-01 01:00:01",
@@ -40278,7 +48863,11 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 776,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:17:15",
@@ -40299,84 +48888,132 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1228,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:20:42",
     name: "Juanita Chandler",
     weight: 1164,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:22:15",
     name: "Juanita Chandler",
     weight: 1920,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:25:18",
     name: "Juanita Chandler",
     weight: 1276,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:37:59",
     name: "Juanita Chandler",
     weight: 967,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:38:55",
     name: "Juanita Chandler",
     weight: 128,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:42:51",
     name: "Juanita Chandler",
     weight: 1116,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:50:20",
     name: "Juanita Chandler",
     weight: 565,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:51:04",
     name: "Juanita Chandler",
     weight: 222,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 13:52:16",
     name: "Juanita Chandler",
     weight: 1270,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 15:25:41",
     name: "Opeyemi Faleye",
     weight: 309,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 15:26:12",
     name: "Opeyemi Faleye",
     weight: 1713,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF [Non Curbside] [Sandtown]",
+=======
     location: "BCF [Non Curbside] - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 15:28:35",
@@ -40390,63 +49027,99 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 1429,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 16:41:58",
     name: "Juanita Chandler",
     weight: -149,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 16:42:50",
     name: "Juanita Chandler",
     weight: -296,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 16:43:54",
     name: "Juanita Chandler",
     weight: -532,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 16:57:45",
     name: "Juanita Chandler",
     weight: -763,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 17:20:58",
     name: "Juanita Chandler",
     weight: -342,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 17:22:01",
     name: "Juanita Chandler",
     weight: -1663,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 17:23:01",
     name: "Juanita Chandler",
     weight: -1558,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-08 17:24:25",
     name: "Juanita Chandler",
     weight: -389,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-09 15:17:05",
@@ -40838,7 +49511,11 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1713,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 12:34:14",
@@ -40852,70 +49529,110 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 953,
     category: "Danone - Coffee",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 12:38:04",
     name: "Beverly Pinn",
     weight: 793,
     category: "Danone - Creamer",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 12:47:02",
     name: "Beverly Pinn",
     weight: 1456,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 13:20:32",
     name: "Juanita Chandler",
     weight: 381,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 13:21:46",
     name: "Juanita Chandler",
     weight: 1679,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 14:11:59",
     name: "Juanita Chandler",
     weight: 443,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 15:27:01",
     name: "Juanita Chandler",
     weight: 25,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 15:27:39",
     name: "Juanita Chandler",
     weight: 30,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 17:01:51",
     name: "Juanita Chandler",
     weight: -153,
     category: "Canned Goods",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-15 17:08:05",
     name: "Juanita Chandler",
     weight: -1173,
     category: "Condiments",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-16 16:27:52",
@@ -41265,49 +49982,77 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 2138,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:11:45",
     name: "Beverly Pinn",
     weight: 286,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:12:53",
     name: "Beverly Pinn",
     weight: 249,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:13:29",
     name: "Beverly Pinn",
     weight: 1907,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:19:09",
     name: "Beverly Pinn",
     weight: 257,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:20:46",
     name: "Beverly Pinn",
     weight: 240,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:21:15",
     name: "Beverly Pinn",
     weight: 98,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:43:10",
@@ -41321,21 +50066,33 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 947,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 12:46:13",
     name: "Beverly Pinn",
     weight: 970,
     category: "Other",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 13:47:54",
     name: "Juanita Chandler",
     weight: 2423,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 13:53:24",
@@ -41349,35 +50106,55 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 2447,
     category: "Danone - Creamer",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 14:19:00",
     name: "Juanita Chandler",
     weight: 196,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 14:20:08",
     name: "Juanita Chandler",
     weight: 1992,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 14:21:04",
     name: "Juanita Chandler",
     weight: -163,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 15:13:40",
     name: "Juanita Chandler",
     weight: 1857,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 15:15:04",
@@ -41391,63 +50168,99 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: -249,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:10:10",
     name: "Juanita Chandler",
     weight: 1393,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:12:05",
     name: "Juanita Chandler",
     weight: -522,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:13:14",
     name: "Juanita Chandler",
     weight: -112,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:15:42",
     name: "Juanita Chandler",
     weight: -2138,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:16:29",
     name: "Juanita Chandler",
     weight: -108,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:18:46",
     name: "Juanita Chandler",
     weight: -224,
     category: "Pet Supplies",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:19:40",
     name: "Juanita Chandler",
     weight: -1724,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-22 16:35:57",
     name: "Juanita Chandler",
     weight: -300,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-04-23 13:18:57",
@@ -42084,35 +50897,55 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 139,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 13:37:29",
     name: "Juanita Chandler",
     weight: 878,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 13:38:22",
     name: "Juanita Chandler",
     weight: 1675,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 13:39:30",
     name: "Juanita Chandler",
     weight: 1454,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 13:40:12",
     name: "Juanita Chandler",
     weight: 1221,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 13:41:16",
@@ -42140,98 +50973,154 @@ export const exportsList = [
     name: "Juanita Chandler",
     weight: 2030,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 00:00:00",
     name: "Claire",
     weight: 288,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:31:22",
     name: "Juanita Chandler",
     weight: -50,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:33:06",
     name: "Juanita Chandler",
     weight: -1660,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:34:30",
     name: "Juanita Chandler",
     weight: -658,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:35:12",
     name: "Juanita Chandler",
     weight: -666,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:36:00",
     name: "Juanita Chandler",
     weight: -1174,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:37:09",
     name: "Juanita Chandler",
     weight: 356,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:37:43",
     name: "Juanita Chandler",
     weight: 2159,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:39:00",
     name: "Juanita Chandler",
     weight: 415,
     category: "Spices",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:39:37",
     name: "Juanita Chandler",
     weight: 425,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:41:03",
     name: "Juanita Chandler",
     weight: 435,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 16:41:51",
     name: "Juanita Chandler",
     weight: -136,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-13 00:00:00",
     name: "Claire",
     weight: -356,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-16 15:31:31",
@@ -42483,154 +51372,242 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1350,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 12:01:29",
     name: "Beverly Pinn",
     weight: 1796,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 12:04:08",
     name: "Beverly Pinn",
     weight: 348,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 12:36:24",
     name: "Beverly Pinn",
     weight: 1689,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 12:49:32",
     name: "Juanita Chandler",
     weight: 1906,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:11:28",
     name: "Juanita Chandler",
     weight: 476,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:23:40",
     name: "Juanita Chandler",
     weight: 960,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:33:44",
     name: "Juanita Chandler",
     weight: 0,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:48:16",
     name: "Juanita Chandler",
     weight: 186,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:48:52",
     name: "Juanita Chandler",
     weight: 135,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 13:58:11",
     name: "Juanita Chandler",
     weight: 1523,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:03:42",
     name: "Juanita Chandler",
     weight: 698,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:04:24",
     name: "Juanita Chandler",
     weight: -1028,
     category: "Dairy",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:05:00",
     name: "Juanita Chandler",
     weight: -1310,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:05:46",
     name: "Juanita Chandler",
     weight: -91,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:16:56",
     name: "Juanita Chandler",
     weight: -736,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:17:33",
     name: "Juanita Chandler",
     weight: -711,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:23:17",
     name: "Juanita Chandler",
     weight: -1646,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:25:10",
     name: "Juanita Chandler",
     weight: -293,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:29:57",
     name: "Juanita Chandler",
     weight: -392,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:31:58",
     name: "Juanita Chandler",
     weight: -1563,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-20 16:36:20",
     name: "Juanita Chandler",
     weight: -82,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-21 15:45:30",
@@ -42959,133 +51936,209 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 666,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 12:18:04",
     name: "Beverly Pinn",
     weight: 250,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 12:18:45",
     name: "Beverly Pinn",
     weight: 1046,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 12:19:22",
     name: "Beverly Pinn",
     weight: 1179,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 12:36:30",
     name: "Beverly Pinn",
     weight: 1934,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 13:46:40",
     name: "Juanita Chandler",
     weight: 949,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 14:15:21",
     name: "Juanita Chandler",
     weight: 1576,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 14:16:07",
     name: "Juanita Chandler",
     weight: 607,
     category: "Danone - Coffee",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 14:16:37",
     name: "Juanita Chandler",
     weight: 297,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 15:56:32",
     name: "Juanita Chandler",
     weight: -907,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 15:58:01",
     name: "Juanita Chandler",
     weight: -321,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 15:58:54",
     name: "Juanita Chandler",
     weight: -1356,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 15:59:40",
     name: "Juanita Chandler",
     weight: -185,
     category: "Snacks",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:07:23",
     name: "Juanita Chandler",
     weight: -586,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:07:58",
     name: "Juanita Chandler",
     weight: -849,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:12:12",
     name: "Juanita Chandler",
     weight: 340,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:12:57",
     name: "Juanita Chandler",
     weight: -117,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:17:15",
     name: "Juanita Chandler",
     weight: -768,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-27 16:19:22",
     name: "Juanita Chandler",
     weight: -408,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-05-28 14:10:34",
@@ -43320,84 +52373,84 @@ export const exportsList = [
   },
   {
     date: "2023-06-01 19:29:48",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1518,
     category: "Health & Beauty Products",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:30:10",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1534,
     category: "Health & Beauty Products",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:30:34",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 717,
     category: "Health & Beauty Products",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:30:53",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1464,
     category: "Health & Beauty Products",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:31:28",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1510,
     category: "Health & Beauty Products",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:32:38",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1153,
     category: "Danone - Coffee",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:33:04",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1047,
     category: "Danone - Coffee",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:33:26",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1490,
     category: "Danone - Coffee",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:34:43",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1387,
     category: "Danone - Coffee",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:35:38",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1220,
     category: "Dole - Fruit Cups",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:35:59",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1244,
     category: "Dole - Fruit Cups",
     location: "Individual",
   },
   {
     date: "2023-06-01 19:36:36",
-    name: "Aziza",
+    name: "Aziza Frank",
     weight: 1227,
     category: "Dole - Fruit Cups",
     location: "Individual",
@@ -43547,105 +52600,165 @@ export const exportsList = [
     name: "Other",
     weight: 171,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 13:53:26",
     name: "Rawan Elshobaky",
     weight: 1822,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 13:59:21",
     name: "Rawan Elshobaky",
     weight: 766,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 14:05:30",
     name: "Rawan Elshobaky",
     weight: 605,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 14:07:10",
     name: "Rawan Elshobaky",
     weight: 1207,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 14:21:11",
     name: "Juanita Chandler",
     weight: 1533,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 14:30:10",
     name: "Juanita Chandler",
     weight: 2361,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 15:58:55",
     name: "Juanita Chandler",
     weight: -104,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 16:00:36",
     name: "Juanita Chandler",
     weight: -10,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 16:09:24",
     name: "Juanita Chandler",
     weight: -1286,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 16:10:03",
     name: "Juanita Chandler",
     weight: 78,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 16:13:09",
     name: "Juanita Chandler",
     weight: -1444,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 16:30:18",
     name: "Juanita Chandler",
     weight: -496,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 17:06:24",
     name: "Juanita Chandler",
     weight: -104,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 17:07:13",
     name: "Juanita Chandler",
     weight: -1326,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-03 00:00:00",
@@ -43946,14 +53059,22 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1806,
     category: "Dole - Juice",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 12:23:39",
     name: "Beverly Pinn",
     weight: 750,
     category: "Grains (rice, pasta, etc.)",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 12:47:52",
@@ -43995,14 +53116,22 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 329,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 13:48:42",
     name: "Beverly Pinn",
     weight: 343,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 13:49:37",
@@ -44016,7 +53145,11 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 231,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 14:07:49",
@@ -44030,28 +53163,44 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 743,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 14:26:06",
     name: "Beverly Pinn",
     weight: 1151,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 14:26:38",
     name: "Beverly Pinn",
     weight: 532,
     category: "Frozen [Not Meat]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 14:30:03",
     name: "Beverly Pinn",
     weight: 281,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 14:31:06",
@@ -44086,42 +53235,66 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 1166,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 16:37:04",
     name: "Beverly Pinn",
     weight: -91,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 16:37:37",
     name: "Beverly Pinn",
     weight: -237,
     category: "Danone - Yogurt",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 16:38:06",
     name: "Beverly Pinn",
     weight: -864,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 16:38:49",
     name: "Beverly Pinn",
     weight: -501,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-10 16:39:21",
     name: "Beverly Pinn",
     weight: -394,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-11 16:42:54",
@@ -44555,56 +53728,88 @@ export const exportsList = [
     name: "Beverly Pinn",
     weight: 131,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:03:48",
     name: "Beverly Pinn",
     weight: 901,
     category: "Dole - Fruit Cups",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:04:25",
     name: "Beverly Pinn",
     weight: 1524,
     category: "Drinks [Dry]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:05:20",
     name: "Beverly Pinn",
     weight: 532,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:06:00",
     name: "Beverly Pinn",
     weight: 404,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:06:41",
     name: "Beverly Pinn",
     weight: 1427,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:07:28",
     name: "Beverly Pinn",
     weight: 1471,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:08:06",
     name: "Beverly Pinn",
     weight: 885,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 16:08:58",
@@ -44716,42 +53921,66 @@ export const exportsList = [
     name: "Claire",
     weight: -705,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 18:09:24",
     name: "Claire",
     weight: -178,
     category: "Meat [Raw]",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 18:09:44",
     name: "Claire",
     weight: -1082,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 18:10:26",
     name: "Claire",
     weight: -437,
     category: "Produce",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 18:12:15",
     name: "Claire",
     weight: -603,
     category: "Assorted Fridge",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-17 18:16:16",
     name: "Claire",
     weight: -1532,
     category: "Assorted Dry",
+<<<<<<< HEAD
+    location: "BCF Curbside [Sandtown]",
+=======
     location: "BCF Curbside - Remington",
+>>>>>>> 1e819188bc0cc0c114017baba36ae77f96287b1c
   },
   {
     date: "2023-06-20 00:00:00",
@@ -45082,4115 +54311,20862 @@ export const exportsList = [
     category: "Dairy",
     location: "Pedro",
   },
+  {
+    date: "2023-07-01 15:34:40",
+    name: "Claire",
+    weight: 34061,
+    category: "Meat [Raw]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-01 15:35:54",
+    name: "Claire",
+    weight: 121,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-01 15:36:28",
+    name: "Claire",
+    weight: 64,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-03 12:47:01",
+    name: "Beverly Pinn",
+    weight: 2039,
+    category: "Water",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-07-03 12:47:41",
+    name: "Beverly Pinn",
+    weight: 1951,
+    category: "Water",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-07-03 12:48:48",
+    name: "Beverly Pinn",
+    weight: 1810,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-07-03 12:49:33",
+    name: "Beverly Pinn",
+    weight: 700,
+    category: "Snacks",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-07-03 12:50:36",
+    name: "Beverly Pinn",
+    weight: 1820,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-07-03 12:51:17",
+    name: "Beverly Pinn",
+    weight: 1668,
+    category: "Dairy",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-07-03 12:51:58",
+    name: "Beverly Pinn",
+    weight: 335,
+    category: "Paper Supplies",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-07-06 10:48:18",
+    name: "Claire",
+    weight: 40000,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-07-07 08:35:54",
+    name: "Safire Windley",
+    weight: 190,
+    category: "Paper Supplies",
+    location: "GBMC",
+  },
+  {
+    date: "2023-07-07 08:43:48",
+    name: "Safire Windley",
+    weight: 1166,
+    category: "Dole - Fruit Cups",
+    location: "GBMC",
+  },
+  {
+    date: "2023-07-07 09:34:26",
+    name: "Claire",
+    weight: 1828,
+    category: "Dole - Juice",
+    location: "GBMC",
+  },
+  {
+    date: "2023-07-07 09:35:01",
+    name: "Claire",
+    weight: 1634,
+    category: "Water",
+    location: "GBMC",
+  },
+  {
+    date: "2023-07-07 09:36:04",
+    name: "Claire",
+    weight: 2514,
+    category: "Drinks [Fridge]",
+    location: "GBMC",
+  },
+  {
+    date: "2023-07-08 14:47:34",
+    name: "Claire",
+    weight: 2198,
+    category: "Dairy",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-08 14:47:55",
+    name: "Claire",
+    weight: 2128,
+    category: "Drinks [Fridge]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-08 14:50:00",
+    name: "Claire",
+    weight: 2126,
+    category: "Drinks [Fridge]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-08 14:50:45",
+    name: "Claire",
+    weight: 2124,
+    category: "Drinks [Fridge]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-08 14:53:06",
+    name: "Claire",
+    weight: 2128,
+    category: "Drinks [Fridge]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-08 14:53:30",
+    name: "Claire",
+    weight: 320,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-08 14:54:06",
+    name: "Claire",
+    weight: 173,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-08 14:54:27",
+    name: "Claire",
+    weight: 126,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-08 14:54:44",
+    name: "Claire",
+    weight: 63,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-08 15:14:32",
+    name: "Claire",
+    weight: 1505,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-08 15:14:48",
+    name: "Claire",
+    weight: 1503,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-11 13:46:33",
+    name: "Barbara Zadek",
+    weight: 108,
+    category: "Other",
+    location: "Love & Cornbread",
+  },
+  {
+    date: "2023-07-12 16:53:10",
+    name: "Beverly Pinn",
+    weight: 38.44,
+    category: "Assorted Fridge",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-14 17:02:33",
+    name: "Claire",
+    weight: 24735,
+    category: "Meat [Raw]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-18 11:10:20",
+    name: "JC",
+    weight: 1809,
+    category: "Dole - Juice",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-18 11:11:02",
+    name: "JC",
+    weight: 1806,
+    category: "Dole - Juice",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-18 11:11:45",
+    name: "JC",
+    weight: 263,
+    category: "Paper Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-18 11:12:21",
+    name: "JC",
+    weight: 2989,
+    category: "Canned Goods",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-18 11:13:02",
+    name: "JC",
+    weight: 1666,
+    category: "Water",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-18 11:13:35",
+    name: "JC",
+    weight: 2027,
+    category: "Dole - Juice",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-18 11:14:18",
+    name: "JC",
+    weight: 1068,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-18 11:14:57",
+    name: "JC",
+    weight: 2193,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-18 11:15:29",
+    name: "JC",
+    weight: 673,
+    category: "Frozen [Not Meat]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-19 15:08:02",
+    name: "Beverly Pinn",
+    weight: 290,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-20 15:03:47",
+    name: "Claire",
+    weight: 1826,
+    category: "Dole - Juice",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-20 15:04:12",
+    name: "Claire",
+    weight: 2201,
+    category: "Dairy",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-20 15:04:33",
+    name: "Claire",
+    weight: 2202,
+    category: "Dairy",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-20 15:05:01",
+    name: "Claire",
+    weight: 376,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-20 15:05:30",
+    name: "Claire",
+    weight: 2069,
+    category: "Drinks [Fridge]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-20 15:05:57",
+    name: "Claire",
+    weight: 1821,
+    category: "Dole - Juice",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-20 15:48:12",
+    name: "Claire",
+    weight: 45,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-20 15:49:06",
+    name: "Claire",
+    weight: 476,
+    category: "Dole - Juice",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-22 13:41:04",
+    name: "Beverly Pinn",
+    weight: 49,
+    category: "Meat [Raw]",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-07-22 13:41:49",
+    name: "Beverly Pinn",
+    weight: 192,
+    category: "Dairy",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-07-23 14:26:49",
+    name: "Other",
+    weight: 268,
+    category: "Assorted Fridge",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-07-23 15:15:01",
+    name: "Other",
+    weight: 172,
+    category: "Assorted Fridge",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-23 20:55:58",
+    name: "Safire Windley",
+    weight: 307,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-23 20:56:27",
+    name: "Safire Windley",
+    weight: 845,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-23 20:56:59",
+    name: "Safire Windley",
+    weight: 640,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-23 21:12:06",
+    name: "Safire Windley",
+    weight: 2016,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-23 21:12:39",
+    name: "Safire Windley",
+    weight: 2016,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-23 21:13:14",
+    name: "Safire Windley",
+    weight: 1813,
+    category: "Dole - Fruit Cups",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-25 10:00:23",
+    name: "Claire",
+    weight: 57,
+    category: "Dole - Juice",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-25 12:19:17",
+    name: "Beverly Pinn",
+    weight: 1818,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-25 12:20:22",
+    name: "Beverly Pinn",
+    weight: 1740,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-25 12:20:55",
+    name: "Beverly Pinn",
+    weight: 1260,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-25 12:21:39",
+    name: "Beverly Pinn",
+    weight: 1022,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-25 12:22:17",
+    name: "Beverly Pinn",
+    weight: 2026,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-25 12:22:58",
+    name: "Beverly Pinn",
+    weight: 1247,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-25 12:23:46",
+    name: "Beverly Pinn",
+    weight: 2788,
+    category: "Canned Goods",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-07-26 09:54:32",
+    name: "Denise Rivers",
+    weight: 273,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-07-26 13:56:08",
+    name: "Beverly Pinn",
+    weight: 87,
+    category: "Paper Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-26 13:57:10",
+    name: "Beverly Pinn",
+    weight: 792,
+    category: "Drinks [Dry]",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-26 13:58:15",
+    name: "Beverly Pinn",
+    weight: 600,
+    category: "Drinks [Dry]",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-26 14:09:45",
+    name: "Beverly Pinn",
+    weight: 96,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-26 14:10:25",
+    name: "Beverly Pinn",
+    weight: 168,
+    category: "Assorted Fridge",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-26 14:12:41",
+    name: "Beverly Pinn",
+    weight: 212,
+    category: "Drinks [Dry]",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-26 14:41:57",
+    name: "Beverly Pinn",
+    weight: 241,
+    category: "Drinks [Dry]",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-26 14:43:35",
+    name: "Beverly Pinn",
+    weight: 98,
+    category: "Meat [Raw]",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-26 18:19:49",
+    name: "Claire",
+    weight: 123,
+    category: "Assorted Fridge",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-27 14:42:39",
+    name: "Beverly Pinn",
+    weight: 1019,
+    category: "Dole - Fruit Cups",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-27 14:45:21",
+    name: "Beverly Pinn",
+    weight: 1902,
+    category: "Drinks [Dry]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-27 14:45:54",
+    name: "Beverly Pinn",
+    weight: 1402,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-27 14:46:29",
+    name: "Beverly Pinn",
+    weight: 236,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-28 12:04:30",
+    name: "Claire",
+    weight: 46,
+    category: "Assorted Fridge",
+    location: "Pedro",
+  },
+  {
+    date: "2023-07-29 15:02:07",
+    name: "Beverly Pinn",
+    weight: 25,
+    category: "Assorted Fridge",
+    location: "Individual",
+  },
+  {
+    date: "2023-07-29 16:42:49",
+    name: "Claire",
+    weight: 2301,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-07-29 16:43:10",
+    name: "Claire",
+    weight: 1503,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-01 16:41:28",
+    name: "Claire",
+    weight: 973,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-01 16:43:54",
+    name: "Claire",
+    weight: 1060,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-01 16:44:18",
+    name: "Claire",
+    weight: 3084,
+    category: "Canned Goods",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-01 16:44:45",
+    name: "Claire",
+    weight: 1345,
+    category: "Dole - Juice",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-01 16:45:14",
+    name: "Claire",
+    weight: 1347,
+    category: "Dole - Juice",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-01 16:45:32",
+    name: "Claire",
+    weight: 2025,
+    category: "Water",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-01 16:45:54",
+    name: "Claire",
+    weight: 1607,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-01 16:46:15",
+    name: "Claire",
+    weight: 1014,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-01 16:46:37",
+    name: "Claire",
+    weight: 1305,
+    category: "Water",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-01 16:46:56",
+    name: "Claire",
+    weight: 1606,
+    category: "Drinks [Dry]",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-01 16:47:25",
+    name: "Claire",
+    weight: 1346,
+    category: "Dole - Juice",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-01 16:47:44",
+    name: "Claire",
+    weight: 3030,
+    category: "Canned Goods",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-01 16:48:03",
+    name: "Claire",
+    weight: 413,
+    category: "Assorted Fridge",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-01 16:48:23",
+    name: "Claire",
+    weight: 1711,
+    category: "Drinks [Dry]",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-02 13:16:17",
+    name: "Claire",
+    weight: 138,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-02 18:16:18",
+    name: "Claire",
+    weight: 60,
+    category: "Assorted Fridge",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-04 14:27:13",
+    name: "Barbara Zadek",
+    weight: 354,
+    category: "Assorted Dry",
+    location: "Love & Cornbread",
+  },
+  {
+    date: "2023-08-05 17:06:07",
+    name: "Other",
+    weight: 467,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 17:06:42",
+    name: "Other",
+    weight: 1620,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 17:07:22",
+    name: "Other",
+    weight: 1726,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 17:07:51",
+    name: "Other",
+    weight: 2103,
+    category: "Frozen [Not Meat]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 17:08:31",
+    name: "Other",
+    weight: 83,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 17:09:05",
+    name: "Other",
+    weight: 184,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 00:00:00",
+    name: "Safire Windley",
+    weight: -1164,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 00:00:00",
+    name: "Safire Windley",
+    weight: -414,
+    category: "Other",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 00:00:00",
+    name: "Other",
+    weight: -838,
+    category: "Other",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 00:00:00",
+    name: "Other",
+    weight: -698,
+    category: "Other",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 00:00:00",
+    name: "Other",
+    weight: -2486,
+    category: "Other",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 00:00:00",
+    name: "Other",
+    weight: -599,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 00:00:00",
+    name: "Other",
+    weight: -408,
+    category: "Condiments",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-05 00:00:00",
+    name: "Other",
+    weight: 545,
+    category: "Water",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-06 14:53:10",
+    name: "Opeyemi Faleye",
+    weight: 2221,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-06 15:51:16",
+    name: "Robin Gibbs",
+    weight: 230,
+    category: "Assorted Fridge",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-06 15:58:24",
+    name: "Pedro",
+    weight: 1911,
+    category: "Water",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-06 15:59:18",
+    name: "Pedro",
+    weight: 2743,
+    category: "Drinks [Dry]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-06 16:00:04",
+    name: "Pedro",
+    weight: 1370,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-06 16:00:35",
+    name: "Pedro",
+    weight: 1731,
+    category: "Drinks [Dry]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-06 16:01:02",
+    name: "Pedro",
+    weight: 1598,
+    category: "Drinks [Dry]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-06 16:02:26",
+    name: "Linda Arce",
+    weight: 403,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-06 16:03:24",
+    name: "Other",
+    weight: 230,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-06 16:03:56",
+    name: "Other",
+    weight: 2221,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-08 15:40:41",
+    name: "Beverly Pinn",
+    weight: 402,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:41:15",
+    name: "Beverly Pinn",
+    weight: 531,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:41:48",
+    name: "Beverly Pinn",
+    weight: 901,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:42:29",
+    name: "Beverly Pinn",
+    weight: 355,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:42:58",
+    name: "Beverly Pinn",
+    weight: 727,
+    category: "Condiments",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:43:34",
+    name: "Beverly Pinn",
+    weight: 355,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:44:03",
+    name: "Beverly Pinn",
+    weight: 1548,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:44:31",
+    name: "Beverly Pinn",
+    weight: 1763,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:45:11",
+    name: "Beverly Pinn",
+    weight: 1094,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:45:45",
+    name: "Beverly Pinn",
+    weight: 1156,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:46:20",
+    name: "Beverly Pinn",
+    weight: 1107,
+    category: "Water",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:46:48",
+    name: "Beverly Pinn",
+    weight: 3031,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:47:28",
+    name: "Beverly Pinn",
+    weight: 944,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-08 15:48:55",
+    name: "Beverly Pinn",
+    weight: 1308,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-08 15:49:37",
+    name: "Beverly Pinn",
+    weight: 1021,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-08 15:50:24",
+    name: "Beverly Pinn",
+    weight: 380,
+    category: "Paper Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-08 15:51:18",
+    name: "Beverly Pinn",
+    weight: 1326,
+    category: "Drinks [Dry]",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-08 15:53:25",
+    name: "Beverly Pinn",
+    weight: 3064,
+    category: "Condiments",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-08 15:54:11",
+    name: "Beverly Pinn",
+    weight: 1171,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-08 15:55:39",
+    name: "Beverly Pinn",
+    weight: 772,
+    category: "Produce",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-08 15:56:43",
+    name: "Beverly Pinn",
+    weight: 133,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-09 09:23:03",
+    name: "Safire Windley",
+    weight: 1089,
+    category: "Dole - Fruit Cups",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-08-09 09:41:00",
+    name: "Safire Windley",
+    weight: 1607,
+    category: "Drinks [Dry]",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-08-09 14:01:17",
+    name: "Nina Early",
+    weight: 298,
+    category: "Dole - Fruit Cups",
+    location: "Love & Cornbread",
+  },
+  {
+    date: "2023-08-10 00:00:00",
+    name: "Safire Windley",
+    weight: 1088,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-10 00:00:00",
+    name: "Safire Windley",
+    weight: 1097,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-10 00:00:00",
+    name: "Safire Windley",
+    weight: 1051,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-10 00:00:00",
+    name: "Safire Windley",
+    weight: 1048,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-10 00:00:00",
+    name: "Safire Windley",
+    weight: 1815,
+    category: "Dole - Juice",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-10 00:00:00",
+    name: "Safire Windley",
+    weight: 506,
+    category: "Paper Supplies",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-10 00:00:00",
+    name: "Safire Windley",
+    weight: 447,
+    category: "Paper Supplies",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-10 00:00:00",
+    name: "Safire Windley",
+    weight: 1290,
+    category: "Assorted Dry",
+    location: "Impact Hub",
+  },
+  {
+    date: "2023-08-11 17:07:13",
+    name: "Sunita Pathik",
+    weight: 235,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-08-13 13:21:38",
+    name: "Other",
+    weight: 34,
+    category: "Baby Supplies",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-13 13:44:23",
+    name: "Aaron Oldenburg",
+    weight: 1701,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-12 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 51,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-12 00:00:00",
+    name: "Safire Windley",
+    weight: 1701,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-13 13:49:08",
+    name: "Aaron Oldenburg",
+    weight: 6,
+    category: "Snacks",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-13 15:37:35",
+    name: "Zoe",
+    weight: 1755,
+    category: "Assorted Fridge",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-15 17:11:07",
+    name: "Beverly Pinn",
+    weight: 122,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-15 17:11:55",
+    name: "Beverly Pinn",
+    weight: 1058,
+    category: "Dole - Fruit Cups",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-15 17:12:20",
+    name: "Beverly Pinn",
+    weight: 1067,
+    category: "Dole - Fruit Cups",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-15 17:12:52",
+    name: "Beverly Pinn",
+    weight: 1567,
+    category: "Drinks [Dry]",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-15 17:13:29",
+    name: "Beverly Pinn",
+    weight: 572,
+    category: "Snacks",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-15 17:14:15",
+    name: "Beverly Pinn",
+    weight: 1014,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-15 17:14:45",
+    name: "Beverly Pinn",
+    weight: 1017,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-15 17:15:23",
+    name: "Beverly Pinn",
+    weight: 1709,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-15 17:15:58",
+    name: "Beverly Pinn",
+    weight: 633,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-15 17:16:35",
+    name: "Beverly Pinn",
+    weight: 524,
+    category: "Paper Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-15 17:17:07",
+    name: "Beverly Pinn",
+    weight: 1096,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-15 17:17:36",
+    name: "Beverly Pinn",
+    weight: 1083,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-15 17:18:17",
+    name: "Beverly Pinn",
+    weight: 1186,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-15 17:27:04",
+    name: "Beverly Pinn",
+    weight: 873,
+    category: "Dole - Fruit Cups",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-15 17:27:38",
+    name: "Beverly Pinn",
+    weight: 974,
+    category: "Dole - Fruit Cups",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-15 17:30:21",
+    name: "Beverly Pinn",
+    weight: 3079,
+    category: "Condiments",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-15 17:36:00",
+    name: "JC",
+    weight: 1048,
+    category: "Dole - Fruit Cups",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-18 13:47:29",
+    name: "Nina Early",
+    weight: 217,
+    category: "Dole - Fruit Cups",
+    location: "Love & Cornbread",
+  },
+  {
+    date: "2023-08-18 00:00:00",
+    name: "Safire Windley",
+    weight: 907,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-18 00:00:00",
+    name: "Safire Windley",
+    weight: 266,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-18 00:00:00",
+    name: "Safire Windley",
+    weight: 364,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-18 00:00:00",
+    name: "Safire Windley",
+    weight: 31,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-18 00:00:00",
+    name: "Safire Windley",
+    weight: 121,
+    category: "Paper Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-18 16:58:50",
+    name: "Sunita Pathik",
+    weight: 238,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-08-20 00:00:00",
+    name: "Other",
+    weight: 1014,
+    category: "Baby Supplies",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-20 00:00:00",
+    name: "Other",
+    weight: 3062,
+    category: "Canned Goods",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-20 00:00:00",
+    name: "Other",
+    weight: 1064,
+    category: "Dole - Fruit Cups",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-20 00:00:00",
+    name: "Other",
+    weight: 1184,
+    category: "Drinks [Fridge]",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-20 00:00:00",
+    name: "Other",
+    weight: 2012,
+    category: "Dole - Juice",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-19 14:15:44",
+    name: "Tram Nguyen",
+    weight: 240,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 14:16:08",
+    name: "Tram Nguyen",
+    weight: 122,
+    category: "Frozen [Not Meat]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-20 12:08:10",
+    name: "Aaron Oldenburg",
+    weight: 67,
+    category: "Drinks [Fridge]",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-20 12:09:31",
+    name: "Aaron Oldenburg",
+    weight: 1074,
+    category: "Dole - Fruit Cups",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-20 12:10:16",
+    name: "Aaron Oldenburg",
+    weight: 2937,
+    category: "Drinks [Fridge]",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-20 12:11:03",
+    name: "Aaron Oldenburg",
+    weight: 1360,
+    category: "Drinks [Fridge]",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-20 12:11:33",
+    name: "Aaron Oldenburg",
+    weight: 1575,
+    category: "Drinks [Fridge]",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-20 12:12:08",
+    name: "Aaron Oldenburg",
+    weight: 1058,
+    category: "Dole - Fruit Cups",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 539,
+    category: "Paper Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 2074,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 292,
+    category: "Household",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 209,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 105,
+    category: "Other",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 122,
+    category: "Frozen [Not Meat]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 180,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 375,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 608,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 264,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-19 00:00:00",
+    name: "Aaron Oldenburg",
+    weight: 874,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-20 14:17:15",
+    name: "Linda Arce",
+    weight: 302,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-20 14:38:22",
+    name: "Linda Arce",
+    weight: 67,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-20 16:52:45",
+    name: "Zoe",
+    weight: 1642,
+    category: "Assorted Fridge",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-22 14:47:42",
+    name: "Beverly Pinn",
+    weight: 566,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-22 14:48:19",
+    name: "Beverly Pinn",
+    weight: 760,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-22 14:51:21",
+    name: "Beverly Pinn",
+    weight: 1345,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-22 14:51:52",
+    name: "Beverly Pinn",
+    weight: 1032,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-22 14:52:28",
+    name: "Beverly Pinn",
+    weight: 1402,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-22 14:53:55",
+    name: "Beverly Pinn",
+    weight: 780,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-22 14:54:33",
+    name: "Beverly Pinn",
+    weight: 1317,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-22 14:55:13",
+    name: "Beverly Pinn",
+    weight: 2010,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-22 14:58:49",
+    name: "Barbara Zadek",
+    weight: 38,
+    category: "Assorted Dry",
+    location: "Love & Cornbread",
+  },
+  {
+    date: "2023-08-23 13:30:38",
+    name: "Nina Early",
+    weight: 32.2,
+    category: "Dole - Fruit Cups",
+    location: "Love & Cornbread",
+  },
+  {
+    date: "2023-08-23 15:32:11",
+    name: "Beverly Pinn",
+    weight: 1990,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-23 15:33:03",
+    name: "Beverly Pinn",
+    weight: 1172,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-08-25 13:30:26",
+    name: "Other",
+    weight: 1055,
+    category: "Dole - Juice",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-25 13:39:08",
+    name: "Other",
+    weight: 1021,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-25 15:13:00",
+    name: "Safire Windley",
+    weight: 1109,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-25 16:44:26",
+    name: "Sunita Pathik",
+    weight: 144,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-08-25 17:36:39",
+    name: "Other",
+    weight: 24,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-08-27 13:31:19",
+    name: "Linda Arce",
+    weight: 191,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-27 13:44:45",
+    name: "Linda Arce",
+    weight: 80,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-27 14:09:41",
+    name: "Bryant Martin",
+    weight: 38,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-08-27 14:31:05",
+    name: "Bryant Martin",
+    weight: 1953,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-08-27 15:49:36",
+    name: "Other",
+    weight: 19,
+    category: "Assorted Dry",
+    location: "Morgan State University",
+  },
+  {
+    date: "2023-08-30 17:35:10",
+    name: "Beverly Pinn",
+    weight: 2031,
+    category: "Drinks [Dry]",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:36:06",
+    name: "Beverly Pinn",
+    weight: 1047,
+    category: "Drinks [Dry]",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:37:00",
+    name: "Beverly Pinn",
+    weight: 549,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:38:05",
+    name: "Beverly Pinn",
+    weight: 1082,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:38:44",
+    name: "Beverly Pinn",
+    weight: 2015,
+    category: "Drinks [Dry]",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:41:01",
+    name: "Beverly Pinn",
+    weight: 1054,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:41:33",
+    name: "Beverly Pinn",
+    weight: 1054,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:42:39",
+    name: "Beverly Pinn",
+    weight: 1054,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:43:24",
+    name: "Beverly Pinn",
+    weight: 1054,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:44:12",
+    name: "Beverly Pinn",
+    weight: 1064,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:44:39",
+    name: "Beverly Pinn",
+    weight: 1064,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:45:11",
+    name: "Beverly Pinn",
+    weight: 1187,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:45:43",
+    name: "Beverly Pinn",
+    weight: 1187,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:46:20",
+    name: "Beverly Pinn",
+    weight: 1059,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:47:00",
+    name: "Beverly Pinn",
+    weight: 1053,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:47:29",
+    name: "Beverly Pinn",
+    weight: 1016,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:47:58",
+    name: "Beverly Pinn",
+    weight: 1986,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:48:32",
+    name: "Beverly Pinn",
+    weight: 1185,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:49:02",
+    name: "Beverly Pinn",
+    weight: 1047,
+    category: "Drinks [Dry]",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:49:37",
+    name: "Beverly Pinn",
+    weight: 549,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:50:05",
+    name: "Beverly Pinn",
+    weight: 1082,
+    category: "Dole - Fruit Cups",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:50:43",
+    name: "Beverly Pinn",
+    weight: 567,
+    category: "Paper Supplies",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:51:10",
+    name: "Beverly Pinn",
+    weight: 567,
+    category: "Paper Supplies",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 17:51:41",
+    name: "Beverly Pinn",
+    weight: 567,
+    category: "Paper Supplies",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-30 00:00:00",
+    name: "Safire Windley",
+    weight: 741,
+    category: "Other",
+    location: "Pedro",
+  },
+  {
+    date: "2023-08-30 17:52:08",
+    name: "Beverly Pinn",
+    weight: 567,
+    category: "Paper Supplies",
+    location: "Farmlink [Mauricio]",
+  },
+  {
+    date: "2023-08-31 00:00:00",
+    name: "Safire Windley",
+    weight: 28358,
+    category: "Meat [Raw]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-01 16:56:38",
+    name: "Sunita Pathik",
+    weight: 106,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-09-02 10:01:48",
+    name: "JC",
+    weight: 1055,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-02 10:02:26",
+    name: "JC",
+    weight: 1513,
+    category: "Water",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-02 10:03:01",
+    name: "JC",
+    weight: 467,
+    category: "Produce",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-02 13:20:13",
+    name: "Other",
+    weight: 34,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-03 13:40:28",
+    name: "Linda Arce",
+    weight: 245,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-03 13:59:23",
+    name: "Linda Arce",
+    weight: 112,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-03 14:36:17",
+    name: "Zoe",
+    weight: 2462,
+    category: "Assorted Fridge",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-09-03 15:18:57",
+    name: "Aaron Oldenburg",
+    weight: 245,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-03 15:19:33",
+    name: "Aaron Oldenburg",
+    weight: 151,
+    category: "Personal Care",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-03 15:19:57",
+    name: "Aaron Oldenburg",
+    weight: 112,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-03 15:20:34",
+    name: "Aaron Oldenburg",
+    weight: 2462,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-09-07 15:57:25",
+    name: "Safire Windley",
+    weight: 1020,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-07 15:58:19",
+    name: "Safire Windley",
+    weight: 923,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-07 15:59:01",
+    name: "Safire Windley",
+    weight: 974,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-07 15:59:47",
+    name: "Safire Windley",
+    weight: 946,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-08 16:55:39",
+    name: "Sunita Pathik",
+    weight: 107,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-09-09 14:02:35",
+    name: "Other",
+    weight: 38,
+    category: "Assorted Dry",
+    location: "BCF [Non Curbside] [Sandtown]",
+  },
+  {
+    date: "2023-09-10 15:24:37",
+    name: "Zoe",
+    weight: 1668,
+    category: "Assorted Fridge",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-09-10 15:31:22",
+    name: "Denise Rivers",
+    weight: 2468,
+    category: "Danone - Yogurt",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-10 15:32:13",
+    name: "Denise Rivers",
+    weight: 1063,
+    category: "Dole - Fruit Cups",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-10 15:32:52",
+    name: "Denise Rivers",
+    weight: 2137,
+    category: "Danone - Yogurt",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-10 15:33:42",
+    name: "Denise Rivers",
+    weight: 916,
+    category: "Meat [Raw]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-10 15:34:55",
+    name: "Denise Rivers",
+    weight: 552,
+    category: "Canned Goods",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-10 15:35:39",
+    name: "Denise Rivers",
+    weight: 241,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-12 15:01:17",
+    name: "Karen Moore",
+    weight: 2019,
+    category: "Dole - Juice",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-12 15:11:23",
+    name: "Karen Moore",
+    weight: 442,
+    category: "Paper Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-12 15:12:17",
+    name: "Karen Moore",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-12 15:13:03",
+    name: "Karen Moore",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-12 15:13:53",
+    name: "Karen Moore",
+    weight: 543,
+    category: "Produce",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-12 15:14:53",
+    name: "Karen Moore",
+    weight: 557,
+    category: "Dairy",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-12 15:16:26",
+    name: "Karen Moore",
+    weight: 2014,
+    category: "Dole - Juice",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-12 15:17:16",
+    name: "Karen Moore",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-13 10:55:52",
+    name: "Adriana Hill",
+    weight: 536,
+    category: "Water",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-15 16:55:53",
+    name: "Sunita Pathik",
+    weight: 156,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-09-16 16:16:05",
+    name: "Waldo Alvarez",
+    weight: 564,
+    category: "Produce",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-16 16:17:15",
+    name: "Waldo Alvarez",
+    weight: 573,
+    category: "Produce",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-16 16:18:02",
+    name: "Waldo Alvarez",
+    weight: 1149,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-16 16:19:42",
+    name: "Waldo Alvarez",
+    weight: 10,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-16 16:20:44",
+    name: "Waldo Alvarez",
+    weight: 140,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-16 16:21:44",
+    name: "Waldo Alvarez",
+    weight: 96,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-16 16:24:00",
+    name: "Waldo Alvarez",
+    weight: 89,
+    category: "Assorted Dry",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-09-16 16:25:16",
+    name: "Waldo Alvarez",
+    weight: 167,
+    category: "Assorted Dry",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-09-17 15:16:37",
+    name: "Kate Weeks",
+    weight: 220,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-17 15:17:29",
+    name: "Kate Weeks",
+    weight: 585,
+    category: "Assorted Fridge",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-09-17 15:18:58",
+    name: "Kate Weeks",
+    weight: 125,
+    category: "Drinks [Dry]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-17 15:21:12",
+    name: "Kate Weeks",
+    weight: 18,
+    category: "Drinks [Dry]",
+    location: "BCF [Non Curbside] [Sandtown]",
+  },
+  {
+    date: "2023-09-17 15:21:58",
+    name: "Kate Weeks",
+    weight: 575,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-09-20 14:08:44",
+    name: "Karen Moore",
+    weight: 430,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-20 14:10:52",
+    name: "Karen Moore",
+    weight: 382,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-20 14:11:33",
+    name: "Karen Moore",
+    weight: 1009,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-20 14:12:04",
+    name: "Karen Moore",
+    weight: 1023,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-20 14:12:32",
+    name: "Karen Moore",
+    weight: 1111,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-20 14:13:49",
+    name: "Karen Moore",
+    weight: 1057,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-20 14:14:22",
+    name: "Karen Moore",
+    weight: 1112,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-20 17:16:05",
+    name: "Karen Moore",
+    weight: 737,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-20 17:17:00",
+    name: "Karen Moore",
+    weight: 957,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-20 17:49:37",
+    name: "Karen Moore",
+    weight: 1163,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-21 14:16:30",
+    name: "Other",
+    weight: 29,
+    category: "Baby Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-21 15:19:23",
+    name: "Other",
+    weight: 46,
+    category: "Produce",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-09-21 15:34:27",
+    name: "Other",
+    weight: 38,
+    category: "Dairy",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-09-21 15:36:38",
+    name: "Other",
+    weight: 88,
+    category: "Produce",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-09-21 15:53:58",
+    name: "Other",
+    weight: 38,
+    category: "Dole - Fruit Cups",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-09-22 16:04:06",
+    name: "Mary Jo Gary",
+    weight: 462,
+    category: "Dairy",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-22 16:04:57",
+    name: "Mary Jo Gary",
+    weight: 600,
+    category: "Baby Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-22 16:06:00",
+    name: "Mary Jo Gary",
+    weight: 1148,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-22 17:02:59",
+    name: "Sunita Pathik",
+    weight: 158,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-09-23 12:01:21",
+    name: "Chi Chi",
+    weight: 1360,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:03:20",
+    name: "Xinyue Gu",
+    weight: 1249,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:04:46",
+    name: "Xinyue Gu",
+    weight: 624,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:07:12",
+    name: "Xinyue Gu",
+    weight: 1288,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:08:23",
+    name: "Xinyue Gu",
+    weight: 1296,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:09:59",
+    name: "Xinyue Gu",
+    weight: 977,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:10:58",
+    name: "Xinyue Gu",
+    weight: 1193,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:12:06",
+    name: "Xinyue Gu",
+    weight: 139,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:12:28",
+    name: "Xinyue Gu",
+    weight: 1325,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:12:55",
+    name: "Xinyue Gu",
+    weight: 145,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:13:23",
+    name: "Xinyue Gu",
+    weight: 508,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:15:15",
+    name: "Xinyue Gu",
+    weight: 327,
+    category: "Other",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:24:46",
+    name: "Chi Chi",
+    weight: 169,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:34:02",
+    name: "Xinyue Gu",
+    weight: 169,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-23 14:34:26",
+    name: "Xinyue Gu",
+    weight: 230,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-24 14:26:38",
+    name: "Aaron Oldenburg",
+    weight: 940,
+    category: "Household",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-09-26 10:09:57",
+    name: "Chi Chi",
+    weight: 1097,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-26 10:10:59",
+    name: "Chi Chi",
+    weight: 1142,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-26 10:12:35",
+    name: "Other",
+    weight: 1224,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-26 10:37:09",
+    name: "Other",
+    weight: 496,
+    category: "Snacks",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-26 10:37:44",
+    name: "Chi Chi",
+    weight: 833,
+    category: "Baby Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-26 10:38:11",
+    name: "Chi Chi",
+    weight: 1217,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-26 10:39:00",
+    name: "Chi Chi",
+    weight: 97,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-26 10:39:27",
+    name: "Chi Chi",
+    weight: 20,
+    category: "Other",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-09-26 14:33:21",
+    name: "Charmika Burton",
+    weight: 478,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-27 17:21:51",
+    name: "Beverly Pinn",
+    weight: 458,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 13:00:29",
+    name: "Chi Chi",
+    weight: 1178,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-29 13:01:17",
+    name: "Chi Chi",
+    weight: 457,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-29 13:16:00",
+    name: "Chi Chi",
+    weight: 20700,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 13:17:00",
+    name: "Chi Chi",
+    weight: 576,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 13:49:48",
+    name: "Chi Chi",
+    weight: 571,
+    category: "Frozen [Not Meat]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-09-29 13:50:25",
+    name: "Chi Chi",
+    weight: 641,
+    category: "Frozen [Not Meat]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-09-29 13:51:10",
+    name: "Chi Chi",
+    weight: 349,
+    category: "Frozen [Not Meat]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-09-29 13:51:54",
+    name: "Chi Chi",
+    weight: 1693,
+    category: "Frozen [Not Meat]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-09-29 13:52:25",
+    name: "Chi Chi",
+    weight: 2258,
+    category: "Drinks [Fridge]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-09-29 13:53:06",
+    name: "Chi Chi",
+    weight: 498,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-09-29 13:53:38",
+    name: "Chi Chi",
+    weight: 1938,
+    category: "Dole - Fruit Cups",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-09-29 13:54:40",
+    name: "Chi Chi",
+    weight: 1337,
+    category: "Meat [Raw]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-09-29 13:56:04",
+    name: "Chi Chi",
+    weight: 1454,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 13:56:36",
+    name: "Chi Chi",
+    weight: 1578,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 13:57:05",
+    name: "Chi Chi",
+    weight: 999,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 13:57:30",
+    name: "Chi Chi",
+    weight: 1476,
+    category: "Meat [Raw]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 13:57:58",
+    name: "Chi Chi",
+    weight: 667,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 14:00:36",
+    name: "Chi Chi",
+    weight: 678,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 14:01:02",
+    name: "Chi Chi",
+    weight: 698,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 14:01:29",
+    name: "Chi Chi",
+    weight: 629,
+    category: "Frozen [Not Meat]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-09-29 14:14:40",
+    name: "Other",
+    weight: 182,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-29 14:17:50",
+    name: "Chi Chi",
+    weight: 1172,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-09-29 14:34:03",
+    name: "Chi Chi",
+    weight: 1098,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-09-30 13:31:49",
+    name: "Kelly Chen",
+    weight: 2035,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 13:36:36",
+    name: "Kelly Chen",
+    weight: 1928,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 13:43:57",
+    name: "Kelly Chen",
+    weight: 1082,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 13:47:20",
+    name: "Kelly Chen",
+    weight: 709,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 13:55:35",
+    name: "Kelly Chen",
+    weight: 176,
+    category: "Frozen [Not Meat]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 13:59:43",
+    name: "Kelly Chen",
+    weight: 198,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 14:16:56",
+    name: "Kelly Chen",
+    weight: 1186,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 14:18:30",
+    name: "Kelly Chen",
+    weight: 348,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 14:20:45",
+    name: "Kelly Chen",
+    weight: 403,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 14:24:46",
+    name: "Kelly Chen",
+    weight: 655,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 14:32:23",
+    name: "Kelly Chen",
+    weight: 517,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 15:47:08",
+    name: "Kelly Chen",
+    weight: -166,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 15:54:18",
+    name: "Kelly Chen",
+    weight: -552,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 15:56:58",
+    name: "Kelly Chen",
+    weight: -128,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 16:01:49",
+    name: "Kelly Chen",
+    weight: -396,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 16:07:42",
+    name: "Kelly Chen",
+    weight: -23,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 16:13:22",
+    name: "Kelly Chen",
+    weight: -853,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 16:18:20",
+    name: "Kelly Chen",
+    weight: -346,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 16:22:29",
+    name: "Kelly Chen",
+    weight: -205,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 16:27:38",
+    name: "Kelly Chen",
+    weight: -398,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-09-30 16:51:20",
+    name: "Kelly Chen",
+    weight: 35,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-01 13:40:44",
+    name: "Rochelle Clunie",
+    weight: 88,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-01 15:02:34",
+    name: "Zoe",
+    weight: 2138,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-10-01 15:02:58",
+    name: "Zoe",
+    weight: 1234,
+    category: "Assorted Fridge",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-10-03 13:47:02",
+    name: "Chi Chi",
+    weight: 1987,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-03 13:47:43",
+    name: "Chi Chi",
+    weight: 1369,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-03 13:48:28",
+    name: "Chi Chi",
+    weight: 2316,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-03 13:50:31",
+    name: "Chi Chi",
+    weight: 1009,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-03 13:50:56",
+    name: "Chi Chi",
+    weight: 1176,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-03 13:51:24",
+    name: "Chi Chi",
+    weight: 897,
+    category: "Meat [Raw]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-03 13:52:59",
+    name: "Chi Chi",
+    weight: 1638,
+    category: "Meat [Raw]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-03 13:53:33",
+    name: "Chi Chi",
+    weight: 1801,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-03 13:54:12",
+    name: "Chi Chi",
+    weight: 1157,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-03 14:02:12",
+    name: "Chi Chi",
+    weight: 40000,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-05 14:06:47",
+    name: "Barbara Zadek",
+    weight: 90,
+    category: "Baby Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2023-10-05 15:00:32",
+    name: "Chi Chi",
+    weight: 637,
+    category: "Snacks",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-05 15:00:58",
+    name: "Chi Chi",
+    weight: 1579,
+    category: "Drinks [Fridge]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-05 15:01:32",
+    name: "Chi Chi",
+    weight: 2424,
+    category: "Drinks [Fridge]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-05 15:09:39",
+    name: "Chi Chi",
+    weight: 1795,
+    category: "Canned Goods",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-05 15:10:26",
+    name: "Chi Chi",
+    weight: 2309,
+    category: "Dole - Fruit Cups",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-05 15:10:50",
+    name: "Chi Chi",
+    weight: 838,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-05 15:18:00",
+    name: "Chi Chi",
+    weight: 1538,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-06 13:40:11",
+    name: "Chi Chi",
+    weight: 485,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-07 15:41:42",
+    name: "JC",
+    weight: 241,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:42:15",
+    name: "JC",
+    weight: 272,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:42:55",
+    name: "JC",
+    weight: 1261,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:43:21",
+    name: "JC",
+    weight: 346,
+    category: "Condiments",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:43:53",
+    name: "JC",
+    weight: 1252,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:44:19",
+    name: "JC",
+    weight: 261,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:44:59",
+    name: "JC",
+    weight: 1683,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:45:24",
+    name: "JC",
+    weight: 1249,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:46:01",
+    name: "JC",
+    weight: 584,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:46:51",
+    name: "JC",
+    weight: 1303,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:47:26",
+    name: "JC",
+    weight: 2403,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:47:58",
+    name: "JC",
+    weight: 1134,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:49:01",
+    name: "JC",
+    weight: 615,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:49:26",
+    name: "JC",
+    weight: 1567,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:49:50",
+    name: "JC",
+    weight: 299,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:50:17",
+    name: "JC",
+    weight: 451,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:50:41",
+    name: "JC",
+    weight: 703,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:51:12",
+    name: "JC",
+    weight: 2517,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 15:51:37",
+    name: "JC",
+    weight: 279,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-07 16:34:32",
+    name: "Emily Stucke",
+    weight: -187,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-08 14:25:22",
+    name: "Aaron Oldenburg",
+    weight: 192,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-08 14:26:21",
+    name: "Aaron Oldenburg",
+    weight: 25,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-08 14:26:50",
+    name: "Aaron Oldenburg",
+    weight: 5,
+    category: "Dole - Fruit Cups",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-08 14:42:09",
+    name: "Zoe",
+    weight: 4090,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-10-11 11:46:00",
+    name: "Rochelle Clunie",
+    weight: 6265,
+    category: "Baby Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-10-11 14:26:56",
+    name: "Chi Chi",
+    weight: 2307,
+    category: "Meat [Raw]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-11 14:30:13",
+    name: "Chi Chi",
+    weight: 413,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-10-11 14:36:04",
+    name: "Chi Chi",
+    weight: 1481,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-11 14:36:34",
+    name: "Chi Chi",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-11 14:37:02",
+    name: "Chi Chi",
+    weight: 922,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-11 14:37:29",
+    name: "Chi Chi",
+    weight: 2382,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-11 14:41:44",
+    name: "Chi Chi",
+    weight: 1451,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-11 14:42:10",
+    name: "Chi Chi",
+    weight: 1618,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-11 14:42:37",
+    name: "Chi Chi",
+    weight: 449,
+    category: "Meat [Raw]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-11 14:43:07",
+    name: "Chi Chi",
+    weight: 930,
+    category: "Meat [Raw]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-12 13:15:43",
+    name: "Rochelle Clunie",
+    weight: 182,
+    category: "Paper Supplies",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-12 13:16:53",
+    name: "Rochelle Clunie",
+    weight: 240,
+    category: "Produce",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-12 13:17:32",
+    name: "Rochelle Clunie",
+    weight: 916,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-12 13:56:03",
+    name: "Rochelle Clunie",
+    weight: 2811,
+    category: "Drinks [Fridge]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-12 14:22:59",
+    name: "Camille",
+    weight: 1051,
+    category: "Meat [Raw]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-12 15:02:48",
+    name: "Rochelle Clunie",
+    weight: 101,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-10-13 10:24:44",
+    name: "Chi Chi",
+    weight: 906,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-13 10:25:11",
+    name: "Chi Chi",
+    weight: 1151,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-13 10:25:47",
+    name: "Chi Chi",
+    weight: 675,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-13 10:26:15",
+    name: "Chi Chi",
+    weight: 582,
+    category: "Meat [Raw]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-13 16:57:06",
+    name: "Sunita Pathik",
+    weight: 140,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-10-14 11:03:08",
+    name: "Chi Chi",
+    weight: 968,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-10-14 11:03:28",
+    name: "Chi Chi",
+    weight: 346,
+    category: "Meat [Raw]",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-10-14 12:08:20",
+    name: "Chi Chi",
+    weight: 103,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-14 12:08:53",
+    name: "Chi Chi",
+    weight: 955,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-14 12:10:13",
+    name: "Chi Chi",
+    weight: 509,
+    category: "Meat [Raw]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-10-14 12:11:14",
+    name: "Chi Chi",
+    weight: 381,
+    category: "Meat [Raw]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-10-14 12:11:50",
+    name: "Chi Chi",
+    weight: 1003,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-14 12:12:27",
+    name: "Chi Chi",
+    weight: 310,
+    category: "Meat [Raw]",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-10-14 12:12:52",
+    name: "Chi Chi",
+    weight: 934,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-10-15 12:22:03",
+    name: "Aaron Oldenburg",
+    weight: 191,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:22:42",
+    name: "Aaron Oldenburg",
+    weight: 621,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:23:22",
+    name: "Aaron Oldenburg",
+    weight: 1008,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:24:03",
+    name: "Aaron Oldenburg",
+    weight: 208,
+    category: "Other",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:24:46",
+    name: "Aaron Oldenburg",
+    weight: 79,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:25:21",
+    name: "Aaron Oldenburg",
+    weight: 65,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:26:25",
+    name: "Aaron Oldenburg",
+    weight: 1389,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:27:55",
+    name: "Aaron Oldenburg",
+    weight: 39,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:28:32",
+    name: "Aaron Oldenburg",
+    weight: 150,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:29:00",
+    name: "Aaron Oldenburg",
+    weight: 1059,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:29:27",
+    name: "Aaron Oldenburg",
+    weight: 261,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:30:22",
+    name: "Aaron Oldenburg",
+    weight: 932,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:31:31",
+    name: "Aaron Oldenburg",
+    weight: 244,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:32:07",
+    name: "Aaron Oldenburg",
+    weight: 1758,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:32:46",
+    name: "Aaron Oldenburg",
+    weight: 1147,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:33:20",
+    name: "Aaron Oldenburg",
+    weight: 566,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:33:51",
+    name: "Aaron Oldenburg",
+    weight: 2331,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:34:22",
+    name: "Aaron Oldenburg",
+    weight: 683,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:34:58",
+    name: "Aaron Oldenburg",
+    weight: 369,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:35:28",
+    name: "Aaron Oldenburg",
+    weight: 661,
+    category: "Other",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:36:03",
+    name: "Aaron Oldenburg",
+    weight: 225,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:36:32",
+    name: "Aaron Oldenburg",
+    weight: 175,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 12:36:55",
+    name: "Aaron Oldenburg",
+    weight: 605,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-15 14:22:00",
+    name: "Rochelle Clunie",
+    weight: 15,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-15 14:22:39",
+    name: "Rochelle Clunie",
+    weight: 20,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-15 14:23:27",
+    name: "Rochelle Clunie",
+    weight: 6,
+    category: "Snacks",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-15 14:24:07",
+    name: "Rochelle Clunie",
+    weight: 40,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-15 14:24:43",
+    name: "Rochelle Clunie",
+    weight: 37,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-15 15:06:11",
+    name: "Zoe",
+    weight: 1896,
+    category: "Assorted Fridge",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-10-16 13:53:22",
+    name: "Other",
+    weight: 30000,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-19 13:51:11",
+    name: "Rochelle Clunie",
+    weight: 1018,
+    category: "Baby Supplies",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-19 13:52:25",
+    name: "Rochelle Clunie",
+    weight: 1226,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-19 13:53:00",
+    name: "Rochelle Clunie",
+    weight: 1146,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-19 13:53:48",
+    name: "Rochelle Clunie",
+    weight: 1105,
+    category: "Dole - Fruit Cups",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-19 13:54:27",
+    name: "Rochelle Clunie",
+    weight: 1006,
+    category: "Produce",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-19 14:17:01",
+    name: "Rochelle Clunie",
+    weight: 216,
+    category: "Water",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-10-19 15:24:45",
+    name: "Other",
+    weight: 158,
+    category: "Produce",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-10-19 15:47:38",
+    name: "Rochelle Clunie",
+    weight: 18,
+    category: "Assorted Fridge",
+    location: "Individual",
+  },
+  {
+    date: "2023-10-19 16:00:15",
+    name: "Crystal Shaw",
+    weight: 114,
+    category: "Produce",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-10-19 16:41:25",
+    name: "Rochelle Clunie",
+    weight: 158,
+    category: "Assorted Dry",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-10-19 16:42:08",
+    name: "Rochelle Clunie",
+    weight: 118,
+    category: "Produce",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-10-20 11:57:07",
+    name: "Chi Chi",
+    weight: 2143,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-20 11:58:02",
+    name: "Chi Chi",
+    weight: 697,
+    category: "Baby Supplies",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-20 11:58:35",
+    name: "Chi Chi",
+    weight: 26,
+    category: "Other",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-20 12:03:58",
+    name: "Chi Chi",
+    weight: 1117,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-20 14:48:03",
+    name: "Chi Chi",
+    weight: 1141,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-10-20 14:48:28",
+    name: "Chi Chi",
+    weight: 551,
+    category: "Meat [Raw]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-10-20 14:48:57",
+    name: "Chi Chi",
+    weight: 552,
+    category: "Meat [Raw]",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-20 14:52:06",
+    name: "Chi Chi",
+    weight: 578,
+    category: "Baby Supplies",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-10-20 14:55:21",
+    name: "Chi Chi",
+    weight: 405,
+    category: "Baby Supplies",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-20 15:00:53",
+    name: "Chi Chi",
+    weight: 327,
+    category: "Produce",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-20 15:15:18",
+    name: "Chi Chi",
+    weight: 1198,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-21 13:45:31",
+    name: "Other",
+    weight: 1164,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 13:47:31",
+    name: "Other",
+    weight: 1123,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 13:47:31",
+    name: "Emily Stucke",
+    weight: 60,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 13:48:03",
+    name: "Emily Stucke",
+    weight: 1000,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 13:48:58",
+    name: "Emily Stucke",
+    weight: 233,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 13:49:42",
+    name: "Emily Stucke",
+    weight: 151,
+    category: "Assorted Fridge",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 13:54:06",
+    name: "Emily Stucke",
+    weight: 1025,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 14:00:20",
+    name: "Emily Stucke",
+    weight: 1161,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 14:04:18",
+    name: "Emily Stucke",
+    weight: 604,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 14:04:45",
+    name: "Emily Stucke",
+    weight: 606,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 14:13:15",
+    name: "Emily Stucke",
+    weight: 75,
+    category: "Other",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 14:13:59",
+    name: "Emily Stucke",
+    weight: 1970,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 14:14:59",
+    name: "Other",
+    weight: 1034,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 14:15:59",
+    name: "Other",
+    weight: 1007,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 15:59:18",
+    name: "Emily Stucke",
+    weight: -84,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 16:08:59",
+    name: "Emily Stucke",
+    weight: -1755,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 16:09:45",
+    name: "Emily Stucke",
+    weight: -112,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 16:14:44",
+    name: "Emily Stucke",
+    weight: -1491,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 16:21:22",
+    name: "Emily Stucke",
+    weight: -497,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 16:27:14",
+    name: "Emily Stucke",
+    weight: -209,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 16:34:51",
+    name: "Emily Stucke",
+    weight: -660,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-21 16:34:51",
+    name: "Other",
+    weight: -59,
+    category: "Frozen [Not Meat]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-22 15:13:08",
+    name: "Zoe",
+    weight: 3264,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-10-22 15:34:43",
+    name: "Zoe",
+    weight: 489,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-22 15:35:05",
+    name: "Zoe",
+    weight: 290,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-24 16:22:46",
+    name: "Marci Yankelov",
+    weight: 945,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-24 16:23:23",
+    name: "Marci Yankelov",
+    weight: 513,
+    category: "Baby Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-24 16:23:54",
+    name: "Marci Yankelov",
+    weight: 902,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-24 16:24:23",
+    name: "Marci Yankelov",
+    weight: 1185,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-24 16:24:58",
+    name: "Marci Yankelov",
+    weight: 1054,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-24 16:25:42",
+    name: "Marci Yankelov",
+    weight: 1073,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-26 12:30:22",
+    name: "Rochelle Clunie",
+    weight: 792,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-26 12:31:42",
+    name: "Rochelle Clunie",
+    weight: 1111,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-26 12:32:40",
+    name: "Rochelle Clunie",
+    weight: 1130,
+    category: "Assorted Fridge",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-26 12:33:38",
+    name: "Rochelle Clunie",
+    weight: 587,
+    category: "Meat [Raw]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-26 12:34:21",
+    name: "Rochelle Clunie",
+    weight: 25,
+    category: "Personal Care",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-26 12:35:35",
+    name: "Rochelle Clunie",
+    weight: 34,
+    category: "Snacks",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-26 12:36:51",
+    name: "Rochelle Clunie",
+    weight: 751,
+    category: "Pet Supplies",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-26 12:37:28",
+    name: "Rochelle Clunie",
+    weight: 894,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-26 12:43:35",
+    name: "Rochelle Clunie",
+    weight: 787,
+    category: "Pet Supplies",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-26 12:47:08",
+    name: "Rochelle Clunie",
+    weight: 1153,
+    category: "Dole - Fruit Cups",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-26 12:51:41",
+    name: "Rochelle Clunie",
+    weight: 1008,
+    category: "Baby Supplies",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-26 12:51:49",
+    name: "Other",
+    weight: 1020,
+    category: "Meat [Raw]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-10-26 14:43:33",
+    name: "Chi Chi",
+    weight: 120,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-26 14:45:46",
+    name: "Chi Chi",
+    weight: 26,
+    category: "Meat [Raw]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-26 14:46:32",
+    name: "Chi Chi",
+    weight: 24,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-26 14:47:29",
+    name: "Chi Chi",
+    weight: 24,
+    category: "Produce",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-10-27 15:09:25",
+    name: "Other",
+    weight: 943,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-27 15:09:57",
+    name: "Other",
+    weight: 405,
+    category: "Produce",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-27 15:10:19",
+    name: "Other",
+    weight: 979,
+    category: "Drinks [Fridge]",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-27 15:11:45",
+    name: "Other",
+    weight: 341,
+    category: "Meat [Raw]",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-10-27 17:09:35",
+    name: "Sunita Pathik",
+    weight: 133,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-10-28 13:04:13",
+    name: "Chi Chi",
+    weight: 1097,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:04:37",
+    name: "Chi Chi",
+    weight: 361,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:08:57",
+    name: "Chi Chi",
+    weight: 661,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:09:42",
+    name: "Chi Chi",
+    weight: 915,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:10:17",
+    name: "Chi Chi",
+    weight: 427,
+    category: "Condiments",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:10:40",
+    name: "Chi Chi",
+    weight: 143,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:12:55",
+    name: "Chi Chi",
+    weight: 77,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:14:36",
+    name: "Chi Chi",
+    weight: 359,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:15:05",
+    name: "Chi Chi",
+    weight: 1569,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:15:36",
+    name: "Chi Chi",
+    weight: 1502,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:25:00",
+    name: "Chi Chi",
+    weight: 41,
+    category: "Other",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:25:28",
+    name: "Chi Chi",
+    weight: 57,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:26:11",
+    name: "Chi Chi",
+    weight: 904,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 13:31:40",
+    name: "Chi Chi",
+    weight: 273,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 16:42:59",
+    name: "Chi Chi",
+    weight: 35,
+    category: "Other",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-28 16:43:33",
+    name: "Chi Chi",
+    weight: -2273,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 17:01:37",
+    name: "Chi Chi",
+    weight: 154,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 17:03:10",
+    name: "Chi Chi",
+    weight: 77,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 17:03:36",
+    name: "Chi Chi",
+    weight: -179,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 17:04:02",
+    name: "Chi Chi",
+    weight: -87,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 17:04:38",
+    name: "Chi Chi",
+    weight: 20,
+    category: "Assorted Fridge",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 17:04:59",
+    name: "Chi Chi",
+    weight: 20,
+    category: "Assorted Fridge",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 17:06:18",
+    name: "Chi Chi",
+    weight: -489,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 17:06:44",
+    name: "Other",
+    weight: -405,
+    category: "Condiments",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 17:07:40",
+    name: "Chi Chi",
+    weight: -273,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-28 17:08:26",
+    name: "Chi Chi",
+    weight: -178,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-10-29 14:21:07",
+    name: "Rochelle Clunie",
+    weight: 303,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-29 14:21:48",
+    name: "Rochelle Clunie",
+    weight: 41,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-29 14:22:47",
+    name: "Rochelle Clunie",
+    weight: 95,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-29 14:29:40",
+    name: "Rochelle Clunie",
+    weight: 32,
+    category: "Pet Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-10-29 15:11:10",
+    name: "Zoe",
+    weight: 2675,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-10-31 11:03:40",
+    name: "Rochelle Clunie",
+    weight: 1068,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-31 11:04:40",
+    name: "Rochelle Clunie",
+    weight: 474,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-31 11:06:12",
+    name: "Rochelle Clunie",
+    weight: 1190,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-31 11:06:48",
+    name: "Rochelle Clunie",
+    weight: 1205,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-31 11:07:28",
+    name: "Rochelle Clunie",
+    weight: 511,
+    category: "Meat [Raw]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-10-31 11:08:08",
+    name: "Rochelle Clunie",
+    weight: 2519,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-01 18:15:08",
+    name: "Rochelle Clunie",
+    weight: 1039,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-01 18:16:23",
+    name: "Rochelle Clunie",
+    weight: 1151,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-01 18:17:05",
+    name: "Rochelle Clunie",
+    weight: 1377,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-01 18:18:52",
+    name: "Rochelle Clunie",
+    weight: 953,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-01 18:19:31",
+    name: "Rochelle Clunie",
+    weight: 674,
+    category: "Drinks [Fridge]",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-01 18:20:35",
+    name: "Rochelle Clunie",
+    weight: 296,
+    category: "Meat [Raw]",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-02 11:55:01",
+    name: "Rochelle Clunie",
+    weight: 628,
+    category: "Dole - Fruit Cups",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-02 11:55:36",
+    name: "Rochelle Clunie",
+    weight: 1002,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-02 11:56:23",
+    name: "Rochelle Clunie",
+    weight: 1077,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-02 11:57:50",
+    name: "Rochelle Clunie",
+    weight: 308,
+    category: "Meat [Raw]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-02 11:58:43",
+    name: "Rochelle Clunie",
+    weight: 655,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-02 12:01:19",
+    name: "Rochelle Clunie",
+    weight: 39,
+    category: "Personal Care",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-02 13:03:48",
+    name: "Rochelle Clunie",
+    weight: 57,
+    category: "Personal Care",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-02 14:31:54",
+    name: "Rochelle Clunie",
+    weight: 362,
+    category: "Meat [Raw]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-02 14:32:41",
+    name: "Rochelle Clunie",
+    weight: 375,
+    category: "Drinks [Fridge]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-02 14:33:24",
+    name: "Rochelle Clunie",
+    weight: 1140,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-02 14:33:55",
+    name: "Rochelle Clunie",
+    weight: 1061,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-02 14:36:11",
+    name: "Rochelle Clunie",
+    weight: 1061,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-02 14:36:50",
+    name: "Rochelle Clunie",
+    weight: 635,
+    category: "Dole - Fruit Cups",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-03 12:52:53",
+    name: "Connie Huang",
+    weight: 868,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-11-03 12:54:39",
+    name: "Connie Huang",
+    weight: 948,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-11-03 12:55:33",
+    name: "Connie Huang",
+    weight: 506,
+    category: "Drinks [Fridge]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-11-03 12:56:02",
+    name: "Connie Huang",
+    weight: 1129,
+    category: "Dole - Fruit Cups",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-03 12:56:32",
+    name: "Connie Huang",
+    weight: 1046,
+    category: "Produce",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-03 12:57:31",
+    name: "Connie Huang",
+    weight: 2471,
+    category: "Drinks [Dry]",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-03 12:57:55",
+    name: "Connie Huang",
+    weight: 1017,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-03 12:58:22",
+    name: "Connie Huang",
+    weight: 722,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-03 12:58:42",
+    name: "Connie Huang",
+    weight: 42,
+    category: "Snacks",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-03 12:59:07",
+    name: "Connie Huang",
+    weight: 671,
+    category: "Drinks [Fridge]",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-03 12:59:49",
+    name: "Connie Huang",
+    weight: 211,
+    category: "Meat [Raw]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-11-03 13:00:17",
+    name: "Connie Huang",
+    weight: 297,
+    category: "Meat [Raw]",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-03 13:01:21",
+    name: "Connie Huang",
+    weight: 500,
+    category: "Pet Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-03 13:01:48",
+    name: "Connie Huang",
+    weight: 736,
+    category: "Pet Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-03 15:36:48",
+    name: "Chi Chi",
+    weight: 395,
+    category: "Pet Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-03 15:37:23",
+    name: "Chi Chi",
+    weight: 697,
+    category: "Pet Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-03 17:14:23",
+    name: "Sunita Pathik",
+    weight: 230,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-11-04 11:03:42",
+    name: "Rochelle Clunie",
+    weight: 1094,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 11:04:12",
+    name: "Rochelle Clunie",
+    weight: 2482,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 11:13:22",
+    name: "Rochelle Clunie",
+    weight: 1066,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 11:14:59",
+    name: "Rochelle Clunie",
+    weight: 1151,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:21:02",
+    name: "Shaan",
+    weight: 1328,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:22:00",
+    name: "Shaan",
+    weight: 1154,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:22:25",
+    name: "Shaan",
+    weight: 1046,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:23:08",
+    name: "Shaan",
+    weight: 600,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:23:39",
+    name: "Shaan",
+    weight: 2509,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:33:15",
+    name: "Shaan",
+    weight: 506,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:33:52",
+    name: "Shaan",
+    weight: 228,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:36:58",
+    name: "Shaan",
+    weight: 1400,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2023-11-04 15:37:35",
+    name: "Shaan",
+    weight: 256,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:38:03",
+    name: "Shaan",
+    weight: 216,
+    category: "Paper Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:39:02",
+    name: "Shaan",
+    weight: 994,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:39:28",
+    name: "Shaan",
+    weight: 256,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:39:48",
+    name: "Shaan",
+    weight: 137,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:41:05",
+    name: "Shaan",
+    weight: 363,
+    category: "Meat [Raw]",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-04 15:42:13",
+    name: "Other",
+    weight: 397,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-04 15:42:55",
+    name: "Other",
+    weight: 628,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-04 15:43:26",
+    name: "Other",
+    weight: 675,
+    category: "Drinks [Fridge]",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-04 15:44:01",
+    name: "Other",
+    weight: 1061,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-04 15:44:57",
+    name: "Other",
+    weight: 1002,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-04 15:45:32",
+    name: "Other",
+    weight: 1077,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-04 15:50:35",
+    name: "Shaan",
+    weight: 533,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:51:38",
+    name: "Shaan",
+    weight: -1172,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:51:57",
+    name: "Shaan",
+    weight: -130,
+    category: "Paper Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 15:57:30",
+    name: "Shaan",
+    weight: -132,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 16:19:08",
+    name: "Shaan",
+    weight: -49,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 16:21:06",
+    name: "Shaan",
+    weight: -30,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 16:21:46",
+    name: "Shaan",
+    weight: -3,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 16:26:48",
+    name: "Shaan",
+    weight: -79,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 16:27:07",
+    name: "Shaan",
+    weight: -100,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 16:29:31",
+    name: "Shaan",
+    weight: -245,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-04 16:34:24",
+    name: "Shaan",
+    weight: -216,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-05 15:31:08",
+    name: "Rochelle Clunie",
+    weight: 85,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-05 15:31:37",
+    name: "Rochelle Clunie",
+    weight: 128,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-05 15:33:39",
+    name: "Rochelle Clunie",
+    weight: 250,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-05 16:06:46",
+    name: "Zoe",
+    weight: 3097,
+    category: "Assorted Fridge",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-11-07 12:47:59",
+    name: "JC",
+    weight: 1139,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-07 12:48:27",
+    name: "JC",
+    weight: 1131,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-07 12:48:59",
+    name: "JC",
+    weight: 1148,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-07 12:49:40",
+    name: "JC",
+    weight: 1806,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-07 12:50:33",
+    name: "JC",
+    weight: 1199,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-08 16:49:38",
+    name: "Rochelle Clunie",
+    weight: 1855,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-08 16:50:42",
+    name: "Rochelle Clunie",
+    weight: 1108,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-08 16:51:22",
+    name: "Rochelle Clunie",
+    weight: 499,
+    category: "Dole - Fruit Cups",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-08 16:52:29",
+    name: "Rochelle Clunie",
+    weight: 653,
+    category: "Dole - Fruit Cups",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-08 16:53:11",
+    name: "Rochelle Clunie",
+    weight: 1721,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-08 16:53:57",
+    name: "Rochelle Clunie",
+    weight: 1004,
+    category: "Baby Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-08 16:55:02",
+    name: "Rochelle Clunie",
+    weight: 969,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-08 16:55:44",
+    name: "Rochelle Clunie",
+    weight: 1111,
+    category: "Pet Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-09 12:49:55",
+    name: "Rochelle Clunie",
+    weight: 17,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-09 12:50:40",
+    name: "Rochelle Clunie",
+    weight: 1170,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-09 12:51:18",
+    name: "Rochelle Clunie",
+    weight: 159,
+    category: "Produce",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-09 12:51:56",
+    name: "Rochelle Clunie",
+    weight: 2174,
+    category: "Drinks [Fridge]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-09 12:52:44",
+    name: "Rochelle Clunie",
+    weight: 646,
+    category: "Dole - Fruit Cups",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-09 12:53:40",
+    name: "Rochelle Clunie",
+    weight: 640,
+    category: "Dole - Fruit Cups",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-09 12:54:23",
+    name: "Rochelle Clunie",
+    weight: 1267,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-09 12:55:05",
+    name: "Rochelle Clunie",
+    weight: 23,
+    category: "Snacks",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-09 12:56:06",
+    name: "Rochelle Clunie",
+    weight: 1440,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-09 12:56:46",
+    name: "Rochelle Clunie",
+    weight: 582,
+    category: "Dole - Fruit Cups",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-09 12:57:24",
+    name: "Rochelle Clunie",
+    weight: 484,
+    category: "Dole - Fruit Cups",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-09 16:01:48",
+    name: "Crystal Shaw",
+    weight: 125,
+    category: "Assorted Fridge",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-11-09 16:04:42",
+    name: "Crystal Shaw",
+    weight: 206,
+    category: "Assorted Fridge",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-11-09 16:07:53",
+    name: "Crystal Shaw",
+    weight: 66,
+    category: "Produce",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-11-10 13:23:25",
+    name: "Nathaniel Sheps",
+    weight: 1151,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-11-10 13:27:00",
+    name: "Nathaniel Sheps",
+    weight: 1209,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-11-10 13:29:31",
+    name: "Nathaniel Sheps",
+    weight: 959,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-10 13:50:05",
+    name: "Nathaniel Sheps",
+    weight: 1244,
+    category: "Drinks [Fridge]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-11-10 13:55:00",
+    name: "Nathaniel Sheps",
+    weight: 1262,
+    category: "Drinks [Fridge]",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-10 13:59:23",
+    name: "Nathaniel Sheps",
+    weight: 451,
+    category: "Drinks [Fridge]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-11-10 14:20:40",
+    name: "Nathaniel Sheps",
+    weight: 1155,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-10 14:21:40",
+    name: "Other",
+    weight: 431,
+    category: "Dole - Fruit Cups",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-10 14:22:40",
+    name: "Other",
+    weight: 1257,
+    category: "Drinks [Fridge]",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-10 14:23:40",
+    name: "Other",
+    weight: 540,
+    category: "Produce",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-10 14:23:40",
+    name: "Other",
+    weight: 476,
+    category: "Pet Supplies",
+    location: "Pedro",
+  },
+  {
+    date: "2023-11-10 14:23:40",
+    name: "Other",
+    weight: 250,
+    category: "Pet Supplies",
+    location: "Pedro",
+  },
+  {
+    date: "2023-11-10 14:23:40",
+    name: "Other",
+    weight: 185,
+    category: "Pet Supplies",
+    location: "Pedro",
+  },
+  {
+    date: "2023-11-10 14:23:40",
+    name: "Other",
+    weight: 18,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-10 14:23:40",
+    name: "Other",
+    weight: 131,
+    category: "Dole - Fruit Cups",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-11-10 14:23:40",
+    name: "Other",
+    weight: 40,
+    category: "Produce",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-11-10 14:23:40",
+    name: "Other",
+    weight: 93,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-11-11 12:19:38",
+    name: "Chi Chi",
+    weight: 610,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 12:33:54",
+    name: "Chi Chi",
+    weight: 1916,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 12:37:06",
+    name: "Chi Chi",
+    weight: 1926,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 12:40:49",
+    name: "Chi Chi",
+    weight: 360,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 12:49:09",
+    name: "Chi Chi",
+    weight: 488,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 13:00:54",
+    name: "Chi Chi",
+    weight: 143,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 13:01:52",
+    name: "Chi Chi",
+    weight: 414,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 13:05:34",
+    name: "Chi Chi",
+    weight: 307,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 13:09:09",
+    name: "Chi Chi",
+    weight: 307,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 13:09:25",
+    name: "Chi Chi",
+    weight: 191,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 13:17:23",
+    name: "Chi Chi",
+    weight: 126,
+    category: "Frozen [Not Meat]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 13:22:54",
+    name: "Chi Chi",
+    weight: 567,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 13:26:13",
+    name: "Chi Chi",
+    weight: 583,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 16:25:55",
+    name: "Rochelle Clunie",
+    weight: 37,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 16:27:29",
+    name: "Rochelle Clunie",
+    weight: 11,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 16:29:25",
+    name: "Rochelle Clunie",
+    weight: -152,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 16:30:51",
+    name: "Rochelle Clunie",
+    weight: -14,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 16:32:48",
+    name: "Rochelle Clunie",
+    weight: -71,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 16:34:20",
+    name: "Rochelle Clunie",
+    weight: -104,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 16:35:05",
+    name: "Rochelle Clunie",
+    weight: -1609,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 16:35:42",
+    name: "Rochelle Clunie",
+    weight: 73,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 16:36:49",
+    name: "Rochelle Clunie",
+    weight: 3,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-11 16:37:16",
+    name: "Rochelle Clunie",
+    weight: 31,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-12 14:34:55",
+    name: "Aaron Oldenburg",
+    weight: 192,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-12 15:15:40",
+    name: "Zoe",
+    weight: 1962,
+    category: "Assorted Fridge",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-11-12 15:16:59",
+    name: "Zoe",
+    weight: 185,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-14 11:52:23",
+    name: "Rochelle Clunie",
+    weight: 900,
+    category: "Baby Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-14 11:53:19",
+    name: "Rochelle Clunie",
+    weight: 1929,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-14 11:53:52",
+    name: "Rochelle Clunie",
+    weight: 623,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-14 11:54:41",
+    name: "Rochelle Clunie",
+    weight: 1138,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-14 11:55:42",
+    name: "Rochelle Clunie",
+    weight: 1254,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-14 11:56:24",
+    name: "Rochelle Clunie",
+    weight: 1546,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-16 11:26:14",
+    name: "Rochelle Clunie",
+    weight: 580,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-16 11:26:52",
+    name: "Rochelle Clunie",
+    weight: 608,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-16 11:27:23",
+    name: "Rochelle Clunie",
+    weight: 982,
+    category: "Assorted Dry",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-16 11:28:04",
+    name: "Rochelle Clunie",
+    weight: 594,
+    category: "Dole - Fruit Cups",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-16 11:35:45",
+    name: "Rochelle Clunie",
+    weight: 1114,
+    category: "Drinks [Fridge]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-16 11:36:29",
+    name: "Rochelle Clunie",
+    weight: 1212,
+    category: "Drinks [Fridge]",
+    location: "Douglas Homes",
+  },
+  {
+    date: "2023-11-16 11:37:26",
+    name: "Rochelle Clunie",
+    weight: 530,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-16 11:38:01",
+    name: "Rochelle Clunie",
+    weight: 676,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-16 11:38:44",
+    name: "Rochelle Clunie",
+    weight: 1125,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-16 11:39:35",
+    name: "Rochelle Clunie",
+    weight: 58,
+    category: "Dairy",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-16 12:03:45",
+    name: "Rochelle Clunie",
+    weight: 113,
+    category: "Assorted Fridge",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-16 12:04:37",
+    name: "Rochelle Clunie",
+    weight: 121,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-11-18 16:04:36",
+    name: "Other",
+    weight: 476,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:05:47",
+    name: "Other",
+    weight: 546,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:06:41",
+    name: "Other",
+    weight: 704,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:07:23",
+    name: "Other",
+    weight: 1277,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:07:46",
+    name: "Other",
+    weight: 1418,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:08:21",
+    name: "Other",
+    weight: 2215,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:09:06",
+    name: "Other",
+    weight: 755,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:10:25",
+    name: "Other",
+    weight: 472,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:11:02",
+    name: "Other",
+    weight: 182,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:12:26",
+    name: "Other",
+    weight: 1036,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:12:53",
+    name: "Other",
+    weight: 1240,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:19:46",
+    name: "Other",
+    weight: 485,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:20:38",
+    name: "Other",
+    weight: 291,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:21:10",
+    name: "Other",
+    weight: 286,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:21:37",
+    name: "Other",
+    weight: 144,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:23:07",
+    name: "Other",
+    weight: 217,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:23:41",
+    name: "Other",
+    weight: 421,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:24:32",
+    name: "Other",
+    weight: 841,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:25:17",
+    name: "Other",
+    weight: 641,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:25:46",
+    name: "Other",
+    weight: 855,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:26:22",
+    name: "Other",
+    weight: -44,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:26:51",
+    name: "Other",
+    weight: -339,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:27:56",
+    name: "Other",
+    weight: 30,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:28:26",
+    name: "Other",
+    weight: -656,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:28:49",
+    name: "Other",
+    weight: 215,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:35:36",
+    name: "Other",
+    weight: 1639,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:36:23",
+    name: "Other",
+    weight: 627,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-18 16:38:13",
+    name: "Other",
+    weight: 321,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-11-19 15:26:19",
+    name: "Zoe",
+    weight: 2041,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-11-26 14:56:17",
+    name: "Rochelle Clunie",
+    weight: 76,
+    category: "Pet Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-28 11:22:51",
+    name: "Chi Chi",
+    weight: 1108,
+    category: "Drinks [Fridge]",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-28 11:23:17",
+    name: "Chi Chi",
+    weight: 1107,
+    category: "Drinks [Fridge]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-11-28 11:24:13",
+    name: "Chi Chi",
+    weight: 1263,
+    category: "Drinks [Fridge]",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-28 11:24:38",
+    name: "Chi Chi",
+    weight: 705,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-28 11:25:02",
+    name: "Chi Chi",
+    weight: 613,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-28 11:25:25",
+    name: "Chi Chi",
+    weight: 628,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-28 11:25:54",
+    name: "Chi Chi",
+    weight: 324,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-28 11:26:25",
+    name: "Chi Chi",
+    weight: 277,
+    category: "Produce",
+    location: "Individual",
+  },
+  {
+    date: "2023-11-28 11:26:53",
+    name: "Chi Chi",
+    weight: 591,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-28 11:27:21",
+    name: "Chi Chi",
+    weight: 853,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-11-28 11:32:36",
+    name: "Chi Chi",
+    weight: 440,
+    category: "Assorted Dry",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-28 11:33:07",
+    name: "Chi Chi",
+    weight: 77,
+    category: "Snacks",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-28 11:33:30",
+    name: "Chi Chi",
+    weight: 825,
+    category: "Assorted Dry",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-28 11:33:53",
+    name: "Chi Chi",
+    weight: 184,
+    category: "Snacks",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-28 11:34:19",
+    name: "Chi Chi",
+    weight: 773,
+    category: "Drinks [Fridge]",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-28 11:34:49",
+    name: "Chi Chi",
+    weight: 173,
+    category: "Baby Supplies",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-28 11:35:32",
+    name: "Chi Chi",
+    weight: 471,
+    category: "Drinks [Fridge]",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-28 11:35:55",
+    name: "Chi Chi",
+    weight: -26,
+    category: "Snacks",
+    location: "Boys & Girls Club",
+  },
+  {
+    date: "2023-11-28 11:45:37",
+    name: "Rochelle Clunie",
+    weight: 551,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-28 11:46:14",
+    name: "Rochelle Clunie",
+    weight: 703,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-28 11:46:57",
+    name: "Rochelle Clunie",
+    weight: 1185,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-28 11:47:40",
+    name: "Rochelle Clunie",
+    weight: 270,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-28 11:48:32",
+    name: "Rochelle Clunie",
+    weight: 40,
+    category: "Pet Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-28 11:49:07",
+    name: "Rochelle Clunie",
+    weight: 802,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-28 11:49:45",
+    name: "Rochelle Clunie",
+    weight: 869,
+    category: "Assorted Fridge",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-28 11:50:22",
+    name: "Rochelle Clunie",
+    weight: 517,
+    category: "Assorted Fridge",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-28 11:50:51",
+    name: "Rochelle Clunie",
+    weight: 1064,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-28 11:51:40",
+    name: "Rochelle Clunie",
+    weight: 1291,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-11-30 14:35:57",
+    name: "Beverly Pinn",
+    weight: 515,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-30 14:36:41",
+    name: "Beverly Pinn",
+    weight: 753,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-30 14:37:35",
+    name: "Beverly Pinn",
+    weight: 811,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-30 14:38:31",
+    name: "Beverly Pinn",
+    weight: 378,
+    category: "Assorted Fridge",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-11-30 14:52:19",
+    name: "Beverly Pinn",
+    weight: 476,
+    category: "Dole - Fruit Cups",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 14:53:07",
+    name: "Beverly Pinn",
+    weight: 478,
+    category: "Dole - Fruit Cups",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 14:54:02",
+    name: "Beverly Pinn",
+    weight: 546,
+    category: "Dole - Fruit Cups",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 14:54:51",
+    name: "Beverly Pinn",
+    weight: 548,
+    category: "Dole - Fruit Cups",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 14:55:41",
+    name: "Beverly Pinn",
+    weight: 1279,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 14:56:22",
+    name: "Beverly Pinn",
+    weight: 1279,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 14:57:03",
+    name: "Beverly Pinn",
+    weight: 1287,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 14:57:44",
+    name: "Beverly Pinn",
+    weight: 1277,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 14:58:30",
+    name: "Beverly Pinn",
+    weight: 1185,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 14:59:14",
+    name: "Beverly Pinn",
+    weight: 802,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 14:59:47",
+    name: "Beverly Pinn",
+    weight: 805,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 15:00:14",
+    name: "Beverly Pinn",
+    weight: 811,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 15:00:49",
+    name: "Beverly Pinn",
+    weight: 1064,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-11-30 15:17:22",
+    name: "Beverly Pinn",
+    weight: 1167,
+    category: "Pet Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-01 15:49:12",
+    name: "Rochelle Clunie",
+    weight: 700,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-12-01 15:49:57",
+    name: "Rochelle Clunie",
+    weight: 896,
+    category: "Drinks [Fridge]",
+    location: "Individual",
+  },
+  {
+    date: "2023-12-01 15:53:49",
+    name: "Rochelle Clunie",
+    weight: 847,
+    category: "Produce",
+    location: "Individual",
+  },
+  {
+    date: "2023-12-01 15:56:26",
+    name: "Rochelle Clunie",
+    weight: 393,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-12-02 10:33:01",
+    name: "Rochelle Clunie",
+    weight: 834,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-02 10:35:29",
+    name: "Rochelle Clunie",
+    weight: 867,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-02 10:36:32",
+    name: "Rochelle Clunie",
+    weight: 724,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-02 10:37:08",
+    name: "Rochelle Clunie",
+    weight: 616,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-02 10:37:40",
+    name: "Rochelle Clunie",
+    weight: 740,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-02 10:38:15",
+    name: "Rochelle Clunie",
+    weight: 87,
+    category: "Grains (rice, pasta, etc.)",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-03 13:45:47",
+    name: "Rochelle Clunie",
+    weight: 218,
+    category: "Assorted Fridge",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-03 13:55:00",
+    name: "Rochelle Clunie",
+    weight: 273,
+    category: "Assorted Fridge",
+    location: "Individual",
+  },
+  {
+    date: "2023-12-03 13:55:33",
+    name: "Rochelle Clunie",
+    weight: 56,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-12-03 15:24:50",
+    name: "Rochelle Clunie",
+    weight: 911,
+    category: "Assorted Fridge",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-12-03 15:25:15",
+    name: "Rochelle Clunie",
+    weight: 66,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-12-05 10:49:03",
+    name: "Rochelle Clunie",
+    weight: 1418,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-05 10:50:39",
+    name: "Rochelle Clunie",
+    weight: 405,
+    category: "Baby Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-05 10:51:12",
+    name: "Rochelle Clunie",
+    weight: 830,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-05 10:54:52",
+    name: "Rochelle Clunie",
+    weight: 323,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-05 11:00:34",
+    name: "Rochelle Clunie",
+    weight: 139,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-05 11:01:11",
+    name: "Rochelle Clunie",
+    weight: 775,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-05 11:03:22",
+    name: "Rochelle Clunie",
+    weight: 725,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-05 11:13:52",
+    name: "Rochelle Clunie",
+    weight: 781,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-05 11:17:01",
+    name: "Rochelle Clunie",
+    weight: 648,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-05 11:58:36",
+    name: "Chi Chi",
+    weight: 25628,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-05 15:15:47",
+    name: "Rochelle Clunie",
+    weight: 33,
+    category: "Baby Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-06 15:57:05",
+    name: "Rochelle Clunie",
+    weight: 300,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-07 11:28:21",
+    name: "Rochelle Clunie",
+    weight: 577,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-07 11:31:50",
+    name: "Rochelle Clunie",
+    weight: 279,
+    category: "Produce",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-07 11:40:47",
+    name: "Rochelle Clunie",
+    weight: 279,
+    category: "Produce",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-07 11:45:38",
+    name: "Rochelle Clunie",
+    weight: 168,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-07 11:46:30",
+    name: "Rochelle Clunie",
+    weight: 627,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-07 11:47:11",
+    name: "Rochelle Clunie",
+    weight: 737,
+    category: "Produce",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-07 15:55:55",
+    name: "Crystal Shaw",
+    weight: 477,
+    category: "Assorted Fridge",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-12-08 13:30:41",
+    name: "Rochelle Clunie",
+    weight: 356,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-08 13:31:26",
+    name: "Rochelle Clunie",
+    weight: 995,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-08 13:32:13",
+    name: "Rochelle Clunie",
+    weight: 777,
+    category: "Assorted Fridge",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-08 13:32:43",
+    name: "Rochelle Clunie",
+    weight: 352,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-08 13:37:09",
+    name: "Rochelle Clunie",
+    weight: 856,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-08 13:39:08",
+    name: "Rochelle Clunie",
+    weight: 747,
+    category: "Assorted Fridge",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-08 13:42:13",
+    name: "Rochelle Clunie",
+    weight: 287,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-08 16:37:05",
+    name: "Sunita Pathik",
+    weight: 170,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-12-09 15:00:57",
+    name: "Beverly Pinn",
+    weight: 1007,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:01:34",
+    name: "Beverly Pinn",
+    weight: 867,
+    category: "Frozen [Not Meat]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:02:15",
+    name: "Beverly Pinn",
+    weight: 117,
+    category: "Paper Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:02:52",
+    name: "Beverly Pinn",
+    weight: 491,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:03:30",
+    name: "Beverly Pinn",
+    weight: 498,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:04:07",
+    name: "Beverly Pinn",
+    weight: 710,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:04:39",
+    name: "Beverly Pinn",
+    weight: 1189,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:05:11",
+    name: "Beverly Pinn",
+    weight: 1062,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:05:43",
+    name: "Beverly Pinn",
+    weight: 412,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:06:20",
+    name: "Beverly Pinn",
+    weight: 152,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:06:55",
+    name: "Beverly Pinn",
+    weight: 697,
+    category: "Danone - Yogurt",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:07:40",
+    name: "Beverly Pinn",
+    weight: 239,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:08:35",
+    name: "Beverly Pinn",
+    weight: 461,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:10:07",
+    name: "Beverly Pinn",
+    weight: 552,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:10:36",
+    name: "Beverly Pinn",
+    weight: 2263,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:13:13",
+    name: "Beverly Pinn",
+    weight: 929,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:15:05",
+    name: "Beverly Pinn",
+    weight: -632,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:19:21",
+    name: "Beverly Pinn",
+    weight: -452,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:20:09",
+    name: "Beverly Pinn",
+    weight: -650,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:20:50",
+    name: "Beverly Pinn",
+    weight: -144,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:21:22",
+    name: "Beverly Pinn",
+    weight: -32,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:22:05",
+    name: "Beverly Pinn",
+    weight: -660,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:22:51",
+    name: "Beverly Pinn",
+    weight: -1478,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:23:32",
+    name: "Beverly Pinn",
+    weight: -188,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:24:42",
+    name: "Beverly Pinn",
+    weight: -128,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:25:37",
+    name: "Beverly Pinn",
+    weight: 644,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:26:11",
+    name: "Beverly Pinn",
+    weight: 661,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:26:46",
+    name: "Beverly Pinn",
+    weight: 500,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:27:15",
+    name: "Beverly Pinn",
+    weight: 179,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:27:49",
+    name: "Beverly Pinn",
+    weight: 508,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:28:46",
+    name: "Beverly Pinn",
+    weight: 508,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:29:24",
+    name: "Beverly Pinn",
+    weight: 551,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:30:03",
+    name: "Beverly Pinn",
+    weight: 1209,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:31:08",
+    name: "Beverly Pinn",
+    weight: 328,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:32:17",
+    name: "Beverly Pinn",
+    weight: 168,
+    category: "Paper Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:32:46",
+    name: "Beverly Pinn",
+    weight: 337,
+    category: "Paper Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:33:21",
+    name: "Beverly Pinn",
+    weight: 1066,
+    category: "Danone - Yogurt",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:34:06",
+    name: "Beverly Pinn",
+    weight: 497,
+    category: "Frozen [Not Meat]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:34:37",
+    name: "Beverly Pinn",
+    weight: -200,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:35:09",
+    name: "Beverly Pinn",
+    weight: -109,
+    category: "Paper Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-09 15:35:44",
+    name: "Beverly Pinn",
+    weight: -181,
+    category: "Paper Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-10 14:20:24",
+    name: "Rochelle Clunie",
+    weight: 1480,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-12-10 14:23:20",
+    name: "Rochelle Clunie",
+    weight: 229,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-12 11:45:52",
+    name: "Rochelle Clunie",
+    weight: 9000,
+    category: "Household",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-12 11:46:45",
+    name: "Rochelle Clunie",
+    weight: 680,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-12 11:47:35",
+    name: "Rochelle Clunie",
+    weight: 787,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-12 11:59:43",
+    name: "Rochelle Clunie",
+    weight: 1463,
+    category: "Cleaning Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-12 12:01:28",
+    name: "Rochelle Clunie",
+    weight: 497,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-12 12:03:17",
+    name: "Rochelle Clunie",
+    weight: 569,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-12 12:06:39",
+    name: "Rochelle Clunie",
+    weight: 137,
+    category: "Paper Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-12 12:09:25",
+    name: "Rochelle Clunie",
+    weight: 1539,
+    category: "Danone - Yogurt",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-14 11:31:18",
+    name: "Rochelle Clunie",
+    weight: 1888,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-14 11:32:13",
+    name: "Rochelle Clunie",
+    weight: 616,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-14 11:33:45",
+    name: "Rochelle Clunie",
+    weight: 632,
+    category: "Produce",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-14 11:38:40",
+    name: "Rochelle Clunie",
+    weight: 476,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-14 11:39:12",
+    name: "Rochelle Clunie",
+    weight: 445,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-14 15:14:33",
+    name: "Rochelle Clunie",
+    weight: 86,
+    category: "Snacks",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-14 15:32:24",
+    name: "Rochelle Clunie",
+    weight: -379,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-15 13:39:24",
+    name: "Rochelle Clunie",
+    weight: 734,
+    category: "Danone - Yogurt",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-15 13:40:14",
+    name: "Rochelle Clunie",
+    weight: 621,
+    category: "Drinks [Fridge]",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-15 13:40:47",
+    name: "Rochelle Clunie",
+    weight: 585,
+    category: "Drinks [Fridge]",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-15 13:41:30",
+    name: "Rochelle Clunie",
+    weight: 533,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-15 13:42:26",
+    name: "Rochelle Clunie",
+    weight: 463,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-15 13:43:04",
+    name: "Rochelle Clunie",
+    weight: 614,
+    category: "Drinks [Fridge]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-15 13:43:42",
+    name: "Rochelle Clunie",
+    weight: 448,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-15 13:44:19",
+    name: "Rochelle Clunie",
+    weight: 556,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-15 13:45:00",
+    name: "Rochelle Clunie",
+    weight: 601,
+    category: "Produce",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-15 13:45:46",
+    name: "Rochelle Clunie",
+    weight: 401,
+    category: "Danone - Yogurt",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-15 16:26:18",
+    name: "Rochelle Clunie",
+    weight: -542,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-17 16:32:40",
+    name: "Zoe",
+    weight: 1714,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2023-12-19 11:15:59",
+    name: "Rochelle Clunie",
+    weight: 136,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-19 11:35:31",
+    name: "Rochelle Clunie",
+    weight: 1210,
+    category: "Danone - Yogurt",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-19 11:36:08",
+    name: "Rochelle Clunie",
+    weight: 1098,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-19 11:36:39",
+    name: "Rochelle Clunie",
+    weight: 470,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-19 11:37:10",
+    name: "Rochelle Clunie",
+    weight: 391,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-19 11:37:46",
+    name: "Rochelle Clunie",
+    weight: 1017,
+    category: "Baby Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-19 11:38:16",
+    name: "Rochelle Clunie",
+    weight: 778,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-12-21 11:23:39",
+    name: "Rochelle Clunie",
+    weight: 483,
+    category: "Produce",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-21 11:25:06",
+    name: "Rochelle Clunie",
+    weight: 604,
+    category: "Danone - Yogurt",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-21 11:25:52",
+    name: "Rochelle Clunie",
+    weight: 714,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-21 11:26:32",
+    name: "Rochelle Clunie",
+    weight: 236,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-21 11:27:11",
+    name: "Rochelle Clunie",
+    weight: 1261,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2023-12-21 13:09:37",
+    name: "Rochelle Clunie",
+    weight: 165,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2023-12-21 16:36:45",
+    name: "Rochelle Clunie",
+    weight: 654,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:37:34",
+    name: "Rochelle Clunie",
+    weight: 525,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:38:20",
+    name: "Rochelle Clunie",
+    weight: 1124,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:39:01",
+    name: "Rochelle Clunie",
+    weight: 1409,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:39:39",
+    name: "Rochelle Clunie",
+    weight: 1410,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:40:18",
+    name: "Rochelle Clunie",
+    weight: 211,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:40:48",
+    name: "Rochelle Clunie",
+    weight: 1573,
+    category: "Danone - Yogurt",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:41:31",
+    name: "Rochelle Clunie",
+    weight: 1248,
+    category: "Danone - Yogurt",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:42:16",
+    name: "Rochelle Clunie",
+    weight: 1702,
+    category: "Danone - Yogurt",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:46:39",
+    name: "Rochelle Clunie",
+    weight: 703,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:47:24",
+    name: "Rochelle Clunie",
+    weight: 1232,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-21 16:47:50",
+    name: "Rochelle Clunie",
+    weight: 672,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-22 16:26:28",
+    name: "Sunita Pathik",
+    weight: 217,
+    category: "Assorted Fridge",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2023-12-23 14:10:12",
+    name: "Beverly Pinn",
+    weight: 956,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:10:49",
+    name: "Beverly Pinn",
+    weight: 648,
+    category: "Assorted Fridge",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:11:31",
+    name: "Beverly Pinn",
+    weight: 785,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:12:07",
+    name: "Beverly Pinn",
+    weight: 600,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:12:38",
+    name: "Beverly Pinn",
+    weight: 225,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:13:33",
+    name: "Beverly Pinn",
+    weight: 118,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:14:10",
+    name: "Beverly Pinn",
+    weight: 458,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:14:40",
+    name: "Beverly Pinn",
+    weight: 1294,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:15:12",
+    name: "Beverly Pinn",
+    weight: 906,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:15:55",
+    name: "Beverly Pinn",
+    weight: 1187,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:16:40",
+    name: "Beverly Pinn",
+    weight: 416,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:17:19",
+    name: "Beverly Pinn",
+    weight: 973,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:17:51",
+    name: "Beverly Pinn",
+    weight: 1699,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:23:41",
+    name: "Beverly Pinn",
+    weight: 290,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:24:18",
+    name: "Beverly Pinn",
+    weight: 184,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:25:03",
+    name: "Beverly Pinn",
+    weight: 174,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:26:20",
+    name: "Beverly Pinn",
+    weight: 1175,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:26:55",
+    name: "Beverly Pinn",
+    weight: 543,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:28:31",
+    name: "Beverly Pinn",
+    weight: 1541,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:29:13",
+    name: "Beverly Pinn",
+    weight: 1538,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:29:43",
+    name: "Beverly Pinn",
+    weight: 327,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:30:14",
+    name: "Beverly Pinn",
+    weight: 804,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:31:10",
+    name: "Beverly Pinn",
+    weight: 1759,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:31:45",
+    name: "Beverly Pinn",
+    weight: 242,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:32:17",
+    name: "Beverly Pinn",
+    weight: 535,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:33:04",
+    name: "Beverly Pinn",
+    weight: 1155,
+    category: "Assorted Fridge",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:34:52",
+    name: "Beverly Pinn",
+    weight: 757,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:35:27",
+    name: "Beverly Pinn",
+    weight: 128,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:36:00",
+    name: "Beverly Pinn",
+    weight: 127,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:36:49",
+    name: "Beverly Pinn",
+    weight: 638,
+    category: "Snacks",
+    location: "Pedro",
+  },
+  {
+    date: "2023-12-23 14:37:30",
+    name: "Beverly Pinn",
+    weight: 97,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 14:38:23",
+    name: "Beverly Pinn",
+    weight: 592,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2023-12-23 14:46:47",
+    name: "Beverly Pinn",
+    weight: 505,
+    category: "Produce",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-23 14:47:31",
+    name: "Beverly Pinn",
+    weight: 487,
+    category: "Canned Goods",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-23 14:48:09",
+    name: "Beverly Pinn",
+    weight: 567,
+    category: "Produce",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-23 14:48:46",
+    name: "Beverly Pinn",
+    weight: 568,
+    category: "Produce",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-23 14:49:21",
+    name: "Beverly Pinn",
+    weight: 675,
+    category: "Produce",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-23 14:50:43",
+    name: "Beverly Pinn",
+    weight: 400,
+    category: "Produce",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-23 14:51:21",
+    name: "Beverly Pinn",
+    weight: 400,
+    category: "Produce",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-23 14:52:34",
+    name: "Beverly Pinn",
+    weight: 335,
+    category: "Danone - Yogurt",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-23 14:53:15",
+    name: "Beverly Pinn",
+    weight: 714,
+    category: "Baby Supplies",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2023-12-23 14:54:00",
+    name: "Beverly Pinn",
+    weight: 362,
+    category: "Produce",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-23 14:55:35",
+    name: "Beverly Pinn",
+    weight: 301,
+    category: "Produce",
+    location: "Greenmount West",
+  },
+  {
+    date: "2023-12-23 14:56:46",
+    name: "Beverly Pinn",
+    weight: 1170,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2023-12-23 14:57:30",
+    name: "Beverly Pinn",
+    weight: 960,
+    category: "Danone - Yogurt",
+    location: "Pedro",
+  },
+  {
+    date: "2023-12-23 14:58:08",
+    name: "Beverly Pinn",
+    weight: 1823,
+    category: "Danone - Yogurt",
+    location: "Pedro",
+  },
+  {
+    date: "2023-12-23 15:12:42",
+    name: "Beverly Pinn",
+    weight: 1921,
+    category: "Danone - Yogurt",
+    location: "Pedro",
+  },
+  {
+    date: "2023-12-23 15:13:32",
+    name: "Beverly Pinn",
+    weight: 1608,
+    category: "Danone - Yogurt",
+    location: "Pedro",
+  },
+  {
+    date: "2023-12-23 16:47:14",
+    name: "Beverly Pinn",
+    weight: -880,
+    category: "Assorted Fridge",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 16:48:02",
+    name: "Beverly Pinn",
+    weight: -40,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 16:49:11",
+    name: "Beverly Pinn",
+    weight: -149,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-23 16:49:46",
+    name: "Beverly Pinn",
+    weight: -956,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2023-12-28 10:44:26",
+    name: "Rochelle Clunie",
+    weight: 1737,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:45:12",
+    name: "Rochelle Clunie",
+    weight: 1748,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:45:58",
+    name: "Rochelle Clunie",
+    weight: 148,
+    category: "Snacks",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:46:48",
+    name: "Rochelle Clunie",
+    weight: 1874,
+    category: "Danone - Yogurt",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:47:18",
+    name: "Rochelle Clunie",
+    weight: 1893,
+    category: "Danone - Yogurt",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:47:56",
+    name: "Rochelle Clunie",
+    weight: 1857,
+    category: "Danone - Yogurt",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:48:53",
+    name: "Rochelle Clunie",
+    weight: 1243,
+    category: "Danone - Yogurt",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:49:23",
+    name: "Rochelle Clunie",
+    weight: 1019,
+    category: "Danone - Yogurt",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:50:15",
+    name: "Rochelle Clunie",
+    weight: 1701,
+    category: "Canned Goods",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:51:02",
+    name: "Rochelle Clunie",
+    weight: 1726,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:51:40",
+    name: "Rochelle Clunie",
+    weight: 1768,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 10:52:30",
+    name: "Rochelle Clunie",
+    weight: 251,
+    category: "Snacks",
+    location: "Janet Arce",
+  },
+  {
+    date: "2023-12-28 15:23:29",
+    name: "Rochelle Clunie",
+    weight: 1785,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-28 15:24:23",
+    name: "Rochelle Clunie",
+    weight: 1833,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-28 15:25:27",
+    name: "Rochelle Clunie",
+    weight: 1740,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-28 15:26:22",
+    name: "Rochelle Clunie",
+    weight: 1710,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-28 15:28:11",
+    name: "Rochelle Clunie",
+    weight: 1222,
+    category: "Danone - Yogurt",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-28 15:39:25",
+    name: "Rochelle Clunie",
+    weight: 1706,
+    category: "Danone - Yogurt",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-28 15:51:48",
+    name: "Rochelle Clunie",
+    weight: 731,
+    category: "Danone - Yogurt",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-28 15:55:09",
+    name: "Rochelle Clunie",
+    weight: 1768,
+    category: "Danone - Yogurt",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-12-30 13:08:10",
+    name: "Rochelle Clunie",
+    weight: 4921,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Other Organization",
+  },
+  {
+    date: "2023-08-24 00:00:00",
+    name: "Safire Windley",
+    weight: 95,
+    category: "Produce",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-08-24 00:00:00",
+    name: "Safire Windley",
+    weight: 80,
+    category: "Dole - Fruit Cups",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-08-24 00:00:00",
+    name: "Safire Windley",
+    weight: 46,
+    category: "Produce",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-08-24 00:00:00",
+    name: "Safire Windley",
+    weight: 100,
+    category: "Produce",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-08-24 00:00:00",
+    name: "Safire Windley",
+    weight: 54,
+    category: "Drinks [Fridge]",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2023-08-29 00:00:00",
+    name: "JC",
+    weight: 880,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-29 00:00:00",
+    name: "JC",
+    weight: 1257,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-29 00:00:00",
+    name: "JC",
+    weight: 1261,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-29 00:00:00",
+    name: "JC",
+    weight: 1263,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-29 00:00:00",
+    name: "JC",
+    weight: 1223,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2023-08-29 00:00:00",
+    name: "JC",
+    weight: 1174,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 378,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 278,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 291,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 229,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 247,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 258,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 179,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 137,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 237,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 278,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 689,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1723,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 212,
+    category: "Assorted Dry",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-01-12 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1102,
+    category: "Dairy",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-01-12 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 729,
+    category: "Produce",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-01-12 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 876,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-01-12 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 379,
+    category: "Assorted Dry",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1816,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1819,
+    category: "Produce",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 379,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 395,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 394,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 369,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 367,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 721,
+    category: "Assorted Dry",
+    location: "Pedro",
+  },
+  {
+    date: "2024-01-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 401,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-01-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 20,
+    category: "Pet Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 4200,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1819,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 876,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 722,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 687,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 689,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 656,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 672,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 658,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 686,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 685,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 578,
+    category: "Paper Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1091,
+    category: "Baby Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 722,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 723,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 715,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 719,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1819,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1820,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1815,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1816,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 257,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 279,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-01-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 250,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 207,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-01-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 197,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1602,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1858,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1566,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2197,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1718,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1823,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1945,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2287,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1801,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1819,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 397,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 352,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1024,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1029,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1019,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1001,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1020,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1038,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 800,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1018,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1018,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1029,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1028,
+    category: "Baby Supplies",
+    location: "Share Baby",
+  },
+  {
+    date: "2024-01-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 491,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 121,
+    category: "Dairy",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 260,
+    category: "Assorted Fridge",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 26,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 88,
+    category: "Meat [Raw]",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 335,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 170,
+    category: "Assorted Dry",
+    location: "Sunita [Delivery]",
+  },
+  {
+    date: "2024-01-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 391,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 579,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 148,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 3264,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 353,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 522,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 824,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 529,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 623,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1730,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1497,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 304,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-30 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 70,
+    category: "Drinks [Dry]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 101,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 522,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 316,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1016,
+    category: "Baby Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 200,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1412,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 200,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1810,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1468,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-01-31 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 193,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 101,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 586,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 80,
+    category: "Pet Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 269,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 364,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 431,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 399,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 445,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 352,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 36,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 135,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 295,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 159,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 48,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 36,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 30,
+    category: "Baby Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-04 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2516,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-02-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1052,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1366,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1296,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 701,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 316,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 854,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 605,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 693,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 603,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 476,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 588,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 747,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 501,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 199,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 195,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 202,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 642,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 228,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1827,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 507,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 807,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 237,
+    category: "Assorted Dry",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-02-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1290,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1201,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 228,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1938,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 114,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 960,
+    category: "Health & Beauty Products",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 769,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 348,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 835,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1263,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 651,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 120,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 205,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 196,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1468,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 213,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 517,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -184,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -137,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -336,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2675,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-02-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 190,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-11 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 451,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 300,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 745,
+    category: "Assorted Dry",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 539,
+    category: "Assorted Dry",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 530,
+    category: "Assorted Dry",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 640,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 644,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 509,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 160,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 638,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 637,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 964,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 567,
+    category: "Drinks [Dry]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1599,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 854,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 534,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 639,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 10560,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 438,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 910,
+    category: "Health & Beauty Products",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1217,
+    category: "Dairy",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 4224,
+    category: "Produce",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 409,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1226,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 398,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1167,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1172,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1733,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -296,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 661,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -355,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1316,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1282,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1291,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1099,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 315,
+    category: "Health & Beauty Products",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 982,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 262,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 947,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 640,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 747,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1820,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 488,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2061,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 592,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 241,
+    category: "Health & Beauty Products",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 796,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 284,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 133,
+    category: "Assorted Fridge",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 84,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2061,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2062,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2063,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2064,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2065,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2066,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2067,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 456,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 200,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-18 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 3631,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1378,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 984,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 220,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 396,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 100,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 480,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 918,
+    category: "Health & Beauty Products",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1794,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1815,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2037,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 924,
+    category: "Health & Beauty Products",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1821,
+    category: "Dairy",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 949,
+    category: "Dairy",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2010,
+    category: "Produce",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1019,
+    category: "Produce",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 475,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1242,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 794,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1092,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1218,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1223,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1064,
+    category: "Dole - Fruit Cups",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 787,
+    category: "Produce",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1199,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 318,
+    category: "Produce",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 394,
+    category: "Health & Beauty Products",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 540,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1002,
+    category: "Produce",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 501,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 996,
+    category: "Dairy",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 216,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 526,
+    category: "Assorted Dry",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-02-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 56,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 43,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2130,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1575,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 324,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1589,
+    category: "Drinks [Dry]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 589,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1017,
+    category: "Produce",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 882,
+    category: "Health & Beauty Products",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1472,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 788,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 471,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 120,
+    category: "Snacks",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 91,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -878,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 411,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 535,
+    category: "Dole - Fruit Cups",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 376,
+    category: "Paper Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1833,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1821,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -119,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 150,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1818,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 186,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1171,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1783,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -736,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1418,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 601,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1626,
+    category: "Assorted Dry",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 208,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-02-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 487,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 87,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 177,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 75,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-25 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 3795,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1848,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 984,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 530,
+    category: "Produce",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 882,
+    category: "Health & Beauty Products",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 434,
+    category: "Baby Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 706,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 656,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 530,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 50,
+    category: "Pet Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1017,
+    category: "Baby Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 926,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 932,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1020,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1842,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1444,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1250,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1373,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-02-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 174,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 225,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 180,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 147,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 12,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 198,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 754,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 397,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 380,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 271,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-02-29 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 520,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 761,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 573,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 748,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 561,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-01 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 300,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 57,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 43,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 893,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 981,
+    category: "Household",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 306,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 925,
+    category: "Produce",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 621,
+    category: "Health & Beauty Products",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 587,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 257,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1803,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 997,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2107,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -300,
+    category: "Pet Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -201,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -200,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-02 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -75,
+    category: "Grains (rice, pasta, etc.)",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 320,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 594,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2889,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1207,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1374,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 968,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1809,
+    category: "Drinks [Dry]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 325,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 279,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 289,
+    category: "Produce",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-03 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 563,
+    category: "Dairy",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1848,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 898,
+    category: "Health & Beauty Products",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 706,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 658,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 725,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 789,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-05 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 379,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-06 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 435,
+    category: "Drinks [Dry]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 287,
+    category: "Cleaning Supplies",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 587,
+    category: "Assorted Dry",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 933,
+    category: "Health & Beauty Products",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 476,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 285,
+    category: "Cleaning Supplies",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 589,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 580,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 935,
+    category: "Health & Beauty Products",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1651,
+    category: "Dairy",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 964,
+    category: "Dairy",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 574,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-07 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 300,
+    category: "Assorted Dry",
+    location: "Crystal [Kingdom Worship Center]",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 591,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 423,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 479,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 590,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 470,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-08 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 421,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 379,
+    category: "Snacks",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 921,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -700,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 297,
+    category: "Canned Goods",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2103,
+    category: "Cleaning Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -950,
+    category: "Cleaning Supplies",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 257,
+    category: "Meat [Raw]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2213,
+    category: "Drinks [Fridge]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1821,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 876,
+    category: "Drinks [Dry]",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1573,
+    category: "Health & Beauty Products",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 15,
+    category: "Health & Beauty Products",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 824,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -300,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1009,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-09 00:00:00",
+    name: "Rochelle Clunie",
+    weight: -300,
+    category: "Dairy",
+    location: "BCF Curbside [Sandtown]",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 301,
+    category: "Other",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 501,
+    category: "Dairy",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 125,
+    category: "Drinks [Dry]",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 100,
+    category: "Cleaning Supplies",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 201,
+    category: "Drinks [Fridge]",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 20,
+    category: "Health & Beauty Products",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 98,
+    category: "Condiments",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 250,
+    category: "Produce",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 371,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 529,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 524,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 798,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 359,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1004,
+    category: "Health & Beauty Products",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 392,
+    category: "Drinks [Dry]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 320,
+    category: "Cleaning Supplies",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 794,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-10 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 79,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1742,
+    category: "Dole - Fruit Cups",
+    location: "First Fruit Farm",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 454,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1650,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1750,
+    category: "Drinks [Fridge]",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1600,
+    category: "Dairy",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-13 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1850,
+    category: "Drinks [Fridge]",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 270,
+    category: "Dairy",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 794,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 895,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 390,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1527,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1507,
+    category: "Health & Beauty Products",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1800,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1850,
+    category: "Drinks [Fridge]",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1650,
+    category: "Condiments",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1670,
+    category: "Condiments",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 854,
+    category: "Pet Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 504,
+    category: "Paper Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1890,
+    category: "Cleaning Supplies",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 215,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1918,
+    category: "Cleaning Supplies",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1817,
+    category: "Drinks [Fridge]",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-03-14 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1670,
+    category: "Dairy",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-03-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 591,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 421,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 590,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-15 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 420,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1850,
+    category: "Cleaning Supplies",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1600,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1570,
+    category: "Health & Beauty Products",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1820,
+    category: "Drinks [Fridge]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 79,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 39,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 30,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-16 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 520,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 375,
+    category: "Assorted Dry",
+    location: "Janet Arce",
+  },
+  {
+    date: "2024-03-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 420,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2750,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-17 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 35,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1600,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1850,
+    category: "Drinks [Fridge]",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 90,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1170,
+    category: "Dole - Fruit Cups",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 299,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 294,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-19 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1096,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 480,
+    category: "Drinks [Fridge]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 60,
+    category: "Health & Beauty Products",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 108,
+    category: "Dairy",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 81,
+    category: "Condiments",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 891,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 200,
+    category: "Dairy",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 840,
+    category: "Assorted Dry",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1800,
+    category: "Other",
+    location: "Gilmor Homes",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1850,
+    category: "Drinks [Fridge]",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1000,
+    category: "Health & Beauty Products",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 390,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-20 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 396,
+    category: "Assorted Dry",
+    location: "Sons Of Phoenix",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 210,
+    category: "Dairy",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 638,
+    category: "Assorted Dry",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 300,
+    category: "Drinks [Fridge]",
+    location: "Brooklyn Homes",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 350,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 298,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 794,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-03-21 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 640,
+    category: "Assorted Dry",
+    location: "Manor Bible Outreach",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 638,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 214,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 900,
+    category: "Assorted Dry",
+    location: "Greenmount West",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 638,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 214,
+    category: "Assorted Dry",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-22 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 900,
+    category: "Drinks [Fridge]",
+    location: "McCollouh Homes [Coach Dunkin]",
+  },
+  {
+    date: "2024-03-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 650,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 216,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-23 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 183,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-24 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1152,
+    category: "Assorted Dry",
+    location: "Sandtown",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 1106,
+    category: "Cleaning Supplies",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 576,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 586,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 2163,
+    category: "Drinks [Fridge]",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 575,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 587,
+    category: "Assorted Dry",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 132,
+    category: "Grains (rice, pasta, etc.)",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 688,
+    category: "Dairy",
+    location: "Mack Lewis Foundation",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 325,
+    category: "Assorted Dry",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 109,
+    category: "Drinks [Fridge]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 96,
+    category: "Drinks [Fridge]",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 24,
+    category: "Snacks",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 7,
+    category: "Snacks",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 22,
+    category: "Dole - Fruit Cups",
+    location: "Other Organization",
+  },
+  {
+    date: "2024-03-26 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 30912,
+    category: "Produce",
+    location: "First Fruit Farm",
+  },
+  {
+    date: "2024-03-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 270,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-27 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 316,
+    category: "Assorted Dry",
+    location: "Individual",
+  },
+  {
+    date: "2024-03-28 00:00:00",
+    name: "Rochelle Clunie",
+    weight: 484,
+    category: "Canned Goods",
+    location: "Individual",
+  },
 ];
+// exports
 
 export const shiftList = [
   {
     start: "2023-01-01 13:44:49",
     end: "2023-01-01 17:44:49",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-01 13:45:45",
     end: "2023-01-01 17:45:45",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-03 15:44:50",
     end: "2023-01-03 19:44:50",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-03 15:47:08",
     end: "2023-01-03 19:47:08",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-03 15:48:51",
     end: "2023-01-03 19:48:51",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-03 15:49:33",
     end: "2023-01-03 19:49:33",
     name: "Rosemary Hendricks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-03 15:57:38",
     end: "2023-01-03 19:57:38",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-03 00:00:00",
     end: "2023-01-03 04:00:00",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-03 00:00:00",
     end: "2023-01-03 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-04 14:27:31",
     end: "2023-01-04 18:27:31",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-04 17:32:35",
     end: "2023-01-04 21:32:35",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-04 00:00:00",
     end: "2023-01-04 04:00:00",
     name: "Doris Parker Tuggle",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-04 00:00:00",
     end: "2023-01-04 04:00:00",
     name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-04 00:00:00",
     end: "2023-01-04 04:00:00",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-04 18:29:36",
     end: "2023-01-04 22:29:36",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-04 19:30:40",
     end: "2023-01-04 23:30:40",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-04 19:32:14",
     end: "2023-01-04 23:32:14",
     name: "Lynwood McDaniel",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-04 19:35:23",
     end: "2023-01-04 23:35:23",
     name: "Maddie Pardes",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-05 16:38:12",
     end: "2023-01-05 20:38:12",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-05 16:40:45", end: "2023-01-05 20:40:45", name: "Jean" },
+  {
+    start: "2023-01-05 16:40:45",
+    end: "2023-01-05 20:40:45",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-05 00:00:00",
     end: "2023-01-05 04:00:00",
     name: "Melissa Thomas",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-05 00:00:00",
     end: "2023-01-05 04:00:00",
     name: "Raquel Bailey",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-05 00:00:00",
     end: "2023-01-05 04:00:00",
     name: "Nathaniel McClean",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-05 20:29:19",
     end: "2023-01-06 00:29:19",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-06 16:31:04",
     end: "2023-01-06 20:31:04",
     name: "Beth Torres",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-06 16:32:57",
     end: "2023-01-06 20:32:57",
     name: "Jack Bellows",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-06 16:43:35",
     end: "2023-01-06 20:43:35",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-06 16:53:41",
     end: "2023-01-06 20:53:41",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-06 00:00:00",
     end: "2023-01-06 04:00:00",
     name: "Theresa Columbus",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-06 00:00:00",
     end: "2023-01-06 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 00:00:00",
     end: "2023-01-07 04:00:00",
     name: "Nathan So",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 00:00:00",
     end: "2023-01-07 04:00:00",
     name: "Janet Lomax",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 00:00:00",
     end: "2023-01-07 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 00:00:00",
     end: "2023-01-07 04:00:00",
     name: "Dan Pike",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 00:00:00",
     end: "2023-01-07 04:00:00",
     name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 00:00:00",
     end: "2023-01-07 04:00:00",
     name: "Kelly Chen",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 00:00:00",
     end: "2023-01-07 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-07 00:00:00", end: "2023-01-07 04:00:00", name: "Angeles" },
+  {
+    start: "2023-01-07 00:00:00",
+    end: "2023-01-07 04:00:00",
+    name: "Angeles",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-07 00:00:00",
     end: "2023-01-07 04:00:00",
     name: "Gilda Castillo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 16:42:34",
     end: "2023-01-07 20:42:34",
     name: "Evelyn Jiang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 16:43:06",
     end: "2023-01-07 20:43:06",
-    name: "Emily Ma",
+    name: "Emily Mashqbeh",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 16:45:54",
     end: "2023-01-07 20:45:54",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 16:46:54",
     end: "2023-01-07 20:46:54",
     name: "Lynda Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 16:56:11",
     end: "2023-01-07 20:56:11",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-07 18:39:27",
     end: "2023-01-07 22:39:27",
     name: "Nailah Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-08 00:00:00",
     end: "2023-01-08 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-08 14:58:18",
     end: "2023-01-08 18:58:18",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-08 15:00:48",
     end: "2023-01-08 19:00:48",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-08 15:01:32",
     end: "2023-01-08 19:01:32",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-08 00:00:00", end: "2023-01-08 04:00:00", name: "Laila" },
+  {
+    start: "2023-01-08 00:00:00",
+    end: "2023-01-08 04:00:00",
+    name: "Laila",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-08 00:00:00",
     end: "2023-01-08 04:00:00",
     name: "Safire Windley",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-10 15:10:55",
     end: "2023-01-10 19:10:55",
     name: "Rosemary Hendricks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-10 15:11:56",
     end: "2023-01-10 19:11:56",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-10 15:11:58", end: "2023-01-10 19:11:58", name: "Jean" },
+  {
+    start: "2023-01-10 15:11:58",
+    end: "2023-01-10 19:11:58",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-10 15:14:13",
     end: "2023-01-10 19:14:13",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-10 15:14:40",
     end: "2023-01-10 19:14:40",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-10 15:15:34",
     end: "2023-01-10 19:15:34",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-10 00:00:00",
     end: "2023-01-10 04:00:00",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-11 16:36:34",
     end: "2023-01-11 20:36:34",
     name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-11 00:00:00",
     end: "2023-01-11 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-11 00:00:00",
     end: "2023-01-11 04:00:00",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-11 00:00:00",
     end: "2023-01-11 04:00:00",
     name: "Lynwood McDaniel",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-11 00:00:00",
     end: "2023-01-11 04:00:00",
     name: "Charity Hsu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-11 00:00:00",
     end: "2023-01-11 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-11 20:57:47",
     end: "2023-01-12 00:57:47",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-11 21:03:52",
     end: "2023-01-12 01:03:52",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-12 00:00:00", end: "2023-01-12 04:00:00", name: "Jean" },
-  { start: "2023-01-12 00:00:00", end: "2023-01-12 04:00:00", name: "Dorja" },
-  { start: "2023-01-12 18:54:27", end: "2023-01-12 22:54:27", name: "Aziza" },
+  {
+    start: "2023-01-12 00:00:00",
+    end: "2023-01-12 04:00:00",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-01-12 00:00:00",
+    end: "2023-01-12 04:00:00",
+    name: "Dorja",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-01-12 18:54:27",
+    end: "2023-01-12 22:54:27",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-12 19:08:58",
     end: "2023-01-12 23:08:58",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-12 00:00:00",
     end: "2023-01-12 04:00:00",
     name: "Julia Buckson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-12 00:00:00",
     end: "2023-01-12 04:00:00",
     name: "Melissa Thomas",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-13 00:00:00",
     end: "2023-01-13 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-13 16:28:12",
     end: "2023-01-13 20:28:12",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-13 16:57:04",
     end: "2023-01-13 20:57:04",
     name: "Adeolu Mojibola",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-14 16:33:43",
     end: "2023-01-14 20:33:43",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-14 16:54:35",
     end: "2023-01-14 20:54:35",
     name: "Nailah Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-14 16:55:08",
     end: "2023-01-14 20:55:08",
     name: "Lynda Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-14 00:00:00",
     end: "2023-01-14 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-14 00:00:00",
     end: "2023-01-14 04:00:00",
     name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-14 00:00:00",
     end: "2023-01-14 04:00:00",
     name: "Treston Codrington",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-14 00:00:00",
     end: "2023-01-14 04:00:00",
     name: "Gilda Castillo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-14 00:00:00", end: "2023-01-14 04:00:00", name: "Angeles" },
+  {
+    start: "2023-01-14 00:00:00",
+    end: "2023-01-14 04:00:00",
+    name: "Angeles",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-14 00:00:00",
     end: "2023-01-14 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-15 00:00:00",
     end: "2023-01-15 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-15 00:00:00",
     end: "2023-01-15 04:00:00",
     name: "Michael Ford",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-15 00:00:00",
     end: "2023-01-15 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-15 00:00:00", end: "2023-01-15 04:00:00", name: "Carla T" },
+  {
+    start: "2023-01-15 00:00:00",
+    end: "2023-01-15 04:00:00",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-15 00:00:00",
     end: "2023-01-15 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-15 15:51:41",
     end: "2023-01-15 19:51:41",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-15 16:12:10", end: "2023-01-15 20:12:10", name: "Yulia" },
+  {
+    start: "2023-01-15 16:12:10",
+    end: "2023-01-15 20:12:10",
+    name: "Yulia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-15 16:17:45",
     end: "2023-01-15 20:17:45",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-17 00:00:00", end: "2023-01-17 04:00:00", name: "Jean" },
+  {
+    start: "2023-01-17 00:00:00",
+    end: "2023-01-17 04:00:00",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-17 00:00:00",
     end: "2023-01-17 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-17 16:21:45",
     end: "2023-01-17 20:21:45",
     name: "Rosemary Hendricks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-17 16:21:48",
     end: "2023-01-17 20:21:48",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-17 16:22:33",
     end: "2023-01-17 20:22:33",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-17 16:23:45",
     end: "2023-01-17 20:23:45",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-17 16:29:11",
     end: "2023-01-17 20:29:11",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-17 16:29:15",
     end: "2023-01-17 20:29:15",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-18 00:00:00",
     end: "2023-01-18 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-18 00:00:00",
     end: "2023-01-18 04:00:00",
     name: "Doris Parker Tuggle",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-18 00:00:00",
     end: "2023-01-18 04:00:00",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-18 00:00:00",
     end: "2023-01-18 04:00:00",
     name: "Charity Hsu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-18 17:00:10",
     end: "2023-01-18 21:00:10",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-18 20:46:31",
     end: "2023-01-19 00:46:31",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-19 00:00:00", end: "2023-01-19 04:00:00", name: "Jean" },
+  {
+    start: "2023-01-19 00:00:00",
+    end: "2023-01-19 04:00:00",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-19 00:00:00",
     end: "2023-01-19 04:00:00",
     name: "Raquel Bailey",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-19 00:00:00",
     end: "2023-01-19 04:00:00",
     name: "Melissa Thomas",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-19 00:00:00",
     end: "2023-01-19 04:00:00",
     name: "Nathaniel McClean",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-19 15:17:46",
     end: "2023-01-19 19:17:46",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-19 19:53:59",
     end: "2023-01-19 23:53:59",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-19 19:54:03", end: "2023-01-19 23:54:03", name: "Aziza" },
+  {
+    start: "2023-01-19 19:54:03",
+    end: "2023-01-19 23:54:03",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-20 00:00:00",
     end: "2023-01-20 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-20 00:00:00", end: "2023-01-20 04:00:00", name: "Jean" },
+  {
+    start: "2023-01-20 00:00:00",
+    end: "2023-01-20 04:00:00",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-20 00:00:00",
     end: "2023-01-20 04:00:00",
     name: "Adeolu Mojibola",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:06:19",
     end: "2023-01-21 20:06:19",
     name: "Aza Shiao",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:06:55",
     end: "2023-01-21 20:06:55",
     name: "Treston Codrington",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:07:20",
     end: "2023-01-21 20:07:20",
     name: "Kelly Chen",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:12:05",
     end: "2023-01-21 20:12:05",
     name: "Nicolle Diaz",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:12:42",
     end: "2023-01-21 20:12:42",
     name: "Nia Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:20:26",
     end: "2023-01-21 20:20:26",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:22:12",
     end: "2023-01-21 20:22:12",
-    name: "Emily Ma",
+    name: "Emily Mashqbeh",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:22:24",
     end: "2023-01-21 20:22:24",
     name: "Olamilekan Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:34:33",
     end: "2023-01-21 20:34:33",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:49:01",
     end: "2023-01-21 20:49:01",
     name: "Nailah Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 16:49:13",
     end: "2023-01-21 20:49:13",
     name: "Lynda Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 00:00:00",
     end: "2023-01-21 04:00:00",
     name: "Janet Lomax",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 00:00:00",
     end: "2023-01-21 04:00:00",
     name: "Obinna Nwokoro",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 00:00:00",
     end: "2023-01-21 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 00:00:00",
     end: "2023-01-21 04:00:00",
     name: "Rachel Lee",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 00:00:00",
     end: "2023-01-21 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-21 00:00:00", end: "2023-01-21 04:00:00", name: "Jackee" },
+  {
+    start: "2023-01-21 00:00:00",
+    end: "2023-01-21 04:00:00",
+    name: "Jackee",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-22 00:00:00",
     end: "2023-01-22 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-22 00:00:00", end: "2023-01-22 04:00:00", name: "Carla T" },
+  {
+    start: "2023-01-22 00:00:00",
+    end: "2023-01-22 04:00:00",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-21 00:00:00",
     end: "2023-01-21 04:00:00",
     name: "Theresa Columbus",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-21 00:00:00",
     end: "2023-01-21 04:00:00",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-21 00:00:00", end: "2023-01-21 04:00:00", name: "Angeles" },
+  {
+    start: "2023-01-21 00:00:00",
+    end: "2023-01-21 04:00:00",
+    name: "Angeles",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-22 15:07:26",
     end: "2023-01-22 19:07:26",
     name: "Theresa Keil",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-22 15:12:40",
     end: "2023-01-22 19:12:40",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-22 15:15:28",
     end: "2023-01-22 19:15:28",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-22 15:15:39",
     end: "2023-01-22 19:15:39",
     name: "Michael Ford",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-22 15:17:49",
     end: "2023-01-22 19:17:49",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-22 16:20:50",
     end: "2023-01-22 20:20:50",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-24 16:25:32",
     end: "2023-01-24 20:25:32",
     name: "Rosemary Hendricks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-24 16:26:20",
     end: "2023-01-24 20:26:20",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-24 16:26:44",
     end: "2023-01-24 20:26:44",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-24 16:27:24",
     end: "2023-01-24 20:27:24",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-24 16:27:54",
     end: "2023-01-24 20:27:54",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-24 16:40:36", end: "2023-01-24 20:40:36", name: "Jean" },
+  {
+    start: "2023-01-24 16:40:36",
+    end: "2023-01-24 20:40:36",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-25 00:00:00",
     end: "2023-01-25 04:00:00",
     name: "Doris Parker Tuggle",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-25 00:00:00",
     end: "2023-01-25 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-25 00:00:00",
     end: "2023-01-25 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-25 00:00:00",
     end: "2023-01-25 04:00:00",
     name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-25 00:00:00",
     end: "2023-01-25 04:00:00",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-25 00:00:00",
     end: "2023-01-25 04:00:00",
     name: "Charity Hsu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-25 20:41:54",
     end: "2023-01-26 00:41:54",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-26 16:39:03",
     end: "2023-01-26 20:39:03",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-26 16:39:50", end: "2023-01-26 20:39:50", name: "Jean" },
+  {
+    start: "2023-01-26 16:39:50",
+    end: "2023-01-26 20:39:50",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-27 00:00:00",
     end: "2023-01-27 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-27 00:00:00",
     end: "2023-01-27 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-27 16:50:06",
     end: "2023-01-27 20:50:06",
     name: "Nailah Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-27 16:50:24",
     end: "2023-01-27 20:50:24",
     name: "Jonyce Bland",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 00:00:00",
     end: "2023-01-28 04:00:00",
     name: "Karla Alexander",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 00:00:00",
     end: "2023-01-28 04:00:00",
     name: "Cheryl Utsey",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 00:00:00",
     end: "2023-01-28 04:00:00",
     name: "Janet Lomax",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 00:00:00",
     end: "2023-01-28 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 00:00:00",
     end: "2023-01-28 04:00:00",
     name: "Justin Maduka",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-28 00:00:00", end: "2023-01-28 04:00:00", name: "Angeles" },
+  {
+    start: "2023-01-28 00:00:00",
+    end: "2023-01-28 04:00:00",
+    name: "Angeles",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-28 00:00:00",
     end: "2023-01-28 04:00:00",
     name: "Gilda Castillo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 00:00:00",
     end: "2023-01-28 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:08:23",
     end: "2023-01-28 20:08:23",
     name: "Nicolle Diaz",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:09:53",
     end: "2023-01-28 20:09:53",
     name: "Harris Malik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:12:38",
     end: "2023-01-28 20:12:38",
     name: "Jasmine Rose",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:13:23",
     end: "2023-01-28 20:13:23",
     name: "Ngozi Douglas",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:13:24",
     end: "2023-01-28 20:13:24",
     name: "Tsion Getahun",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:13:42",
     end: "2023-01-28 20:13:42",
     name: "Daphnie Sumah",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:14:54",
     end: "2023-01-28 20:14:54",
     name: "Arezou Esmaeeli",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:15:27",
     end: "2023-01-28 20:15:27",
     name: "Nia Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:15:42",
     end: "2023-01-28 20:15:42",
     name: "Abisola Adeusi",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:16:36",
     end: "2023-01-28 20:16:36",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:17:12",
     end: "2023-01-28 20:17:12",
     name: "Jonyce Bland",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:17:29",
     end: "2023-01-28 20:17:29",
     name: "Kamryn Brown",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:18:47",
     end: "2023-01-28 20:18:47",
     name: "Jade Weatherington",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:20:15",
     end: "2023-01-28 20:20:15",
     name: "Rewa Hazim",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:21:37",
     end: "2023-01-28 20:21:37",
     name: "Azel King",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:23:27",
     end: "2023-01-28 20:23:27",
     name: "Connor Lu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:24:28",
     end: "2023-01-28 20:24:28",
     name: "Obinna Nwokoro",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:24:28",
     end: "2023-01-28 20:24:28",
     name: "Benjamin Hung",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:26:31",
     end: "2023-01-28 20:26:31",
     name: "Jessica Martin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:29:04",
     end: "2023-01-28 20:29:04",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-28 16:41:53",
     end: "2023-01-28 20:41:53",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-29 00:00:00",
     end: "2023-01-29 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-29 15:45:39", end: "2023-01-29 19:45:39", name: "Carla T" },
+  {
+    start: "2023-01-29 15:45:39",
+    end: "2023-01-29 19:45:39",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-29 15:49:52",
     end: "2023-01-29 19:49:52",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-29 16:08:10", end: "2023-01-29 20:08:10", name: "Zoe" },
+  {
+    start: "2023-01-29 16:08:10",
+    end: "2023-01-29 20:08:10",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-29 16:08:43",
     end: "2023-01-29 20:08:43",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-31 00:00:00",
     end: "2023-01-31 04:00:00",
     name: "Rosemary Hendricks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-31 00:00:00",
     end: "2023-01-31 04:00:00",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-01-31 15:43:22", end: "2023-01-31 19:43:22", name: "Jean" },
+  {
+    start: "2023-01-31 15:43:22",
+    end: "2023-01-31 19:43:22",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-01-31 15:47:33",
     end: "2023-01-31 19:47:33",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-31 15:48:37",
     end: "2023-01-31 19:48:37",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-01-31 15:52:32",
     end: "2023-01-31 19:52:32",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-01 00:00:00",
     end: "2023-02-01 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-01 16:27:39",
     end: "2023-02-01 20:27:39",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-01 16:27:56",
     end: "2023-02-01 20:27:56",
     name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-01 17:01:01",
     end: "2023-02-01 21:01:01",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-01 17:30:02",
     end: "2023-02-01 21:30:02",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-01 00:00:00",
     end: "2023-02-01 04:00:00",
     name: "Charity Hsu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-01 00:00:00",
     end: "2023-02-01 04:00:00",
     name: "Olamilekan Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-01 20:46:37",
     end: "2023-02-02 00:46:37",
     name: "Maddie Pardes",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-01 20:55:53",
     end: "2023-02-02 00:55:53",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-02 16:39:00",
     end: "2023-02-02 20:39:00",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-02 16:44:59",
     end: "2023-02-02 20:44:59",
     name: "Emily Zhang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-02 16:47:52",
     end: "2023-02-02 20:47:52",
-    name: "Amy Xing ",
+    name: "Amy Xing",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-02 00:00:00",
     end: "2023-02-02 04:00:00",
     name: "Julia Buckson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-02 19:20:20",
     end: "2023-02-02 23:20:20",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-02 19:20:32", end: "2023-02-02 23:20:32", name: "Aziza" },
+  {
+    start: "2023-02-02 19:20:32",
+    end: "2023-02-02 23:20:32",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-02 19:21:25",
     end: "2023-02-02 23:21:25",
     name: "Melissa Thomas",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-03 16:47:49",
     end: "2023-02-03 20:47:49",
     name: "Kamryn Brown",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-03 16:51:16",
     end: "2023-02-03 20:51:16",
     name: "Emily Zhang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-03 16:51:49",
     end: "2023-02-03 20:51:49",
     name: "Ellen Cho",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-04 16:35:37", end: "2023-02-04 20:35:37", name: "Sara B" },
+  {
+    start: "2023-02-04 16:35:37",
+    end: "2023-02-04 20:35:37",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-04 16:36:47",
     end: "2023-02-04 20:36:47",
     name: "Nicolle Diaz",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 16:38:03",
     end: "2023-02-04 20:38:03",
     name: "Jasmine Rose",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 16:39:36",
     end: "2023-02-04 20:39:36",
     name: "Gilda Castillo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 16:40:26",
     end: "2023-02-04 20:40:26",
     name: "Abisola Adeusi",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 16:40:47",
     end: "2023-02-04 20:40:47",
     name: "Evelyn Jiang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 16:42:33",
     end: "2023-02-04 20:42:33",
     name: "Rachel Oh",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 16:43:23",
     end: "2023-02-04 20:43:23",
     name: "Josefina Aguilar-Pliszka",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 16:45:35",
     end: "2023-02-04 20:45:35",
     name: "Nidhi Batra",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 16:46:57",
     end: "2023-02-04 20:46:57",
     name: "Faith Obilo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 16:48:08",
     end: "2023-02-04 20:48:08",
     name: "Elianna Perlman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 17:11:34",
     end: "2023-02-04 21:11:34",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 17:45:57",
     end: "2023-02-04 21:45:57",
     name: "Xinyue Gu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-04 00:00:00", end: "2023-02-04 04:00:00", name: "Charlie" },
+  {
+    start: "2023-02-04 00:00:00",
+    end: "2023-02-04 04:00:00",
+    name: "Charlie",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-04 00:00:00",
     end: "2023-02-04 04:00:00",
     name: "Thomas Aloisi",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-04 00:00:00",
     end: "2023-02-04 04:00:00",
     name: "Brandon Clark",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-04 00:00:00", end: "2023-02-04 04:00:00", name: "Angeles" },
+  {
+    start: "2023-02-04 00:00:00",
+    end: "2023-02-04 04:00:00",
+    name: "Angeles",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-05 15:14:26",
     end: "2023-02-05 19:14:26",
     name: "Michael Ford",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-05 15:17:58",
     end: "2023-02-05 19:17:58",
     name: "Anita Bryant",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-05 15:18:27",
     end: "2023-02-05 19:18:27",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-05 15:19:31",
     end: "2023-02-05 19:19:31",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-05 15:19:36", end: "2023-02-05 19:19:36", name: "Zoe" },
+  {
+    start: "2023-02-05 15:19:36",
+    end: "2023-02-05 19:19:36",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-05 15:23:00",
     end: "2023-02-05 19:23:00",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-05 15:24:29", end: "2023-02-05 19:24:29", name: "Yulia" },
+  {
+    start: "2023-02-05 15:24:29",
+    end: "2023-02-05 19:24:29",
+    name: "Yulia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-05 00:00:00",
     end: "2023-02-05 04:00:00",
     name: "Linda Arce",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-05 00:00:00", end: "2023-02-05 04:00:00", name: "Carla T" },
+  {
+    start: "2023-02-05 00:00:00",
+    end: "2023-02-05 04:00:00",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-05 00:00:00",
     end: "2023-02-05 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-07 16:30:19",
     end: "2023-02-07 20:30:19",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-07 16:30:51",
     end: "2023-02-07 20:30:51",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-07 16:32:16",
     end: "2023-02-07 20:32:16",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-07 16:43:15",
     end: "2023-02-07 20:43:15",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-08 16:52:23",
     end: "2023-02-08 20:52:23",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-08 00:00:00",
     end: "2023-02-08 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-08 00:00:00",
     end: "2023-02-08 04:00:00",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-08 00:00:00", end: "2023-02-08 04:00:00", name: "Sarah K" },
+  {
+    start: "2023-02-08 00:00:00",
+    end: "2023-02-08 04:00:00",
+    name: "Sarah Krensky",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-08 19:30:32",
     end: "2023-02-08 23:30:32",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-08 19:38:03",
     end: "2023-02-08 23:38:03",
     name: "Obinna Nwokoro",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-08 19:38:08",
     end: "2023-02-08 23:38:08",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-08 19:38:57",
     end: "2023-02-08 23:38:57",
     name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-08 00:00:00",
     end: "2023-02-08 04:00:00",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-08 00:00:00",
     end: "2023-02-08 04:00:00",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-08 00:00:00",
     end: "2023-02-08 04:00:00",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-09 15:29:31",
     end: "2023-02-09 19:29:31",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-09 19:50:21",
     end: "2023-02-09 23:50:21",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-10 15:46:19",
     end: "2023-02-10 19:46:19",
     name: "Kira Branch",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-10 15:46:49",
     end: "2023-02-10 19:46:49",
     name: "Xiomara Rodriguez",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-10 15:57:26",
     end: "2023-02-10 19:57:26",
     name: "Beth Torres",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 00:00:00",
     end: "2023-02-11 04:00:00",
     name: "Kelly Chen",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 12:24:56",
     end: "2023-02-11 16:24:56",
     name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 14:59:50",
     end: "2023-02-11 18:59:50",
     name: "Kira Branch",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 15:02:26",
     end: "2023-02-11 19:02:26",
     name: "Katherine Wang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 15:03:08",
     end: "2023-02-11 19:03:08",
     name: "Liam Stewart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 15:04:36",
     end: "2023-02-11 19:04:36",
     name: "Cameron Minor",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 15:07:48",
     end: "2023-02-11 19:07:48",
     name: "Jayla Butler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 15:09:05",
     end: "2023-02-11 19:09:05",
     name: "Justin Zhong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 15:24:00",
     end: "2023-02-11 19:24:00",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 15:43:50",
     end: "2023-02-11 19:43:50",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 15:45:24",
     end: "2023-02-11 19:45:24",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 00:00:00",
     end: "2023-02-11 04:00:00",
     name: "Claire Kim",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 00:00:00",
     end: "2023-02-11 04:00:00",
     name: "Ariel Li",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 00:00:00",
     end: "2023-02-11 04:00:00",
     name: "Kyle Cooper",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 00:00:00",
     end: "2023-02-11 04:00:00",
     name: "Brian Min",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-11 00:00:00",
     end: "2023-02-11 04:00:00",
     name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-12 14:57:12", end: "2023-02-12 18:57:12", name: "Dorja" },
+  {
+    start: "2023-02-12 14:57:12",
+    end: "2023-02-12 18:57:12",
+    name: "Dorja",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-12 14:57:21",
     end: "2023-02-12 18:57:21",
     name: "Treston Codrington",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-12 14:57:56",
     end: "2023-02-12 18:57:56",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-12 14:58:34",
     end: "2023-02-12 18:58:34",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-12 15:00:39",
     end: "2023-02-12 19:00:39",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-12 15:05:37", end: "2023-02-12 19:05:37", name: "Zoe" },
+  {
+    start: "2023-02-12 15:05:37",
+    end: "2023-02-12 19:05:37",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-12 00:00:00",
     end: "2023-02-12 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-12 00:00:00",
     end: "2023-02-12 04:00:00",
     name: "Denise Rivers",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-12 00:00:00",
     end: "2023-02-12 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-14 14:18:48", end: "2023-02-14 18:18:48", name: "Jean" },
+  {
+    start: "2023-02-14 14:18:48",
+    end: "2023-02-14 18:18:48",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-14 15:47:07",
     end: "2023-02-14 19:47:07",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-14 15:47:13",
     end: "2023-02-14 19:47:13",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-14 15:50:52",
     end: "2023-02-14 19:50:52",
     name: "Rosemary Hendricks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-14 15:51:16",
     end: "2023-02-14 19:51:16",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-14 16:03:55",
     end: "2023-02-14 20:03:55",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-14 00:00:00",
     end: "2023-02-14 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-15 00:00:00",
     end: "2023-02-15 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-15 19:39:14",
     end: "2023-02-15 23:39:14",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-15 19:42:37",
     end: "2023-02-15 23:42:37",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-15 19:44:49",
     end: "2023-02-15 23:44:49",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-15 19:48:29",
     end: "2023-02-15 23:48:29",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-16 16:20:42",
     end: "2023-02-16 20:20:42",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-16 16:31:56",
     end: "2023-02-16 20:31:56",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-16 19:29:12", end: "2023-02-16 23:29:12", name: "Aziza" },
+  {
+    start: "2023-02-16 19:29:12",
+    end: "2023-02-16 23:29:12",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-16 19:30:42",
     end: "2023-02-16 23:30:42",
     name: "Nathaniel McClean",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-16 00:00:00", end: "2023-02-16 04:00:00", name: "Jean" },
+  {
+    start: "2023-02-16 00:00:00",
+    end: "2023-02-16 04:00:00",
+    name: "Jean",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-16 00:00:00",
     end: "2023-02-16 04:00:00",
     name: "Melissa Thomas",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-16 00:00:00",
     end: "2023-02-16 04:00:00",
     name: "Julia Buckson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-17 16:15:25",
     end: "2023-02-17 20:15:25",
     name: "Xiomara Rodriguez",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-17 16:18:46",
     end: "2023-02-17 20:18:46",
     name: "Beth Torres",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-17 16:43:42",
     end: "2023-02-17 20:43:42",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-17 17:15:01",
     end: "2023-02-17 21:15:01",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-17 00:00:00",
     end: "2023-02-17 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-17 00:00:00",
     end: "2023-02-17 04:00:00",
     name: "Jack Bellows",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 15:51:22",
     end: "2023-02-18 19:51:22",
     name: "Jasmine Rose",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 15:51:51",
     end: "2023-02-18 19:51:51",
     name: "Evelyn Jiang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-18 15:56:48", end: "2023-02-18 19:56:48", name: "Sara B" },
+  {
+    start: "2023-02-18 15:56:48",
+    end: "2023-02-18 19:56:48",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-18 15:59:23",
     end: "2023-02-18 19:59:23",
     name: "Nastaran Keshmiri",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 15:59:24",
     end: "2023-02-18 19:59:24",
     name: "Nathan So",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:00:21",
     end: "2023-02-18 20:00:21",
     name: "Nailah Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:00:50",
     end: "2023-02-18 20:00:50",
     name: "Jonyce Bland",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:05:35",
     end: "2023-02-18 20:05:35",
     name: "David Annan",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:05:35",
     end: "2023-02-18 20:05:35",
     name: "Daryan Fisher",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:07:07",
     end: "2023-02-18 20:07:07",
     name: "Rachel Oh",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:07:19",
     end: "2023-02-18 20:07:19",
     name: "Daniel Jin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:07:49",
     end: "2023-02-18 20:07:49",
     name: "Safeer Rasul",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:08:09",
     end: "2023-02-18 20:08:09",
     name: "Jade Weatherington",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:08:52",
     end: "2023-02-18 20:08:52",
     name: "Imani Armour",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:10:21",
     end: "2023-02-18 20:10:21",
     name: "Akul Umamageswaran",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:10:27",
     end: "2023-02-18 20:10:27",
     name: "Katherine Xiao",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:10:39",
     end: "2023-02-18 20:10:39",
     name: "Josefina Aguilar-Pliszka",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:25:02",
     end: "2023-02-18 20:25:02",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 16:31:03",
     end: "2023-02-18 20:31:03",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-18 18:05:55", end: "2023-02-18 22:05:55", name: "Sharon" },
+  {
+    start: "2023-02-18 18:05:55",
+    end: "2023-02-18 22:05:55",
+    name: "Sharon",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-18 00:00:00",
     end: "2023-02-18 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-18 00:00:00",
     end: "2023-02-18 04:00:00",
     name: "Lee Little",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-19 14:48:42", end: "2023-02-19 18:48:42", name: "Carla T" },
+  {
+    start: "2023-02-19 14:48:42",
+    end: "2023-02-19 18:48:42",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-19 15:11:41",
     end: "2023-02-19 19:11:41",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-19 15:14:48",
     end: "2023-02-19 19:14:48",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-19 15:19:49", end: "2023-02-19 19:19:49", name: "Zoe" },
+  {
+    start: "2023-02-19 15:19:49",
+    end: "2023-02-19 19:19:49",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-19 15:20:58",
     end: "2023-02-19 19:20:58",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-19 15:56:20",
     end: "2023-02-19 19:56:20",
     name: "Obinna Nwokoro",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-19 15:57:06",
     end: "2023-02-19 19:57:06",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-21 16:00:25",
     end: "2023-02-21 20:00:25",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-21 16:00:37",
     end: "2023-02-21 20:00:37",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-21 16:01:10",
     end: "2023-02-21 20:01:10",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-21 16:01:12",
     end: "2023-02-21 20:01:12",
     name: "Rosemary Hendricks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-21 16:16:24",
     end: "2023-02-21 20:16:24",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-22 16:47:55",
     end: "2023-02-22 20:47:55",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-22 17:15:43",
     end: "2023-02-22 21:15:43",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-22 19:42:02",
     end: "2023-02-22 23:42:02",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-22 19:45:09",
     end: "2023-02-22 23:45:09",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-22 20:02:37",
     end: "2023-02-23 00:02:37",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-23 00:00:00",
     end: "2023-02-23 04:00:00",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-23 00:00:00",
     end: "2023-02-23 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-24 16:46:11",
     end: "2023-02-24 20:46:11",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-24 00:00:00",
     end: "2023-02-24 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:03:09",
     end: "2023-02-25 20:03:09",
     name: "Jasmine Rose",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:04:33",
     end: "2023-02-25 20:04:33",
     name: "Xinyue Gu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:04:50",
     end: "2023-02-25 20:04:50",
     name: "Katherine Xiao",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:04:58",
     end: "2023-02-25 20:04:58",
     name: "Trinity Burge",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:05:14",
     end: "2023-02-25 20:05:14",
     name: "Liam Stewart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:05:34",
     end: "2023-02-25 20:05:34",
     name: "Claire Kim",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:07:01",
     end: "2023-02-25 20:07:01",
     name: "Justin Zhong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:08:29",
     end: "2023-02-25 20:08:29",
     name: "Ariel Li",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:09:17",
     end: "2023-02-25 20:09:17",
     name: "Zanya Jamieson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:18:54",
     end: "2023-02-25 20:18:54",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 16:20:16",
     end: "2023-02-25 20:20:16",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 00:00:00",
     end: "2023-02-25 04:00:00",
     name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-25 00:00:00",
     end: "2023-02-25 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-26 15:05:46",
     end: "2023-02-26 19:05:46",
     name: "Michael Ford",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-26 15:08:09", end: "2023-02-26 19:08:09", name: "Zoe" },
+  {
+    start: "2023-02-26 15:08:09",
+    end: "2023-02-26 19:08:09",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-26 15:09:42",
     end: "2023-02-26 19:09:42",
     name: "Obinna Nwokoro",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-26 15:11:45",
     end: "2023-02-26 19:11:45",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-26 15:27:00",
     end: "2023-02-26 19:27:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-26 00:00:00",
     end: "2023-02-26 04:00:00",
     name: "Meredith Snow",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-02-26 00:00:00", end: "2023-02-26 04:00:00", name: "Katelyn" },
+  {
+    start: "2023-02-26 00:00:00",
+    end: "2023-02-26 04:00:00",
+    name: "Katelyn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-02-26 17:50:16",
     end: "2023-02-26 21:50:16",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-28 16:45:25",
     end: "2023-02-28 20:45:25",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-28 16:45:43",
     end: "2023-02-28 20:45:43",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-02-28 16:46:53",
     end: "2023-02-28 20:46:53",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-01 13:59:16",
     end: "2023-03-01 17:59:16",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-01 16:49:04",
     end: "2023-03-01 20:49:04",
     name: "David Ondande",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-01 16:53:05",
     end: "2023-03-01 20:53:05",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-01 19:05:43",
     end: "2023-03-01 23:05:43",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-01 19:05:46",
     end: "2023-03-01 23:05:46",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-01 19:07:13",
     end: "2023-03-01 23:07:13",
     name: "Maddie Pardes",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-01 19:07:49",
     end: "2023-03-01 23:07:49",
     name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-01 19:08:22",
     end: "2023-03-01 23:08:22",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-01 00:00:00",
     end: "2023-03-01 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-02 17:00:20",
     end: "2023-03-02 21:00:20",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-02 00:00:00",
     end: "2023-03-02 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-02 00:00:00",
     end: "2023-03-02 04:00:00",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-02 00:00:00", end: "2023-03-02 04:00:00", name: "Aziza" },
+  {
+    start: "2023-03-02 00:00:00",
+    end: "2023-03-02 04:00:00",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-02 00:00:00",
     end: "2023-03-02 04:00:00",
     name: "Nathaniel McClean",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-03 17:12:14",
     end: "2023-03-03 21:12:14",
     name: "Nastaran Keshmiri",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 15:55:41",
     end: "2023-03-04 19:55:41",
     name: "Jonyce Bland",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 15:56:05",
     end: "2023-03-04 19:56:05",
     name: "Nailah Bishop",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 15:56:22",
     end: "2023-03-04 19:56:22",
     name: "Nicolle Diaz",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 15:57:12",
     end: "2023-03-04 19:57:12",
     name: "Nathan So",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 16:00:14",
     end: "2023-03-04 20:00:14",
     name: "William Middlezong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 16:01:06",
     end: "2023-03-04 20:01:06",
     name: "Justin Zhong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 16:02:48",
     end: "2023-03-04 20:02:48",
     name: "Katherine Xiao",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 16:03:03",
     end: "2023-03-04 20:03:03",
     name: "Jasmine Rose",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 16:05:47",
     end: "2023-03-04 20:05:47",
     name: "Cameron Minor",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 16:06:42",
     end: "2023-03-04 20:06:42",
     name: "Adebola Akinwale",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 16:06:53",
     end: "2023-03-04 20:06:53",
     name: "Kelly Crawford",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 16:14:18",
     end: "2023-03-04 20:14:18",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 16:14:23",
     end: "2023-03-04 20:14:23",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 00:00:00",
     end: "2023-03-04 04:00:00",
     name: "Trinity Burge",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-04 00:00:00", end: "2023-03-04 04:00:00", name: "Sarah K" },
+  {
+    start: "2023-03-04 00:00:00",
+    end: "2023-03-04 04:00:00",
+    name: "Sarah Krensky",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-04 00:00:00",
     end: "2023-03-04 04:00:00",
     name: "Rachel H",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 00:00:00",
     end: "2023-03-04 04:00:00",
     name: "Mackenzie",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-04 00:00:00", end: "2023-03-04 04:00:00", name: "Erin B" },
+  {
+    start: "2023-03-04 00:00:00",
+    end: "2023-03-04 04:00:00",
+    name: "Erin B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-04 00:00:00",
     end: "2023-03-04 04:00:00",
     name: "Xinyue Gu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-04 00:00:00",
     end: "2023-03-04 04:00:00",
     name: "Luke Pitsenbarger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-05 15:31:57",
     end: "2023-03-05 19:31:57",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-05 15:34:46", end: "2023-03-05 19:34:46", name: "Jackie" },
+  {
+    start: "2023-03-05 15:34:46",
+    end: "2023-03-05 19:34:46",
+    name: "Jackie",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-05 23:34:00",
     end: "2023-03-06 03:34:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-07 16:30:49",
     end: "2023-03-07 20:30:49",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-07 16:31:52",
     end: "2023-03-07 20:31:52",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-07 16:33:41",
     end: "2023-03-07 20:33:41",
     name: "Rosemary Hendricks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-07 16:34:56",
     end: "2023-03-07 20:34:56",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-07 16:36:38",
     end: "2023-03-07 20:36:38",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-08 12:30:47",
     end: "2023-03-08 16:30:47",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-08 17:16:07",
     end: "2023-03-08 21:16:07",
     name: "David Ondande",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-08 17:36:34",
     end: "2023-03-08 21:36:34",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-08 00:00:00", end: "2023-03-08 04:00:00", name: "Sarah K" },
+  {
+    start: "2023-03-08 00:00:00",
+    end: "2023-03-08 04:00:00",
+    name: "Sarah Krensky",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-08 17:48:15",
     end: "2023-03-08 21:48:15",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-08 00:00:00",
     end: "2023-03-08 04:00:00",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-08 00:00:00", end: "2023-03-08 04:00:00", name: "Latease" },
+  {
+    start: "2023-03-08 00:00:00",
+    end: "2023-03-08 04:00:00",
+    name: "Latease",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-08 00:00:00",
     end: "2023-03-08 04:00:00",
     name: "Maddie Pardes",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-08 00:00:00", end: "2023-03-08 04:00:00", name: "Gregory" },
+  {
+    start: "2023-03-08 00:00:00",
+    end: "2023-03-08 04:00:00",
+    name: "Gregory",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-08 20:44:47",
     end: "2023-03-09 00:44:47",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-09 16:36:21",
     end: "2023-03-09 20:36:21",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-09 16:45:37",
     end: "2023-03-09 20:45:37",
     name: "David Ondande",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-09 19:23:55",
     end: "2023-03-09 23:23:55",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-09 19:24:07", end: "2023-03-09 23:24:07", name: "Sara B" },
-  { start: "2023-03-09 19:25:51", end: "2023-03-09 23:25:51", name: "Aziza" },
+  {
+    start: "2023-03-09 19:24:07",
+    end: "2023-03-09 23:24:07",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-03-09 19:25:51",
+    end: "2023-03-09 23:25:51",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-09 19:31:22",
     end: "2023-03-09 23:31:22",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-09 00:00:00",
     end: "2023-03-09 04:00:00",
     name: "Nathaniel McClean",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-10 17:15:25",
     end: "2023-03-10 21:15:25",
     name: "Beth Torres",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-10 17:21:32",
     end: "2023-03-10 21:21:32",
     name: "David Ondande",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-10 17:23:01",
     end: "2023-03-10 21:23:01",
     name: "Daniel Huff",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-10 00:00:00",
     end: "2023-03-10 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-10 00:00:00", end: "2023-03-10 04:00:00", name: "Roxane" },
+  {
+    start: "2023-03-10 00:00:00",
+    end: "2023-03-10 04:00:00",
+    name: "Roxane",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-11 16:45:04",
     end: "2023-03-11 20:45:04",
     name: "Daniel Jin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:47:55",
     end: "2023-03-11 20:47:55",
     name: "Justin Huang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:48:06",
     end: "2023-03-11 20:48:06",
     name: "Rewa Hazim",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:48:16",
     end: "2023-03-11 20:48:16",
     name: "Jade Weatherington",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:48:56",
     end: "2023-03-11 20:48:56",
     name: "Claire Ahn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:49:06",
     end: "2023-03-11 20:49:06",
     name: "Prabhleen",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:49:47",
     end: "2023-03-11 20:49:47",
     name: "Kelly Crawford",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:50:14",
     end: "2023-03-11 20:50:14",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:51:07",
     end: "2023-03-11 20:51:07",
     name: "Connor Lu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:54:29",
     end: "2023-03-11 20:54:29",
     name: "Meghan Alexis",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:55:32",
     end: "2023-03-11 20:55:32",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 16:55:54",
     end: "2023-03-11 20:55:54",
     name: "Imani Armour",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 17:06:55",
     end: "2023-03-11 21:06:55",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-11 00:00:00",
     end: "2023-03-11 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-11 00:00:00", end: "2023-03-11 04:00:00", name: "Leap" },
   {
     start: "2023-03-11 00:00:00",
     end: "2023-03-11 04:00:00",
-    name: "Emily Ma",
+    name: "Leap",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-12 15:20:59", end: "2023-03-12 19:20:59", name: "Carla T" },
+  {
+    start: "2023-03-11 00:00:00",
+    end: "2023-03-11 04:00:00",
+    name: "Emily Mashqbeh",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-03-12 15:20:59",
+    end: "2023-03-12 19:20:59",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-12 15:29:08",
     end: "2023-03-12 19:29:08",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-12 22:15:05",
     end: "2023-03-13 02:15:05",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-12 00:00:00", end: "2023-03-12 04:00:00", name: "Yulia" },
-  { start: "2023-03-12 00:00:00", end: "2023-03-12 04:00:00", name: "Yulia" },
+  {
+    start: "2023-03-12 00:00:00",
+    end: "2023-03-12 04:00:00",
+    name: "Yulia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-03-12 00:00:00",
+    end: "2023-03-12 04:00:00",
+    name: "Yulia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-12 00:00:00",
     end: "2023-03-12 04:00:00",
     name: "Obinna Nwokoro",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-12 00:00:00",
     end: "2023-03-12 04:00:00",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-14 16:06:58",
     end: "2023-03-14 20:06:58",
     name: "Rosemary Hendricks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-14 16:08:03",
     end: "2023-03-14 20:08:03",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-14 16:09:24",
     end: "2023-03-14 20:09:24",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-14 16:11:22",
     end: "2023-03-14 20:11:22",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-14 16:13:12",
     end: "2023-03-14 20:13:12",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-15 00:00:00",
     end: "2023-03-15 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-15 16:44:04",
     end: "2023-03-15 20:44:04",
     name: "Martina Pozzi",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-15 16:47:31",
     end: "2023-03-15 20:47:31",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-15 19:54:28",
     end: "2023-03-15 23:54:28",
     name: "Maddie Pardes",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-15 19:54:42",
     end: "2023-03-15 23:54:42",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-15 20:00:39",
     end: "2023-03-16 00:00:39",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-15 00:00:00", end: "2023-03-15 04:00:00", name: "Latease" },
-  { start: "2023-03-15 00:00:00", end: "2023-03-15 04:00:00", name: "Gregory" },
+  {
+    start: "2023-03-15 00:00:00",
+    end: "2023-03-15 04:00:00",
+    name: "Latease",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-03-15 00:00:00",
+    end: "2023-03-15 04:00:00",
+    name: "Gregory",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-16 16:18:09",
     end: "2023-03-16 20:18:09",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-16 00:00:00", end: "2023-03-16 04:00:00", name: "Andy" },
+  {
+    start: "2023-03-16 00:00:00",
+    end: "2023-03-16 04:00:00",
+    name: "Andy Levin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-16 00:00:00",
     end: "2023-03-16 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-16 19:59:39",
     end: "2023-03-16 23:59:39",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-17 00:00:00",
     end: "2023-03-17 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-17 16:47:25",
     end: "2023-03-17 20:47:25",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-18 16:11:58",
     end: "2023-03-18 20:11:58",
     name: "Trinity Burge",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-18 16:14:53",
     end: "2023-03-18 20:14:53",
     name: "Zyare Abdul-Rahim",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-18 16:44:58",
     end: "2023-03-18 20:44:58",
     name: "Arjun Yogaratnam",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-18 16:45:02",
     end: "2023-03-18 20:45:02",
     name: "Nathan So",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-18 16:45:28",
     end: "2023-03-18 20:45:28",
     name: "Luke Pitsenbarger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-18 16:49:21",
     end: "2023-03-18 20:49:21",
     name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-18 16:50:31",
     end: "2023-03-18 20:50:31",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-18 16:55:17",
     end: "2023-03-18 20:55:17",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-19 15:19:33", end: "2023-03-19 19:19:33", name: "Carla T" },
+  {
+    start: "2023-03-19 15:19:33",
+    end: "2023-03-19 19:19:33",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-19 15:28:51",
     end: "2023-03-19 19:28:51",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-19 15:32:28",
     end: "2023-03-19 19:32:28",
     name: "Treston Codrington",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-19 15:35:21",
     end: "2023-03-19 19:35:21",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-19 15:37:08",
     end: "2023-03-19 19:37:08",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-19 15:41:36", end: "2023-03-19 19:41:36", name: "Yulia" },
+  {
+    start: "2023-03-19 15:41:36",
+    end: "2023-03-19 19:41:36",
+    name: "Yulia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-19 15:43:24",
     end: "2023-03-19 19:43:24",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-19 16:15:44", end: "2023-03-19 20:15:44", name: "Zoe" },
+  {
+    start: "2023-03-19 16:15:44",
+    end: "2023-03-19 20:15:44",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-21 16:31:52",
     end: "2023-03-21 20:31:52",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-21 16:32:13",
     end: "2023-03-21 20:32:13",
     name: "Rosemary Hendricks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-21 16:33:00",
     end: "2023-03-21 20:33:00",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-21 16:42:59",
     end: "2023-03-21 20:42:59",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-21 16:46:06",
     end: "2023-03-21 20:46:06",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-22 17:02:15",
     end: "2023-03-22 21:02:15",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-22 00:00:00", end: "2023-03-22 04:00:00", name: "Sarah K" },
+  {
+    start: "2023-03-22 00:00:00",
+    end: "2023-03-22 04:00:00",
+    name: "Sarah Krensky",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-22 20:59:12",
     end: "2023-03-23 00:59:12",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-22 20:59:25",
     end: "2023-03-23 00:59:25",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-22 21:05:02",
     end: "2023-03-23 01:05:02",
     name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-23 16:16:02",
     end: "2023-03-23 20:16:02",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-23 20:14:45", end: "2023-03-24 00:14:45", name: "Aziza" },
+  {
+    start: "2023-03-23 20:14:45",
+    end: "2023-03-24 00:14:45",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-23 20:14:58",
     end: "2023-03-24 00:14:58",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-23 00:00:00", end: "2023-03-23 04:00:00", name: "Andy" },
+  {
+    start: "2023-03-23 00:00:00",
+    end: "2023-03-23 04:00:00",
+    name: "Andy Levin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-23 20:21:14",
     end: "2023-03-24 00:21:14",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-24 20:23:39",
     end: "2023-03-25 00:23:39",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-24 00:00:00",
     end: "2023-03-24 04:00:00",
     name: "Theresa Columbus",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-25 16:55:51",
     end: "2023-03-25 20:55:51",
     name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-25 16:58:07",
     end: "2023-03-25 20:58:07",
     name: "Jasmine Rose",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-25 16:59:02",
     end: "2023-03-25 20:59:02",
     name: "Cameron Minor",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-25 17:05:13",
     end: "2023-03-25 21:05:13",
-    name: "Emily Ma",
+    name: "Emily Mashqbeh",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-25 17:05:17",
     end: "2023-03-25 21:05:17",
     name: "Kelly Chen",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-25 00:00:00",
     end: "2023-03-25 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-25 17:15:46",
     end: "2023-03-25 21:15:46",
     name: "Tam Kelley",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-26 12:12:02",
     end: "2023-03-26 16:12:02",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-26 15:33:01", end: "2023-03-26 19:33:01", name: "Carla T" },
+  {
+    start: "2023-03-26 15:33:01",
+    end: "2023-03-26 19:33:01",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-26 16:04:30",
     end: "2023-03-26 20:04:30",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-26 16:17:27",
     end: "2023-03-26 20:17:27",
     name: "Obinna Nwokoro",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-26 16:18:43",
     end: "2023-03-26 20:18:43",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-26 16:18:46",
     end: "2023-03-26 20:18:46",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-26 00:00:00",
     end: "2023-03-26 04:00:00",
     name: "Denise Rivers",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-26 00:00:00", end: "2023-03-26 04:00:00", name: "Dorja" },
+  {
+    start: "2023-03-26 00:00:00",
+    end: "2023-03-26 04:00:00",
+    name: "Dorja",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-26 16:20:38",
     end: "2023-03-26 20:20:38",
     name: "Brandon Clark",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-28 16:42:04",
     end: "2023-03-28 20:42:04",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-28 16:43:01",
     end: "2023-03-28 20:43:01",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-28 16:43:28",
     end: "2023-03-28 20:43:28",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-29 17:05:49",
     end: "2023-03-29 21:05:49",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-29 18:38:58",
     end: "2023-03-29 22:38:58",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-29 20:27:25",
     end: "2023-03-30 00:27:25",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-29 20:29:39",
     end: "2023-03-30 00:29:39",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-29 20:29:42",
     end: "2023-03-30 00:29:42",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-29 20:30:36",
     end: "2023-03-30 00:30:36",
     name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-29 20:32:43",
     end: "2023-03-30 00:32:43",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-30 16:58:46",
     end: "2023-03-30 20:58:46",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-03-30 20:30:47", end: "2023-03-31 00:30:47", name: "Sara B" },
-  { start: "2023-03-30 00:00:00", end: "2023-03-30 04:00:00", name: "Andy" },
+  {
+    start: "2023-03-30 20:30:47",
+    end: "2023-03-31 00:30:47",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-03-30 00:00:00",
+    end: "2023-03-30 04:00:00",
+    name: "Andy Levin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-03-30 00:00:00",
     end: "2023-03-30 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-31 16:47:05",
     end: "2023-03-31 20:47:05",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-31 17:00:20",
     end: "2023-03-31 21:00:20",
     name: "Beth Torres",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-03-31 17:08:07",
     end: "2023-03-31 21:08:07",
     name: "Dean Sharif",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 16:03:25",
     end: "2023-04-01 20:03:25",
     name: "Jasmine Rose",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 16:33:10",
     end: "2023-04-01 20:33:10",
     name: "Sean Kwak",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 16:34:50",
     end: "2023-04-01 20:34:50",
     name: "Trinity Burge",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-01 16:37:11", end: "2023-04-01 20:37:11", name: "Waldo" },
+  {
+    start: "2023-04-01 16:37:11",
+    end: "2023-04-01 20:37:11",
+    name: "Waldo Alvarez",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-01 16:37:40",
     end: "2023-04-01 20:37:40",
     name: "Justin Zhong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 16:39:11",
     end: "2023-04-01 20:39:11",
     name: "Brendan Wille",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 16:41:17",
     end: "2023-04-01 20:41:17",
     name: "Kelly Crawford",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 16:41:48",
     end: "2023-04-01 20:41:48",
     name: "Emily Fitzpatrick",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 16:41:55",
     end: "2023-04-01 20:41:55",
     name: "Michael Yoo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 16:51:57",
     end: "2023-04-01 20:51:57",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 16:57:15",
     end: "2023-04-01 20:57:15",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 17:01:10",
     end: "2023-04-01 21:01:10",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-01 00:00:00", end: "2023-04-01 04:00:00", name: "Dimpy" },
+  {
+    start: "2023-04-01 00:00:00",
+    end: "2023-04-01 04:00:00",
+    name: "Dimpy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-01 00:00:00",
     end: "2023-04-01 04:00:00",
     name: "William Middlezong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 00:00:00",
     end: "2023-04-01 04:00:00",
     name: "Cameron Minor",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-01 00:00:00",
     end: "2023-04-01 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-02 15:36:10",
     end: "2023-04-02 19:36:10",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-02 15:40:32",
     end: "2023-04-02 19:40:32",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-02 15:41:05", end: "2023-04-02 19:41:05", name: "Zoe" },
+  {
+    start: "2023-04-02 15:41:05",
+    end: "2023-04-02 19:41:05",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-02 15:41:16",
     end: "2023-04-02 19:41:16",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-02 15:44:38",
     end: "2023-04-02 19:44:38",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-03 18:37:43",
     end: "2023-04-03 22:37:43",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-04 16:47:16",
     end: "2023-04-04 20:47:16",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-04 16:47:34",
     end: "2023-04-04 20:47:34",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-04 16:48:39",
     end: "2023-04-04 20:48:39",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-04 16:50:51",
     end: "2023-04-04 20:50:51",
     name: "Jan Kleinman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-04 16:56:41",
     end: "2023-04-04 20:56:41",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-04 00:00:00",
     end: "2023-04-04 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-05 20:28:34",
     end: "2023-04-06 00:28:34",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-05 20:31:51",
     end: "2023-04-06 00:31:51",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-05 20:36:37",
     end: "2023-04-06 00:36:37",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-05 23:22:47",
     end: "2023-04-06 03:22:47",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-05 00:00:00", end: "2023-04-05 04:00:00", name: "Sarah K" },
-  { start: "2023-04-05 00:00:00", end: "2023-04-05 04:00:00", name: "Latease" },
+  {
+    start: "2023-04-05 00:00:00",
+    end: "2023-04-05 04:00:00",
+    name: "Sarah Krensky",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-04-05 00:00:00",
+    end: "2023-04-05 04:00:00",
+    name: "Latease",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-06 00:00:00",
     end: "2023-04-06 04:00:00",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-07 16:55:21",
     end: "2023-04-07 20:55:21",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-07 00:00:00",
     end: "2023-04-07 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-08 16:28:54", end: "2023-04-08 20:28:54", name: "Zoe" },
+  {
+    start: "2023-04-08 16:28:54",
+    end: "2023-04-08 20:28:54",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-08 16:36:10",
     end: "2023-04-08 20:36:10",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 16:42:04",
     end: "2023-04-08 20:42:04",
     name: "Jasmine Jones-Howard",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 16:42:40",
     end: "2023-04-08 20:42:40",
     name: "Takiya Eastmond",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:05:09",
     end: "2023-04-08 21:05:09",
     name: "Iyana Gross",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:14:21",
     end: "2023-04-08 21:14:21",
     name: "Jaylen Harvey",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:17:05",
     end: "2023-04-08 21:17:05",
     name: "Kiera Payne",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:17:09",
     end: "2023-04-08 21:17:09",
     name: "Sierra Jai Smith",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:18:19",
     end: "2023-04-08 21:18:19",
     name: "Daniel Jin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:18:32",
     end: "2023-04-08 21:18:32",
     name: "Marquise Pearson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:19:23",
     end: "2023-04-08 21:19:23",
     name: "Adriana Hill",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:19:47",
     end: "2023-04-08 21:19:47",
     name: "Isaiah Gordon",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-08 17:21:46", end: "2023-04-08 21:21:46", name: "Morgan" },
+  {
+    start: "2023-04-08 17:21:46",
+    end: "2023-04-08 21:21:46",
+    name: "Morgan",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-08 17:23:26",
     end: "2023-04-08 21:23:26",
     name: "Iyana Gross",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:23:59",
     end: "2023-04-08 21:23:59",
     name: "Justin Coelho",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:25:28",
     end: "2023-04-08 21:25:28",
     name: "Josefina Aguilar-Pliszka",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:26:29",
     end: "2023-04-08 21:26:29",
     name: "Liam Stewart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:27:24",
     end: "2023-04-08 21:27:24",
     name: "Makayla Boyce",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:31:09",
     end: "2023-04-08 21:31:09",
     name: "Nyasia Arrington",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:33:22",
     end: "2023-04-08 21:33:22",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:36:33",
     end: "2023-04-08 21:36:33",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 17:49:06",
     end: "2023-04-08 21:49:06",
     name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 22:58:58",
     end: "2023-04-09 02:58:58",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 00:00:00",
     end: "2023-04-08 04:00:00",
     name: "Nani Herring",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 00:00:00",
     end: "2023-04-08 04:00:00",
     name: "Cody Windley",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-08 00:00:00",
     end: "2023-04-08 04:00:00",
     name: "Charisse",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-08 00:00:00", end: "2023-04-08 04:00:00", name: "Lanae" },
+  {
+    start: "2023-04-08 00:00:00",
+    end: "2023-04-08 04:00:00",
+    name: "Lanae",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-08 00:00:00",
     end: "2023-04-08 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-08 00:00:00", end: "2023-04-08 04:00:00", name: "Kamau" },
-  { start: "2023-04-08 00:00:00", end: "2023-04-08 04:00:00", name: "Tashana" },
+  {
+    start: "2023-04-08 00:00:00",
+    end: "2023-04-08 04:00:00",
+    name: "Kamau",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-04-08 00:00:00",
+    end: "2023-04-08 04:00:00",
+    name: "Tashana",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-08 00:00:00",
     end: "2023-04-08 04:00:00",
     name: "Justin Coelho",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-08 00:00:00", end: "2023-04-08 04:00:00", name: "Aisha" },
-  { start: "2023-04-08 00:00:00", end: "2023-04-08 04:00:00", name: "Kennedy" },
-  { start: "2023-04-08 00:00:00", end: "2023-04-08 04:00:00", name: "Emily B" },
-  { start: "2023-04-08 00:00:00", end: "2023-04-08 04:00:00", name: "Kamille" },
+  {
+    start: "2023-04-08 00:00:00",
+    end: "2023-04-08 04:00:00",
+    name: "Aisha",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-04-08 00:00:00",
+    end: "2023-04-08 04:00:00",
+    name: "Kennedy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-04-08 00:00:00",
+    end: "2023-04-08 04:00:00",
+    name: "Emily B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-04-08 00:00:00",
+    end: "2023-04-08 04:00:00",
+    name: "Kamille",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-08 00:00:00",
     end: "2023-04-08 04:00:00",
     name: "Sue Daja",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-08 00:00:00", end: "2023-04-08 04:00:00", name: "Yasmine" },
+  {
+    start: "2023-04-08 00:00:00",
+    end: "2023-04-08 04:00:00",
+    name: "Yasmine",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-11 16:56:33",
     end: "2023-04-11 20:56:33",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-11 16:57:26",
     end: "2023-04-11 20:57:26",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-11 17:00:48",
     end: "2023-04-11 21:00:48",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-11 17:00:55",
     end: "2023-04-11 21:00:55",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-11 17:02:33",
     end: "2023-04-11 21:02:33",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-11 00:00:00",
     end: "2023-04-11 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-12 18:11:21",
     end: "2023-04-12 22:11:21",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-12 00:00:00",
     end: "2023-04-12 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-12 00:00:00",
     end: "2023-04-12 04:00:00",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-12 00:00:00",
     end: "2023-04-12 04:00:00",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-12 00:00:00",
     end: "2023-04-12 04:00:00",
     name: "Luke Pitsenbarger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-12 20:58:43",
     end: "2023-04-13 00:58:43",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-13 16:48:41",
     end: "2023-04-13 20:48:41",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-13 20:23:02", end: "2023-04-14 00:23:02", name: "Sara B" },
+  {
+    start: "2023-04-13 20:23:02",
+    end: "2023-04-14 00:23:02",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-13 20:30:06",
     end: "2023-04-14 00:30:06",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-13 20:31:17",
     end: "2023-04-14 00:31:17",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-13 20:31:45", end: "2023-04-14 00:31:45", name: "Aziza" },
+  {
+    start: "2023-04-13 20:31:45",
+    end: "2023-04-14 00:31:45",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-13 00:00:00",
     end: "2023-04-13 04:00:00",
     name: "Nathaniel McClean",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-14 22:27:46",
     end: "2023-04-15 02:27:46",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-14 00:00:00",
     end: "2023-04-14 04:00:00",
     name: "Perry Faulk",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:08:13",
     end: "2023-04-15 21:08:13",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:13:37",
     end: "2023-04-15 21:13:37",
     name: "Liam Stewart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:14:13",
     end: "2023-04-15 21:14:13",
     name: "Alex Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:15:51",
     end: "2023-04-15 21:15:51",
     name: "Daniel Jin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:16:51",
     end: "2023-04-15 21:16:51",
     name: "Nathan So",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:17:04",
     end: "2023-04-15 21:17:04",
     name: "Evelyn Jiang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:17:25",
     end: "2023-04-15 21:17:25",
     name: "Justin Zhong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:18:10",
     end: "2023-04-15 21:18:10",
     name: "Emi Ochoa",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:18:29",
     end: "2023-04-15 21:18:29",
     name: "Nader Najjar",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:18:37",
     end: "2023-04-15 21:18:37",
     name: "Derek Dang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:19:02",
     end: "2023-04-15 21:19:02",
     name: "Kaleigh Rudge",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:20:36",
     end: "2023-04-15 21:20:36",
     name: "Nanrui Gong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:21:32",
     end: "2023-04-15 21:21:32",
     name: "Jillayne Clarke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 17:52:58",
     end: "2023-04-15 21:52:58",
     name: "Dean Chien",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-15 18:03:50",
     end: "2023-04-15 22:03:50",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-16 16:13:50",
     end: "2023-04-16 20:13:50",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-16 16:25:24",
     end: "2023-04-16 20:25:24",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-16 16:25:43", end: "2023-04-16 20:25:43", name: "Zoe" },
+  {
+    start: "2023-04-16 16:25:43",
+    end: "2023-04-16 20:25:43",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-16 16:26:21",
     end: "2023-04-16 20:26:21",
     name: "Dynashia Woodson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-16 23:31:46",
     end: "2023-04-17 03:31:46",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-18 17:06:44",
     end: "2023-04-18 21:06:44",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-18 17:07:01",
     end: "2023-04-18 21:07:01",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-18 17:07:18",
     end: "2023-04-18 21:07:18",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-18 17:07:35",
     end: "2023-04-18 21:07:35",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-18 17:32:35",
     end: "2023-04-18 21:32:35",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-18 00:00:00",
     end: "2023-04-18 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-19 00:00:00",
     end: "2023-04-19 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-19 00:00:00", end: "2023-04-19 04:00:00", name: "Mekayle" },
+  {
+    start: "2023-04-19 00:00:00",
+    end: "2023-04-19 04:00:00",
+    name: "Mekayle Powell",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-19 00:00:00",
     end: "2023-04-19 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-19 17:45:11",
     end: "2023-04-19 21:45:11",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-19 18:41:50",
     end: "2023-04-19 22:41:50",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-19 19:45:31",
     end: "2023-04-19 23:45:31",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-19 19:45:49",
     end: "2023-04-19 23:45:49",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-19 19:49:16",
     end: "2023-04-19 23:49:16",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-19 19:50:32",
     end: "2023-04-19 23:50:32",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-19 19:53:54",
     end: "2023-04-19 23:53:54",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-20 16:17:28",
     end: "2023-04-20 20:17:28",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-20 18:27:55",
     end: "2023-04-20 22:27:55",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-20 20:28:26",
     end: "2023-04-21 00:28:26",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-20 00:00:00", end: "2023-04-20 04:00:00", name: "Sharon" },
-  { start: "2023-04-20 00:00:00", end: "2023-04-20 04:00:00", name: "Aziza" },
+  {
+    start: "2023-04-20 00:00:00",
+    end: "2023-04-20 04:00:00",
+    name: "Sharon",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-04-20 00:00:00",
+    end: "2023-04-20 04:00:00",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-20 00:00:00",
     end: "2023-04-20 04:00:00",
     name: "Emily Fitzpatrick",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-21 16:41:54",
     end: "2023-04-21 20:41:54",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-21 21:18:00",
     end: "2023-04-22 01:18:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-21 00:00:00", end: "2023-04-21 04:00:00", name: "Mekayle" },
+  {
+    start: "2023-04-21 00:00:00",
+    end: "2023-04-21 04:00:00",
+    name: "Mekayle Powell",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-22 16:25:15",
     end: "2023-04-22 20:25:15",
     name: "Kathleen Lac",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-22 16:25:27",
     end: "2023-04-22 20:25:27",
     name: "Jasmine Rose",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-22 16:26:46",
     end: "2023-04-22 20:26:46",
     name: "Brad Burton",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-22 16:28:04",
     end: "2023-04-22 20:28:04",
     name: "Eric Alvarado",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-22 16:28:20",
     end: "2023-04-22 20:28:20",
     name: "Cameron Dong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-22 16:29:55",
     end: "2023-04-22 20:29:55",
     name: "Brandon Clark",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-22 16:32:09",
     end: "2023-04-22 20:32:09",
     name: "Dynashia Woodson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-22 16:40:46",
     end: "2023-04-22 20:40:46",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-22 00:00:00",
     end: "2023-04-22 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-23 15:21:38",
     end: "2023-04-23 19:21:38",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-23 15:25:47",
     end: "2023-04-23 19:25:47",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-23 15:25:56",
     end: "2023-04-23 19:25:56",
     name: "Kaneesha",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-23 16:53:02",
     end: "2023-04-23 20:53:02",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-23 00:00:00", end: "2023-04-23 04:00:00", name: "Layia" },
-  { start: "2023-04-23 00:00:00", end: "2023-04-23 04:00:00", name: "Katelyn" },
-  { start: "2023-04-23 00:00:00", end: "2023-04-23 04:00:00", name: "Carla T" },
+  {
+    start: "2023-04-23 00:00:00",
+    end: "2023-04-23 04:00:00",
+    name: "Layia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-04-23 00:00:00",
+    end: "2023-04-23 04:00:00",
+    name: "Katelyn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-04-23 00:00:00",
+    end: "2023-04-23 04:00:00",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-25 16:26:49",
     end: "2023-04-25 20:26:49",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-25 16:28:23",
     end: "2023-04-25 20:28:23",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-25 16:29:57",
     end: "2023-04-25 20:29:57",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-25 16:31:21",
     end: "2023-04-25 20:31:21",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-25 00:00:00", end: "2023-04-25 04:00:00", name: "Sarah K" },
+  {
+    start: "2023-04-25 00:00:00",
+    end: "2023-04-25 04:00:00",
+    name: "Sarah Krensky",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-26 15:32:06",
     end: "2023-04-26 19:32:06",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-27 00:00:00", end: "2023-04-27 04:00:00", name: "Sharon" },
+  {
+    start: "2023-04-27 00:00:00",
+    end: "2023-04-27 04:00:00",
+    name: "Sharon",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-27 00:00:00",
     end: "2023-04-27 04:00:00",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-27 15:04:23",
     end: "2023-04-27 19:04:23",
     name: "Diego Trafton",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-27 15:04:31",
     end: "2023-04-27 19:04:31",
     name: "Emily Zhang",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-28 00:00:00",
     end: "2023-04-28 04:00:00",
     name: "Gabriel C",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-04-28 00:00:00", end: "2023-04-28 04:00:00", name: "Sandy W" },
+  {
+    start: "2023-04-28 00:00:00",
+    end: "2023-04-28 04:00:00",
+    name: "Sandy W",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-04-28 00:00:00",
     end: "2023-04-28 04:00:00",
     name: "Arjun Yogaratnam",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-28 00:00:00",
     end: "2023-04-28 04:00:00",
     name: "Brian Min",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-04-28 00:00:00",
     end: "2023-04-28 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-06 00:00:00",
     end: "2023-05-06 04:00:00",
     name: "Travis James",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-06 00:00:00",
     end: "2023-05-06 04:00:00",
     name: "Obinna Nwokoro",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-07 15:56:51", end: "2023-05-07 19:56:51", name: "Zoe" },
+  {
+    start: "2023-05-07 15:56:51",
+    end: "2023-05-07 19:56:51",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-09 16:29:28",
     end: "2023-05-09 20:29:28",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-09 16:29:36",
     end: "2023-05-09 20:29:36",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-09 16:36:13",
     end: "2023-05-09 20:36:13",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-09 16:36:57",
     end: "2023-05-09 20:36:57",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-09 16:45:48",
     end: "2023-05-09 20:45:48",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-09 16:46:17",
     end: "2023-05-09 20:46:17",
     name: "Michael Nwachukwu",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-10 00:00:00",
     end: "2023-05-10 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-10 00:00:00",
     end: "2023-05-10 04:00:00",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-10 20:05:12",
     end: "2023-05-11 00:05:12",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-10 20:05:12",
     end: "2023-05-11 00:05:12",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-10 00:00:00",
     end: "2023-05-10 04:00:00",
     name: "Luke Pitsenbarger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-11 00:00:00",
     end: "2023-05-11 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-11 17:54:02",
     end: "2023-05-11 21:54:02",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-11 00:00:00",
     end: "2023-05-11 04:00:00",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-11 00:00:00", end: "2023-05-11 04:00:00", name: "Sharon" },
+  {
+    start: "2023-05-11 00:00:00",
+    end: "2023-05-11 04:00:00",
+    name: "Sharon",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-11 00:00:00",
     end: "2023-05-11 04:00:00",
     name: "Myles Austin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-12 16:20:41",
     end: "2023-05-12 20:20:41",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-12 16:49:48",
     end: "2023-05-12 20:49:48",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-13 15:07:08",
     end: "2023-05-13 19:07:08",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-13 16:42:21",
     end: "2023-05-13 20:42:21",
     name: "Imani Armour",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-13 16:46:05",
     end: "2023-05-13 20:46:05",
     name: "Meghan Alexis",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-13 16:46:31",
     end: "2023-05-13 20:46:31",
     name: "Jade Weatherington",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-13 16:49:38",
     end: "2023-05-13 20:49:38",
     name: "Ngozi Douglas",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-13 16:49:59",
     end: "2023-05-13 20:49:59",
     name: "Arezou Esmaeeli",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-13 16:51:21",
     end: "2023-05-13 20:51:21",
     name: "Benjamin Hung",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-13 17:16:16",
     end: "2023-05-13 21:16:16",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-13 00:00:00",
     end: "2023-05-13 04:00:00",
     name: "Fadil Santosa",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-14 00:00:00",
     end: "2023-05-14 04:00:00",
     name: "Travis James",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-16 16:43:02",
     end: "2023-05-16 20:43:02",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-16 16:43:13",
     end: "2023-05-16 20:43:13",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-16 16:48:09",
     end: "2023-05-16 20:48:09",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-16 16:48:35",
     end: "2023-05-16 20:48:35",
     name: "Cindy Silveira",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-16 16:50:04",
     end: "2023-05-16 20:50:04",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-16 00:00:00",
     end: "2023-05-16 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-17 11:07:01",
     end: "2023-05-17 15:07:01",
     name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-17 18:54:24",
     end: "2023-05-17 22:54:24",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-17 21:00:48",
     end: "2023-05-18 01:00:48",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-17 21:04:28",
     end: "2023-05-18 01:04:28",
     name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-17 00:00:00", end: "2023-05-17 04:00:00", name: "Paul H" },
-  { start: "2023-05-17 00:00:00", end: "2023-05-17 04:00:00", name: "Latease" },
+  {
+    start: "2023-05-17 00:00:00",
+    end: "2023-05-17 04:00:00",
+    name: "Paul H",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-05-17 00:00:00",
+    end: "2023-05-17 04:00:00",
+    name: "Latease",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-17 00:00:00",
     end: "2023-05-17 04:00:00",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-17 00:00:00",
     end: "2023-05-17 04:00:00",
     name: "Denise Rivers",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-17 00:00:00",
     end: "2023-05-17 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-18 16:22:33",
     end: "2023-05-18 20:22:33",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-18 16:23:04", end: "2023-05-18 20:23:04", name: "Hong" },
+  {
+    start: "2023-05-18 16:23:04",
+    end: "2023-05-18 20:23:04",
+    name: "Hong Xue",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-18 20:19:30",
     end: "2023-05-19 00:19:30",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-18 20:36:13", end: "2023-05-19 00:36:13", name: "Aziza" },
-  { start: "2023-05-18 20:36:47", end: "2023-05-19 00:36:47", name: "Sara B" },
+  {
+    start: "2023-05-18 20:36:13",
+    end: "2023-05-19 00:36:13",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-05-18 20:36:47",
+    end: "2023-05-19 00:36:47",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-19 16:52:04",
     end: "2023-05-19 20:52:04",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-20 12:58:50",
     end: "2023-05-20 16:58:50",
     name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-20 16:41:14",
     end: "2023-05-20 20:41:14",
     name: "Travis James",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-20 16:55:25",
     end: "2023-05-20 20:55:25",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-20 00:00:00",
     end: "2023-05-20 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-21 16:32:57",
     end: "2023-05-21 20:32:57",
     name: "Myles Austin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-21 16:40:12", end: "2023-05-21 20:40:12", name: "Zoe" },
+  {
+    start: "2023-05-21 16:40:12",
+    end: "2023-05-21 20:40:12",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-21 16:40:18",
     end: "2023-05-21 20:40:18",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-21 00:00:00", end: "2023-05-21 04:00:00", name: "Katelyn" },
+  {
+    start: "2023-05-21 00:00:00",
+    end: "2023-05-21 04:00:00",
+    name: "Katelyn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-21 00:00:00",
     end: "2023-05-21 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-22 03:15:11",
     end: "2023-05-22 07:15:11",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-23 16:18:19",
     end: "2023-05-23 20:18:19",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-23 16:19:13",
     end: "2023-05-23 20:19:13",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-23 16:20:53",
     end: "2023-05-23 20:20:53",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-23 16:23:08",
     end: "2023-05-23 20:23:08",
     name: "Cindy Silveira",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-23 16:38:05",
     end: "2023-05-23 20:38:05",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-23 00:00:00",
     end: "2023-05-23 04:00:00",
     name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-23 00:00:00",
     end: "2023-05-23 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-24 16:19:12",
     end: "2023-05-24 20:19:12",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-24 17:06:56",
     end: "2023-05-24 21:06:56",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-24 17:08:10",
     end: "2023-05-24 21:08:10",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-24 20:15:33",
     end: "2023-05-25 00:15:33",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-24 20:18:31",
     end: "2023-05-25 00:18:31",
     name: "Shoshana Kott",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-24 20:18:50",
     end: "2023-05-25 00:18:50",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-24 20:21:28",
     end: "2023-05-25 00:21:28",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-24 20:22:02",
     end: "2023-05-25 00:22:02",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-24 20:23:39",
     end: "2023-05-25 00:23:39",
     name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-24 20:35:54",
     end: "2023-05-25 00:35:54",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-25 00:00:00", end: "2023-05-25 04:00:00", name: "Hong" },
+  {
+    start: "2023-05-25 00:00:00",
+    end: "2023-05-25 04:00:00",
+    name: "Hong Xue",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-25 00:00:00",
     end: "2023-05-25 04:00:00",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-25 00:00:00", end: "2023-05-25 04:00:00", name: "Sharon" },
+  {
+    start: "2023-05-25 00:00:00",
+    end: "2023-05-25 04:00:00",
+    name: "Sharon",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-25 00:00:00",
     end: "2023-05-25 04:00:00",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-25 20:50:08",
     end: "2023-05-26 00:50:08",
     name: "Myles Austin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-25 20:59:00", end: "2023-05-26 00:59:00", name: "Sara B" },
+  {
+    start: "2023-05-25 20:59:00",
+    end: "2023-05-26 00:59:00",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-26 16:44:42",
     end: "2023-05-26 20:44:42",
     name: "Beth Torres",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-26 16:52:10",
     end: "2023-05-26 20:52:10",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-26 16:56:21",
     end: "2023-05-26 20:56:21",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-27 12:16:04",
     end: "2023-05-27 16:16:04",
     name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-27 16:38:47",
     end: "2023-05-27 20:38:47",
     name: "Jasmine Rose",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-27 16:41:25",
     end: "2023-05-27 20:41:25",
     name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-27 16:44:30",
     end: "2023-05-27 20:44:30",
     name: "Brad Burton",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-27 16:47:52",
     end: "2023-05-27 20:47:52",
     name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-27 16:55:46",
     end: "2023-05-27 20:55:46",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-27 17:05:40",
     end: "2023-05-27 21:05:40",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-27 00:00:00",
     end: "2023-05-27 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-27 00:00:00", end: "2023-05-27 04:00:00", name: "Octavia" },
-  { start: "2023-05-28 16:34:08", end: "2023-05-28 20:34:08", name: "Zoe" },
+  {
+    start: "2023-05-27 00:00:00",
+    end: "2023-05-27 04:00:00",
+    name: "Octavia",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-05-28 16:34:08",
+    end: "2023-05-28 20:34:08",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-28 16:40:47",
     end: "2023-05-28 20:40:47",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-28 16:46:49",
     end: "2023-05-28 20:46:49",
     name: "Myles Austin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-28 00:00:00", end: "2023-05-28 04:00:00", name: "Carla T" },
+  {
+    start: "2023-05-28 00:00:00",
+    end: "2023-05-28 04:00:00",
+    name: "Carla T",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-29 23:14:46",
     end: "2023-05-30 03:14:46",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-30 15:10:51",
     end: "2023-05-30 19:10:51",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-30 16:29:37",
     end: "2023-05-30 20:29:37",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-30 16:29:59",
     end: "2023-05-30 20:29:59",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-30 16:34:38",
     end: "2023-05-30 20:34:38",
     name: "Cindy Silveira",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-30 16:34:49",
     end: "2023-05-30 20:34:49",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-30 17:19:02",
     end: "2023-05-30 21:19:02",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-31 16:40:57",
     end: "2023-05-31 20:40:57",
     name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-31 00:00:00",
     end: "2023-05-31 04:00:00",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-31 00:00:00",
     end: "2023-05-31 04:00:00",
     name: "Doris Parker Tuggle",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-31 17:24:27",
     end: "2023-05-31 21:24:27",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-31 20:38:26",
     end: "2023-06-01 00:38:26",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-05-31 00:00:00",
     end: "2023-05-31 04:00:00",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-05-31 00:00:00", end: "2023-05-31 04:00:00", name: "Latease" },
-  { start: "2023-05-31 00:00:00", end: "2023-05-31 04:00:00", name: "Paul H" },
+  {
+    start: "2023-05-31 00:00:00",
+    end: "2023-05-31 04:00:00",
+    name: "Latease",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-05-31 00:00:00",
+    end: "2023-05-31 04:00:00",
+    name: "Paul H",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-05-31 20:47:28",
     end: "2023-06-01 00:47:28",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-01 17:37:43",
     end: "2023-06-01 21:37:43",
     name: "Juanita Chandler",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-01 21:00:30",
     end: "2023-06-02 01:00:30",
     name: "Myles Austin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-01 21:04:03",
     end: "2023-06-02 01:04:03",
     name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-06-01 21:05:29", end: "2023-06-02 01:05:29", name: "Aziza" },
-  { start: "2023-06-03 16:52:10", end: "2023-06-03 20:52:10", name: "Polly" },
+  {
+    start: "2023-06-01 21:05:29",
+    end: "2023-06-02 01:05:29",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-06-03 16:52:10",
+    end: "2023-06-03 20:52:10",
+    name: "Polly Mott",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-06-03 16:53:07",
     end: "2023-06-03 20:53:07",
     name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-03 16:54:14",
     end: "2023-06-03 20:54:14",
     name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-03 16:59:37",
     end: "2023-06-03 20:59:37",
     name: "Brad Burton",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-03 16:59:43",
     end: "2023-06-03 20:59:43",
     name: "Rawan Elshobaky",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-03 17:00:17",
     end: "2023-06-03 21:00:17",
     name: "Ifeoluwa Akinropo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-03 17:01:30",
     end: "2023-06-03 21:01:30",
     name: "Cameron Dong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-03 17:01:37",
     end: "2023-06-03 21:01:37",
     name: "Andrew Thampoe",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-03 17:02:10",
     end: "2023-06-03 21:02:10",
     name: "Michael Yoo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-03 17:04:12",
     end: "2023-06-03 21:04:12",
     name: "Emily Fitzpatrick",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-03 17:21:12",
     end: "2023-06-03 21:21:12",
     name: "Lynnette Cromer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-04 16:08:45",
     end: "2023-06-04 20:08:45",
     name: "Myles Austin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-04 16:13:17",
     end: "2023-06-04 20:13:17",
     name: "Myles Austin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-04 16:19:08",
     end: "2023-06-04 20:19:08",
     name: "Denise Rivers",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-04 16:30:08",
     end: "2023-06-04 20:30:08",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-06-04 16:31:25", end: "2023-06-04 20:31:25", name: "Zoe" },
+  {
+    start: "2023-06-04 16:31:25",
+    end: "2023-06-04 20:31:25",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-06-06 16:35:02",
     end: "2023-06-06 20:35:02",
     name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-06 16:35:10",
     end: "2023-06-06 20:35:10",
     name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-06 16:37:42",
     end: "2023-06-06 20:37:42",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-06 16:41:35",
     end: "2023-06-06 20:41:35",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-06 16:51:55",
     end: "2023-06-06 20:51:55",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-07 14:03:34",
     end: "2023-06-07 18:03:34",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-06-07 16:48:17", end: "2023-06-07 20:48:17", name: "Sara B" },
+  {
+    start: "2023-06-07 16:48:17",
+    end: "2023-06-07 20:48:17",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-06-07 16:53:14",
     end: "2023-06-07 20:53:14",
     name: "David Ondande",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-07 17:07:40",
     end: "2023-06-07 21:07:40",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-07 20:28:27",
     end: "2023-06-08 00:28:27",
     name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-07 20:30:00",
     end: "2023-06-08 00:30:00",
     name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-07 20:30:39",
     end: "2023-06-08 00:30:39",
     name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-07 20:36:13",
     end: "2023-06-08 00:36:13",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-08 13:24:05",
     end: "2023-06-08 17:24:05",
     name: "Theresa Keil",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-08 16:34:00",
     end: "2023-06-08 20:34:00",
     name: "David Ondande",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-08 16:36:39",
     end: "2023-06-08 20:36:39",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-08 16:41:11",
     end: "2023-06-08 20:41:11",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-08 19:37:21",
     end: "2023-06-08 23:37:21",
     name: "Tara Brooky",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-09 16:45:22",
     end: "2023-06-09 20:45:22",
     name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-10 17:01:29",
     end: "2023-06-10 21:01:29",
     name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-10 17:01:35",
     end: "2023-06-10 21:01:35",
     name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-10 17:01:44",
     end: "2023-06-10 21:01:44",
     name: "Michael Yoo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-10 17:01:45",
     end: "2023-06-10 21:01:45",
     name: "Andrew Thampoe",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-10 17:02:42",
     end: "2023-06-10 21:02:42",
     name: "Emily Fitzpatrick",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-10 17:08:54",
     end: "2023-06-10 21:08:54",
     name: "Rawan Elshobaky",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-10 17:09:31",
     end: "2023-06-10 21:09:31",
     name: "Ifeoluwa Akinropo",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-10 17:14:09",
     end: "2023-06-10 21:14:09",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-10 17:36:38",
     end: "2023-06-10 21:36:38",
     name: "Cameron Dong",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-11 16:42:00",
     end: "2023-06-11 20:42:00",
     name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-11 16:56:11",
     end: "2023-06-11 20:56:11",
     name: "Opeyemi Faleye",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-06-11 16:57:28", end: "2023-06-11 20:57:28", name: "Zoe" },
+  {
+    start: "2023-06-11 16:57:28",
+    end: "2023-06-11 20:57:28",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-06-13 16:31:22",
     end: "2023-06-13 20:31:22",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-13 16:36:34",
     end: "2023-06-13 20:36:34",
     name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-13 16:38:02",
     end: "2023-06-13 20:38:02",
     name: "Cindy Silveira",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-13 16:38:54",
     end: "2023-06-13 20:38:54",
     name: "Susan Larson",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-13 16:53:36",
     end: "2023-06-13 20:53:36",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-14 17:56:56",
     end: "2023-06-14 21:56:56",
     name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-14 21:54:22",
     end: "2023-06-15 01:54:22",
     name: "Jonathan Shay",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-14 21:58:30",
     end: "2023-06-15 01:58:30",
     name: "Lynwood McDaniel",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-14 21:58:45",
     end: "2023-06-15 01:58:45",
     name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-14 22:02:07",
     end: "2023-06-15 02:02:07",
     name: "Tina Paquet",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-06-14 00:00:00", end: "2023-06-14 04:00:00", name: "Paul H" },
-  { start: "2023-06-14 00:00:00", end: "2023-06-14 04:00:00", name: "Latease" },
-  { start: "2023-06-14 00:00:00", end: "2023-06-14 04:00:00", name: "Zoe" },
+  {
+    start: "2023-06-14 00:00:00",
+    end: "2023-06-14 04:00:00",
+    name: "Paul H",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-06-14 00:00:00",
+    end: "2023-06-14 04:00:00",
+    name: "Latease",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-06-14 00:00:00",
+    end: "2023-06-14 04:00:00",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-06-15 16:57:05",
     end: "2023-06-15 20:57:05",
     name: "Norma Kriger",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-15 17:04:17",
     end: "2023-06-15 21:04:17",
     name: "David Ondande",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-15 20:25:28",
     end: "2023-06-16 00:25:28",
     name: "Myles Austin",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-15 20:26:06",
     end: "2023-06-16 00:26:06",
     name: "Tara Brooky",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
-  { start: "2023-06-15 00:00:00", end: "2023-06-15 04:00:00", name: "Hong" },
+  {
+    start: "2023-06-15 00:00:00",
+    end: "2023-06-15 04:00:00",
+    name: "Hong Xue",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
   {
     start: "2023-06-17 17:00:08",
     end: "2023-06-17 21:00:08",
     name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-17 17:05:40",
     end: "2023-06-17 21:05:40",
     name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-17 17:05:53",
     end: "2023-06-17 21:05:53",
     name: "Emily Fitzpatrick",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-17 17:21:44",
     end: "2023-06-17 21:21:44",
     name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
   {
     start: "2023-06-28 14:09:22",
     end: "2023-06-28 18:09:22",
-    name: "Bud Stracker - Sisson Street DPW",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-20 00:00:00",
+    end: "2023-07-20 04:00:00",
+    name: "Sarah Krensky",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-22 12:17:53",
+    end: "2023-07-22 16:17:53",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-23 15:17:08",
+    end: "2023-07-23 19:17:08",
+    name: "Robin Gibbs",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-23 15:18:20",
+    end: "2023-07-23 19:18:20",
+    name: "Alex Bauer",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-23 15:27:15",
+    end: "2023-07-23 19:27:15",
+    name: "Scott Fox",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-25 00:00:00",
+    end: "2023-07-25 04:00:00",
+    name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-25 00:00:00",
+    end: "2023-07-25 04:00:00",
+    name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-25 16:43:17",
+    end: "2023-07-25 20:43:17",
+    name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-25 16:43:57",
+    end: "2023-07-25 20:43:57",
+    name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-30 15:51:55",
+    end: "2023-07-30 19:51:55",
+    name: "Robin Gibbs",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-30 15:59:52",
+    end: "2023-07-30 19:59:52",
+    name: "Aaron Oldenburg",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-07-30 16:00:34",
+    end: "2023-07-30 20:00:34",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-01 00:00:00",
+    end: "2023-08-01 04:00:00",
+    name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-01 17:10:36",
+    end: "2023-08-01 21:10:36",
+    name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-05 16:57:48",
+    end: "2023-08-05 20:57:48",
+    name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-05 16:57:49",
+    end: "2023-08-05 20:57:49",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-05 17:03:16",
+    end: "2023-08-05 21:03:16",
+    name: "Emily Fitzpatrick",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-05 17:05:27",
+    end: "2023-08-05 21:05:27",
+    name: "Breyonna Pittman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-05 17:07:44",
+    end: "2023-08-05 21:07:44",
+    name: "Nathan So",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-05 17:07:45",
+    end: "2023-08-05 21:07:45",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-05 17:07:49",
+    end: "2023-08-05 21:07:49",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-05 17:08:07",
+    end: "2023-08-05 21:08:07",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-05 17:08:21",
+    end: "2023-08-05 21:08:21",
+    name: "Aaliyiah Moye-Tati",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-05 17:10:57",
+    end: "2023-08-05 21:10:57",
+    name: "Rabia Chaudhry",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-06 16:09:48",
+    end: "2023-08-06 20:09:48",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-06 16:10:04",
+    end: "2023-08-06 20:10:04",
+    name: "Brenda Ames",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-06 16:18:50",
+    end: "2023-08-06 20:18:50",
+    name: "Robin Gibbs",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-08 16:40:58",
+    end: "2023-08-08 20:40:58",
+    name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-08 16:42:31",
+    end: "2023-08-08 20:42:31",
+    name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-08 16:46:26",
+    end: "2023-08-08 20:46:26",
+    name: "Anna West",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-08 16:47:10",
+    end: "2023-08-08 20:47:10",
+    name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-08 00:00:00",
+    end: "2023-08-08 04:00:00",
+    name: "Michelle Collins",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-11 17:05:47",
+    end: "2023-08-11 21:05:47",
+    name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-12 12:24:14",
+    end: "2023-08-12 16:24:14",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-12 16:40:31",
+    end: "2023-08-12 20:40:31",
+    name: "Calvin Bethea",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-12 16:41:01",
+    end: "2023-08-12 20:41:01",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-12 16:47:17",
+    end: "2023-08-12 20:47:17",
+    name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-12 16:47:21",
+    end: "2023-08-12 20:47:21",
+    name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-12 00:00:00",
+    end: "2023-08-12 04:00:00",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-13 15:56:04",
+    end: "2023-08-13 19:56:04",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-13 16:02:21",
+    end: "2023-08-13 20:02:21",
+    name: "Scott Fox",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-13 16:12:08",
+    end: "2023-08-13 20:12:08",
+    name: "Johanna Galat",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-13 16:16:15",
+    end: "2023-08-13 20:16:15",
+    name: "Kevin James",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-13 16:28:04",
+    end: "2023-08-13 20:28:04",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-15 16:56:22",
+    end: "2023-08-15 20:56:22",
+    name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-15 17:00:12",
+    end: "2023-08-15 21:00:12",
+    name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-19 17:09:26",
+    end: "2023-08-19 21:09:26",
+    name: "Emily Fitzpatrick",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-19 17:26:35",
+    end: "2023-08-19 21:26:35",
+    name: "Edward Benner",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-19 17:30:09",
+    end: "2023-08-19 21:30:09",
+    name: "Chris Royston",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-19 17:39:08",
+    end: "2023-08-19 21:39:08",
+    name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-19 17:43:08",
+    end: "2023-08-19 21:43:08",
+    name: "Emily Stucke",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-19 18:35:01",
+    end: "2023-08-19 22:35:01",
+    name: "Michelle Collins",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-19 18:54:43",
+    end: "2023-08-19 22:54:43",
+    name: "Chris Royston",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-19 19:04:58",
+    end: "2023-08-19 23:04:58",
+    name: "Michelle Collins",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-22 16:48:53",
+    end: "2023-08-22 20:48:53",
+    name: "Nevaeh Christy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-22 16:58:50",
+    end: "2023-08-22 20:58:50",
+    name: "Breyonna Pittman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-22 16:59:52",
+    end: "2023-08-22 20:59:52",
+    name: "Temiloluwa Osunjimi",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-22 17:12:26",
+    end: "2023-08-22 21:12:26",
+    name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-23 13:59:23",
+    end: "2023-08-23 17:59:23",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-23 17:11:49",
+    end: "2023-08-23 21:11:49",
+    name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-23 17:12:42",
+    end: "2023-08-23 21:12:42",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-24 16:43:27",
+    end: "2023-08-24 20:43:27",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-25 16:43:47",
+    end: "2023-08-25 20:43:47",
+    name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-26 12:07:30",
+    end: "2023-08-26 16:07:30",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-26 16:49:39",
+    end: "2023-08-26 20:49:39",
+    name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-26 16:49:50",
+    end: "2023-08-26 20:49:50",
+    name: "Eli Kengmana",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-26 00:00:00",
+    end: "2023-08-26 04:00:00",
+    name: "Akeel Carter",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-26 00:00:00",
+    end: "2023-08-26 04:00:00",
+    name: "Calvin Bethea",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-26 00:00:00",
+    end: "2023-08-26 04:00:00",
+    name: "Bernard McCormick",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 15:35:12",
+    end: "2023-08-27 19:35:12",
+    name: "Scott Fox",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 15:40:33",
+    end: "2023-08-27 19:40:33",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 15:43:43",
+    end: "2023-08-27 19:43:43",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 15:44:03",
+    end: "2023-08-27 19:44:03",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 15:45:51",
+    end: "2023-08-27 19:45:51",
+    name: "Aaron Oldenburg",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 15:46:14",
+    end: "2023-08-27 19:46:14",
+    name: "Brad Burton",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 15:47:49",
+    end: "2023-08-27 19:47:49",
+    name: "Marquise Pearson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 15:48:44",
+    end: "2023-08-27 19:48:44",
+    name: "Akeel Carter",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 15:54:44",
+    end: "2023-08-27 19:54:44",
+    name: "Isaiah Gordon",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 16:00:29",
+    end: "2023-08-27 20:00:29",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 16:12:15",
+    end: "2023-08-27 20:12:15",
+    name: "Kevin James",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 16:12:59",
+    end: "2023-08-27 20:12:59",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 16:13:17",
+    end: "2023-08-27 20:13:17",
+    name: "Johanna Galat",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 16:20:35",
+    end: "2023-08-27 20:20:35",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 16:20:59",
+    end: "2023-08-27 20:20:59",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-27 18:07:58",
+    end: "2023-08-27 22:07:58",
+    name: "Bryant Martin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-30 13:33:59",
+    end: "2023-08-30 17:33:59",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-30 17:40:51",
+    end: "2023-08-30 21:40:51",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-30 17:41:18",
+    end: "2023-08-30 21:41:18",
+    name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-30 18:16:34",
+    end: "2023-08-30 22:16:34",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-31 16:55:39",
+    end: "2023-08-31 20:55:39",
+    name: "Darrell Grant",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-31 00:00:00",
+    end: "2023-08-31 04:00:00",
+    name: "Hong Xue",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-31 00:00:00",
+    end: "2023-08-31 04:00:00",
+    name: "Sarah Krensky",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-01 16:55:29",
+    end: "2023-09-01 20:55:29",
+    name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-01 17:22:34",
+    end: "2023-09-01 21:22:34",
+    name: "JoAnn Benbow",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-01 17:27:49",
+    end: "2023-09-01 21:27:49",
+    name: "Rabia Chaudhry",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-01 17:34:59",
+    end: "2023-09-01 21:34:59",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-02 12:24:15",
+    end: "2023-09-02 16:24:15",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-02 16:36:01",
+    end: "2023-09-02 20:36:01",
+    name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-02 16:36:30",
+    end: "2023-09-02 20:36:30",
+    name: "Bernard McCormick",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-02 16:37:05",
+    end: "2023-09-02 20:37:05",
+    name: "Calvin Bethea",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-02 16:44:56",
+    end: "2023-09-02 20:44:56",
+    name: "Aaliyiah Moye-Tati",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-02 16:46:42",
+    end: "2023-09-02 20:46:42",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-02 16:48:33",
+    end: "2023-09-02 20:48:33",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-03 15:40:08",
+    end: "2023-09-03 19:40:08",
+    name: "Scott Fox",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-03 15:41:09",
+    end: "2023-09-03 19:41:09",
+    name: "Chris Royston",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-03 15:57:04",
+    end: "2023-09-03 19:57:04",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-03 15:57:58",
+    end: "2023-09-03 19:57:58",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-03 15:59:50",
+    end: "2023-09-03 19:59:50",
+    name: "Brenda Ames",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-03 16:00:39",
+    end: "2023-09-03 20:00:39",
+    name: "Ngozi Douglas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-05 15:47:44",
+    end: "2023-09-05 19:47:44",
+    name: "Nevaeh Christy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-05 15:57:53",
+    end: "2023-09-05 19:57:53",
+    name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-05 15:58:03",
+    end: "2023-09-05 19:58:03",
+    name: "Romaine Bouldin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-05 16:00:59",
+    end: "2023-09-05 20:00:59",
+    name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-06 16:49:00",
+    end: "2023-09-06 20:49:00",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-06 16:49:37",
+    end: "2023-09-06 20:49:37",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-07 17:03:10",
+    end: "2023-09-07 21:03:10",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-07 17:03:36",
+    end: "2023-09-07 21:03:36",
+    name: "Faith Obilo",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-07 17:05:21",
+    end: "2023-09-07 21:05:21",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-08 16:54:22",
+    end: "2023-09-08 20:54:22",
+    name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-09 12:18:22",
+    end: "2023-09-09 16:18:22",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-09 15:44:15",
+    end: "2023-09-09 19:44:15",
+    name: "Chris Royston",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-09 16:47:51",
+    end: "2023-09-09 20:47:51",
+    name: "Chaz Edwards",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-09 16:51:27",
+    end: "2023-09-09 20:51:27",
+    name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-09 16:51:49",
+    end: "2023-09-09 20:51:49",
+    name: "Eli Kengmana",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-09 16:53:47",
+    end: "2023-09-09 20:53:47",
+    name: "Chaz Edwards",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-09 16:57:43",
+    end: "2023-09-09 20:57:43",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-09 17:00:24",
+    end: "2023-09-09 21:00:24",
+    name: "Tyree Reka Vinson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-10 14:55:24",
+    end: "2023-09-10 18:55:24",
+    name: "Najah White",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-10 14:56:49",
+    end: "2023-09-10 18:56:49",
+    name: "Nana Alesia Richards",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-10 14:58:30",
+    end: "2023-09-10 18:58:30",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-10 15:00:40",
+    end: "2023-09-10 19:00:40",
+    name: "Brad Burton",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-10 15:16:40",
+    end: "2023-09-10 19:16:40",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-10 15:23:34",
+    end: "2023-09-10 19:23:34",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-12 17:02:36",
+    end: "2023-09-12 21:02:36",
+    name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-12 17:02:46",
+    end: "2023-09-12 21:02:46",
+    name: "Beverly Graham",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-13 15:43:06",
+    end: "2023-09-13 19:43:06",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-13 16:38:57",
+    end: "2023-09-13 20:38:57",
+    name: "Polly Mott",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-13 16:48:17",
+    end: "2023-09-13 20:48:17",
+    name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-13 17:33:40",
+    end: "2023-09-13 21:33:40",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-13 19:43:35",
+    end: "2023-09-13 23:43:35",
+    name: "Chaz Edwards",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-13 19:46:31",
+    end: "2023-09-13 23:46:31",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-13 19:49:27",
+    end: "2023-09-13 23:49:27",
+    name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-14 16:53:15",
+    end: "2023-09-14 20:53:15",
+    name: "Temiloluwa Osunjimi",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-14 16:53:27",
+    end: "2023-09-14 20:53:27",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-15 16:57:08",
+    end: "2023-09-15 20:57:08",
+    name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-15 17:31:05",
+    end: "2023-09-15 21:31:05",
+    name: "Myra McDonald",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-15 17:32:05",
+    end: "2023-09-15 21:32:05",
+    name: "Veronica McDonald",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-16 12:25:57",
+    end: "2023-09-16 16:25:57",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-16 16:02:46",
+    end: "2023-09-16 20:02:46",
+    name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-16 16:42:12",
+    end: "2023-09-16 20:42:12",
+    name: "Waldo Alvarez",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-16 16:46:20",
+    end: "2023-09-16 20:46:20",
+    name: "Emily Mashqbeh",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-16 16:48:38",
+    end: "2023-09-16 20:48:38",
+    name: "Katherine Xiao",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-16 16:49:02",
+    end: "2023-09-16 20:49:02",
+    name: "Ifeoluwa Akinropo",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-16 16:57:57",
+    end: "2023-09-16 20:57:57",
+    name: "Tyree Reka Vinson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-16 17:00:23",
+    end: "2023-09-16 21:00:23",
+    name: "Eli Kengmana",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-17 15:09:37",
+    end: "2023-09-17 19:09:37",
+    name: "Galen Spikes",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-17 15:12:55",
+    end: "2023-09-17 19:12:55",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-17 15:13:41",
+    end: "2023-09-17 19:13:41",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-17 15:20:55",
+    end: "2023-09-17 19:20:55",
+    name: "Karas Leeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-17 15:21:07",
+    end: "2023-09-17 19:21:07",
+    name: "Karas Leeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-17 15:21:31",
+    end: "2023-09-17 19:21:31",
+    name: "Nana Alesia Richards",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-17 15:24:48",
+    end: "2023-09-17 19:24:48",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-17 15:26:50",
+    end: "2023-09-17 19:26:50",
+    name: "Virginia Peters-Rodbell",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-17 15:49:06",
+    end: "2023-09-17 19:49:06",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-17 16:06:53",
+    end: "2023-09-17 20:06:53",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-20 17:21:55",
+    end: "2023-09-20 21:21:55",
+    name: "Polly Mott",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-20 17:31:51",
+    end: "2023-09-20 21:31:51",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-20 20:48:29",
+    end: "2023-09-21 00:48:29",
+    name: "Edward Benner",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-23 12:29:08",
+    end: "2023-09-23 16:29:08",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-23 17:17:56",
+    end: "2023-09-23 21:17:56",
+    name: "Eli Kengmana",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-23 17:20:06",
+    end: "2023-09-23 21:20:06",
+    name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-23 17:20:47",
+    end: "2023-09-23 21:20:47",
+    name: "Josefina Aguilar-Pliszka",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-23 17:21:58",
+    end: "2023-09-23 21:21:58",
+    name: "Waldo Alvarez",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-23 17:22:10",
+    end: "2023-09-23 21:22:10",
+    name: "Faith Obilo",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-23 17:23:37",
+    end: "2023-09-23 21:23:37",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-23 17:23:41",
+    end: "2023-09-23 21:23:41",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-23 17:29:36",
+    end: "2023-09-23 21:29:36",
+    name: "Zachary Jackson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-23 17:31:32",
+    end: "2023-09-23 21:31:32",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-24 15:08:43",
+    end: "2023-09-24 19:08:43",
+    name: "Galen Spikes",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-24 15:29:56",
+    end: "2023-09-24 19:29:56",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-24 15:42:43",
+    end: "2023-09-24 19:42:43",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-24 15:43:21",
+    end: "2023-09-24 19:43:21",
+    name: "Najah White",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-24 15:45:07",
+    end: "2023-09-24 19:45:07",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-24 15:53:30",
+    end: "2023-09-24 19:53:30",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-27 17:23:34",
+    end: "2023-09-27 21:23:34",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-27 17:24:43",
+    end: "2023-09-27 21:24:43",
+    name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-27 18:34:23",
+    end: "2023-09-27 22:34:23",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-27 21:17:04",
+    end: "2023-09-28 01:17:04",
+    name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-27 21:21:17",
+    end: "2023-09-28 01:21:17",
+    name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-30 17:02:12",
+    end: "2023-09-30 21:02:12",
+    name: "Emily Mashqbeh",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-30 17:23:25",
+    end: "2023-09-30 21:23:25",
+    name: "Rachel Oh",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-30 17:23:35",
+    end: "2023-09-30 21:23:35",
+    name: "Katherine Xiao",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-30 17:25:04",
+    end: "2023-09-30 21:25:04",
+    name: "Sybil Subiaur",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-30 17:25:10",
+    end: "2023-09-30 21:25:10",
+    name: "Deborah Cousin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-30 17:26:12",
+    end: "2023-09-30 21:26:12",
+    name: "Zachary Jackson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-30 17:36:44",
+    end: "2023-09-30 21:36:44",
+    name: "Gustavo Velazquez",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-30 17:37:28",
+    end: "2023-09-30 21:37:28",
+    name: "Waldo Alvarez",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-09-30 17:53:23",
+    end: "2023-09-30 21:53:23",
+    name: "Eli Kengmana",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-01 15:59:28",
+    end: "2023-10-01 19:59:28",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-01 16:22:41",
+    end: "2023-10-01 20:22:41",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-01 16:23:15",
+    end: "2023-10-01 20:23:15",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-03 17:04:23",
+    end: "2023-10-03 21:04:23",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-04 15:01:54",
+    end: "2023-10-04 19:01:54",
+    name: "Bud Stracker",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-04 20:30:34",
+    end: "2023-10-05 00:30:34",
+    name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-04 20:31:44",
+    end: "2023-10-05 00:31:44",
+    name: "Chaz Edwards",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-04 20:44:51",
+    end: "2023-10-05 00:44:51",
+    name: "Sunny Choi",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-04 21:30:00",
+    end: "2023-10-05 01:30:00",
+    name: "Catherine Carey",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-05 15:56:16",
+    end: "2023-10-05 19:56:16",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-05 17:00:04",
+    end: "2023-10-05 21:00:04",
+    name: "Camille",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-06 17:02:38",
+    end: "2023-10-06 21:02:38",
+    name: "Ellen Cho",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-06 17:07:32",
+    end: "2023-10-06 21:07:32",
+    name: "Emily Zhang",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-07 16:59:03",
+    end: "2023-10-07 20:59:03",
+    name: "Emily Mashqbeh",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-07 16:59:16",
+    end: "2023-10-07 20:59:16",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-07 17:04:28",
+    end: "2023-10-07 21:04:28",
+    name: "Eli Kengmana",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-07 17:14:53",
+    end: "2023-10-07 21:14:53",
+    name: "Veronica McDonald",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-07 17:16:10",
+    end: "2023-10-07 21:16:10",
+    name: "Myra McDonald",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-07 17:16:47",
+    end: "2023-10-07 21:16:47",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-07 17:17:44",
+    end: "2023-10-07 21:17:44",
+    name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-07 17:19:21",
+    end: "2023-10-07 21:19:21",
+    name: "H Higgins-Tan",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-08 15:26:30",
+    end: "2023-10-08 19:26:30",
+    name: "Eyitayo Enitan",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-08 15:37:18",
+    end: "2023-10-08 19:37:18",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-08 15:46:29",
+    end: "2023-10-08 19:46:29",
+    name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-08 15:49:16",
+    end: "2023-10-08 19:49:16",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-08 15:49:22",
+    end: "2023-10-08 19:49:22",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-11 20:34:40",
+    end: "2023-10-12 00:34:40",
+    name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-11 20:48:14",
+    end: "2023-10-12 00:48:14",
+    name: "Vanessa Smith",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-11 20:48:37",
+    end: "2023-10-12 00:48:37",
+    name: "Sunny Choi",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-12 16:21:20",
+    end: "2023-10-12 20:21:20",
+    name: "Camille",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-12 16:22:00",
+    end: "2023-10-12 20:22:00",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-13 16:57:28",
+    end: "2023-10-13 20:57:28",
+    name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-14 16:52:06",
+    end: "2023-10-14 20:52:06",
+    name: "Faith Obilo",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-14 16:52:12",
+    end: "2023-10-14 20:52:12",
+    name: "Raphael Gadot",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-14 16:52:32",
+    end: "2023-10-14 20:52:32",
+    name: "Waldo Alvarez",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-14 16:52:44",
+    end: "2023-10-14 20:52:44",
+    name: "Katherine Xiao",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-14 16:52:45",
+    end: "2023-10-14 20:52:45",
+    name: "Zachary Jackson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-14 16:53:31",
+    end: "2023-10-14 20:53:31",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-14 16:53:49",
+    end: "2023-10-14 20:53:49",
+    name: "Eli Kengmana",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-14 18:53:36",
+    end: "2023-10-14 22:53:36",
+    name: "Gustavo Velazquez",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-15 15:44:03",
+    end: "2023-10-15 19:44:03",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-15 15:45:52",
+    end: "2023-10-15 19:45:52",
+    name: "Anisa Hamilton",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-15 15:48:51",
+    end: "2023-10-15 19:48:51",
+    name: "Nana Alesia Richards",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-15 15:49:38",
+    end: "2023-10-15 19:49:38",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-15 15:50:14",
+    end: "2023-10-15 19:50:14",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-17 16:25:59",
+    end: "2023-10-17 20:25:59",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-17 16:27:27",
+    end: "2023-10-17 20:27:27",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-17 16:29:06",
+    end: "2023-10-17 20:29:06",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-17 16:29:24",
+    end: "2023-10-17 20:29:24",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-18 17:28:39",
+    end: "2023-10-18 21:28:39",
+    name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-18 20:41:15",
+    end: "2023-10-19 00:41:15",
+    name: "Edward Benner",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-18 20:41:56",
+    end: "2023-10-19 00:41:56",
+    name: "Catherine Carey",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-18 20:46:13",
+    end: "2023-10-19 00:46:13",
+    name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-18 20:46:31",
+    end: "2023-10-19 00:46:31",
+    name: "Anne Rosenthal",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-18 20:50:40",
+    end: "2023-10-19 00:50:40",
+    name: "Sunny Choi",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-18 20:51:36",
+    end: "2023-10-19 00:51:36",
+    name: "Vanessa Smith",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-18 20:51:56",
+    end: "2023-10-19 00:51:56",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-19 16:30:06",
+    end: "2023-10-19 20:30:06",
+    name: "Mekayle Powell",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-19 16:31:21",
+    end: "2023-10-19 20:31:21",
+    name: "Dean Sharif",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-19 16:31:24",
+    end: "2023-10-19 20:31:24",
+    name: "Connie Huang",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-19 16:31:28",
+    end: "2023-10-19 20:31:28",
+    name: "Jaydan Ziglar",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-19 16:32:44",
+    end: "2023-10-19 20:32:44",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-19 16:35:29",
+    end: "2023-10-19 20:35:29",
+    name: "Dean Sharif",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-20 16:34:57",
+    end: "2023-10-20 20:34:57",
+    name: "Jaydan Ziglar",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-20 16:35:31",
+    end: "2023-10-20 20:35:31",
+    name: "Josefina Aguilar-Pliszka",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-20 16:36:15",
+    end: "2023-10-20 20:36:15",
+    name: "Nathaniel Sheps",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-21 13:19:32",
+    end: "2023-10-21 17:19:32",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-21 16:31:31",
+    end: "2023-10-21 20:31:31",
+    name: "Zachary Jackson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-21 16:38:42",
+    end: "2023-10-21 20:38:42",
+    name: "Josefina Aguilar-Pliszka",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-21 16:43:34",
+    end: "2023-10-21 20:43:34",
+    name: "Jan Kleinman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-21 16:43:55",
+    end: "2023-10-21 20:43:55",
+    name: "Nathaniel Sheps",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-21 16:44:34",
+    end: "2023-10-21 20:44:34",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-21 16:47:08",
+    end: "2023-10-21 20:47:08",
+    name: "Lauren Crouch",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-21 16:48:24",
+    end: "2023-10-21 20:48:24",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-21 16:49:49",
+    end: "2023-10-21 20:49:49",
+    name: "Eli Kengmana",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-21 16:49:52",
+    end: "2023-10-21 20:49:52",
+    name: "Tram Nguyen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-22 15:44:23",
+    end: "2023-10-22 19:44:23",
+    name: "Nana Alesia Richards",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-22 15:48:59",
+    end: "2023-10-22 19:48:59",
+    name: "Najah White",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-22 15:49:01",
+    end: "2023-10-22 19:49:01",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-22 16:04:20",
+    end: "2023-10-22 20:04:20",
+    name: "Andy Levin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-22 16:05:15",
+    end: "2023-10-22 20:05:15",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-24 16:34:22",
+    end: "2023-10-24 20:34:22",
+    name: "Mekayle Powell",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-24 16:39:58",
+    end: "2023-10-24 20:39:58",
+    name: "Darrell Grant",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-24 16:40:02",
+    end: "2023-10-24 20:40:02",
+    name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-25 18:02:03",
+    end: "2023-10-25 22:02:03",
+    name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-25 20:47:03",
+    end: "2023-10-26 00:47:03",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-25 20:49:02",
+    end: "2023-10-26 00:49:02",
+    name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-25 20:57:08",
+    end: "2023-10-26 00:57:08",
+    name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-25 21:01:57",
+    end: "2023-10-26 01:01:57",
+    name: "Sunny Choi",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-27 16:59:40",
+    end: "2023-10-27 20:59:40",
+    name: "Ellen Cho",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-27 17:05:02",
+    end: "2023-10-27 21:05:02",
+    name: "JoNathan Cousin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-28 16:15:26",
+    end: "2023-10-28 20:15:26",
+    name: "Sophia Skolnick",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-28 16:57:50",
+    end: "2023-10-28 20:57:50",
+    name: "Lauren Crouch",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-28 17:11:11",
+    end: "2023-10-28 21:11:11",
+    name: "Lauren Crouch",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-29 16:14:51",
+    end: "2023-10-29 20:14:51",
+    name: "Nana Alesia Richards",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-29 16:38:37",
+    end: "2023-10-29 20:38:37",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-29 16:40:31",
+    end: "2023-10-29 20:40:31",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-10-29 16:41:12",
+    end: "2023-10-29 20:41:12",
+    name: "Brenda Ames",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-01 16:57:38",
+    end: "2023-11-01 20:57:38",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-01 18:07:20",
+    end: "2023-11-01 22:07:20",
+    name: "Karen Moore",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-01 20:13:06",
+    end: "2023-11-02 00:13:06",
+    name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-01 20:17:09",
+    end: "2023-11-02 00:17:09",
+    name: "Vanessa Smith",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-01 20:21:35",
+    end: "2023-11-02 00:21:35",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-01 20:21:43",
+    end: "2023-11-02 00:21:43",
+    name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-02 16:06:30",
+    end: "2023-11-02 20:06:30",
+    name: "H Higgins-Tan",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-03 16:25:28",
+    end: "2023-11-03 20:25:28",
+    name: "Connie Huang",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-03 17:16:09",
+    end: "2023-11-03 21:16:09",
+    name: "Lauren Crouch",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 13:43:01",
+    end: "2023-11-04 17:43:01",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 16:37:43",
+    end: "2023-11-04 20:37:43",
+    name: "Amiee Padilla",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 16:37:44",
+    end: "2023-11-04 20:37:44",
+    name: "Zachary Jackson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 16:42:48",
+    end: "2023-11-04 20:42:48",
+    name: "Deborah Cousin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 16:43:17",
+    end: "2023-11-04 20:43:17",
+    name: "Lauren Crouch",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 16:44:18",
+    end: "2023-11-04 20:44:18",
+    name: "Daniel Jin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 16:46:13",
+    end: "2023-11-04 20:46:13",
+    name: "Shaan",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 16:46:26",
+    end: "2023-11-04 20:46:26",
+    name: "Nidhi Batra",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 16:46:36",
+    end: "2023-11-04 20:46:36",
+    name: "Raphael Gadot",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 16:50:45",
+    end: "2023-11-04 20:50:45",
+    name: "Eli Kengmana",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-04 17:06:38",
+    end: "2023-11-04 21:06:38",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:41:29",
+    end: "2023-11-05 19:41:29",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:41:57",
+    end: "2023-11-05 19:41:57",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:41:57",
+    end: "2023-11-05 19:41:57",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:42:12",
+    end: "2023-11-05 19:42:12",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:42:48",
+    end: "2023-11-05 19:42:48",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:43:50",
+    end: "2023-11-05 19:43:50",
+    name: "Anisa Hamilton",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:44:20",
+    end: "2023-11-05 19:44:20",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:49:48",
+    end: "2023-11-05 19:49:48",
+    name: "Karas Leeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:50:18",
+    end: "2023-11-05 19:50:18",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:53:24",
+    end: "2023-11-05 19:53:24",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 15:54:38",
+    end: "2023-11-05 19:54:38",
+    name: "Jamie Fleishman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 16:04:56",
+    end: "2023-11-05 20:04:56",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-05 16:06:08",
+    end: "2023-11-05 20:06:08",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-07 16:44:27",
+    end: "2023-11-07 20:44:27",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-08 16:58:26",
+    end: "2023-11-08 20:58:26",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-08 19:57:34",
+    end: "2023-11-08 23:57:34",
+    name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-08 19:58:53",
+    end: "2023-11-08 23:58:53",
+    name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-08 19:59:31",
+    end: "2023-11-08 23:59:31",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-08 20:07:09",
+    end: "2023-11-09 00:07:09",
+    name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-08 20:08:49",
+    end: "2023-11-09 00:08:49",
+    name: "Julia Nelson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-08 20:09:57",
+    end: "2023-11-09 00:09:57",
+    name: "Sunny Choi",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-09 16:30:28",
+    end: "2023-11-09 20:30:28",
+    name: "Mekayle Powell",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-10 16:16:01",
+    end: "2023-11-10 20:16:01",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-10 16:30:43",
+    end: "2023-11-10 20:30:43",
+    name: "Connie Huang",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-10 16:37:15",
+    end: "2023-11-10 20:37:15",
+    name: "Sybil Subiaur",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-10 16:37:16",
+    end: "2023-11-10 20:37:16",
+    name: "Nathaniel Sheps",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-11 12:49:48",
+    end: "2023-11-11 16:49:48",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-11 16:27:18",
+    end: "2023-11-11 20:27:18",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-11 16:27:24",
+    end: "2023-11-11 20:27:24",
+    name: "Grace Franczyk",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-11 16:31:23",
+    end: "2023-11-11 20:31:23",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-11 16:33:47",
+    end: "2023-11-11 20:33:47",
+    name: "Deborah Cousin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-12 15:01:12",
+    end: "2023-11-12 19:01:12",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-12 15:06:54",
+    end: "2023-11-12 19:06:54",
+    name: "Eyitayo Enitan",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-12 15:07:07",
+    end: "2023-11-12 19:07:07",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-12 15:07:37",
+    end: "2023-11-12 19:07:37",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-12 15:08:15",
+    end: "2023-11-12 19:08:15",
+    name: "Brenda Ames",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-12 15:15:42",
+    end: "2023-11-12 19:15:42",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-12 15:24:26",
+    end: "2023-11-12 19:24:26",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-15 20:21:42",
+    end: "2023-11-16 00:21:42",
+    name: "Anne Rosenthal",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-15 20:23:42",
+    end: "2023-11-16 00:23:42",
+    name: "Vanessa Smith",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-16 15:31:59",
+    end: "2023-11-16 19:31:59",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-17 16:12:51",
+    end: "2023-11-17 20:12:51",
+    name: "Brian Min",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-17 16:13:40",
+    end: "2023-11-17 20:13:40",
+    name: "Raphael Gadot",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-17 16:14:04",
+    end: "2023-11-17 20:14:04",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 13:00:31",
+    end: "2023-11-18 17:00:31",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:00:14",
+    end: "2023-11-18 21:00:14",
+    name: "Raphael Gadot",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:00:22",
+    end: "2023-11-18 21:00:22",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:00:23",
+    end: "2023-11-18 21:00:23",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:00:35",
+    end: "2023-11-18 21:00:35",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:00:37",
+    end: "2023-11-18 21:00:37",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:01:39",
+    end: "2023-11-18 21:01:39",
+    name: "Dylan Zhu",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:01:50",
+    end: "2023-11-18 21:01:50",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:05:42",
+    end: "2023-11-18 21:05:42",
+    name: "Kae Dennis",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:06:24",
+    end: "2023-11-18 21:06:24",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:07:43",
+    end: "2023-11-18 21:07:43",
+    name: "Lawryn Johnson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:07:45",
+    end: "2023-11-18 21:07:45",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-18 17:31:44",
+    end: "2023-11-18 21:31:44",
+    name: "Kathleen Lac",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-19 15:41:34",
+    end: "2023-11-19 19:41:34",
+    name: "Kae Dennis",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-19 15:43:05",
+    end: "2023-11-19 19:43:05",
+    name: "Lawryn Johnson",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-19 15:45:17",
+    end: "2023-11-19 19:45:17",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-19 19:08:32",
+    end: "2023-11-19 23:08:32",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-25 13:02:20",
+    end: "2023-11-25 17:02:20",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-25 16:35:08",
+    end: "2023-11-25 20:35:08",
+    name: "Amiee Padilla",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-25 16:35:54",
+    end: "2023-11-25 20:35:54",
+    name: "Miguel Velasco",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-28 16:45:26",
+    end: "2023-11-28 20:45:26",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-29 09:49:04",
+    end: "2023-11-29 13:49:04",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-29 20:18:50",
+    end: "2023-11-30 00:18:50",
+    name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-29 20:19:36",
+    end: "2023-11-30 00:19:36",
+    name: "Edward Benner",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-29 20:28:42",
+    end: "2023-11-30 00:28:42",
+    name: "Sunny Choi",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-29 20:30:23",
+    end: "2023-11-30 00:30:23",
+    name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-29 20:31:05",
+    end: "2023-11-30 00:31:05",
+    name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-29 20:31:12",
+    end: "2023-11-30 00:31:12",
+    name: "Terell Little",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-11-30 15:46:05",
+    end: "2023-11-30 19:46:05",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-02 16:25:17",
+    end: "2023-12-02 20:25:17",
+    name: "Katherine Wang",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-02 16:25:31",
+    end: "2023-12-02 20:25:31",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-02 16:25:33",
+    end: "2023-12-02 20:25:33",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-02 16:25:48",
+    end: "2023-12-02 20:25:48",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-03 15:51:25",
+    end: "2023-12-03 19:51:25",
+    name: "Timothy Chen",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-03 15:53:20",
+    end: "2023-12-03 19:53:20",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-03 15:56:59",
+    end: "2023-12-03 19:56:59",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-03 16:02:34",
+    end: "2023-12-03 20:02:34",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-03 16:10:06",
+    end: "2023-12-03 20:10:06",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-06 16:36:51",
+    end: "2023-12-06 20:36:51",
+    name: "Sara B",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-06 16:37:17",
+    end: "2023-12-06 20:37:17",
+    name: "Eric Alvarado",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-06 20:19:14",
+    end: "2023-12-07 00:19:14",
+    name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-06 20:19:25",
+    end: "2023-12-07 00:19:25",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-06 20:22:51",
+    end: "2023-12-07 00:22:51",
+    name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-06 20:23:10",
+    end: "2023-12-07 00:23:10",
+    name: "Terell Little",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-06 20:24:40",
+    end: "2023-12-07 00:24:40",
+    name: "Sunny Choi",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-07 14:31:09",
+    end: "2023-12-07 18:31:09",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-07 16:52:36",
+    end: "2023-12-07 20:52:36",
+    name: "Mekayle Powell",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-08 16:07:29",
+    end: "2023-12-08 20:07:29",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-08 16:19:26",
+    end: "2023-12-08 20:19:26",
+    name: "Daniel Jin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-08 16:19:33",
+    end: "2023-12-08 20:19:33",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-08 16:19:40",
+    end: "2023-12-08 20:19:40",
+    name: "Diego Trafton",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 10:14:40",
+    end: "2023-12-09 14:14:40",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 14:33:16",
+    end: "2023-12-09 18:33:16",
+    name: "Mekayle Powell",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 14:42:05",
+    end: "2023-12-09 18:42:05",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 14:42:08",
+    end: "2023-12-09 18:42:08",
+    name: "Eric Alvarado",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 14:42:35",
+    end: "2023-12-09 18:42:35",
+    name: "Grace Franczyk",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 14:46:55",
+    end: "2023-12-09 18:46:55",
+    name: "Akeel Carter",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 14:47:39",
+    end: "2023-12-09 18:47:39",
+    name: "Lauren Crouch",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 14:47:45",
+    end: "2023-12-09 18:47:45",
+    name: "JoAnn Benbow",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 15:31:40",
+    end: "2023-12-09 19:31:40",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 15:42:45",
+    end: "2023-12-09 19:42:45",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-09 15:50:10",
+    end: "2023-12-09 19:50:10",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-10 13:59:27",
+    end: "2023-12-10 17:59:27",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-10 15:34:48",
+    end: "2023-12-10 19:34:48",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-12 14:04:54",
+    end: "2023-12-12 18:04:54",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-13 20:12:44",
+    end: "2023-12-14 00:12:44",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-13 20:17:28",
+    end: "2023-12-14 00:17:28",
+    name: "Wyatt Ray",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-13 20:22:41",
+    end: "2023-12-14 00:22:41",
+    name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-14 15:23:53",
+    end: "2023-12-14 19:23:53",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-16 13:29:47",
+    end: "2023-12-16 17:29:47",
+    name: "Ryan Murphy",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-16 16:44:53",
+    end: "2023-12-16 20:44:53",
+    name: "Chris Royston",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-16 16:46:42",
+    end: "2023-12-16 20:46:42",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-16 16:59:24",
+    end: "2023-12-16 20:59:24",
+    name: "Lauren Crouch",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-17 14:48:27",
+    end: "2023-12-17 18:48:27",
+    name: "Jamie Fleishman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-17 16:32:00",
+    end: "2023-12-17 20:32:00",
+    name: "Zoe",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-17 16:32:43",
+    end: "2023-12-17 20:32:43",
+    name: "Will Arenas",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-17 16:33:10",
+    end: "2023-12-17 20:33:10",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-19 16:32:50",
+    end: "2023-12-19 20:32:50",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-19 16:34:47",
+    end: "2023-12-19 20:34:47",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-19 16:48:23",
+    end: "2023-12-19 20:48:23",
+    name: "Wylder Voegele",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-19 16:51:09",
+    end: "2023-12-19 20:51:09",
+    name: "Wylder Voegele",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-20 16:41:35",
+    end: "2023-12-20 20:41:35",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-20 16:54:49",
+    end: "2023-12-20 20:54:49",
+    name: "Lauren Crouch",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-20 17:00:46",
+    end: "2023-12-20 21:00:46",
+    name: "Wylder Voegele",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-20 20:11:43",
+    end: "2023-12-21 00:11:43",
+    name: "Connor Gephart",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-20 20:15:45",
+    end: "2023-12-21 00:15:45",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-20 20:15:53",
+    end: "2023-12-21 00:15:53",
+    name: "Other",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-20 20:15:59",
+    end: "2023-12-21 00:15:59",
+    name: "Adeola Sulaiman",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-20 20:17:21",
+    end: "2023-12-21 00:17:21",
+    name: "Wyatt Ray",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-20 20:18:34",
+    end: "2023-12-21 00:18:34",
+    name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-20 20:21:40",
+    end: "2023-12-21 00:21:40",
+    name: "Sunny Choi",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-22 16:32:27",
+    end: "2023-12-22 20:32:27",
+    name: "Sunita Pathik",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-22 16:38:09",
+    end: "2023-12-22 20:38:09",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-22 16:58:21",
+    end: "2023-12-22 20:58:21",
+    name: "Wylder Voegele",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-23 14:36:32",
+    end: "2023-12-23 18:36:32",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-27 20:16:36",
+    end: "2023-12-28 00:16:36",
+    name: "Aziza Frank",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-27 20:18:34",
+    end: "2023-12-28 00:18:34",
+    name: "Luke Mayhew",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-27 20:18:57",
+    end: "2023-12-28 00:18:57",
+    name: "Wyatt Ray",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-28 15:18:08",
+    end: "2023-12-28 19:18:08",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-28 16:07:20",
+    end: "2023-12-28 20:07:20",
+    name: "Shami M",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-29 16:36:50",
+    end: "2023-12-29 20:36:50",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-29 16:45:14",
+    end: "2023-12-29 20:45:14",
+    name: "Andy Levin",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-12-31 14:34:39",
+    end: "2023-12-31 18:34:39",
+    name: "Kate Weeks",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2024-01-05 15:14:59",
+    end: "2024-01-05 19:14:59",
+    name: "Beverly Pinn",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-15 00:00:00",
+    end: "2023-08-15 04:00:00",
+    name: "Marci Yankelov",
+    regularTaken: 0,
+    damagedTaken: 0,
+  },
+  {
+    start: "2023-08-15 00:00:00",
+    end: "2023-08-15 04:00:00",
+    name: "Chris Royston",
+    regularTaken: 0,
+    damagedTaken: 0,
   },
 ];
+// volunteers
